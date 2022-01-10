@@ -1,0 +1,20 @@
+{
+  "name": "essential-cardano-content",
+  "version": "0.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "repository": "git@github.com:input-output-hk/essential-cardano-content.git",
+  "author": "IOHK Web Development <webdev@iohk.io>",
+  "scripts": {
+    "lint": "remark content/ --quiet --frail"
+  },
+  "dependencies": {
+    "remark": "^14.0.2",
+    "remark-cli": "^10.0.1",
+    "remark-frontmatter": "^4.0.1",
+    "remark-lint": "^9.1.1",
+    "remark-lint-no-html": "^3.1.1",
+    "remark-preset-lint-markdown-style-guide": "^5.1.2"
+  }
+}
