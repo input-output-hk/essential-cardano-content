@@ -1,0 +1,10 @@
+# Folders
+dist
+node_modules
+.vscode
+
+# Files
+.env
+!.env.template
+.log
+.DS_Store

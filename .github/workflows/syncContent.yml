@@ -1,0 +1,14 @@
+name: sync-content
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh workflow run --repo input-output-hk/essential-cardano-application --ref main syncProductionContent.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_GITHUB_TOKEN }}
