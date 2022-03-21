@@ -9,6 +9,5 @@ image: ""
 image_text: ""
 ---
 
-## What is a cryptocurrency wallet?
 
 A cryptocurrency (blockchain) wallet is software on a mobile phone or computer that allows you to send, receive, and store cryptocurrency. On Cardano, **Daedalus or Yoroi** can be used to manage your ada holdings and delegate your stake.
