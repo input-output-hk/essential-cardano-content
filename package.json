@@ -7,7 +7,7 @@
   "repository": "git@github.com:input-output-hk/essential-cardano-content.git",
   "author": "IOHK Web Development <webdev@iohk.io>",
   "scripts": {
-    "lint": "remark content/ --quiet --frail"
+    "lint": "remark content/ --quiet"
   },
   "dependencies": {
     "remark": "^14.0.2",
