@@ -7,6 +7,5 @@ image: ""
 image_text: ""
 ---
 
-## Is ada a coin or a token?
 
 Blockchain tokens can be designed for many different purposes. Ada is a token that is designed to be used as a cryptocurrency coin.
