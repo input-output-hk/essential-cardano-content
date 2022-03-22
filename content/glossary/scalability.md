@@ -6,8 +6,8 @@ tags:
   - Basho
   - Glossary
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Scalability**: the ability of a system to handle more and more work. This is a vital property for a blockchain or it will become slower and more expensive to use. Addressing the scaling problems of earlier blockchains was a founding aim of Cardano and is the focus of the **Basho** stage of development.
+**Scalability**: the ability of a system to handle more and more work. This is a vital property for a blockchain or it will become slower and more expensive to use. Addressing the scaling problems of earlier blockchains was a founding aim of Cardano and is the focus of the [Basho](https://www.essentialcardano.io/glossary/basho) stage of development.
