@@ -6,8 +6,8 @@ tags:
   - Wallet
   - Glossary
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-[Yoroi](https://yoroi-wallet.com/#/): a **light wallet** for daily use with Cardano. Developed by **Emurgo**.
+[Yoroi](https://yoroi-wallet.com/#/): a [light wallet](https://www.essentialcardano.io/glossary/light-wallet) for daily use with Cardano. Developed by [Emurgo](https://www.essentialcardano.io/glossary/emurgo).
