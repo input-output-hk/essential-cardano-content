@@ -5,8 +5,8 @@ tags:
   - Stake pool
   - Glossary
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Stake**: every ada holder has a stake in the network that they can **delegate** to a pool from their wallet. The process is safe because no ada leaves the user’s wallet.
+**Stake**: every ada holder has a stake in the network that they can [delegate](https://www.essentialcardano.io/glossary/delegation) to a pool from their wallet. The process is safe because no ada leaves the user’s wallet.
