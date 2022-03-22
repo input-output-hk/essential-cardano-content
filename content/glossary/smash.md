@@ -5,8 +5,8 @@ tags:
   - Glossary
   - Stake pool
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**SMASH**: stake pool metadata aggregation server, which is designed to track and maintain stake pool **metadata** to ensure its validity.
+**SMASH**: stake pool metadata aggregation server, which is designed to track and maintain stake pool [metadata](https://www.essentialcardano.io/glossary/metadata) to ensure its validity.
