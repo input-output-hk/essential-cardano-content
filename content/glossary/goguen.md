@@ -5,8 +5,8 @@ tags:
   - Development
   - Smart Contracts
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Goguen**: the third phase of Cardano development that brought **smart contract** support.
+**Goguen**: the third phase of Cardano development that brought [smart contract](https://www.essentialcardano.io/glossary/smart-contracts) support.
