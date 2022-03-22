@@ -4,8 +4,8 @@ tags:
   - Djed
   - Stablecoin
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Djed**: a Cardano **stablecoin** announced in 2021 and issued by [COTI](https://coti.io/) – a crypto payments platform provider.
+[Djed](https://iohk.io/en/blog/posts/2021/08/18/djed-implementing-algorithmic-stablecoins-for-proven-price-stability/): a Cardano [stablecoin](https://www.essentialcardano.io/glossary/stablecoin) announced in 2021 and issued by [COTI](https://coti.io/) – a crypto payments platform provider.
