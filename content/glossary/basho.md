@@ -5,8 +5,8 @@ tags:
   - Cardano
   - Development
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Basho**: Cardano development phase that focuses on **scalability** and performance improvements.
+**Basho**: Cardano development phase that focuses on [scalability](https://www.essentialcardano.io/glossary/scalability) and performance improvements.
