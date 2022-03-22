@@ -7,8 +7,8 @@ tags:
   - dAppStore
   - Glossary
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Token**: a cryptographic token that represents a footprint of value defined by the community, market state, or self-governed entity. A token can be **fungible** (tradable) or **non-fungible** (unique), and act as a payment unit, reward, trading asset, or information holder.
+**Token**: a cryptographic token that represents a footprint of value defined by the community, market state, or self-governed entity. A token can be [fungible](https://www.essentialcardano.io/glossary/fungible-token) (tradable) or [non-fungible](https://www.essentialcardano.io/glossary/nft) (unique), and act as a payment unit, reward, trading asset, or information holder.
