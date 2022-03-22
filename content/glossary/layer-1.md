@@ -4,8 +4,8 @@ tags:
   - Scalability
   - blockchain
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Layer 1:** the main blockchain ledger that operates on the underlying consensus protocol. This layer includes protocol parameters that control capabilities such as **scalability** and throughput.
+**Layer 1:** the main blockchain ledger that operates on the underlying consensus protocol. This layer includes protocol parameters that control capabilities such as [scalability](https://www.essentialcardano.io/glossary/scalability) and throughput.
