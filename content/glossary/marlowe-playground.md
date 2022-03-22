@@ -4,8 +4,8 @@ tags:
   - Marlowe
   - Smart Contracts
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Marlowe Playground**: a browser-based tool for writing and testing financial smart contracts. Its purpose is to encourage developers who have no **Haskell** or Javascript experience to build financial products on Cardano.
+**Marlowe Playground**: a browser-based tool for writing and testing financial smart contracts. Its purpose is to encourage developers who have no [Haskell](https://www.essentialcardano.io/glossary/haskell) or Javascript experience to build financial products on Cardano.
