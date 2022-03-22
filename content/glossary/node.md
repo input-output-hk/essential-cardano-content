@@ -6,8 +6,8 @@ tags:
   - Stake pool operator
   - SPO
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Node**: one of the computer servers or wallets making up the Cardano network. Each node holds a copy of the blockchain ledger and connects with other participants to help maintain network operations. A **stake pool operator** runs different types of nodes: a block-producing node and several relay nodes that are connected with each other. See **networking**.
+**Node**: one of the computer servers or wallets making up the Cardano network. Each node holds a copy of the blockchain ledger and connects with other participants to help maintain network operations. A [stake pool operator](https://www.essentialcardano.io/glossary/stake-pool-operator) runs different types of nodes: a block-producing node and several relay nodes that are connected with each other. See [networking](https://www.essentialcardano.io/glossary/networking).
