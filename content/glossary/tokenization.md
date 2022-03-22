@@ -5,8 +5,8 @@ tags:
   - Non-fungible token
   - Glossary
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Tokenization**: the process of representing real-world **assets** with digital tokens.
+**Tokenization**: the process of representing real-world [assets](https://www.essentialcardano.io/glossary/asset) with digital tokens.
