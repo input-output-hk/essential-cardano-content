@@ -3,8 +3,8 @@ title: Epoch
 tags:
   - Cardano
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Epoch**: a unit of time on Cardano. An epoch lasts for 120 hours, equivalent to 432,000 **slots**.
+**Epoch**: a unit of time on Cardano. An epoch lasts for 120 hours, equivalent to 432,000 [slots](https://www.essentialcardano.io/glossary/slot).
