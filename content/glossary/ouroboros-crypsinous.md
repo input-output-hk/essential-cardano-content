@@ -5,8 +5,8 @@ tags:
   - Consensus
   - Proof of stake
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Ouroboros Crypsinous**: the Crypsinous version of **Ouroboros** aims to provide security against adaptive attacks and introduces secure encryption relying on Snarks. Crypsinous is currently not planned for deployment on Cardano.
+**Ouroboros Crypsinous**: the Crypsinous version of [Ouroboros](https://www.essentialcardano.io/glossary/ouroboros) aims to provide security against adaptive attacks and introduces secure encryption relying on Snarks. Crypsinous is currently not planned for deployment on Cardano.
