@@ -5,8 +5,8 @@ tags:
   - Consensus
   - Proof of stake
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Ouroboros Classic**: a version of **Ouroboros** deployed on Cardano in December 2017. It established the foundation for an energy-efficient, proof-of-stake consensus protocol.
+**Ouroboros Classic**: a version of [Ouroboros](https://www.essentialcardano.io/glossary/ouroboros) deployed on Cardano in December 2017. It established the foundation for an energy-efficient, proof-of-stake consensus protocol.
