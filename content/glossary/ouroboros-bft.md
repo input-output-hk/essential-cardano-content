@@ -5,8 +5,8 @@ tags:
   - Consensus
   - Proof of stake
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Ouroboros BFT**: a version of **Ouroboros** deployed in May 2020 to prepare Cardano for decentralization as part of the Shelley development phase.
+**Ouroboros BFT**: a version of [Ouroboros](https://www.essentialcardano.io/glossary/ouroboros) deployed in May 2020 to prepare Cardano for decentralization as part of the Shelley development phase.
