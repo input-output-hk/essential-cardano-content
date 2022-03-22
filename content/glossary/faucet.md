@@ -4,8 +4,8 @@ tags:
   - Faucet
   - Testnet
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Faucet**: a web-based service that provides free **tokens** for **testnets**.
+**Faucet**: a web-based service that provides free [tokens](https://www.essentialcardano.io/glossary/token) for [testnets](https://www.essentialcardano.io/glossary/testnet).
