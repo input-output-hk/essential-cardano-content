@@ -5,8 +5,8 @@ tags:
   - Governance
   - Glossary
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Voltaire**: the fifth phase of Cardano development in which **treasury** and **governance** capabilities are being delivered.
+**Voltaire**: the fifth phase of Cardano development in which [treasury](https://www.essentialcardano.io/glossary/treasury) and [governance](https://www.essentialcardano.io/glossary/governance) capabilities are being delivered.
