@@ -1,8 +1,9 @@
 ---
-title: What is an EUTXO?
+title: What is EUTXO?
 tags:
   - Programming
   - FAQ
+  - EUTXO
 url: ""
 image: ""
 image_text: ""
