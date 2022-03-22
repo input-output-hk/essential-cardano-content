@@ -5,8 +5,8 @@ tags:
   - Smart Contracts
   - DeFi
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-**Decentralized finance (DeFi)**: a blockchain-based form of finance that removes the need for intermediaries such as banks, and uses **smart contracts** to settle deals between parties.
+**Decentralized finance (DeFi)**: a blockchain-based form of finance that removes the need for intermediaries such as banks, and uses [smart contracts](https://www.essentialcardano.io/glossary/smart-contracts) to settle deals between parties.
