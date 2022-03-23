@@ -7,4 +7,4 @@ image: ""
 image_text: ""
 ---
 
-**Fee**: the amount of ada charged for processing a transaction on Cardano.
+The amount of ada charged for processing a transaction on Cardano.
