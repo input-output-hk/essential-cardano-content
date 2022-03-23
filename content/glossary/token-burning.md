@@ -7,4 +7,4 @@ image: ""
 image_text: ""
 ---
 
-**Token burning:** the process of removing tokens from circulation, which reduces the number of coins in use.
+Token burning is the process of removing tokens from circulation. This reduces the number of coins in use.
