@@ -7,4 +7,4 @@ image: ""
 image_text: ""
 ---
 
-**Ledger:** a database of blockchain records. On Cardano, more than 3,000 stake pools distributed worldwide operate and maintain this ledger.
+A database of blockchain records. On Cardano, more than 3,000 stake pools distributed worldwide operate and maintain this ledger.
