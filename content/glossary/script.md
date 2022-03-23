@@ -9,4 +9,4 @@ image: null
 image_text: null
 ---
 
-**Script**: [smart contract](https://www.essentialcardano.io/glossary/smart-contracts) conditions coded to be automatically executed on the blockchain.
+[Smart contract](https://www.essentialcardano.io/glossary/smart-contracts) conditions coded to be automatically executed on the blockchain.
