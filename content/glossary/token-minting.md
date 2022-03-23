@@ -8,4 +8,4 @@ image: ""
 image_text: ""
 ---
 
-**Token minting**: the process of creating tokens.
+Token minting is the process of creating tokens.
