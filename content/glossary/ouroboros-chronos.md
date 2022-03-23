@@ -9,4 +9,4 @@ image: null
 image_text: null
 ---
 
-**Ouroboros Chronos**: a version of [Ouroboros](https://www.essentialcardano.io/glossary/ouroboros) designed to use a system clock based on blockchain technology. This removes the potential for attacks on blockchains that rely on external time sources such as the internet’s Network Time Protocol.
+A version of [Ouroboros](https://www.essentialcardano.io/glossary/ouroboros) designed to use a system clock based on blockchain technology. This removes the potential for attacks on blockchains that rely on external time sources such as the internet’s Network Time Protocol.
