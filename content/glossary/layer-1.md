@@ -8,4 +8,4 @@ image: null
 image_text: null
 ---
 
-**Layer 1:** the main blockchain ledger that operates on the underlying consensus protocol. This layer includes protocol parameters that control capabilities such as [scalability](https://www.essentialcardano.io/glossary/scalability) and throughput.
+The main blockchain ledger that operates on the underlying consensus protocol. This layer includes protocol parameters that control capabilities such as [scalability](https://www.essentialcardano.io/glossary/scalability) and throughput.
