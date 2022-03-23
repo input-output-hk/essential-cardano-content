@@ -9,4 +9,4 @@ image: null
 image_text: null
 ---
 
-**Basho**: Cardano development phase that focuses on [scalability](https://www.essentialcardano.io/glossary/scalability) and performance improvements.
+Cardano development phase that focuses on [scalability](https://www.essentialcardano.io/glossary/scalability) and performance improvements.
