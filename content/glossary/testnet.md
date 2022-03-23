@@ -11,4 +11,4 @@ image: null
 image_text: null
 ---
 
-**Testnet**: a prototype network where users can experiment with the new features and code to provide feedback before a live [mainnet](https://www.essentialcardano.io/glossary/mainnet) launch.
+A prototype network where users can experiment with the new features and code to provide feedback before a live [mainnet](https://www.essentialcardano.io/glossary/mainnet) launch.
