@@ -9,4 +9,4 @@ image: ""
 image_text: ""
 ---
 
-**Shelley**: the second phase of Cardano development in which network decentralization was delivered in 2021.
+The second phase of Cardano development in which network decentralization was delivered in 2021.
