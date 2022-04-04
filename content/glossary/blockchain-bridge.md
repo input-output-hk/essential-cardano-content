@@ -2,6 +2,7 @@
 title: Blockchain Bridge
 tags:
   - Interoperability
+  - cross-chain
 url: ""
 image: ""
 image_text: ""
