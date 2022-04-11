@@ -1,5 +1,5 @@
 ---
-title: Weekly development report/2022-04-08
+title: Weekly development report as of 2022-04-08
 tags:
   - Development
   - Weekly development updates
