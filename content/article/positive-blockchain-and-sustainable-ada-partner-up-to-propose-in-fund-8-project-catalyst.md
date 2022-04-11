@@ -10,7 +10,7 @@ image: https://ucarecdn.com/9261949a-fa9a-4a35-aaa4-7f279a0e9d44/
 image_text: ""
 ---
 
-**Sustainable ADA and Positive Blockchain (PB) have partnered up to add to the value and impact of the PB database.**
+## Sustainable ADA and Positive Blockchain (PB) have partnered up to add to the value and impact of the PB database
 
 Together we will be mapping the Cardano projects which have positive social and environmental impacts, and co-producing blockchain4good principles to help guide our global movement, working together towards a sustainable and equitable world for all.
 
