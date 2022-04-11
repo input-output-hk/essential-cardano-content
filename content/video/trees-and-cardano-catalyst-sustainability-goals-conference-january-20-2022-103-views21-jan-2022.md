@@ -1,6 +1,6 @@
 ---
 title: Trees & Cardano - Catalyst Sustainability Goals Conference - January 20,
-  2022 103 views21 Jan 2022
+  2022 
 tags:
   - Cardano
   - cardano4climate
@@ -13,17 +13,17 @@ Catalyst Sustainability Goals - Trees & Cardano Blockchain
 
 An event hosted by Cardano4Climate, in collaboration with WADA, Catalyst Swarm, Catalyst School, Climate Neutral Cardano & YOU
 
-Date: Thursday, January 20th, 7-9 pm UTC
-
-"Forests are the lungs of our land, purifying the air and giving fresh strength to our people."
-
-― Franklin D. Roosevelt
+"Forests are the lungs of our land, purifying the air and giving fresh strength to our people." ― Franklin D. Roosevelt
 
 We ask the question: How can we use Cardano blockchain technology to support forest conservation and tree planting activities?
 
-Meeting Agenda Cardano4Climate & Cardano initiatives (Veritree, Cardano Trees, NFTSeed) Guest speaker: Rob de Laet. Rob works with the Guarajara people, who are fighting off illegal loggers to defend the forest and their uncontacted relatives in the Amazon. Cardano4Climate & Catalyst initiatives (Treedano, Littlefish Foundation) Individual Call to Action Plan
+Meeting Agenda 
 
-Breakout Rooms: (these may change) Veritree Q&A Treedano Q&A Littlefish Foundation Q&A NFTs Cardano4Climate: Catalyst & sustainability Impact of Blockchain on climate change
++ Cardano4Climate & Cardano initiatives (Veritree, Cardano Trees, NFTSeed) 
++ Guest speaker: Rob de Laet. Rob works with the Guarajara people, who are fighting off illegal loggers to defend the forest and their uncontacted relatives in the Amazon. 
++ Cardano4Climate & Catalyst initiatives (Treedano, Littlefish Foundation) 
++ Individual Call to Action Plan
++ Breakout Rooms: (these may change) Veritree Q&A, Treedano Q&A, Littlefish Foundation Q&A, NFTs, Cardano4Climate: Catalyst & sustainability Impact of Blockchain on climate change
 
 As you find your way in the world, come join us for two hours on one of the paths to solving humanity’s greatest challenge, Climate Change.
 
