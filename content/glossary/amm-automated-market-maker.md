@@ -1,11 +1,12 @@
 ---
 title: AMM (Automated Market Maker)
 tags:
-  - dex
-  - amm
+  - DEX
+  - AMM
 url: ""
 image: ""
 image_text: ""
 ---
 
-An Automated Market Maker, AMM, is an algorithmic way to facilitate swaps on a [DEX](https://www.essentialcardano.io/glossary/dex). Some users, called liquidity providers, provide liquidity to different "pools" of assets on a DEX and users who want to swap their tokens do so in these liquidity pools. Liquidity providers earn a share of the transaction fees paid by the swappers.
+An Automated Market Maker, AMM, is an algorithmic way to provide liquidity between trading pairs on a [DEX](https://www.essentialcardano.io/glossary/dex). A trading pair is a match between Alice, who wants to sell her bitcoin, and Bob, who wants to buy it, for example. AMMs are decentralized and depend on the [liquidity provided by their users](https://www.essentialcardano.io/glossary/liquidity-mining).
+
