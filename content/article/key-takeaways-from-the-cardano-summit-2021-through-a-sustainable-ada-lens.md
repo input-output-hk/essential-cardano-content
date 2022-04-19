@@ -1,5 +1,5 @@
 ---
-title: Key Takeaways from the Cardano Summit 2021 through a Sustainable ADA Lens
+title: Key takeaways from the Cardano Summit 2021 through a Sustainable ADA Lens
 tags:
   - Sustainability
   - SustainableADA
@@ -9,9 +9,9 @@ image: https://ucarecdn.com/012370de-db9b-41d3-aaa0-f7538a7cc56e/
 image_text: ""
 ---
 
-> **“\_You made me believe in people again…You made me believe that there are no problems we cannot solve and no mountains we cannot scale\_”** - Cardano Founder, Charles Hoskinson.
+> **“_You made me believe in people again…You made me believe that there are no problems we cannot solve and no mountains we cannot scale_”** - Cardano Founder, Charles Hoskinson.
 
-Together Cole Bartlett and Razali Samsudin make up [the founding team of Sustainable ADA](https://www.sustainableada.com/about-1). Cole had the privilege of representing Sustainable ADA at the Cardano Summit 2021 Wyoming meetup.
+Together Cole Bartlett and Razali Samsudin make up [the founding team of Sustainable ADA](https://www.sustainableada.com/about-us). Cole had the privilege of representing Sustainable ADA at the Cardano Summit 2021 Wyoming meetup.
 
 Cole shares his thoughts below, having spent the day with legends in the Cardano community such as James Dunseith, Co-Founder of Gimbalabs, shown below standing on the right.
 
@@ -29,7 +29,7 @@ Cole shares his thoughts below, having spent the day with legends in the Cardano
 
 **Sustainable ADA is the only project connecting the dots in the Cardano ecosystem and beyond by bringing sustainable news media and insights into projects that are having and seeking to build a better world for all.**
 
-**Learn More:**
+**Learn more:**
 
 Website: [https://www.sustainableada.com](https://www.sustainableada.com)
 
