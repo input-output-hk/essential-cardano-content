@@ -9,7 +9,7 @@ image: https://ucarecdn.com/012370de-db9b-41d3-aaa0-f7538a7cc56e/
 image_text: ""
 ---
 
-> **“_You made me believe in people again…You made me believe that there are no problems we cannot solve and no mountains we cannot scale_”** \- Cardano Founder, Charles Hoskinson.
+> **“\_You made me believe in people again…You made me believe that there are no problems we cannot solve and no mountains we cannot scale\_”** - Cardano Founder, Charles Hoskinson.
 
 Together Cole Bartlett and Razali Samsudin make up [the founding team of Sustainable ADA](https://www.sustainableada.com/about-1). Cole had the privilege of representing Sustainable ADA at the Cardano Summit 2021 Wyoming meetup.
 
@@ -28,3 +28,13 @@ Cole shares his thoughts below, having spent the day with legends in the Cardano
 > **_To solidify this amazing moment he gave me a huge fist bump.”_**![](https://static.wixstatic.com/media/e48283_3f76ea2bcf8e4acf9c4d81774985320f~mv2.jpg/v1/fill/w_1480,h_1012,al_c,q_90/e48283_3f76ea2bcf8e4acf9c4d81774985320f~mv2.webp)
 
 **Sustainable ADA is the only project connecting the dots in the Cardano ecosystem and beyond by bringing sustainable news media and insights into projects that are having and seeking to build a better world for all.**
+
+**Learn More:**
+
+Website: [https://www.sustainableada.com](https://www.sustainableada.com)
+
+Twitter: [https://twitter.com/SustainableADA](https://twitter.com/SustainableADA)
+
+Linkedin: [https://www.linkedin.com/company/sustainableada](https://www.linkedin.com/company/sustainableada)
+
+Instagram: [https://www.instagram.com/sustainableada/](https://www.instagram.com/sustainableada/)
