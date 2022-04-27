@@ -1,7 +1,6 @@
 ---
 title: Account-based model
 tags:
-  - Development
   - Transaction
 url: ""
 image: ""
