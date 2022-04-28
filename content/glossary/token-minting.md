@@ -4,8 +4,8 @@ tags:
   - Token Minting
   - Glossary
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-Token minting is the process of creating tokens.
+The process of creating tokens.
