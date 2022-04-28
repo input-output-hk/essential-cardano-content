@@ -5,8 +5,8 @@ tags:
   - Light wallet
   - Cryptocurrency wallet
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-A cryptocurrency wallet that does not need to download the full history of blockchain records. Instead, the wallet links into a website where the full blockchain is accessed. This makes a light wallet faster and easier to use. Examples include [Yoroi](https://yoroi-wallet.com/#/) or [Nami](https://namiwallet.io/), for instance.
+A cryptocurrency wallet that does not need to download the full history of blockchain records. Instead, the wallet links into a website where the full blockchain is accessed. This makes a light wallet faster and easier to use.
