@@ -1,5 +1,5 @@
 ---
-title: Initial stake pool offering (ISPO)
+title: "ISPO: initial stake pool offering"
 tags:
   - DApp
   - Delegation
