@@ -22,7 +22,7 @@ Bridges, sidechains, and the AGIX ERC20 converter are providing solutions for Ca
 
 **Article**:
 
-Cardano is steadily expanding a broad community of developers and blockchain enthusiasts. According to [Cardano blockchain insights](https://datastudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc), there are over 4,5 million native tokens, over 5 thousand unique tokens (NFTs), and [more than 900 projects building on Cardano](https://www.linkedin.com/posts/timbharrison_cardano-activity-6925389231104143360-D7QX?utm_source=linkedin_share&utm_medium=member_desktop_web) to date.
+Cardano is steadily expanding a broad community of developers and blockchain enthusiasts. According to [Cardano blockchain insights](https://datastudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc), there are over 4.5 million native tokens, over 5 thousand NFT projects, and [more than 900 projects overall building on Cardano](https://www.linkedin.com/posts/timbharrison_cardano-activity-6925389231104143360-D7QX?utm_source=linkedin_share&utm_medium=member_desktop_web) to date.
 
 To support this growth, the community is now working on Cardano's wider adoption. The ability to work with other blockchains – interoperability – is key to this.
 
