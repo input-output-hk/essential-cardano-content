@@ -5,8 +5,8 @@ tags:
   - Fees
   - Transaction
 url: ""
-image: ""
-image_text: ""
+image: https://ucarecdn.com/7f4a6f09-d7be-4e4f-91fb-49f49e194bc2/
+image_text: A picture of a road with car lights on both sides of the road
 ---
 
 **Original author:**
