@@ -4,9 +4,8 @@ tags:
   - Staking
   - Wallet
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
-
-The best way to stake ada is by using Daedalus or Yoroi wallets. You can choose Exodus, Adalite, Nami, or any other wallet but note that some of them won't let you choose the pool you want. This means that you will be able to delegate your ada only to the pool that supports a certain wallet. Some of these pools can have pretty expensive fees.
+You can stake your ada by using Daedalus or Yoroi wallets, products created by founding entities IOG and Emurgo respectively. You can also choose from a growing range of other wallets, including Gero, Exodus, Adalite, Typhon, Eternl, Nami and more. Hardware wallets Ledger and Trezor can also be used. Note that some of them won't let you choose the pool you want. This means that you will be able to delegate your ada only to the pool that supports a certain wallet.
