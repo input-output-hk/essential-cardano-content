@@ -12,22 +12,19 @@ You can stake your ADA by using Daedalus or Yoroi wallets, products created by f
 
 You can also choose from a growing range of other wallets, including:
 
-<`ul`\>
 
-<li>[Flint](https://flint-wallet.com)</li>
++ [Flint](https://flint-wallet.com/)
 
-<li>Nami</li>
++ Nami
 
-<li>Gero</li>
++ Gero
 
-<li>Exodus</li>
++ Exodus
 
-<li>Adalite</li>
++ Adalite
 
-<li>Typhon</li>
++ Typhon
 
-<li>Eternl</li>
-
-</ul>
++ Eternl
 
 Hardware wallets Ledger and Trezor can also be used. Note that some of them won't let you choose the pool you want. This means that you will be able to delegate your ada only to the pool that supports a certain wallet.
