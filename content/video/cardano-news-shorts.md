@@ -11,4 +11,4 @@ image: ""
 image_text: ""
 ---
 
-Hi, this is a yt shorts with cardano news that happend the last few days. I upload a video every few days, depends on the news. You also find me on twitter: S-Cap-ADA. ☺️
+This is a YouTube shorts featuring Cardano news that happend over the last few days. A video is uploaded every few days, depending on the news. You can also find me on twitter: S-Cap-ADA. ☺️
