@@ -5,8 +5,8 @@ tags:
   - Weekly development updates
   - Statistics
 url: ""
-image: ""
-image_text: ""
+image: null
+image_text: null
 ---
 
 ### CORE TECHNOLOGY
@@ -17,7 +17,7 @@ The **DevOps** team worked on a Genesis generator that creates Byron and Shelley
 
 The **networking** team continued working on diffusion tests, typed-protocols refactorization, and resolved some test suite performance issues. They are now in the process of enabling dynamic block production and re-deploying eight nodes on the testnet to enable 50 new SPOs to join the testnet for evaluation and feedback purposes.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Daedalus** team started running regression tests for the upcoming Daedalus v.4.10.0 and made compatibility adjustments for the new cardano-wallet API. The team made progress in creating the base boilerplate for the new desktop-wallet, which allows reusing most of the existing UI components from the light-wallet-browser-extension.
 
@@ -56,7 +56,7 @@ More information about the program can be found on its [website](https://seedsta
 
 ### STATISTICS TO DATE
 
-![](https://lh5.googleusercontent.com/jOF97aYecUfKFrp8bqOWNmSSBut7G1NKUaKz8Hv39fNXyinJwH6nloffeDIvku4LNgETQoF95m42vUU52HM4PZUJmve-MZHseSPp2WVEcz0bmszQuS9a6UfgEngNSHyR3OJPphunZ9LXDb-sLw)
+![](https://ucarecdn.com/f8a602b4-c2da-402f-857f-d899b663cd8f/-/preview/-/format/auto/-/quality/smart/)
 
 ### 週刊開発レポート　2022年05月06日
 
@@ -68,7 +68,7 @@ More information about the program can be found on its [website](https://seedsta
 
 **ネットワーキング**チームは、拡散テスト、型付きプロトコルのリファクタリングの作業を続け、テストスイートのパフォーマンスの不具合を解消しました。現在、動的ブロック生成の有効化する作業、また、50の新たなSPOが評価とフィードバックのためにテストネットに参加できるようにするため、8ノードをテストネットに再デプロイする作業を進めています。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Daedalus**チームは、予定されているDaedalus v.4.10.0の回帰テストを始め、新しいcardano-wallet APIの互換調整を行いました。また、主にlight-wallet-browser-extensionの既存UIコンポーネントを再利用するかたちで、新しいデスクトップウォレットのベースボイラー版の作成を進めました。
 
