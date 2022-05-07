@@ -15,7 +15,7 @@ The Open Source Cardano Lottery is a smart contract lottery built using plutus f
 
 The repo has lots of code examples that work on the testnet. In particular some key areas of interest may be:
 
-*   a pseudo on chain random number validator
+*   an onchain pseudo random number validator
     
 *   a PAB created from bash shell scripts
     
