@@ -1,8 +1,9 @@
 ---
-title: How to run Cardano Node on Windows
+title: How to run a Cardano Node on Windows
 tags:
   - Node
   - Windows
+  - Cardano
 url: https://youtu.be/n9H0eqGpd4Y
 image: ""
 image_text: ""
