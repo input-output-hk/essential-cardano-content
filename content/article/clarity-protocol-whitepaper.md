@@ -1,5 +1,5 @@
 ---
-title: Clarity Protocol White Paper
+title: The Clarity Protocol whitepaper
 tags:
   - Decentralization
   - DeFi
@@ -23,7 +23,7 @@ Version 1.1
 
 February 2022
 
-**Abstract**
+## Abstract
 
 We believe human prosperity will be decided at the intersection of cutting edge technology, transparency, and human collaboration. Our mission is to make equitable global financial and governance systems more accessible. To take steps toward this vision and mission, we are building the Clarity Protocol. 
 
@@ -43,7 +43,7 @@ This paper discusses the Clarity Protocol, the technical aspects behind it, and 
 
 [4\. Why Cardano? 6](https://docs.google.com/document/d/1y4EUO7d6A58Pohao-V2rH1T0gnrYfE3XCbU66g6-lU0/edit#heading=h.wlvnnp92jnx2)
 
-[5\. eUTxO and Plutus 6](https://docs.google.com/document/d/1y4EUO7d6A58Pohao-V2rH1T0gnrYfE3XCbU66g6-lU0/edit#heading=h.8vl9m6rbwj3b)
+[5\. EUTxO and Plutus 6](https://docs.google.com/document/d/1y4EUO7d6A58Pohao-V2rH1T0gnrYfE3XCbU66g6-lU0/edit#heading=h.8vl9m6rbwj3b)
 
 [4.1 Smart Contracts 6](https://docs.google.com/document/d/1y4EUO7d6A58Pohao-V2rH1T0gnrYfE3XCbU66g6-lU0/edit#heading=h.9d1irrvaifcr)
 
@@ -59,15 +59,15 @@ This paper discusses the Clarity Protocol, the technical aspects behind it, and 
 
 [5\. Conclusion 10](https://docs.google.com/document/d/1y4EUO7d6A58Pohao-V2rH1T0gnrYfE3XCbU66g6-lU0/edit#heading=h.2norey76s6vi)
 
-### **1\. Introduction**
+## 1. Introduction
 
-We want to provide the Cardano ecosystem with a trustworthy, simple, and cost effective way to create, manage, and govern decentralized autonomous organizations (DAOs). Clarity is a Dapp enabled protocol that lets anyone create, manage, and govern any type of organization on the Cardano Blockchain.
+We want to provide the Cardano ecosystem with a trustworthy, simple, and cost effective way to create, manage, and govern decentralized autonomous organizations (DAOs). Clarity is a DApp enabled protocol that lets anyone create, manage, and govern any type of organization on the Cardano Blockchain.
 
 Clarity provides the building blocks to form decentralized organizations in the form of streamlined DAO creation, robust treasury management, and end to end proposal execution. The governance structures of organizations built on Clarity are malleable and flexible through the ability to change and enhance the governance protocols as innovations in DAO infrastructure become accessible.  
 
 Moreover, the Clarity protocol rewards structure financially incentivizes widespread collaboration and sharing across the Cardano ecosystem.
 
-### **2\. Clarity Protocol Overview**
+## 2. Clarity Protocol Overview
 
 The Clarity Protocol will be the first Decentralized autonomous organization on the Cardano blockchain whose goal is to act as a platform that facilitates organizations, entrepreneurs, communities, companies, and investors to operate in a transparent, efficient, and friendly manner.
 
@@ -90,7 +90,7 @@ The main services of the Clarity Protocol:
 
 As DAOs continue to gain traction and their utility is realized across industries and verticals, the Clarity protocol will provide the next generation of companies with the tools they need to get their DAO off the ground.
 
-### **3\. $CLARITY, The Clarity Protocol Token**
+## 3. $CLARITY, The Clarity Protocol Token
 
 $CLARITY will serve as a utility and governance token, governing the Clarity protocol. The Clarity ecosystem will reward holders with fees derived from protocol usage.  Holders of this token will be able to:
 
@@ -115,10 +115,10 @@ Clarity Treasury
 
 Staking Rewards
 
-3.  Holders of $CLARITY are incentivized to stake their assets to receive rewards directly from fees derived from protocol usage. Clarity platform-generated fees are collected and distributed to token holders in ADA. Rewards are distributed proportionally to the amount of $CLARITY each user holds. 
+3.  Holders of $CLARITY are incentivized to stake their assets to receive rewards directly from fees derived from protocol usage. Clarity platform-generated fees are collected and distributed to token holders in ada. Rewards are distributed proportionally to the amount of $CLARITY each user holds. 
     
 
-### **4\. Why Cardano?**
+## 4. Why Cardano?
 
 *   DAO tooling does not yet exist on Cardano which helps make us a non-consensus high upside solution. We will bring to market a product that the Cardano community is actively looking for.
     
@@ -131,11 +131,11 @@ Staking Rewards
 *   Smart Contracts executed on Cardano are formally verifiable. 
     
 
-### **5\. eUTxO and Plutus**
+## 5. EUTxO and Plutus
 
-#### _4.1 Smart Contracts_
+### 5.1 Smart Contracts
 
-The functionality of smart contracts on Cardano’s eUTxO model are encompassed by two different scopes:
+The functionality of smart contracts on Cardano’s EUTxO model are encompassed by two different scopes:
 
 *   On-Chain: A set of Plutus scripts run by nodes during transaction validation. These verify a transaction constructed Off-Chain.
     
@@ -151,7 +151,7 @@ Smart contracts deployed on the Cardano blockchain are written in the programmin
 
 Both of these scopes can be provided to the user in a secure, decentralized way, which keeps the user in control of their data, and allows for protocols to be extended and integrated together.
 
-#### _4.2 Technical Considerations_
+### 5.2 Technical Considerations
 
 The Clarity Smart Contracts will include the following On-Chain structures:
 
@@ -164,15 +164,15 @@ The Clarity Smart Contracts will include the following On-Chain structures:
 *   Treasury Template Contract - fund management for DAOs
     
 
-#### _4.3 Extensibility_
+### 5.3 Extensibility
 
-Clarity smart contracts are built by design to be extensible. This mechanism would allow a dApp developer to implement voting and rewards systems that integrate directly with their custom protocol. This allows many protocols to begin DAO operation before launching the protocol, without needing to change once the protocol goes live. This can include direct interaction with a live protocol such as setting interest rates in a Defi application using DAO voting procedures.
+Clarity smart contracts are built by design to be extensible. This mechanism would allow a DApp developer to implement voting and rewards systems that integrate directly with their custom protocol. This allows many protocols to begin DAO operation before launching the protocol, without needing to change once the protocol goes live. This can include direct interaction with a live protocol such as setting interest rates in a DeFi application using DAO voting procedures.
 
 Additionally, this would allow developers to post plug-in contracts that integrate with the DAO Template contracts to continually extend its feature set.
 
 The goal of this protocol is to be a community driven, self-evolving library of smart contracts that serves the needs of the community, and to push the boundaries of innovation within the DAO tooling landscape.
 
-#### _4.4 Technical Challenges in the Cardano Ecosystem_
+### 5.4 Technical Challenges in the Cardano Ecosystem
 
 The Cardano Ecosystem, like many blockchain ecosystems, is facing a number of challenges:
 
@@ -195,11 +195,11 @@ _PAB Development:_ MLabs has developed a utility library for constructing smart 
 
 _Developer Availability:_ MLabs has partnered with Clear Contracts and has a vested interest in both the short and long term success of the protocol. MLabs has more than 100 smart contract engineers, many of whom boast Haskell and Plutus experience. This provides Clarity with unparalleled access to strong developer resources now and into the future.
 
-#### _4.5 Protocol Logic_
+### 5.5 Protocol Logic
 
 ![](https://lh3.googleusercontent.com/yz9tFCP58Quwn_b0oyxiAShnUANnD-v5RvfU4Hae62hv4Ygx1q-7c6k8NEks0Ocidf3UAGApJMnbCzNa8xAW_qsdBxMrtsmGP-g7MgT8fH8dSWVU09LVu4E4D2xc8vLdvCoSvEyTJVQ5pEyIVA)
 
-#### _4.6 Future Features_
+### 5.6 Future Features
 
 Clarity is being built to accommodate the following features on chain in a version 2 release: 
 
@@ -216,6 +216,6 @@ Clarity is being built to accommodate the following features on chain in a versi
 *   Dispute Resolution optimizations
     
 
-### **5\. Conclusion**
+## 6. Conclusion
 
-The Clarity protocol is the first DAO tooling of its kind available on the Cardano blockchain. By creating a smart contract library for DAO tooling, the Clarity protocol creates a set of incentives that prioritizes collaboration over competition in the Cardano ecosystem. This fundamental innovation to how knowledge can be shared for profit in Cardano can easily be applied to other domains beyond DAOs, including defi, dapps, dcompanies, and beyond.
+The Clarity protocol is the first DAO tooling of its kind available on the Cardano blockchain. By creating a smart contract library for DAO tooling, the Clarity protocol creates a set of incentives that prioritizes collaboration over competition in the Cardano ecosystem. This fundamental innovation to how knowledge can be shared for profit in Cardano can easily be applied to other domains beyond DAOs, including DeFi, DApps, DCompanies, and beyond.
