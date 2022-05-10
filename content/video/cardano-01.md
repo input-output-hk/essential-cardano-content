@@ -1,5 +1,5 @@
 ---
-title: "ゆっくりCardanoチャンネル #01"
+title: ゆっくりCardanoチャンネル #01
 tags:
   - Japanese
   - education
