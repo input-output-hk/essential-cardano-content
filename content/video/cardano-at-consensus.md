@@ -12,7 +12,7 @@ Consensus continues to be one of the largest and most sought after events in our
 
 This year, Cardano will be there!
 
-We want to showcase our growth story to Consensus’ 15,000 attendees… and to the world. In addition to the Consensus show floor itself June 9th – June 12th, the Cardano Foundation and IO plan to start with an exclusive Cardano Community evening ahead of the main event.
+We want to showcase our growth story to Consensus’ 15,000 attendees and to the world. In addition to the Consensus show floor itself June 9th – June 12th, the Cardano Foundation and IO plan to start with an exclusive Cardano Community evening ahead of the main event.
 
 Hosted at the famous Palmer Center.
 
