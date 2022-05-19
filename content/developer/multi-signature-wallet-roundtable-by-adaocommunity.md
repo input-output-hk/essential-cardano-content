@@ -1,8 +1,8 @@
 ---
-title: Multi-signature wallet RoundTable by ADAOCommunity
+title: RoundTable wallet by ADAOCommunity
 tags:
   - ada
-  - Light wallet
+  - light wallet
   - Cardano
   - Open Source
 url: https://roundtable.theadao.io
@@ -10,4 +10,4 @@ image: ""
 image_text: ""
 ---
 
-RoundTable is multisig wallet in web interface, with \*voluntary\* signature coordination using network of [gun.js](//gun.js) peers, released open-source by [@ADAOcommunity](https://github.com/ADAOcommunity)
+A multisig wallet in web interface, with \*voluntary\* signature coordination using network of [gun.js](//gun.js) peers, released open-source by [@ADAOcommunity](https://github.com/ADAOcommunity).
