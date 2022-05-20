@@ -1,5 +1,5 @@
 ---
-title: Liquid democracy
+title: Liquid staking
 tags:
   - Delegation
   - Staking
