@@ -47,7 +47,7 @@ In the meantime, the team are busy onboarding the hundreds of successful Fund8 p
 
 ![](https://lh6.googleusercontent.com/Oj5YpaqdtVeVokE7MVWLmCjKabZqtk_xePqWrDChDloeb7BIi3i74pbzKxryp_QUVkjIp8E2TN6SruMlK3haBjlnD-BDMBvLEOAMZfyHO9h6XGzEmzms4gdKKQRgK1cZ0DSVeFB0gIWXQIUhxg)
 
-週刊開発レポート　2022年05月20日
+### 週刊開発レポート　2022年05月20日
 
 ### コアテクノロジー
 
