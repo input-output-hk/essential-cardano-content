@@ -29,7 +29,7 @@ Finally, the team continues working on technical debt, and adding multisig featu
 
 ### SMART CONTRACTS
 
-This week, the **Plutus** team added a new definition \`[Plutus.ChainIndex.App](Plutus.ChainIndex.App) (runMainWithLog)\` to the chain index that allows it to run with different functions to process startup logs. They also made optimizations to the 'MakeKnownM' builtin.
+This week, the **Plutus** team added a new definition `Plutus.ChainIndex.App (runMainWithLog)` to the chain index that allows it to run with different functions to process startup logs. They also made optimizations to the `MakeKnownM` builtin.
 
 The **Marlowe** team improved the approximation of transaction fees and the duration and display of error messages in Marlowe Run. They also set up Sentry integration and fixed some mock-chain testing issues. Within the Marlowe Playground, they fixed issues that prevented the oracle prototype from working and updated the tutorials and labels for time parameters in the metadata. 
 
@@ -67,7 +67,7 @@ cardano-js-sdk MVPを仕上げ、db-syncに構築した新しいシンプルなH
 
 ### スマートコントラクト
 
-**Plutus**チームは、チェーンインデックスに新たな定義\`[Plutus.ChainIndex.App](Plutus.ChainIndex.App) (runMainWithLog)\`を追加しました。これにより、さまざまな関数を実行して起動ログを処理できるようになります。また、'MakeKnownM'ビルトインを最適化しました。
+**Plutus**チームは、チェーンインデックスに新たな定義\Plutus.ChainIndex.App (runMainWithLog)を追加しました。これにより、さまざまな関数を実行して起動ログを処理できるようになります。また、MakeKnownMビルトインを最適化しました。
 
 **Marlowe**チームは、Marlowe Runのトランザクション手数料の概算と、エラーメッセージの期間と表示を改良しました。Sentryの統合をセットアップし、模擬チェーンのテストの不具合を修正しました。Marlowe Playgroundでは、Oracleプロトタイプが機能しないという不具合を修正し、メタデータのタイムパラメーターのチュートリアルとラベルを更新しました。 
 
