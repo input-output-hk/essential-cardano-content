@@ -39,7 +39,7 @@ This week, the **Hydra** team continued working on the contestation validator an
 
 ### GOVERNANCE
 
-After [announcing the winners](https://drive.google.com/file/d/1s3jCE7pmoUujy3ASMia-UhFl2KLi_hnf/view) from Fund8, **Project Catalyst** is moving fast towards the start of Fund9. At the Catalyst Townhall, the team together with Charles Hoskinson announced the launch of Fund9 on June 1st. Users are welcome to [register their interest here](https://bit.ly/3rCicSR). With $16M ada available for grants and ecosystem rewards, Project Catalyst is expecting over 1,000 proposals - building on Cardano has never been livelier.
+After [announcing the winners](https://drive.google.com/file/d/1s3jCE7pmoUujy3ASMia-UhFl2KLi_hnf/view) from Fund8, **Project Catalyst** is moving fast towards the start of Fund9. At the Catalyst Townhall, the team announced the launch of Fund9 on June 1st. Users are welcome to [register their interest here](https://bit.ly/3rCicSR). With $16M ada available for grants and ecosystem rewards, Project Catalyst is expecting over 1,000 proposals - building on Cardano has never been livelier.
 
 In the meantime, the team are busy onboarding the hundreds of successful Fund8 projects. 
 
