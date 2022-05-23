@@ -17,7 +17,7 @@ The **DevOps** team performed automation tasks to simplify the creation of new C
 
 The **networking** team continued working on the typed-protocols refactoring, had a final code review session, and resolved relevant issues. They also started working on the networking tooling for node deployment to ensure robust management of eight machines that run 16 nodes worldwide. Finally, they are now working with approximately 70 SPOs on the P2P public testnet.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 The **Daedalus** team migrated the Daedalus module bundler from Webpack 4 to Webpack 5. They also created a special Daedalus version for the Marlowe Pioneers program and resolved some issues related to hardware wallet functionality.
 
@@ -55,7 +55,7 @@ In the meantime, the team are busy onboarding the hundreds of successful Fund8 p
 
 **ネットワーキング**チームは型付きプロトコルのリファクタリング作業を続け、最終コードレビューセッションを行い、関連する不具合を解消しました。世界各地の16のノードを実行する8台のマシンを確実に管理する、ノードデプロイ用ネットワーキングツールにも着手しました。その他、現在P2Pパブリックテストネットでおよそ70のSPOと協力しています。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Daedalus**チームはDaedalusモジュールバンドラーをWebpack 4からWebpack 5へ移行しました。Marloweパイオニアプログラム向けにDaedalus特別版を作成したほか、ハードウェアウォレットの機能に関する不具合を解消しました。
 
@@ -67,7 +67,7 @@ cardano-js-sdk MVPを仕上げ、db-syncに構築した新しいシンプルなH
 
 ### スマートコントラクト
 
-**Plutus**チームは、チェーンインデックスに新たな定義\Plutus.ChainIndex.App (runMainWithLog)を追加しました。これにより、さまざまな関数を実行して起動ログを処理できるようになります。また、MakeKnownMビルトインを最適化しました。
+**Plutus**チームは、チェーンインデックスに新たな定義\\Plutus.ChainIndex.App (runMainWithLog)を追加しました。これにより、さまざまな関数を実行して起動ログを処理できるようになります。また、MakeKnownMビルトインを最適化しました。
 
 **Marlowe**チームは、Marlowe Runのトランザクション手数料の概算と、エラーメッセージの期間と表示を改良しました。Sentryの統合をセットアップし、模擬チェーンのテストの不具合を修正しました。Marlowe Playgroundでは、Oracleプロトタイプが機能しないという不具合を修正し、メタデータのタイムパラメーターのチュートリアルとラベルを更新しました。 
 
@@ -77,7 +77,7 @@ cardano-js-sdk MVPを仕上げ、db-syncに構築した新しいシンプルなH
 
 ### ガバナンス
 
-**Project Catalyst** はFund8の[勝者発表](https://drive.google.com/file/d/1s3jCE7pmoUujy3ASMia-UhFl2KLi_hnf/view)を終えたあと、早速Fund9に向けて動いています。Catalyst Townhallで、チームはCharles Hoskinsonとともに6月1日のFund9開始を発表しました。現在ユーザーの登録を[こちら](https://bit.ly/3rCicSR)で受け付けています。1600万米ドル相当のADAが交付金およびエコシステムへの報酬として用意されており、1,000を超える提案が期待される今、Cardanoでの構築はかつてないほど活発になっています。
+**Project Catalyst** はFund8の[勝者発表](https://drive.google.com/file/d/1s3jCE7pmoUujy3ASMia-UhFl2KLi_hnf/view)を終えたあと、早速Fund9に向けて動いています。Catalyst Townhallでは、Fund9が6月1日に開始されることを発表しました。現在ユーザーの登録を[こちら](https://bit.ly/3rCicSR)で受け付けています。1600万米ドル相当のADAが交付金およびエコシステムへの報酬として用意されており、1,000を超える提案が期待される今、Cardanoでの構築はかつてないほど活発になっています。
 
 数百のFund8プロジェクトのオンボーディングにも追われました。 
 
