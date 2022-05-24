@@ -3,7 +3,7 @@ title: Blockchain technology explained and what it could mean for the Caribbean
 tags:
   - blockchain
 url: ""
-image: https://blogs.iadb.org/caribbean-dev-trends/wp-content/uploads/sites/34/2017/12/Blockchain1.jpg
+image: https://ucarecdn.com/6c4d91e5-69f8-4bb8-9e26-db95f3be3d41/
 image_text: "Blockchain Technology Explained "
 ---
 
@@ -40,7 +40,7 @@ These properties allow developers to elaborate applications for a number of diff
 
 #### Actual and Potential Applications
 
-*   _Financial Services_
+\*   _Financial Services_
 
 Bitcoin is the first and most prominent application of blockchain technology as an e-payment system. Bitcon was created in January 2009 by Satoshi Nakamoto as a digital currency independent of any central authority, transferable electronically, and with very low transaction costs. A stable and widely accepted cryptocurrency stands to revolutionize e-commerce, money transfers, and even letters of credit. Cryptocurrency poses a challenge to traditional banking. Besides Bitcoin there are other cryptocurrencies such as Litecoin, Ethereum, Ripple, Peercoin, Namecoin, and others. To date, the value of cryptocurrencies have fluctuated widely as they struggle to gain widespread use. Nonetheless, the top ten cryptocurrences have a market capitalization of US$98.8 billion as of June 2017 but this amount is still a miniscule value of the total value of financial assets worldwide.
 
@@ -56,6 +56,7 @@ Identity theft is emerging as a bane of the digital age. Currently taking precau
 
 *   _Digital Voting_
     
+
 Two of the biggest hurdles to electronic poll place machines and online voting is the fear that security can be breached and that votes can be manipulated. Using blockchain, a voter could verify if his or her vote was successfully transited and remain anonymous and because of the distributed ledger technology it would not be possible to alter a vote once casted. The ability to hold e-voting could help reduce the high rates of non-participation in leading western democracies and reduce travel and wait times for countries with mandatory voting. In weak and factionalized democracies where the temptation to rig votes is high, blockchain would help preserve the sanctity of the vote and reduce fraud and subsequently reduce the disruptions caused by recounts or prolonged protests against voting exercises that are perceived as tainted.
 
 *   _Legal Contracting and Notaries_
@@ -71,8 +72,9 @@ Despite the tremendous potential of the technology, if governance and stewardshi
     
 2.  Applications: Some oversight is needed to ensure user-friendly interfaces and how to increase the pool of skilled developers.
     
-3.  Legal structure for stewardship: The ecosystem needs a governance body to coordinate on matters such as interoperability, privacy, security, protection of identity, and actions to reduce the amount of legal uncertainty surrounding emergent technologies. They need to spur more investments in research and confront incoming challenges from legacy operators and hackers that exploit open-source coding to commit terrorist acts. On one hand, premature and heavy-handed top-down legislation or regulation could stifle the development of blockchain technology. On the other, a high level of disorganization and anarchy could prevent widespread adoption and deployment of the technology. As an open platform, users can use the technology for nefarious purposes that could be viewed as violating common core values and drawing the scrutiny of public authorities. Most recently the hackers behind WannaCry ransomware that affected 160,000 computers worldwide and caused an estimated $4 billion in damages, demanded payment via Bitcoin because of the anonymity of the system. Large corporations with vested interest in a closed paradigm and wealthy dictators bent on repression could use applications and networks they control for their own narrow interests. Whether a formal bottom-up multistakeholder governance structure, an invisible, informal, collaborative force, or attempts by state-backed institutions to impose limits remains to be seen. 
+3.  Legal structure for stewardship: The ecosystem needs a governance body to coordinate on matters such as interoperability, privacy, security, protection of identity, and actions to reduce the amount of legal uncertainty surrounding emergent technologies. They need to spur more investments in research and confront incoming challenges from legacy operators and hackers that exploit open-source coding to commit terrorist acts. On one hand, premature and heavy-handed top-down legislation or regulation could stifle the development of blockchain technology. On the other, a high level of disorganization and anarchy could prevent widespread adoption and deployment of the technology. As an open platform, users can use the technology for nefarious purposes that could be viewed as violating common core values and drawing the scrutiny of public authorities. Most recently the hackers behind WannaCry ransomware that affected 160,000 computers worldwide and caused an estimated $4 billion in damages, demanded payment via Bitcoin because of the anonymity of the system. Large corporations with vested interest in a closed paradigm and wealthy dictators bent on repression could use applications and networks they control for their own narrow interests. Whether a formal bottom-up multistakeholder governance structure, an invisible, informal, collaborative force, or attempts by state-backed institutions to impose limits remains to be seen.
     
+
 #### Possible Applications in the Caribbean
 
 In the Caribbean, blockchain technology could be applied in the following areas:
