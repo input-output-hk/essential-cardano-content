@@ -7,7 +7,7 @@ image: https://ucarecdn.com/6c4d91e5-69f8-4bb8-9e26-db95f3be3d41/
 image_text: "Blockchain Technology Explained "
 ---
 
-#### Blockchain has five properties that make it a potentially transformative and disruptive technology:
+**Blockchain has five properties that make it a potentially transformative and disruptive technology:**
 
 *   _Distributed_
     
@@ -38,7 +38,7 @@ The value of this new technology is that it allows trusted transactions to occur
 
 These properties allow developers to elaborate applications for a number of different purposes.
 
-#### Actual and Potential Applications
+**Actual and potential applications**
 
 \*   _Financial Services_
 
@@ -75,7 +75,7 @@ Despite the tremendous potential of the technology, if governance and stewardshi
 3.  Legal structure for stewardship: The ecosystem needs a governance body to coordinate on matters such as interoperability, privacy, security, protection of identity, and actions to reduce the amount of legal uncertainty surrounding emergent technologies. They need to spur more investments in research and confront incoming challenges from legacy operators and hackers that exploit open-source coding to commit terrorist acts. On one hand, premature and heavy-handed top-down legislation or regulation could stifle the development of blockchain technology. On the other, a high level of disorganization and anarchy could prevent widespread adoption and deployment of the technology. As an open platform, users can use the technology for nefarious purposes that could be viewed as violating common core values and drawing the scrutiny of public authorities. Most recently the hackers behind WannaCry ransomware that affected 160,000 computers worldwide and caused an estimated $4 billion in damages, demanded payment via Bitcoin because of the anonymity of the system. Large corporations with vested interest in a closed paradigm and wealthy dictators bent on repression could use applications and networks they control for their own narrow interests. Whether a formal bottom-up multistakeholder governance structure, an invisible, informal, collaborative force, or attempts by state-backed institutions to impose limits remains to be seen.
     
 
-#### Possible Applications in the Caribbean
+**Possible applications in the Caribbean**
 
 In the Caribbean, blockchain technology could be applied in the following areas:
 
