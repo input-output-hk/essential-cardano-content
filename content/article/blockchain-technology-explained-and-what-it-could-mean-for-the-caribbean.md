@@ -40,7 +40,7 @@ These properties allow developers to elaborate applications for a number of diff
 
 **Actual and potential applications**
 
-\*   _Financial Services_
+*   _Financial Services_
 
 Bitcoin is the first and most prominent application of blockchain technology as an e-payment system. Bitcon was created in January 2009 by Satoshi Nakamoto as a digital currency independent of any central authority, transferable electronically, and with very low transaction costs. A stable and widely accepted cryptocurrency stands to revolutionize e-commerce, money transfers, and even letters of credit. Cryptocurrency poses a challenge to traditional banking. Besides Bitcoin there are other cryptocurrencies such as Litecoin, Ethereum, Ripple, Peercoin, Namecoin, and others. To date, the value of cryptocurrencies have fluctuated widely as they struggle to gain widespread use. Nonetheless, the top ten cryptocurrences have a market capitalization of US$98.8 billion as of June 2017 but this amount is still a miniscule value of the total value of financial assets worldwide.
 
