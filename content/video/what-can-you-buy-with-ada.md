@@ -8,4 +8,4 @@ image: ""
 image_text: ""
 ---
 
-Exploring the utilities of ADA, in terms of purchasing power. In the early stages of the ecosystem, what can you already buy with ADA?
+Exploring the utilities of ada, in terms of purchasing power. In the early stages of the ecosystem, what can you already buy with ada?
