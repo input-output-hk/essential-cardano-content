@@ -69,6 +69,8 @@ Liquidity providers need an incentive to invest, of course. This comes in the fo
 
 The mechanics behind the order book design have been around the economics field for a long time. It is a very straightforward model. The order book simply lists all the buy/sell (asks/bids, in this context) orders, so when the traders put in their orders, the order book sorts them according to the asset's price. If there is supply and demand, the asset can be traded.
 
+Order books also require deep liquidity to function efficiently. Traditionally, this liquidity comes from market makers. These market makers provide limit orders on both the buy side and the sell side of the book, profiting from the spread (bid-ask or bid-offer spread) between buy and sell orders. Order book liquidity essentially comes from these buy and sell limit orders. This liquidity does not need to be from large institutional market makers. It could also come from individuals, who may even pool liquidity together, blurring the lines of a central order limit book and liquidity providers in an AMM.
+
 UTXO-based ledgers, like Cardano, are far more suitable for order book architecture, as this design, together with Cardano's EUTxO features, mitigates the effects of impermanent loss. 
 
 ## The (un)predictability of impermanent loss
