@@ -21,7 +21,15 @@ image_text: How the EUTxO model is better for the predictability of impermanent
   loss than ETH (accounts model)
 ---
 
-_Disclaimer: Nothing in this article is intended to be professional advice, including without limitation, financial, investment, legal or tax  advice. Input Output Global is not responsible for your use of or reliance on any information in this article._  
+_Disclaimer: Nothing in this article is intended to be professional advice, including without limitation, financial, investment, legal or tax advice. Input Output Global is not responsible for your use of or reliance on any information in this article._  
+
+**Original author:**
+
+[Fernando Sanchez](iohk-io/en/blog/posts/2022/05/27/everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask/) - VP Community & Ecosystem
+
+Originally published on [IOHK.io](//IOHK.io): May 27th, 2022
+
+**Article:**
 
 Decentralized Finance (DeFi) is an umbrella term that refers to decentralized applications (DApps), services, protocols, and financial instruments built on blockchain. It is a relatively new industry segment enabled by decentralized ledger technology, which means there is no single authority with centralized control over the system. And anyone familiar with the DeFi environment probably knows about impermanent loss. It's a simple concept with a misleading name.
 
@@ -43,7 +51,7 @@ The name _impermanent_ is slightly misleading, as a decrease in token price migh
 
 You could argue that impermanent loss is the risk that liquidity providers take in exchange for fees earned by trading crypto pairs on liquidity pools. If the loss is greater than the fees earned, the liquidity provider realizes a loss, which might not have happened had they held onto their tokens instead. It is interesting to note that you might not actually lose money, but your gains might be _less_ than if you had just held the tokens.
 
-## AMMs vs order-book 
+## AMMs vs order-book
 
 Understanding impermanent loss requires a basic understanding of how DEXs work. Currently, DEXs use two design models: AMM and order book. Each comes with a set of advantages and disadvantages when it comes to impermanent loss, which are explored. below.
 
@@ -75,7 +83,6 @@ Quick intro:
 
 *   UTXO-based chains: there are no accounts holding a balance. Instead, users' wallets keep track of a list of unspent outputs associated with all addresses owned by the user, and calculate the users’ balance. UTXO is, in many ways, similar to cash transactions. Cardano ‘s [EUTxO model](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/) adds a _datum_, which is contract-specific data. This is important as it confers Cardano with the ability to support multi-assets and smart contracts.
     
-
 *   Account-based model - This accounting model uses an account (which can be controlled by a private key or a smart contract) to hold a coin balance. In this model, assets are represented as balances within users’ accounts, and the balances are stored as a global state of accounts. The state is kept by each node and updated with every transaction.
     
 
