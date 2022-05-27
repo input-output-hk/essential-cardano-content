@@ -75,6 +75,8 @@ Liquid Democracy and voter delegation will be coming to Project Catalyst in the 
 
 ### スマートコントラクト
 
+**Plutus**チームは、プロトコルパラメーターを設定し、さまざまなプロトコルバージョン用のTimeValidityエミュレーターテストを追加しました。2つのPlutusバージョン用のコストモデルパラメーターに取り組み、Plutus向けのさまざまなHaskellコードの作成方法を明確にしたHaskellスタイルガイドを追加し、Plutusテストアウトプットを改良しました。
+
 **Marlowe**チームはMarloweオンチェーンコントラクトに取り組みました。ここでは特に、[Atalaの使用](https://portal-ppp.atalaprism.io/operations/a8c6ee2d9f525ef7f549a5ae389a7909ae3f64151a92bb10c6971abc2313de12)、[Cardanoトランザクション](https://explorer.cardano-testnet.iohkdev.io/en/transaction?id=61e51ce924d710f492ade85ddf42d8284307cf52c9b480e0b3856d60e48e4484)、そして、テストネットで初の[Djedステーブルコインコントラクト](https://github.com/input-output-hk/marlowe-cardano/blob/9fd9ec3d15bd4bc3516a06aa7dfb49a1fa6c7682/marlowe-cli/examples/djed-example.ipynb)があげられます。Marlowe RunでUIの不具合を修正し、Marlowe PlaygroundでBlocklyにタイムアウト用の`datetime`ピッカーを追加し、Marlowe CLIで鍵処理を改良しました。 
 
 Marloweパイオニアプログラムの初回講義を公開しました。
