@@ -25,7 +25,7 @@ _Disclaimer: Nothing in this article is intended to be professional advice, incl
 
 **Original author:**
 
-[Fernando Sanchez](iohk-io/en/blog/posts/2022/05/27/everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask/) - VP Community & Ecosystem
+[Fernando Sanchez](iohk-io/en/blog/posts/2022/05/27/everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask/) - Technical Writer
 
 Originally published on [IOHK.io](//IOHK.io): May 27th, 2022
 
