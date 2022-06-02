@@ -2,6 +2,10 @@
 title: Why the EUTxO model is ideal for layer 2 zk-rollups like Orbis
 tags:
   - Layer 2
+  - Scalability
+  - blockchain
+  - Interoperability
+  - DeFi
 url: ""
 image: https://ucarecdn.com/e3624bfe-7116-411b-91f5-99095cf3c5a1/
 image_text: ""
@@ -29,7 +33,7 @@ Scaling is possible through the following steps:
     
 2.  They are then bundled into one zero-knowledge proof (zk-rollup).
     
-3.  And finally, the zk proof is submitted on-chain to Cardano’s [layer 1](https://www.essentialcardano.io/glossary/layer-1) for verification. 
+3.  And finally, the zk proof is submitted on-chain to Cardano’s [layer 1](https://www.essentialcardano.io/glossary/layer-1) for verification.
     
 
 ![](https://lh6.googleusercontent.com/lbR4eprrCNMPbYjzuWsh2QHQhsuckrWaLrlCvHCokMFBMG8qvV9JvPdmDjcFEIKg0WjeXbCxj_5e8425C6TypBOjCByeb0Rs0O9P7HaCfyjmRdl3oLNBi3POo9rupHW85VMUsce6SEYyDh8pCw)
@@ -69,7 +73,7 @@ On Cardano, parallelism goes hand in hand with [concurrency](https://www.essenti
 
 Parallelism and concurrency, therefore, **allow Orbis to leverage the EUTxO model** and scale throughput infinitely in the long run, while reducing the amount of computational data required to process transactions.
 
-## Cardano’s scaling journey continues 
+## Cardano’s scaling journey continues
 
 As you can see with Orbis’ zk-rollups approach, Cardano’s architecture is aptly constructed to eventually become the blockchain that provides financial services to the entire globe.
 
