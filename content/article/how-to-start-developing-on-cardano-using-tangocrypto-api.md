@@ -8,7 +8,7 @@ image: https://ucarecdn.com/4a7e5288-cde9-4669-8958-ef9f98dc26f4/
 image_text: Tangocrypto API
 ---
 
-# **What is Tangocrypto?**
+# What is Tangocrypto?
 
 We provide a suite of high availability APIs and developer tools for fast and reliable access to the Cardano network that requires only 1 minute to integrate. As a developer starting on Cardano you will face the following problems:
 
@@ -41,9 +41,9 @@ Our solution provides the following components:
 *   NFT API
     
 
-💻 You can create a **free** account now at [](https://dashboard.tangocrypto.com/register)[https://dashboard.tangocrypto.com/register](https://dashboard.tangocrypto.com/register) and start coding your next product.
+💻 You can create a [**free** account](https://dashboard.tangocrypto.com/register) and start coding your next product.
 
-## **REST API**[​](https://developers.cardano.org/docs/get-started/tangocrypto#rest-api)
+## [REST API](https://developers.cardano.org/docs/get-started/tangocrypto#rest-api)
 
 The HTTP REST API goal is to make development faster and easier. There is no need for syncing with the blockchain and maintaining complicated setups. No more complex and multiple requests to the blockchain from different entry points, the developers can get all the data they need for transactions, token information and debugging, in fewer requests.
 
@@ -62,7 +62,7 @@ We provide the most accessible and reliable Cardano infrastructure, freeing comp
 *   **Always Online**: Running on the latest network upgrades with a minimum 99.9% uptime guarantee.
     
 
-### **Network and App ID**[​](https://developers.cardano.org/docs/get-started/tangocrypto#network-and-app-id)
+### [Network and App ID](https://developers.cardano.org/docs/get-started/tangocrypto#network-and-app-id)
 
 You can choose the mainnet or the testnet for your queries. The API requires a valid `app_id` to be included with your request traffic. This identifier should be appended to the request URL.
 
@@ -72,17 +72,17 @@ Cardano mainnet: `https://cardano-mainnet.tangocrypto.com/{app_id}/v1`
 
 Cardano testnet: `https://cardano-testnet.tangocrypto.com/{app_id}/v1`
 
-### **API Key header**[​](https://developers.cardano.org/docs/get-started/tangocrypto#api-key-header)
+### [API Key header](https://developers.cardano.org/docs/get-started/tangocrypto#api-key-header)
 
-When you sign up on [](https://www.tangocrypto.com)[https://www.tangocrypto.com](https://www.tangocrypto.com/) and create an App an `x-api-key` is created. You must include the HTTP header `x-api-key` in every request in order to authenticate the API calls.
+When you sign up on [https://www.tangocrypto.com](https://www.tangocrypto.com) and create an App an `x-api-key` is created. You must include the HTTP header `x-api-key` in every request in order to authenticate the API calls.
 
-##### **FULL API REFERENCE**
+##### FULL API REFERENCE
 
-Check our API full reference documentation here [](https://www.tangocrypto.com/api-reference/)[https://www.tangocrypto.com/api-reference/](https://www.tangocrypto.com/api-reference/)
+Check our API full reference documentation [here](https://www.tangocrypto.com/api-reference/)
 
-### **Steps to get started with Tangocrypto**[​](https://developers.cardano.org/docs/get-started/tangocrypto#steps-to-get-started-with-tangocrypto)
+### [Steps to get started with Tangocrypto](https://developers.cardano.org/docs/get-started/tangocrypto#steps-to-get-started-with-tangocrypto)
 
-#### 1\. 🔑 Create an App[​](https://developers.cardano.org/docs/get-started/tangocrypto#1--create-an-app)
+#### 1. 🔑 [Create an App](https://developers.cardano.org/docs/get-started/tangocrypto#1--create-an-app)
 
 To use Tangocrypto's products, you need an API key to authenticate your requests.
 
@@ -94,7 +94,7 @@ Once your app is created just copy you app-id and `x-api-key` and start making r
 
 ![alt text](https://developers.cardano.org/assets/images/tangocrypto_app_details-ce911c18e27aee5abcc762f2308adb24.png)
 
-#### 2\. 🏗️ SMake a Request and start building[​](https://developers.cardano.org/docs/get-started/tangocrypto#2-%EF%B8%8F-smake-a-request-and-start-building)
+#### 2. 🏗️ [Make a Request and start building](https://developers.cardano.org/docs/get-started/tangocrypto#2-%EF%B8%8F-smake-a-request-and-start-building)
 
 With the app-id and the `x-api-key` you can make requests. For example, let's make a request to get the latest block number:
 
@@ -127,7 +127,7 @@ You should get something like this:
 }
 ```
 
-#### API Pagination[​](https://developers.cardano.org/docs/get-started/tangocrypto#api-pagination)
+#### [API Pagination](https://developers.cardano.org/docs/get-started/tangocrypto#api-pagination)
 
 Some API endpoints paginate their responses to make the result set easier to handle. For example, if you request a list of objects that are potentially too large to run efficiently, the endpoint returns the first batch of results along with a cursor to access the next set of results.
 
@@ -140,7 +140,7 @@ To determine whether there are more results and to retrieve them one page at a t
 2.  If the `cursor` is empty in the result it means there are no more items to be retrieved.
     
 
-#### Example[​](https://developers.cardano.org/docs/get-started/tangocrypto#example)
+#### [Example](https://developers.cardano.org/docs/get-started/tangocrypto#example)
 
 Let's make the following query with size=50
 
