@@ -7,13 +7,13 @@ image: https://ucarecdn.com/693fdb4c-bca8-4f77-81a8-80189653e7c6/
 image_text: ""
 ---
 
-In this tutorial, we are going to mint an NFT collection using Tangocrypto APIs ([](https://www.tangocrypto.com/)[https://www.tangocrypto.com/](https://www.tangocrypto.com/)).
+In this tutorial, we are going to mint an NFT collection using [Tangocrypto APIs](https://www.tangocrypto.com/).
 
-The first step is to create an account and then create an App that will provide you with an API key. With the `app-id` and the `x-api-key` you can make the calls to the API. In this example, we are using cURL and for a full reference check out the doc at [](https://www.tangocrypto.com/api-reference/)[https://www.tangocrypto.com/api-reference/](https://www.tangocrypto.com/api-reference/).
+The first step is to create an account and then create an App that will provide you with an API key. With the `app-id` and the `x-api-key` you can make the calls to the API. In this example, we are using cURL and for a full reference check out [this document](https://www.tangocrypto.com/api-reference/).
 
 ![](https://miro.medium.com/max/1400/0*oNdLsYsHcHigoFOD)
 
-# **Step 1: Create an NFT collection**
+## Step 1: Create an NFT collection
 
 A collection is a way to create a group of individual NFTs with similar attributes. All the NFTs belonging to the same collection share attributes like the artist, year of creation, social networks, name of the collection, etc.
 
@@ -130,7 +130,7 @@ This endpoint returns the `policy_id`**.** You should post the `policy id` i
 }
 ```
 
-# **Step 2: Upload the images and set the metadata attributes**
+## Step 2: Upload the images and set the metadata attributes
 
 Once the collection is created you can start adding what will become an NFTs (technically speaking to be an NFT it needs to be minted in the blockchain). Therefore the next step is to upload the images and define the metadata for each NFT in the collection. Use the following API endpoint with the `collection-id` returned in step 1 as part of the path.
 
@@ -274,7 +274,7 @@ Response:
 }
 ```
 
-# **Step 3: Create sale phases**
+## Step 3: Create sale phases
 
 A sale phase is a control mechanism that defines how you will sell the collection. You can add different phases to control how you will sell the collection. For example, you might have a total of 5000 NFTs, and you want to sell them in three phases.
 
@@ -380,7 +380,7 @@ In the response, we can see that each price tier has an associated payment link.
 }
 ```
 
-# **Step 4: Sell the collection on your website**
+## Step 4: Sell the collection on your website
 
 Create a button for every payment link and sell the collection on your website.
 
@@ -578,6 +578,6 @@ async function main(){
 main();
 ```
 
-**Conclusion**
+## Conclusion
 
-And that’s all, if you made it to the end you should have an NFTs in your wallet. For updates follow us on [](https://twitter.com/tango_crypto)[https://twitter.com/tango\_crypto](https://twitter.com/tango_crypto)
+And that’s all, if you made it to the end you should have an NFTs in your wallet. For updates follow us on [Twitter](https://twitter.com/tango_crypto).
