@@ -1,5 +1,6 @@
 ---
-title: How to listen to on-chain events in real-time in Cardano
+title: How to listen to on-chain events in real-time in Cardano using
+  Tangocrypto Notify
 tags:
   - Cardano
   - blockchain
@@ -32,7 +33,7 @@ A webhook (also called a web callback or HTTP push API) is a way for an app to p
 
 You can think that Webhooks are like a phone number that Tangocrypto calls to notify you of activity in Cardano. The activity could be a payment to an address or reaching a particular epoch. The webhook endpoint is the person answering that call who takes actions based upon the specific information it receives.
 
-A webhook endpoint is just more code on your server, which could be written in [Node.js](Node.js), Go, Java, Ruby, or whatever. The webhook endpoint has an associated URL (e.g. [](https://myserver.com/callback)[https://myserver.com/callback](https://myserver.com/callback)). The Tangocrypto notifications are Event objects. This Event object contains all the relevant information about what just happened, including the type of event and the data associated with that event. The webhook endpoint uses the event details to take any required actions, such as indicating that an NFT should be sent to a wallet.
+A webhook endpoint is just more code on your server, which could be written in [Node.js](Node.js), Go, Java, Ruby, or whatever. The webhook endpoint has an associated URL (e.g. [https://myserver.com/callback](https://myserver.com/callback)). The Tangocrypto notifications are Event objects. This Event object contains all the relevant information about what just happened, including the type of event and the data associated with that event. The webhook endpoint uses the event details to take any required actions, such as indicating that an NFT should be sent to a wallet.
 
 ##### NOTE
 
@@ -169,6 +170,7 @@ Payload example
     "idempotency_key": "755a42b339274829aefd153285084132532ce2beb2aa42738e1cc9c5f708168c",
     "network": "testnet"
 }
+
 ```
 
 ### **2\. Block**[​](https://developers.cardano.org/docs/get-started/tangocrypto#2-block)
@@ -362,4 +364,4 @@ Rules can be created also from the dashboard:
 
 #### MORE INFO[​](https://developers.cardano.org/docs/get-started/tangocrypto#more-info)
 
-[](https://docs.tangocrypto.com/notify/notify/using-webhooks)[https://docs.tangocrypto.com/notify/notify/using-webhooks](https://docs.tangocrypto.com/notify/notify/using-webhooks)
+[https://docs.tangocrypto.com/notify/notify/using-webhooks](https://docs.tangocrypto.com/notify/notify/using-webhooks)
