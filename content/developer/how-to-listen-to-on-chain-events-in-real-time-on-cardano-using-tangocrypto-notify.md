@@ -32,7 +32,7 @@ A webhook (also called a web callback or HTTP push API) is a way for an app to p
 
 You can think that Webhooks are like a phone number that Tangocrypto calls to notify you of activity in Cardano. The activity could be a payment to an address or reaching a particular epoch. The webhook endpoint is the person answering that call who takes actions based upon the specific information it receives.
 
-A webhook endpoint is just more code on your server, which could be written in [Node.js](Node.js), Go, Java, Ruby, or whatever. The webhook endpoint has an associated URL (e.g. `https://myserver.com/callback`). The Tangocrypto notifications are Event objects. This Event object contains all the relevant information about what just happened, including the type of event and the data associated with that event. The webhook endpoint uses the event details to take any required actions, such as indicating that an NFT should be sent to a wallet.
+A webhook endpoint is just more code on your server, which could be written in Node.js, Go, Java, Ruby, or whatever. The webhook endpoint has an associated URL (e.g. `https://myserver.com/callback`). The Tangocrypto notifications are Event objects. This Event object contains all the relevant information about what just happened, including the type of event and the data associated with that event. The webhook endpoint uses the event details to take any required actions, such as indicating that an NFT should be sent to a wallet.
 
 ##### NOTE
 
@@ -83,7 +83,7 @@ Tangocrypto offers 5 different types of webhooks:
 
 Callback requests sent from Tangocrypto are always POST and it contains a JSON payload;
 
-### 1\. [Payment](https://developers.cardano.org/docs/get-started/tangocrypto#1-payment)
+### 1. [Payment](https://developers.cardano.org/docs/get-started/tangocrypto#1-payment)
 
 The Payment Webhook allows you to track payments to an address. This provides your app with real-time state changes when an address sends or receives tokens.
 
@@ -172,7 +172,7 @@ Payload example
 
 ```
 
-### 2\. [Block](https://developers.cardano.org/docs/get-started/tangocrypto#2-block)
+### 2. [Block](https://developers.cardano.org/docs/get-started/tangocrypto#2-block)
 
 This event is triggered every time a new block is created.
 
@@ -220,7 +220,7 @@ Payload example
 
 ```
 
-### 3\. [Transaction](https://developers.cardano.org/docs/get-started/tangocrypto#3-transaction)
+### 3. [Transaction](https://developers.cardano.org/docs/get-started/tangocrypto#3-transaction)
 
 This event is triggered every time a new transaction is added to the blockchain. Payload example
 
@@ -276,7 +276,7 @@ This event is triggered every time a new transaction is added to the blockchain.
 
 ```
 
-### 4\. [Epoch](https://developers.cardano.org/docs/get-started/tangocrypto#4-epoch)
+### 4. [Epoch](https://developers.cardano.org/docs/get-started/tangocrypto#4-epoch)
 
 Get notified when an epoch starts. Payload example
 
@@ -288,7 +288,7 @@ Get notified when an epoch starts. Payload example
 
 ```
 
-### 5\. [Delegation](https://developers.cardano.org/docs/get-started/tangocrypto#5-delegation)
+### 5. [Delegation](https://developers.cardano.org/docs/get-started/tangocrypto#5-delegation)
 
 This allows you to track delegations in the specified pool by its ticker or pool ID. Payload Example
 
@@ -363,4 +363,4 @@ Rules can be created also from the dashboard:
 
 #### [MORE INFO](https://developers.cardano.org/docs/get-started/tangocrypto#more-info)
 
-[](https://docs.tangocrypto.com/notify/notify/using-webhooks)[https://docs.tangocrypto.com/notify/notify/using-webhooks](https://docs.tangocrypto.com/notify/notify/using-webhooks)
+[https://docs.tangocrypto.com/notify/notify/using-webhooks](https://docs.tangocrypto.com/notify/notify/using-webhooks)
