@@ -61,8 +61,7 @@ Having read about the basics you’re now ready to try Cardano out. 
 
 Let’s start with some simple payments. You will first need to choose and create a [wallet](https://www.essentialcardano.io/faq/what-is-a-cryptocurrency-wallet) and get some [ada](https://www.essentialcardano.io/faq/what-is-ada-whats-in-a-name). 
 
-1.  Explore different types of cryptocurrency wallets and download the one that suits your needs best. Make sure it supports ada:
-    
+1.  Explore different types of cryptocurrency wallets and download the one that suits your needs best. Make sure it supports ada. [Nami](https://namiwallet.io/) and [Eternl](https://eternl.io/app/mainnet/welcome) are two most recommended wallets by the community to start with.
 
 *   [Types of wallets](https://docs.cardano.org/new-to-cardano/types-of-wallets)
     
@@ -97,7 +96,7 @@ Ada holders can delegate stake using their wallets. Here are some useful article
     
 *   [Staking and delegating for beginners](https://forum.cardano.org/t/staking-and-delegating-for-beginners-a-step-by-step-guide/36681) (Daedalus)
     
-*   [How to delegate from the Yoroi wallet](https://forum.cardano.org/t/cardano-shelley-how-to-delegate-from-the-yoroi-wallet/38230)
+*   [The general perspective on staking in Cardano](https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/)
     
 *   [What other wallets support staking?](https://www.essentialcardano.io/faq/what-other-wallets-support-staking)
     
