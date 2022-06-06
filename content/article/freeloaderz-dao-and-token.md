@@ -8,7 +8,7 @@ image: https://ucarecdn.com/f033a65f-c2a8-42bb-98fc-3bc2bc395d32/
 image_text: FreeLoaderz.io
 ---
 
-**Freeloaderz DAO and Token ($FLZ)**
+## Freeloaderz DAO and Token ($FLZ)
 
 Freeloaderz is a grassroots Cardano project that is being built for the community by the community. It began when several stake pools started working together to alleviate network congestion. In a very short time, the project has grown exponentially. Freeloaderz is now supported by the work of over 12 developers, 60 stake pool operators and a discord community of over 800. Like any organization of this size, it requires some structure. In order to allow Freeloaderz to reach its full potential, a DAO was created to allow for both organization and community governance.
 
