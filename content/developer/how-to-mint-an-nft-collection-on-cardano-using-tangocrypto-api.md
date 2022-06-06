@@ -15,7 +15,7 @@ The first step is to create an account and then create an App that will provide 
 
 ![](https://miro.medium.com/max/1400/0*oNdLsYsHcHigoFOD)
 
-## **Step 1: Create an NFT collection**
+## Step 1: Create an NFT collection
 
 A collection is a way to create a group of individual NFTs with similar attributes. All the NFTs belonging to the same collection share attributes like the artist, year of creation, social networks, name of the collection, etc.
 
@@ -60,7 +60,6 @@ curl --location --request POST 'https://cardano-testnet.tangocrypto.com/<app-id>
         "version": "1.0"
     }
 }'
-
 ```
 
 Response:
@@ -131,10 +130,9 @@ This endpoint returns the `policy_id`**.** You should post the `policy id` i
     "created_at": "2022-02-23T08:21:38.908Z",
     "updated_at": "2022-02-23T08:21:38.908Z"
 }
-
 ```
 
-## **Step 2: Upload the images and set the metadata attributes**
+## Step 2: Upload the images and set the metadata attributes
 
 Once the collection is created you can start adding what will become an NFTs (technically speaking to be an NFT it needs to be minted in the blockchain). Therefore the next step is to upload the images and define the metadata for each NFT in the collection. Use the following API endpoint with the `collection-id` returned in step 1 as part of the path.
 
@@ -179,7 +177,6 @@ curl --location --request POST 'https://cardano-testnet.tangocrypto.com/<app-id>
         }
     }]
 }'
-
 ```
 
 Response:
@@ -277,10 +274,9 @@ Response:
   ],
   "status_code": 201
 }
-
 ```
 
-## **Step 3: Create sale phases**
+## Step 3: Create sale phases
 
 A sale phase is a control mechanism that defines how you will sell the collection. You can add different phases to control how you will sell the collection. For example, you might have a total of 5000 NFTs, and you want to sell them in three phases.
 
@@ -332,7 +328,6 @@ curl --location --request POST 'https://cardano-mainnet.tangocrypto.com/<app-id>
         }
     ]
 }'
-
 ```
 
 Response:
@@ -385,10 +380,9 @@ In the response, we can see that each price tier has an associated payment link.
     "created_at": "2022-05-24T03:10:58.988Z",
     "updated_at": "2022-05-24T03:10:58.988Z"
 }
-
 ```
 
-## **Step 4: Sell the collection on your website**
+## Step 4: Sell the collection on your website
 
 Create a button for every payment link and sell the collection on your website.
 
@@ -398,7 +392,6 @@ Create a button for every payment link and sell the collection on your website.
 <form action="https://buy.tangocrypto.com?q=test_eyJjb2xsZWN0aW9uX2lkIjoiOTFjMjYyZmRkYjljNGYyOWJmZDc0MTI1NmJmMzAxMWIiLCJwaGFzZV9pZCI6IjgxZDE5MGE3ZWQxODQ3Y2M5N2NmNTE1YWEyYTcwYmMyIiwicnVsZXMiOltdLCJwcmljZSI6NjAwMDAwMDAsInByaWNlX2lkIjozLCJxdWFudGl0eSI6OCwic3VwcGx5IjoxLCJ0eXBlIjoiUGhhc2VTYWxlIiwidGNjIjoicVgrcGdJUm00Qm5iVVR2UnFzeGtmK3p4VVBoeFUzaE1rRGVqMTdTSGlwckZMd1BkOGpwaTRleDFCQ2d3YXFyUUpRUEd6SFVVdm9BdEdPbU14dUlYY25LU09rVzkxRVZ1YnhhajdwVDRETVVpaU9NZXdIRXV3eHJUVndQVkFnPT0ifQ==">
     <input type="submit" value="Buy" />
 </form>
-
 ```
 
 When the buyer clicks on the buy button a new window with Tangopay will be opened and from there the buyer can pay with any of the most used wallets in Cardano.
@@ -585,9 +578,8 @@ async function main(){
 }
 
 main();
-
 ```
 
-## **Conclusion**
+## Conclusion
 
 And that’s all, if you made it to the end you should have an NFTs in your wallet. For updates follow us on [Twitter](https://twitter.com/tango_crypto).
