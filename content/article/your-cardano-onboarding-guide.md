@@ -62,6 +62,7 @@ Having read about the basics you’re now ready to try Cardano out. 
 Let’s start with some simple payments. You will first need to choose and create a [wallet](https://www.essentialcardano.io/faq/what-is-a-cryptocurrency-wallet) and get some [ada](https://www.essentialcardano.io/faq/what-is-ada-whats-in-a-name). 
 
 1.  Explore different types of cryptocurrency wallets and download the one that suits your needs best. Make sure it supports ada. [Nami](https://namiwallet.io/) and [Eternl](https://eternl.io/app/mainnet/welcome) are two most recommended wallets by the community to start with.
+    
 
 *   [Types of wallets](https://docs.cardano.org/new-to-cardano/types-of-wallets)
     
@@ -148,7 +149,7 @@ NFTs have been booming recently. You can create, buy, and sell digital represent
 
 *   [Cardano NFTs: everything you need to know](https://www.cada.news/cardano-nfts/#2-what-are-the-cardano-nfts-or-the-non-fungible-tokens)
     
-*   [CNFT](https://cnft.io/)
+*   [JPG Store: Cardano NFT marketplace](https://www.jpg.store/)
     
 *   [Cardano cube: NFT projects](https://www.cardanocube.io/collections/nft)
     
@@ -174,7 +175,7 @@ Identity is key to accessing a range of private and public services. From openin
 
 Atala PRISM is a decentralized identity solution on Cardano. It enables people to own their personal data and interact with organizations seamlessly, privately, and securely. Visit the [Atala PRISM website](https://www.atalaprism.io/app) for more information.
 
-### Continue exploring  
+### Continue exploring
 
 To conclude we should state that this is just the beginning. You have probably chosen the topics that interest you most about Cardano. Here’s a handy list of resources to keep going:
 
