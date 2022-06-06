@@ -1,5 +1,5 @@
 ---
-title: Russian Translaction of the Scaling Graphic
+title: Russian Translation of the Scaling Graphic
 tags:
   - Scalability
   - Cardano
