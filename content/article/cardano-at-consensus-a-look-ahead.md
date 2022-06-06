@@ -5,8 +5,8 @@ tags:
   - Event
   - Cardano
 url: ""
-image: ""
-image_text: ""
+image: https://ucarecdn.com/799e27ce-6dc8-42bc-a176-37de806f9df1/
+image_text: null
 ---
 
 **Author:**
