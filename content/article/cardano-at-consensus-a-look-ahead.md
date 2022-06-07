@@ -6,7 +6,7 @@ tags:
   - Cardano
 url: ""
 image: https://ucarecdn.com/799e27ce-6dc8-42bc-a176-37de806f9df1/
-image_text: null
+image_text: ""
 ---
 
 **Author:**
@@ -27,7 +27,7 @@ More importantly, we’ll be showcasing and celebrating just some of the hundred
 
 **Community celebration**
 
-This year's Consensus event promises to be one of the largest celebrations for the decentralized world. And to kick things off, IOG, Emurgo, and the Cardano Foundation will hold a [Cardano Community Event](https://iohk.link/cardano-community-event) on the evening of June 8th at the Palmer Center ([https://goo.gl/maps/V8DcqYcKVhFYmAwg9in)](https://goo.gl/maps/V8DcqYcKVhFYmAwg9in)) in Austin.
+This year's Consensus event promises to be one of the largest celebrations for the decentralized world. And to kick things off, IOG, Emurgo, and the Cardano Foundation will hold a [Cardano Community Event](https://iohk.link/cardano-community-event) on the evening of June 8th at the Palmer Center in Austin.
 
 The [meetup is free to attend](https://twitter.com/InputOutputHK/status/1529175571594452995?s=20&t=ej6XHH_j1TbuDa-JLYQx4g), and you will have an opportunity to meet Charles Hoskinson and connect with projects #BuildingOnCardano and community leaders.
 
@@ -51,7 +51,7 @@ Participants will use their creativity to resolve Plutus challenges issued by th
 
 This is a learn-as-you go event where participants can learn the basics of Marlowe, Cardano's domain-specific language. This track will include challenges and practical exercises.
 
-The developer event will take place on 13th June at \[venue\]. If you’d like to attend, you can register [here](https://iogmeetups2022.co.uk/).
+The developer event will take place on 13th June. If you’d like to attend, you can register [here](https://iogmeetups2022.co.uk/).
 
 ## Conclusion
 
