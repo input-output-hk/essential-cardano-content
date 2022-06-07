@@ -1,7 +1,7 @@
 ---
 title: Income generating land NFT Mint - Carda Station
 tags:
-  - "#metaverse"
+  - Metaverse
   - Ecosystem
 url: https://youtu.be/BDXgx6rgNUA
 image: ""
