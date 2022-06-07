@@ -45,7 +45,7 @@ Now that you know how a blockchain works and what a cryptocurrency is, it is tim
 
 Cardano aims to provide an opportunity for global communities to easily access and use the blockchain in their daily lives. Using blockchain, you can for example send funds to your friends, pay for products or services, or use decentralized applications (DApps). Yet, blockchain is much more than just a financial system.
 
-You can go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or [‘New to Cardano’ section on Cardano Docs](https://docs.cardano.org/new-to-cardano/introduction) to learn more about Ouroboros, ADA, and what makes Cardano a third-generation blockchain:
+You can go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or [‘New to Cardano’ section on Cardano Docs](https://docs.cardano.org/new-to-cardano/introduction) to learn more about Ouroboros, ada, and what makes Cardano a third-generation blockchain:
 
 *   [What is Cardano?](https://www.essentialcardano.io/faq/what-is-cardano)
     
@@ -64,30 +64,27 @@ You can go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or
 
 Having read about the basics you’re now ready to try Cardano out. 
 
-Let’s start with some simple payments. You will first need to choose and create a Cardano [wallet](https://www.essentialcardano.io/faq/what-is-a-cryptocurrency-wallet) and get some [ADA](https://www.essentialcardano.io/faq/what-is-ada-whats-in-a-name). 
+Let’s start with some simple payments. You will first need to choose and create a Cardano [wallet](https://www.essentialcardano.io/faq/what-is-a-cryptocurrency-wallet) and get some [ada](https://www.essentialcardano.io/faq/what-is-ada-whats-in-a-name). 
 
 1.  Explore different **Cardano** wallet products and get the one that best suits your needs.
     
-    Here is an article on the various types of cryptocurrency wallets and examples of wallet products/providers for Cardano to choose from: [Types of Wallets](https://docs.cardano.org/new-to-cardano/types-of-wallets).
+    * Here is an article on the various types of cryptocurrency wallets and examples of wallet products/providers for Cardano to choose from: [Types of Wallets](https://docs.cardano.org/new-to-cardano/types-of-wallets).
     
-    Bonus: Nami and [Eternl](https://eternl.io/app/mainnet/welcome) are two most recommended wallets by the community to start with, for Desktop users. For mobile users, Eternl and [Flint Wallet](https://docs.cardano.org/new-to-cardano/types-of-wallets) are the go-to options that are largely adopted by the community.
+    * Nami and [Eternl](https://eternl.io/app/mainnet/welcome) are two most recommended wallets by the community to start with, for desktop users. For mobile users, Eternl and [Flint Wallet](https://docs.cardano.org/new-to-cardano/types-of-wallets) are the go-to options that are largely adopted by the community.
     
-2.  Explore and choose a cryptocurrency exchange (in your jurisdiction) to get some ADA: [How to purchase ADA?](https://docs.cardano.org/new-to-cardano/how-to-purchase-ada)
+2.  Explore and choose a cryptocurrency exchange (in your jurisdiction) to get some ada: [How to purchase ada?](https://docs.cardano.org/new-to-cardano/how-to-purchase-ada)
     
-3.  Try out the wallet: Ask a fellow Cardano Community member for their wallet address and try exchanging (sending/receiving) small amounts of ADA with them. 
+3.  Try out the wallet: ask a fellow Cardano community member for their wallet address and try exchanging (sending/receiving) small amounts of ada with them. 
     
-4.  Voila! You're now a Cardano user experiencing the world of Web3 and crypto.
-    
-    _Bonus_: You can track your transactions and account activities using [Cardano Explorer](http://explorer.cardano.org). Learn how to use the tracking tools to do this: [Cardano tracking tools](https://docs.cardano.org/new-to-cardano/cardano-tracking-tools)
-    
+4.  You're now a Cardano user experiencing the world of Web3 and crypto! You can track your transactions and account activities using [Cardano Explorer](http://explorer.cardano.org). Learn how to use the tracking tools to do this: [Cardano tracking tools](https://docs.cardano.org/new-to-cardano/cardano-tracking-tools).
 
 **Understanding staking and delegation** 
 
-As an ADA holder, you own a stake that is the amount of ADA you have. This means that you are now part of the Cardano network and can help maintain it. A developer or a tech-savvy person can set up a stake pool and run it to help verify transactions, create blocks, and get rewards. 
+As an ada holder, you own a stake that is the amount of ada you have. This means that you are now part of the Cardano network and can help maintain it. A developer or a tech-savvy person can set up a stake pool and run it to help verify transactions, create blocks, and get rewards. 
 
-If you are not interested in running your own pool, you can instead choose to delegate your stake to an existing pool and share its rewards. There is no risk to this as no ADA leaves your wallet and you can spend your funds at anytime while they are delegated to a stake pool.
+If you are not interested in running your own pool, you can instead choose to delegate your stake to an existing pool and share its rewards. There is no risk to this as no ada leaves your wallet and you can spend your funds at anytime while they are delegated to a stake pool.
 
-ADA holders can delegate stake using their wallets. Here are some useful articles to review:
+Ada holders can delegate stake using their wallets. Here are some useful articles to review:
 
 *   [How to choose a stake pool](https://iohk.zendesk.com/hc/en-us/articles/900002174303-How-to-choose-a-stake-pool)
     
@@ -106,9 +103,9 @@ ADA holders can delegate stake using their wallets. Here are some useful article
 
 **Being part of decision making and innovation**
 
-One of the key pillars for Cardano's long-term sustainability is active community engagement and participation. The Voltaire phase of the Cardano roadmap will introduce community voting mechanisms to democratize decision-making so every ADA holder can vote on Cardano’s changes and upgrades.
+One of the key pillars for Cardano's long-term sustainability is active community engagement and participation. The Voltaire phase of the Cardano roadmap will introduce community voting mechanisms to democratize decision-making so every ada holder can vote on Cardano’s changes and upgrades.
 
-The process of decentralized governance has already started. Project Catalyst is one of the world’s largest decentralized innovation funds, where ADA holders can vote on the most promising projects to get funded from the treasury.
+The process of decentralized governance has already started. Project Catalyst is one of the world’s largest decentralized innovation funds, where ada holders can vote on the most promising projects to get funded from the treasury.
 
 There are many ways to get involved with Project Catalyst – as an innovator, voter, commenter, proposer, proposal reviewer, community advisor, or even a mentor. The first step is [creating an account](https://cardano.ideascale.com/) on the Catalyst collaboration platform, Ideascale. 
 
@@ -145,7 +142,7 @@ There are a number of community-driven resources gathering information about the
 
 ### Non-fungible tokens
 
-Every ADA is the same as another. You can trade one ADA for another and get the same value i.e. 1:1; this means that ADA is fungible. 
+Every ada is the same as another. You can trade one ada for another and get the same value i.e. 1:1; this means that ada is fungible. 
 
 Non-fungible tokens (NFTs), on the other hand, are unique and can carry special information (metadata) that represents digital ownership rights of real-world and digital assets such as a real-estate or a 3D animation. Anyone can create their own NFTs on Cardano [natively](https://docs.cardano.org/native-tokens/learn) with minimal work i.e. without needing a smart contract. This is a huge difference from the error-prone complexity found on Ethereum, for example. This makes Cardano NFTs more secure, cheaper, and faster to transact with.
 
@@ -162,11 +159,9 @@ NFTs have been booming recently. You can create, buy, and sell digital represent
 
 ### What do you need to know about smart contracts?
 
-A smart contract is an automated digital agreement that tracks, verifies, and executes the binding parts of a deal between various parties. The contract stages are automatically executed when predetermined conditions are met.
+Smart Contracts are programs that run on blockchains to perform complex (and simple) tasks. You can think of them as sophisticated ATMs or Vending machines. Smart contracts act as digital agreements that track, verify, and execute the binding parts of a deal between various parties. The contract stages are automatically executed when predetermined conditions are met.
 
 As a beginner, you don’t need to dive straight into how to write a smart contract. What’s important to know is that DApps use smart contracts for you to experience safe deal execution. 
-
-ELI5: Smart Contracts are programs that run on blockchains to perform complex (and simple) tasks, you can think of them as sophisticated ATMs or Vending machines.
 
 Cardano provides the possibility to work with Plutus and Marlowe contracts:
 
@@ -174,14 +169,13 @@ Cardano provides the possibility to work with Plutus and Marlowe contracts:
     
 *   Marlowe is a ‘domain specific’ language designed specially for writing financial smart contracts. It is limited to financial applications and its ‘low-code’ approach means it is perfect for experts in finance rather than in programming.
     
-
 If you’re interested in learning how to write Plutus and Marlowe contracts, you can take part in the [Plutus Pioneer](https://testnets.cardano.org/en/plutus-pioneer-program/) and [Marlowe Pioneer](https://pioneers.marlowe-finance.io/) training courses.
 
 ### Digital identity
 
 Identity is key to accessing a range of private and public services. From opening a bank account to obtaining loans or a driver's license, access to education, etc., the need to prove to others who we are is almost omnipresent in everyday life.
 
-Atala PRISM is a decentralized identity solution on Cardano. It enables people to own their personal data/identity and interact with organizations seamlessly, privately, and securely. Visit the [Atala PRISM website](https://www.atalaprism.io/app) for more information.
+Atala PRISM is a decentralized identity solution on Cardano. It enables people to own their personal data and identity to interact with organizations seamlessly, privately, and securely. Visit the [Atala PRISM website](https://www.atalaprism.io/app) for more information.
 
 ### Continue exploring
 
