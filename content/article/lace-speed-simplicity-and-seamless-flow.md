@@ -45,7 +45,7 @@ Designed to cater to a variety of users interested in leveraging Cardano’s inf
 
 In future iterations, Lace plans to support identity and voting on Cardano – the key pillars to ensure secure personal data protection in a decentralized way.
 
-Over time, Lace also intends to utilize different Cardano products combining a range of features into a cohesive user experience. This will include integration with [Atala PRISM](https://atalaprism.io/app) for identity and personal data management, along with [Project Catalyst](https://projectcatalyst.org/) for easy registration and voting. Other future enhancements may also include integration with EVM sidechains (allowing Ethereum developers to easily harness the robust and verifiably secure infrastructure of Cardano) and Hydra – for scalable and cost-efficient transaction processing.
+Over time, Lace also intends to utilize different Cardano products combining a range of features into a cohesive user experience. This will include integration with [Atala PRISM](https://atalaprism.io/) for identity and personal data management, along with [Project Catalyst](https://projectcatalyst.org/) for easy registration and voting. Other future enhancements may also include integration with EVM sidechains (allowing Ethereum developers to easily harness the robust and verifiably secure infrastructure of Cardano) and Hydra – for scalable and cost-efficient transaction processing.
 
 While initially the light wallet is built for the Cardano blockchain, the long-term goal is to make it blockchain-agnostic. Interoperability is key to ensuring widespread blockchain adoption, and therefore Lace plans to evolve to support many other blockchains along with a variety of cryptocurrencies.
 
