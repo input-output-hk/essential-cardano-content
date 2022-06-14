@@ -13,4 +13,4 @@ image: ""
 image_text: ""
 ---
 
-One of the more unique projects developing on the Cardano blockchain has a revolutionary idea that could inspire mass adoption for the ecosystem. WIth virtually no resistance or competition in the space, let's see what their odds are of success.
+One of the more unique projects developing on the Cardano blockchain has a revolutionary idea that could inspire mass adoption for the ecosystem. With virtually no resistance or competition in the space, let's see what their odds are of success.
