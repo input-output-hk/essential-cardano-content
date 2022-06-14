@@ -14,10 +14,9 @@ image: https://ucarecdn.com/dfd7962b-6112-4926-9034-572343e1399a/
 image_text: ""
 ---
 
-It can be difficult for the average user to understand how a blockchain network works because they can’t touch and view it. Various tools that monitor the network and provide users with information in an understandable form can help with analysis. Learn how to use [https://cexplorer.io](https://cexplorer.io)
+It can be difficult for the average user to understand how a blockchain network works because they can’t touch and view it. Various tools that monitor the network and provide users with information in an understandable form can help with analysis. Learn how to use [https://cexplorer.io](https://cexplorer.io).
 
-##   
-Intro
+##   Intro
 
 Most users interact with the Cardano network through wallets or the interface of decentralized applications. This is good, as users should be insulated from technical details and use should be as simple as possible. However, in the case of public networks, it is good to have some understanding of how they work. The theory is a good basis, but people may need to be in some closer connection with the network. For this, they need analytical tools to help them explore the network, look at events, or track various statistics.
 
@@ -25,8 +24,7 @@ This is useful for staking, for example. Users know that by holding ADA coins th
 
 In this article, we will try to clarify the important aspects of the Cardano network and show you the Cexplorer tool that will help you to get important information about the network. The article does not aim to completely describe all available data, but only the really important ones.
 
-##   
-Basic overview
+##   Basic overview
 
 The Dashboard provides an overview of the most important information about the network. Specifically, if the network is running, if it is able to process transactions, what epoch we are currently in, how many ADA coins are in circulation, and how many coins are staked.
 
@@ -66,8 +64,7 @@ At the time of writing, the live stake was 24,666,617,259 ADA coins. If you foll
 
 At the end of the active stake line, you can see the percentage that indicates the difference between the active stake and the live stake. At the time of writing it is 0.5%. A positive figure means that the live stake is higher than the active stake. This means that more people stake ADA coins in the current epoch than in the previous epoch.
 
-##   
-Rewards ([https://cexplorer.io/rewards](https://cexplorer.io/rewards))
+##   Rewards ([https://cexplorer.io/rewards](https://cexplorer.io/rewards))
 
 Cexplorer can show you details of your staking rewards. In the left menu, go to More / Rewards. Copy your staking key or address from your Cardano wallet and paste it into the edit box. You will see all the rewards of the past epochs.
 
@@ -83,8 +80,7 @@ If you go to More / Epochs, you will see detailed information about epochs. Of i
 
 ![](https://cexplorer.io/assets/images/internal/kb/a1/6.png)
 
-##   
-Pools ([https://cexplorer.io/pool](https://cexplorer.io/pool))
+##   Pools ([https://cexplorer.io/pool](https://cexplorer.io/pool))
 
 Every staker will be looking for information on pools. These can be found by clicking on Pools in the left menu. On this page, you will find a list of all registered pools in the Cardano network and details about them. There is one pool on each line.
 
@@ -124,8 +120,7 @@ Let’s take an example. A pool operator has a fixed fee set at 340 ADA coins an
 
 At the very end of the line, you can find the number of ADA coins that the operator has used as his own stake. It is called a pledge. CRDNS has the pledge of 500,000 ADA.
 
-##   
-Blocks ([https://cexplorer.io/block](https://cexplorer.io/block))
+##   Blocks ([https://cexplorer.io/block](https://cexplorer.io/block))
 
 Cexplorer allows you to explore the blocks. You can look at the order number (height) of the block, what epoch and slot it was created in, and who minted it. Then you can see the number of transactions and how full the block is.
 
@@ -133,8 +128,7 @@ Cexplorer allows you to explore the blocks. You can look at the order number (he
 
 If you click on the magnifying glass icon, you will see the block detail including all transactions.
 
-##   
-Transactions ([https://cexplorer.io/tx](https://cexplorer.io/tx))
+##   Transactions ([https://cexplorer.io/tx](https://cexplorer.io/tx))
 
 It often happens that you send a transaction to someone and would like to see the details. Each transaction has a Transaction ID (TID). Copy the TID and go to Transactions on the left menu in Cexplorer. There is a magnifying glass icon in the upper left. Paste the TID into the edit box and confirm with the ENTER button.
 
@@ -156,8 +150,7 @@ Let’s explain how value is moved in Cardano networks through UTXO. UTXOs are o
 
 You would see a Total Output of 129.8 in Cexplorer. Outputs would have value 2. The fee would be 0,2 ADA. On the left side, you would see 3 UTXOs with values of 50, 50, and 30 ADA. On the right side, you would see two output UTXOs with values of 125 and 4.8 ADA. The UTXO with a value of 125 ADA would have a red arrow icon so you would know it is an external wallet.
 
-##   
-Analytics
+##   Analytics
 
 In the left menu, you will find the Analytics section where you can explore the network from different angles.
 
@@ -175,7 +168,6 @@ You can see below the charts for more information on each group.
 
 You can find a lot of other information, such as network capacity and current usage, number of transactions, power consumption, block producers, new pools, updated pools, new delegations, etc.
 
-##   
-Conclusion
+##   Conclusion
 
 [Cexplorer.io](//Cexplorer.io) is a useful tool to help you find the staking pool, find details about transactions, and also to analyze the network.
