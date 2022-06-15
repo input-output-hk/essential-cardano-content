@@ -22,7 +22,7 @@ Here’s the first of a series of blog posts taking a closer look at the researc
 
 **Article**:
 
-Since its inception in 2015, the Cardano project had one clear goal: to alter the way cryptocurrencies are designed and developed. Like many other open-source projects, Cardano did not have a defined roadmap or an authoritative whitepaper. Rather, it combined a range of scientific design principles and engineering best practices to produce a solid, pioneering, research-based blockchain. Such an approach positions Cardano uniquely among other blockchain platforms.
+Since its inception in 2015, the Cardano project had one clear goal: to alter the way cryptocurrencies are designed and developed. Instead of having a single, authoritative whitepaper, the project combined a range of scientific design principles and engineering best practices to produce a solid, pioneering, research-based blockchain. The key ideas of Cardano development were presented in the '[Why Cardano](https://why.cardano.org/en/introduction/motivation/)' essay and the '[Cardano whiteboard](https://www.youtube.com/watch?v=Ja9D0kpksxw)' video by Charles Hoskinson. This research-driven approach positions Cardano uniquely among other blockchain platforms.
 
 A set of the best practices, ideas, and contributions formed Cardano’s foundation for building a secure, decentralized, and scalable ledger. There is now a substantial body of research, represented by Input Output Global’s extensive [library of papers](https://iohk.io/research/library/), which at the time of writing numbers 139. Many of them have been peer-reviewed and accepted at top-tier academic conferences. [According to Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ouroboros&btnG=), the original Ouroboros paper has been cited more than 1,200 times.
 
@@ -34,14 +34,14 @@ Charles Hoskinson, IOG CEO, said:
 
 The vision of IOG Research is to be a leading institution in the academic study of blockchain infrastructures and fintech, and, more broadly, distributed systems secured by cryptographic techniques and incentivized through economic game theory. IOG has established its reputation for tackling difficult research questions in general, and for building formal and reliable foundations for the fintech blockchain infrastructure industry in particular.
 
-In this blog post, we take a look at some of the research papers that set the foundations of Cardano. 
+In this blog post, we take a look at some of the research papers that set the foundations of Cardano.
 
 ### Ouroboros
 
 The initial paper to drive the project's research was ‘[Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)’, which was academically peer-reviewed and published at Crypto 2017.
 
-Consensus lies at the heart of blockchain networks. Ouroboros is the proof-of-stake consensus protocol for Cardano. The name ‘Ouroboros’ comes from an ancient symbol that represents eternity and endless return. For Cardano, Ouroboros symbolizes the theoretical eternity of a blockchain.  
-  
+Consensus lies at the heart of blockchain networks. Ouroboros is the proof-of-stake consensus protocol for Cardano. The name ‘Ouroboros’ comes from an ancient symbol that represents eternity and endless return. For Cardano, Ouroboros symbolizes the theoretical eternity of a blockchain.
+
 Since 2017, a number of Ouroboros protocol versions have been produced. Each ‘flavor’ of Ouroboros adds different features and functionality to support Cardano’s evolution. Starting with [Ouroboros Classic](https://eprint.iacr.org/2016/889.pdf), the ledger has undergone regular upgrades. Ouroboros Classic established the foundation for an energy-efficient proof-of-stake consensus protocol in a federated setting (Cardano’s Byron development theme). [Praos](https://eprint.iacr.org/2017/573.pdf), [Genesis](https://eprint.iacr.org/2018/378.pdf), and [Chronos](https://eprint.iacr.org/2019/838.pdf) were designed to ensure enhanced security in a fully permissionless setting. While Genesis improved the Praos protocol, Chronos will make Genesis even more robust when implemented. [This blog post](https://iohk.io/en/blog/posts/2022/06/03/from-classic-to-chronos-the-implementations-of-ouroboros-explained/) describes the evolution of Ouroboros in more detail.
 
 Coupled with unique technology and mathematically verified mechanisms, Ouroboros realizes a ‘[Nakamoto-style consensus](https://bitcoin.org/bitcoin.pdf)’ adapted for proof of stake. Ouroboros provides the security and robustness guarantees as we know them from Bitcoin’s proof-of-work consensus while ensuring greater efficiency in terms of energy consumption. Rather than relying on miners to solve computationally complex problems to create a block, proof-of-stake participants create and validate blocks based on the stake they control in the network.
@@ -68,4 +68,4 @@ The reward-sharing scheme describes a means to [properly incentivize](https://io
 
 Cardano’s incentive model established an ecosystem where rational participants benefit from following the protocol, thereby enabling the secure and efficient operation of the Cardano blockchain. The result is a reliably operating, decentralized ledger secured by cryptographic techniques and game-theoretic reward mechanisms.
 
-*Stay tuned! In our next posts, we’ll take a closer look at some of the research papers that established the foundation for a functional smart-contract platform. Specifically, we’ll start with the research that enabled an extended UTxO model, explain what that actually means and how it enables the ledger to handle multi-assets and fees with a variety of benefits for users.*
+_Stay tuned! In our next posts, we’ll take a closer look at some of the research papers that established the foundation for a functional smart-contract platform. Specifically, we’ll start with the research that enabled an extended UTxO model, explain what that actually means and how it enables the ledger to handle multi-assets and fees with a variety of benefits for users._
