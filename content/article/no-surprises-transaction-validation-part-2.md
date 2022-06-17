@@ -22,7 +22,7 @@ Alonzo transaction validation is performed in two phases to ensure fair compensa
 
 **Article**:
 
-In our [previous blog post](https://iohk.io/en/blog/posts/2021/09/06/no-surprises-transaction-validation-on-cardano/), we discussed the deterministic nature of transaction and script validation on the Alonzo ledger, which provides assurance that the outcome of on-chain transaction application and script validation can be accurately predicted locally, before the transaction is ever submitted.
+In our [previous blog post](https://www.essentialcardano.io/article/no-surprises-transaction-validation-on-cardano), we discussed the deterministic nature of transaction and script validation on the Alonzo ledger, which provides assurance that the outcome of on-chain transaction application and script validation can be accurately predicted locally, before the transaction is ever submitted.
 
 Relying on the guarantees provided by the deterministic design of the Alonzo ledger, we have implemented a specific two-phase validation scheme. It is designed to minimize the resources the nodes use to validate network transactions while also eliminating unexpected costs for the user. In this blog post, we dive deeper into how the two-phase validation works.
 
