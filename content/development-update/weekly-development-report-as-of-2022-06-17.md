@@ -17,7 +17,7 @@ The **networking** team continued working on Stake Driven Peer Selection (P2P) a
 
 ### WALLETS AND SERVICES 
 
-The **Daedalus** team finished the upgrade implementation of Webpack 5. They continued working on the implementation of Matomo for collecting analytics data and worked on electron-rebuild to allow specifying [Node.js](Node.js) versions. On the **Lace Desktop**, the team finished implementing nix and resumed the API abstraction layer between the Lace UI components and the Cardano wallet backend. 
+The **Daedalus** team finished the upgrade implementation of Webpack 5. They continued working on the implementation of Matomo for collecting analytics data and worked on electron-rebuild to allow specifying [Node.js](Node.js) versions. On the **Lace Desktop**, the team finished implementing Nix and resumed the API abstraction layer between the Lace UI components and the Cardano wallet backend. 
 
 The **Lace** light wallet platform was presented at Consensus in Austin, TX last week. In case you missed it, make sure to watch its [presentation](https://www.youtube.com/watch?v=Q4Z83TSdEfg) by Charles Hoskinson and Alex Apeldoorn. You can also [sign up for updates](https://www.lace.io/?utm_campaign=Lace%20Platform&utm_source=IOG&utm_medium=blog&utm_term=lace&utm_content=registration%20is%20live) to find out when Lace becomes available. 
 
