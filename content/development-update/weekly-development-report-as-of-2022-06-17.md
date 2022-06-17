@@ -33,7 +33,7 @@ This week, **Project Catalyst** continued accepting new proposals for both chall
 
 Below, Harris Warren, IOG’s Group Product Manager for Governance, sums up what Project Catalyst is and how to get involved:
 
-[Fund9 is live and open for submissions - 16m ada available](https://youtu.be/pOdOWDuoOlM?__ec_inline=1)
+[Fund9 is live and open for submissions](https://youtu.be/pOdOWDuoOlM?__ec_inline=1)
 
 ### STATISTICS TO DATE
 
@@ -45,19 +45,13 @@ Below, Harris Warren, IOG’s Group Product Manager for Governance, sums up what
 
 **ノード、台帳、コンセンサス**チームはVasilハードフォークの準備を続けました。 DB Sync、Rosetta、GraphQL、ウォレットバックエンド、その他のコンポーネントをVasil対応にアップグレードする作業を進めました。CLIの機能性、V2テストスクリプトに取り組み、ノードをv.1.35.0-rc3に更新しました。テストプログラムで発生する問題への対応を続けました。
 
-  
-
 **ネットワーキング**チームは、Stake Driven Peer Selection（P2P）と動的ブロック生成機能への取り組みを続けました。引き続きインプットエンドーザー用TCPモデルに取り組みメッセージ拡散のアニメーションによる視覚化を生成できるようにし、ドキュメントを更新し、[ZuriHac2022](https://zfoh.ch/zurihac2022/)でio-simに関するワークショップを実施しました。
 
 ### ウォレットとサービス 
 
 **Daedalus**チームはWebpack [5のアップグレードを完了しました。分析データ収集用のMatomo実装作業を続け、Node.jsのバージョン指定を可能にするelectron](5のアップグレードを完了しました。分析データ収集用のMatomo実装作業を続け、Node.jsのバージョン指定を可能にするelectron)\-rebuildに取り組みました。**Lace Desktop**は、Nix実装を終え、Lace UIコンポーネントとCardanoウォレットバックエンドの間のAPI抽象化レイヤーを再導入しました。 
 
-  
-
 **Lace**ライトウォレットプラットフォームは、先週テキサス州オースティンで開催されたConsensusで紹介されました。見逃した方は、Charles HoskinsonとAlex Apeldoornによる[プレゼンテーション](https://www.youtube.com/watch?v=Q4Z83TSdEfg)をご覧ください。Lace配信の最新情報を受信するには、[こちらで登録](https://www.lace.io/?utm_campaign=Lace%20Platform&utm_source=IOG&utm_medium=blog&utm_term=lace&utm_content=registration%20is%20live)してください。 
-
-  
 
 **Adrestia**チームはAdrestiaコンポーネントをVasil対応にアップグレードし、cardano-js-sdkを本番環境にする準備を進め、新しいDB Sync上のHTTP APIの一部に改良を加えました。
 
@@ -71,7 +65,7 @@ Plutusチームと**Marlowe**チームは、[オースティンで開催され�
 
 IOGのガバナンスグループプロダクトマネージャーのHarris Warrenは、下の動画でProject Catalystについて、そしてその参加方法についてまとめています。
 
-[Fund9 is live and open for submissions - 16m ada available](https://youtu.be/pOdOWDuoOlM?__ec_inline=1)
+[Fund9 is live and open for submissions](https://youtu.be/pOdOWDuoOlM?__ec_inline=1)
 
 ### 現時点の統計
 
