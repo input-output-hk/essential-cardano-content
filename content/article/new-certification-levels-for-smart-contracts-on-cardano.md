@@ -15,7 +15,7 @@ image_text: A graphic of a figure on a computer screen with a graduation cap
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/10/25/new-certification-levels-for-smart-contracts-on-cardano/): October 25, 2021
 
-**Blurb**:
+**Summary**:
 
 Certification will bring high assurance to the development of decentralized applications (DApps) on Cardano
 
