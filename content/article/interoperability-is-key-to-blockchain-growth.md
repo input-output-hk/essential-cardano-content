@@ -16,7 +16,7 @@ image_text: Bridge
 
 Originally published on [IOHK.io](https://iog.io/en/blog/posts/2022/04/28/interoperability-is-key-to-blockchain-growth/): April 13, 2022
 
-**Blurb**:
+**Summary**:
 
 Bridges, sidechains, and the AGIX ERC20 converter are providing solutions for Cardano cross-chain development
 
