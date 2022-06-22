@@ -18,7 +18,7 @@ Published on [IOHK.io](https://iohk.io/en/blog/posts/2022/06/03/from-classic-to-
 
 *This post is an updated version of the original (created by Kieran Costello) that has been updated to cover new protocol versions.*
 
-**Blurb**:
+**Summary**:
 
 Ouroboros is the consensus protocol of Cardano. Here, we explain what it does and how it’s evolving
 
