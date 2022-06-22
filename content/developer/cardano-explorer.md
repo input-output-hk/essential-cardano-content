@@ -1,5 +1,5 @@
 ---
-title: Cexplorer: Cardano explorer
+title: "Cexplorer: Cardano explorer"
 tags:
   - explorer
   - browser
