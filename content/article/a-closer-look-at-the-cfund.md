@@ -17,7 +17,7 @@ image_text: A graphic of the cFund logo
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/07/28/a-closer-look-at-the-cfund/): July 28, 2021
 
-**Blurb**:
+**Summary**:
 
 First announced at last year’s Shelley summit, the cFund is an early-stage investment fund focused on innovative companies primarily utilizing the Cardano blockchain and its technology.
 
