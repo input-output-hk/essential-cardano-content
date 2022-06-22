@@ -15,7 +15,7 @@ image_text: Cardano enters the age of AI as it welcomes Grace
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/09/26/cardano-enters-the-age-of-ai-as-it-welcomes-grace-the-ai-robot-designed-to-revolutionize-global-healthcare/): October 28, 2021
 
-**Blurb**:
+**Summary**:
 
 Cardano will become a secure and private environment for Grace's AI modules, so her work can meet international healthcare requirements
 
