@@ -16,7 +16,7 @@ image_text: ""
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2022/03/21/increasing-the-transaction-throughput-of-cardano/): March 21st, 2022
 
-**Blurb**:
+**Summary**:
 
 Diffusion pipelining - scheduled for this summer - will increase the budget for block propagation and validation times, allowing for larger blocks and increased transaction throughput. Here’s a technical research perspective. (Along with an introduction to AV, its even more performant sibling…)
 
