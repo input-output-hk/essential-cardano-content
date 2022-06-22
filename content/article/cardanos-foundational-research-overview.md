@@ -16,7 +16,7 @@ image_text: "Here’s the first of a series of blog posts taking a closer look a
 
 Olga Hryniuk - Technical Writer
 
-**Blerb**:
+**Summary**:
 
 Here’s the first of a series of blog posts taking a closer look at the research underpinning Cardano
 
