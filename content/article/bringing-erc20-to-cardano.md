@@ -15,7 +15,7 @@ Francisco Landino - Project Manager
 
 Originally published on [IOHK.io:](https://iohk.io/en/blog/posts/2021/05/17/bringing-erc20-to-cardano/) May 17, 2021
 
-**Blurb**:
+**Summary**:
 
 Our new ERC20 converter will allow Ethereum tokens like AGI to run on our proof-of-stake blockchain – coming soon to testnet
 
