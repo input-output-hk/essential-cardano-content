@@ -17,7 +17,7 @@ Jane Wild
 
 Originally published on [IOHK.io](//IOHK.io): October 16, 2017
 
-**Blurb**:
+**Summary**:
 
 Hundreds of fans celebrate bright future for the cryptocurrency
 
