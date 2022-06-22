@@ -14,7 +14,7 @@ image_text: A graphic of the ₳ symbol
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2017/10/19/how-cardanos-transaction-fees-work/): October 19, 2017
 
-**Blurb**:
+**Summary**:
 
 The mathematician working on the protocol's incentives explains the research and IOHK's design
 
