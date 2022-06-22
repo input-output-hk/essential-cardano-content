@@ -16,7 +16,7 @@ image_text: A graphic of computer code
 
 Originally published on [IOG.io](//IOG.io): October 13, 2020
 
-**Blurb**:
+**Summary**:
 
 Writing in the language of finance, rather than the language of blockchain
 
