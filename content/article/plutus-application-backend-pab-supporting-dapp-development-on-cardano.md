@@ -16,7 +16,7 @@ image_text: PAB
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/10/28/plutus-application-backend-pab-supporting-dapp-development-on-cardano/): October 28, 2021
 
-**Blurb**:
+**Summary**:
 
 The PAB provides the components and an environment to help developers create and test DApps, before deploying them to a live production environment
 
