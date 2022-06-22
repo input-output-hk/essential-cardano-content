@@ -15,7 +15,7 @@ image_text: An image of Duncan Coutts and Edsko de Vries
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2020/05/07/combinator-makes-easy-work-of-shelley-hard-fork/): May 7, 2020
 
-**Blurb**:
+**Summary**:
 
 A behind-the-scenes look with Duncan Coutts and Edsko de Vries
 
