@@ -17,7 +17,7 @@ image_text: A graphic representing a smart contract
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/09/06/no-surprises-transaction-validation-on-cardano/): September 6, 2021
 
-**Blurb**:
+**Summary**:
 
 Cardano's EUTXO model enables the deterministic nature of Plutus script execution
 
