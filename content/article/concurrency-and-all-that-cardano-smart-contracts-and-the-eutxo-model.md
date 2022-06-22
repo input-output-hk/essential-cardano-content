@@ -12,11 +12,11 @@ image_text: A picture of a road with car lights on both sides of the road
 
 **Original author:**
 
-[Olga Hryniuk](https://iohk.io/en/team/olga-hryniuk) - VP Community & Ecosystem
+[Olga Hryniuk](https://iohk.io/en/team/olga-hryniuk) - Technical Writer
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/09/10/concurrency-and-all-that-cardano-smart-contracts-and-the-eutxo-model/): September 10, 2021
 
-**Blurb**:
+**Summary**:
 
 Cardano’s EUTXO model provides a secure and versatile environment to process multiple operations without system failures
 
