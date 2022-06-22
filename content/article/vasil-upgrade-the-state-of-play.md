@@ -16,7 +16,7 @@ image_text: the Cardano logo
 
 Originally published on [IOHK.io](//IOHK.iohttps://iohk.io/en/blog/posts/2022/06/20/vasil-upgrade-the-state-of-play/): June 20, 2022
 
-**Blurb**:
+**Summary**:
 
 Very close but a little further still to go. Here’s an update on the progress towards the Vasil upgrade
 
