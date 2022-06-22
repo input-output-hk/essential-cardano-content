@@ -15,7 +15,7 @@ image_text: A yellow fish swimming in water
 
 Originally published on [IOG.io](https://iohk.io/blog/posts/2021/02/25/babel-fees/ ): February 25, 2021
 
-**Blurb**:
+**Summary**:
 
 Introducing a novel mechanism that allows the payment of transaction fees in user-defined tokens on Cardano.
 
