@@ -16,7 +16,7 @@ image_text: Portrait of Mary Shelley by Richard Rothwell (1800-1868)
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/02/04/native-tokens-to-bring-new-utility-to-life-on-cardano/): February 4th, 2021
 
-**Blurb**:
+**Summary**:
 
 Users will soon be able to create their own on-chain tokens for transactions on Cardano
 
