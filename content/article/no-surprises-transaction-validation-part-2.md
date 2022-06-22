@@ -16,7 +16,7 @@ image_text: ""
 
 Originally published on IOHK.io: September 7, 2021
 
-**Blurb**:
+**Summary**:
 
 Alonzo transaction validation is performed in two phases to ensure fair compensation for validation work
 
