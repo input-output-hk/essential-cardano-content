@@ -15,7 +15,7 @@ image_text: A graphic representing decentralization
 
 Originally published on [IOG.io](https://iog.io/en/blog/posts/2022/01/10/defi-demystified/): January 10, 2022
 
-**Blurb**:
+**Summary**:
 
 With the Cardano ecosystem set to grow exponentially in 2022, now is the time to get to grips with some of the prime principles – and jargon – behind DeFi
 
