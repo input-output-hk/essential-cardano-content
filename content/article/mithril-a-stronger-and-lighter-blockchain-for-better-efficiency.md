@@ -15,7 +15,7 @@ image_text: A graphic of beaming lights
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/10/29/mithril-a-stronger-and-lighter-blockchain-for-better-efficiency/): October 29, 2021
 
-**Blurb**:
+**Summary**:
 
 A new IOHK-developed protocol acts as a stake-based threshold signature scheme allowing for transparent, secure, and lightweight stake leveraging
 
