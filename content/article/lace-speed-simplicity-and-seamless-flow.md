@@ -14,7 +14,7 @@ image_text: ""
 
 Olga Hryniuk - Technical Writer
 
-**Blerb**:
+**Summary**:
 
 IOG’s new light wallet – now in development – will help drive adoption by offering enhanced capability and ease of use to crypto users
 
