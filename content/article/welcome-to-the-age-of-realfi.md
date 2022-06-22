@@ -15,7 +15,7 @@ image_text: A picture of money on a world map
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/11/25/welcome-to-the-age-of-realfi/): November 25, 2021
 
-**Blurb**:
+**Summary**:
 
 By integrating digital identity with Cardano, we can create real value and opportunity for people across the globe
 
