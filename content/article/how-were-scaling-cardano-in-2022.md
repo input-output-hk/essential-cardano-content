@@ -16,7 +16,7 @@ image_text: Scaling Cardano
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/): January 14, 2022
 
-**Blurb**:
+**Summary**:
 
 With core smart contract capability now deployed, the next phase for Cardano focuses on performance optimization and scaling. And it starts right here…
 
