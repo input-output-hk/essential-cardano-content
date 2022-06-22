@@ -16,7 +16,7 @@ image_text: Wolfram NFT
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/12/27/review-of-2021-the-year-fun-came-to-cardano-with-beeple-nfts-robots-and-blockchain-graffiti/): December 27, 2021
 
-**Blurb**:
+**Summary**:
 
 Beeple used to illustrate our blog posts, but art NFTs made him a millionaire, and then AI and DeFi arrived
 
