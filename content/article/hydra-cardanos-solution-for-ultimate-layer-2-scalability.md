@@ -16,7 +16,7 @@ image_text: A graphic representing the Hydra beast
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/): September 17, 2021
 
-**Blurb**:
+**Summary**:
 
 Scalability is baked into the Cardano development roadmap; enter Hydra
 
