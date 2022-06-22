@@ -16,7 +16,7 @@ image_text: Diving deeper into the Marlowe Playground
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2022/03/04/diving-deeper-into-the-marlowe-playground/): March 4th, 2022
 
-**Blurb:**
+**Summary:**
 
 Learn how to make your own templates from Marlowe contracts and provide hints to users using custom metadata
 
