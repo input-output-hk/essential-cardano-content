@@ -14,7 +14,7 @@ image_text: A graphic with the word 'Ouroboros'
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2020/06/23/the-ouroboros-path-to-decentralization/): June 23, 2020
 
-**Blurb**:
+**Summary**:
 
 The protocol that powers Cardano and its design philosophy
 
