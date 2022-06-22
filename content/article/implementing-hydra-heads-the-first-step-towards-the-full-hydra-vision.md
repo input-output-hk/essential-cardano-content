@@ -15,7 +15,7 @@ Matthias Benkort
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2022/02/03/implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision/): February 3, 2022
 
-**Blurb**:
+**Summary**:
 
 The Hydra Head, the first in a suite of protocols, is an important element of Cardano’s scaling journey. Let’s see how it fits into the bigger picture. And maybe bust some myths
 
