@@ -16,7 +16,7 @@ image_text: Plutus
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2022/04/13/boosting-cardano-s-throughput-with-script-referencing/): April 13, 2022
 
-**Blurb**:
+**Summary**:
 
 We take a closer look at just some of the enhancements coming to Cardano in June
 
