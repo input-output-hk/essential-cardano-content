@@ -15,7 +15,7 @@ image_text: A picture of a road with car lights on both sides of the road
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/11/26/network-traffic-and-tiered-pricing/): November 26, 2021
 
-**Blurb**:
+**Summary**:
 
 Decentralized finance will continue to build demand on Cardano. Our research project is looking at ways to maintain fair access and throughput for every user
 
