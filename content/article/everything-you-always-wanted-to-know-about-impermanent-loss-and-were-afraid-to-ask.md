@@ -17,7 +17,7 @@ tags:
   - Liquid Staking
 url: ""
 image: https://ucarecdn.com/6e35690e-712f-4e0a-bac9-0b313ffaf030/
-image_text: How the EUTxO model is better for the predictability of impermanent
+image_text: How the EUTXO model is better for the predictability of impermanent
   loss than ETH (accounts model)
 ---
 
@@ -25,9 +25,9 @@ _Disclaimer: Nothing in this article is intended to be professional advice, incl
 
 **Original author:**
 
-[Fernando Sanchez](iohk-io/en/blog/posts/2022/05/27/everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask/) - Technical Writer
+Fernando Sanchez - Technical Writer
 
-Originally published on [IOHK.io](//IOHK.io): May 27th, 2022
+Originally published on [IOHK.io](iohk-io/en/blog/posts/2022/05/27/everything-you-always-wanted-to-know-about-impermanent-loss-and-were-afraid-to-ask/): May 27th, 2022
 
 **Article:**
 
