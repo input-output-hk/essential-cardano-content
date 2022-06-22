@@ -16,7 +16,7 @@ image_text: Djed stablecoin
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/09/26/coti-to-issue-djed-stablecoin-on-cardano/): September 26, 2021
 
-**Blurb**:
+**Summary**:
 
 Innovative coin for the fast-growing ecosystem announced today at Cardano Summit 2021
 
