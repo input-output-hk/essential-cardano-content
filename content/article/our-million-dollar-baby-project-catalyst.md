@@ -14,7 +14,7 @@ image_text: An image of a spaceship launch
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/02/12/our-million-dollar-baby-project-catalyst/): February 12, 2021
 
-**Blurb**:
+**Summary**:
 
 The next Catalyst funding round will be our most accessible and ambitious round of funding yet
 
