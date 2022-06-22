@@ -14,7 +14,7 @@ image_text: Wanchain <> Cardano
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2022/04/27/guest-blog-collaborating-on-cardano-interoperability/): April 27th, 2022
 
-**Blurb**:
+**Summary**:
 
 Today we’re announcing new interoperability solutions between Cardano and EVM blockchains.
 
