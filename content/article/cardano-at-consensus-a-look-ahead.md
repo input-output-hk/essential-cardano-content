@@ -13,7 +13,7 @@ image_text: ""
 
 Fernando Sanchez - Technical Writer
 
-**Blerb:**
+**Summary:**
 
 It’s one of the premier blockchain industry events of the year. And IOG is going to be there. Here's what’s happening…
 
