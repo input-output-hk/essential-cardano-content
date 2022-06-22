@@ -16,7 +16,7 @@ image_text: An image of a calculator
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2022/01/21/plutus-fee-estimator-find-out-the-cost-of-transacting-on-cardano/): January 21, 2022
 
-**Blurb**:
+**Summary**:
 
 Our new fee estimator – released today – will help developers estimate the cost of smart contract scripts for maximum efficiency and minimum cost
 
