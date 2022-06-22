@@ -15,7 +15,7 @@ image_text: How a smart microchip can work with an advanced blockchain to defeat
 
 Neil Burgess
 
-**Blerb**:
+**Summary**:
 
 How a smart microchip can work with an advanced blockchain to defeat product counterfeiters
 
