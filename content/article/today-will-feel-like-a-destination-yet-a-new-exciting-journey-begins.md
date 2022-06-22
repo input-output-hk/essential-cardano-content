@@ -17,7 +17,7 @@ image_text: ""
 
 Originally published on [IOHK.io](https://iohk.io/en/blog/posts/2021/09/12/today-will-feel-like-a-destination-yet-a-new-exciting-journey-begins/): September 12, 2021
 
-**Blurb:**
+**Summary:**
 
 The Alonzo upgrade is an epochal moment in the birth of a new ecosystem
 
