@@ -24,7 +24,7 @@ Taking a closer look at Cardano’s research, part 2. Here’s more on Cardano�
 
 **Article**:
 
-Our previous [blog post](https://iohk.io/en/blog/posts/2022/06/10/cardanos-foundational-research-overview/) discussed the research underpinning some of the core elements of Cardano, including staking, delegation, and reward sharing. This time, we outline the papers that helped establish a functional smart contract platform for decentralized application (DApp) development – enabled by the [Extended Unspent Transaction Output](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/) (EUTXO) accounting model.
+Our previous [blog post](https://www.essentialcardano.io/article/cardanos-foundational-research-overview) discussed the research underpinning some of the core elements of Cardano, including staking, delegation, and reward sharing. This time, we outline the papers that helped establish a functional smart contract platform for decentralized application (DApp) development – enabled by the [Extended Unspent Transaction Output](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/) (EUTXO) accounting model.
 
 ## UTXO vs account-based model
 
@@ -38,7 +38,7 @@ Manuel Chakravarty, Lambda scientist and Plutus architect at Input Output Global
 
 > The UTXO ledger model, battle-tested by Bitcoin, remains the gold standard for security and scalability. We created the Extended UTXO (EUTXO) model to gain the level of smart contract expressiveness pioneered by Ethereum, while still maintaining UTXO's unrivaled security and scalability. We simply wanted the best of both worlds!
 
-‘The Extended UTXO Model’ research paper demonstrates the ability of EUTXO to continually maintain the contract state and use the same contract code along the entire sequence of transactions. Another powerful feature of the EUTXO model is that the fees required for a valid transaction can be predicted precisely before posting it. This is a unique feature driven by the [deterministic design of the EUTXO model](https://iog.io/en/blog/posts/2021/09/06/no-surprises-transaction-validation-on-cardano/), which is not found in account-based models.
+‘The Extended UTXO Model’ research paper demonstrates the ability of EUTXO to continually maintain the contract state and use the same contract code along the entire sequence of transactions. Another powerful feature of the EUTXO model is that the fees required for a valid transaction can be predicted precisely before posting it. This is a unique feature driven by the [deterministic design of the EUTXO model](https://www.essentialcardano.io/article/no-surprises-transaction-validation-on-cardano), which is not found in account-based models.
 
 ### Plutus
 
