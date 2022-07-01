@@ -11,7 +11,7 @@ image_text: Cardano data on BigQuery
 
 **Summary**:
 
-Taking a closer look at Cardano’s research, part 2. Here’s more on Cardano’s innovative EUTXO model and how it facilitates more efficient smart contracts 
+BigQuery allows querying Cardano data quickly, seamlessly, and at a low cost
 
 **Article**:
 
