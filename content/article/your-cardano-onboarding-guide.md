@@ -12,8 +12,6 @@ image: https://ucarecdn.com/47797035-a45c-4e27-aaa1-93fc562801e7/
 image_text: Getting started with Cardano
 ---
 
-## Your Cardano onboarding guide
-
 New to Cardano? No worries, here’s a list of essentials to get you started
 
 > _Disclaimer: Nothing in this article is intended to be professional advice, including without limitation, financial, investment, legal or tax advice. IO Global is not responsible for your use of or reliance on any information in this article._
@@ -68,15 +66,16 @@ Let’s start with some simple payments. You will first need to choose and creat
 
 1.  Explore different **Cardano** wallet products and get the one that best suits your needs.
     
-    * Here is an article on the various types of cryptocurrency wallets and examples of wallet products/providers for Cardano to choose from: [Types of Wallets](https://docs.cardano.org/new-to-cardano/types-of-wallets).
-    
-    * Nami and [Eternl](https://eternl.io/app/mainnet/welcome) are two most recommended wallets by the community to start with, for desktop users. For mobile users, Eternl and [Flint Wallet](https://docs.cardano.org/new-to-cardano/types-of-wallets) are the go-to options that are largely adopted by the community.
-    
+    *   Here is an article on the various types of cryptocurrency wallets and examples of wallet products/providers for Cardano to choose from: [Types of Wallets](https://docs.cardano.org/new-to-cardano/types-of-wallets).
+        
+    *   Nami and [Eternl](https://eternl.io/app/mainnet/welcome) are two most recommended wallets by the community to start with, for desktop users. For mobile users, Eternl and [Flint Wallet](https://docs.cardano.org/new-to-cardano/types-of-wallets) are the go-to options that are largely adopted by the community.
+        
 2.  Explore and choose a cryptocurrency exchange (in your jurisdiction) to get some ada: [How to purchase ada?](https://docs.cardano.org/new-to-cardano/how-to-purchase-ada)
     
 3.  Try out the wallet: ask a fellow Cardano community member for their wallet address and try exchanging (sending/receiving) small amounts of ada with them. 
     
 4.  You're now a Cardano user experiencing the world of Web3 and crypto! You can track your transactions and account activities using [Cardano Explorer](http://explorer.cardano.org). Learn how to use the tracking tools to do this: [Cardano tracking tools](https://docs.cardano.org/new-to-cardano/cardano-tracking-tools).
+    
 
 **Understanding staking and delegation** 
 
@@ -169,6 +168,7 @@ Cardano provides the possibility to work with Plutus and Marlowe contracts:
     
 *   Marlowe is a ‘domain specific’ language designed specially for writing financial smart contracts. It is limited to financial applications and its ‘low-code’ approach means it is perfect for experts in finance rather than in programming.
     
+
 If you’re interested in learning how to write Plutus and Marlowe contracts, you can take part in the [Plutus Pioneer](https://testnets.cardano.org/en/plutus-pioneer-program/) and [Marlowe Pioneer](https://pioneers.marlowe-finance.io/) training courses.
 
 ### Digital identity
