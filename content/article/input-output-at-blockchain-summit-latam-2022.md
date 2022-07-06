@@ -1,7 +1,10 @@
 ---
 title: Input Output at Blockchain Summit Latam 2022
 tags:
-  - Cardano
+  - Input Output
+  - Blockchain Summit Latam
+  - Blockchain
+  - NFT
 url: ""
 image: https://ucarecdn.com/aba63be5-a927-477a-aef5-16c28b8ab57b/
 image_text: A graphic of the Blockchain Summit Latam logo
