@@ -20,7 +20,7 @@ Our [previous post](https://iohk.io/en/blog/posts/2022/06/23/overview-of-the-res
 
 Ethereum is known for providing the ability to create various user-defined assets (tokens). However, Ethereum’s token standards are not directly supported by the ledger and require repetitive custom code. This adds a layer of complexity, extra cost, and inefficiency since token code is replicated and adapted rather than being part of the system itself. This leaves room for human error and can introduce bugs potentially leading to financial losses.
 
-The research paper ‘[UTXOma: UTXO with Multi-Asset Support](https://iohk.io/en/research/library/papers/utxomautxo-with-multi-asset-support/)’ was written by IOG scientists and presented at the [ISoLA 2020](https://easyconferences.eu/portfolio/isola-2020/) conference. The paper studies the creation of a wide range of user-defined tokens through the use of contract scripts called _minting policies_.
+The research paper ‘[UTXOma: UTXO with Multi-Asset Support](https://iohk.io/en/research/library/papers/utxomautxo-with-multi-asset-support/)’ was written by IOG scientists and presented at the ISoLA 2020 conference. The paper studies the creation of a wide range of user-defined tokens through the use of contract scripts called _minting policies_.
 
 The paper explores an alternative design to user-defined asset creation based on Bitcoin-style UTXO ledgers. It proposes an extension of the UTXO model, where the accounting structure of a single cryptocurrency is replaced with a new structure that manages an unbounded number of user-defined, native tokens, called _token bundles_.
 
