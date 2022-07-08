@@ -12,8 +12,6 @@ image_text: ""
 
 ### A guest blog post by Dr. Weijia Zhang and Temujin Louie
 
-Originally published on [IOHK.IO](https://iohk.io/en/blog/posts/2022/07/08/bridges-and-sidechains-wanchain-making-cardano-interoperable/)
-
 Several months ago, a team from [Wanchain](https://www.wanchain.org/) reached out to Input Output Global, Inc. (“IOG”) to discuss how to enable interoperability between the Cardano mainnet, Cardano sidechains, and other heterogeneous blockchain networks.
 
 The goal? To build the infrastructure required to enable true RealFi applications spanning multiple blockchains to drive the adoption of Cardano’s ecosystem, Wanchain’s network-agnostic blockchain interoperability solutions, and support the future of Web3.  
