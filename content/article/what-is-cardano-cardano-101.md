@@ -48,7 +48,6 @@ Decentralization is one of Cardano's main drivers, built around three central pi
     
 *   Governance
     
-
 These three elements combined form a fully decentralized environment where power shifts from monopolistic entities to the individual. Decentralization dissolves the concentration of power by enabling peers to make choices and decisions, and returning ownership of personal information where it belongs- with the users.
 
 On March 31, 2021, Cardano's block production became fully decentralized. On that day, [the stake pool operator (SPO) community began producing 100% of new blocks](https://iog.io/en/blog/posts/2021/03/31/decentralization-to-d-0-day-and-beyond/). This was an important milestone on the way to Cardano's ultimate destination; the creation of a platform wholly and democratically operated and controlled through a global community of SPOs, developers, and ada holders.  
@@ -64,7 +63,6 @@ The Cardano architecture features three layers:
     
 *   Network layer
     
-
 **Consensus layer**
 
 This layer performs two fundamental functions:
@@ -73,7 +71,6 @@ This layer performs two fundamental functions:
     
 *   Maintaining all the state that is required to make the decisions taken in the consensus layer.
     
-
 **Ledger layer**
 
 This layer specifies:
@@ -82,7 +79,6 @@ This layer specifies:
     
 *   How the ledger must be updated for each new block.
     
-
 The ledger layer consists exclusively of pure functions that specify the transitions between successive ledger states, as derived from the formal ledger rules, using the [Extended UTXO (EUTXO)](https://api.zotero.org/groups/478201/items/T24L95MI/file/view?key=Qcjdk4erSuUZ8jvAah59Asef) accounting model. The state transitions are driven by the set of transactions contained within the Cardano blocks, and by major events such as epoch boundary transitions and hard fork combinator events.
 
 The consensus layer does not need to know the exact nature of the ledger state, nor the contents of the blocks, apart from some header fields required to run the consensus protocol.
@@ -91,8 +87,7 @@ The consensus layer does not need to know the exact nature of the ledger state, 
 
 This layer maintains the connections between all the distributed nodes in the Cardano network, obtains new blocks from the network as they are produced by block producing nodes, builds newly minted transactions into blocks, and transmits blocks between nodes.
 
-###   
-Cryptography
+###   Cryptography
 
 Cardano uses strong cryptographic primitives to securely create and send transactions, and to protect the security and integrity of the protocol. 
 
@@ -106,7 +101,6 @@ Cardano utilizes asymmetric key pairs for:
     
 *   Identifying and defining addresses on the Cardano blockchain  
     
-
 Key pairs include a public and a private key. By using their private key, users provide cryptographic proof that they indeed own the coins or assets they're using.
 
 Cryptography also provides security for the consensus protocol. The two main mechanisms are:
@@ -134,7 +128,6 @@ The network's P2P architecture includes four elements:
     
 *   Inbound Protocol Governor
     
-
 [Read more](https://iohk.io/en/blog/posts/2021/04/06/boosting-network-decentralization-with-p2p/) about P2P communication in Cardano.
 
 [Read more](https://iohk.io/en/blog/posts/2021/03/31/decentralization-to-d-0-day-and-beyond/) about Cardano’s decentralization drive.  
@@ -151,8 +144,7 @@ So why was this mythical creature chosen to represent the proof-of-stake consens
 
 Ouroboros' central message is the delivery of greater opportunities for the world, and its preservation through much-reduced energy consumption.
 
-###   
-What makes Ouroboros unique?
+###What makes Ouroboros unique?
 
 Ouroboros is the first provably secure proof-of-stake blockchain protocol. In other words, Ouroboros offers _mathematically verifiable_ security against attackers. The protocol is guaranteed to be secure, as long as 51% of the stake is held by honest participants.
 
@@ -190,7 +182,6 @@ Sidechains give two immediate advantages to a network:
     
 2.  Scalability
     
-
 **New features**
 
 The addition of sidechains enables blockchain developers to add new features to a network without introducing additional security risks. These added features open up the possibility for developers building on top of the network to explore new use cases.
@@ -198,7 +189,6 @@ The addition of sidechains enables blockchain developers to add new features to 
 Also, sidechains can inherit some (or all) features (ledger model, consensus mechanism, etc.) from their parent chain, and pair them with features that might not exist on the main chain. For example, a sidechain can combine different security models, consensus protocols, or governance models to create a brand new blockchain that can interoperate with other blockchain networks.
 
 The EVM sidechain is a Cardano sidechain -which is currently underway- this sidechain will enable Solidity DApps and EVM developers to build on the Cardano platform. In this way, developers can easily expand their community's reach into Cardano and benefit from the blockchain's existing capabilities.
-
   
 **Scalability**
 
@@ -206,8 +196,7 @@ Sidechains enable a high degree of versatility and scalability. A blockchain can
 
 Sidechains do have one drawback: in most cases, they're not operated by the same nodes or network as the mainchain, which means that sidechain nodes will need to trust the sidechain's security model. The EVM sidechain however will implement a sidechain that will inherit Cardano’s security model.
 
-##   
-Hydra
+## Hydra
 
 Hydra is a layer 2 solution for Cardano. It is not a single protocol, but rather a family of layer 2 protocols designed to address network security and scalability capabilities. As part of the Basho development phase, Hydra focuses on steady network optimizations and improvements to establish a scalable, versatile, and high-throughput blockchain. The Hydra suite of protocols includes the Hydra Head protocol, Interhead Hydra, Hydra Tail, etc.  
 
@@ -217,8 +206,7 @@ Hydra Heads are isomorphic multi-party state channels and form fast and secure o
 
 This technology can also produce advanced layer 2 solutions, including networks of Hydra Heads that would support fast and cheap consumer-to-consumer payments, or Interhead Hydra, which could introduce seamless smart contract scalability.
 
-##   
-Mithril
+## Mithril
 
 Mithril is a research and engineering effort carried out by IOG to boost the efficiency and speed of data synchronization, state bootstrapping, and trust issues in blockchain applications. As part of the Basho development phase, [Mithril](https://eprint.iacr.org/2021/916.pdf) is now in development to be applied as a protocol on Cardano. 
 
@@ -264,8 +252,7 @@ Plutus draws from modern language research to provide a safe, full-stack program
 
 Watch the latest [Plutus update](https://youtu.be/zUerLu_GOQs) video. 
 
-###   
-Marlowe
+### Marlowe
 
 Marlowe is a domain-specific language (DSL) for writing and executing financial contracts. 
 
@@ -275,8 +262,7 @@ Marlowe provides a suite of products for the community that will foster the adop
 
 Marlowe also aims to facilitate new possibilities of financial innovation and aims to become the technology powering a host of smart contract based-financial services.
 
-##   
-Chain comparisons
+## Chain comparisons
 
 ### How does Cardano differ from Bitcoin?  
 
@@ -332,8 +318,7 @@ Both chains also differ in their core architecture: Algorand features two layers
 
 In terms of non-fungible tokens (NFTs), Algorand users can create NFTs using a system built into the protocol, without the need for smart contracts. Cardano users can create NFTs in a variety of ways.
 
-##   
-Financial aspects
+## Financial aspects
 
 ### The ada token: definition and functionality
 
@@ -351,7 +336,6 @@ As described below, ada holders can opt to _stake_ their ada holding in order to
     
 *   transfer ada tokens to other users
     
-
 1 ada is divided into 1,000,000 lovelace.
 
 ### Staking
@@ -372,8 +356,7 @@ Cardano integrates decentralized identity to open up a brand new range of opport
 
 RealFi is an ecosystem of products that remove the frictions between real world economic activities to offer greater access and cheaper credit/financial products for real people.
 
-##   
-Wallets
+## Wallets
 
 ### Daedalus
 
@@ -387,8 +370,7 @@ Daedalus comes bundled with a full Cardano node, so requires a relatively high s
 
 Yoroi allows for instant initial setup, plus quick and easy operation with the minimum usage of system resources. It is also available as a mobile application.
 
-###   
-Hardware wallets
+### Hardware wallets
 
 Daedalus supports a range of hardware wallets to keep ada secure.
 
@@ -402,35 +384,21 @@ Daedalus supports a range of hardware wallets to keep ada secure.
 ### Other compatible wallets
 
 Cardano boasts of a thriving and very active developer community that has developed a number of compatible wallets. These include:
+ 
+- [Nami](https://namiwallet.io/) 
+- [Eterni](https://ccvault.io/)
+- [Flint](https://flint-wallet.com/)
+- [Gero](https://gerowallet.io/)
+- [Exodus](https://www.exodus.com/ada-cardano-wallet)
+- [AdaLite](https://adalite.io/)
+- [Typhon](https://typhonwallet.io/)
+- [NuFi](https://nu.fi/)
 
-  
-[Nami](https://namiwallet.io/) 
-
-[Eterni](https://ccvault.io/)
-
-[Flint](https://flint-wallet.com/)
-
-[Gero](https://gerowallet.io/)
-
-[Exodus](https://www.exodus.com/ada-cardano-wallet)
-
-[AdaLite](https://adalite.io/)
-
-[Typhon](https://typhonwallet.io/)
-
-[NuFi](https://nu.fi/)
-
-##   
-Governance
+## Governance
 
 ### Liquid Democracy
 
-##   
-  
-  
-
 One of the key pillars for Cardano's viability is active community engagement and participation. This necessitates an effective governance mechanism. Using an iterative, anti-fragile approach and setting high standards for effective decision making, IOG provides the Cardano community with the mechanisms and human-processes required to help decide & build the future of Cardano.
-
   
 IOG plans to deliver this through **absolute Liquid democracy** - collective decision-making through direct participation and dynamic representation.
 
@@ -511,15 +479,13 @@ Native support offers distinct advantages for developers: there is no need to cr
 
 Due in part to the ease of creation and low minting costs, the NFT space has rapidly grown to be one of the most vibrant and creative elements of the early Cardano ecosystem, with over 400 projects and NFT marketplaces launched and live by early 2022. As of late March, 2022, over [4 million NFTs have minted on Cardano](https://twitter.com/mtschofield/status/1506575854217928706).
 
-###   
-Cardano non-fungible tokens (CNFT) marketplace
+### Cardano non-fungible tokens (CNFT) marketplace
 
 The Cardano non-fungible tokens (CNFT) is a community created- and led- [marketplace](https://cnft.io/) for NFTs built on Cardano.
 
 Launched in 2021 by a multi-national team of NFT creators, the site became the first marketplace for all Cardano NFTs.
 
-##   
-Cardano resources and further reading
+## Cardano resources and further reading
 
 ### Technical documentation
 
@@ -565,8 +531,6 @@ Browse our [extensive library](https://iohk.io/en/research/) of published papers
 
 We regularly publish [blog posts](https://iohk.io/en/blog/posts/page-1/) reflecting updates, new features, and relevant Cardano stories.
 
-##   
-Glossary
+## Glossary
 
-  
 [Browse](https://www.essentialcardano.io/glossary) all Cardano-related terms.
