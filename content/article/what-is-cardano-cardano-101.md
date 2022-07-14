@@ -2,10 +2,26 @@
 title: What is Cardano (Cardano 101)
 tags:
   - ada
-  - Cardano
+  - Ouroboros
+  - Open Source
+  - NFT
+  - Native tokens
+  - Blog
+  - Glossary
+  - Wallet
+  - Rewards
+  - Staking
+  - Stake pool
+  - Smart Contracts
+  - "101"
+  - Catalyst Circle
+  - Hard fork
+  - Hard fork combinator
+  - Code
+  - Catalyst
 url: ""
-image: https://ucarecdn.com/16e45b74-b5e5-40a9-9a8c-d22a14333cde/
-image_text: ""
+image: https://ucarecdn.com/cc7fa8e4-40aa-4fde-bb4d-c1efe0fc3e0b/
+image_text: Cardano 101 - All you need to know
 ---
 
 ## What is Cardano?
@@ -30,7 +46,7 @@ With over 600 staff (as of May 2022), IOG is an ever-expanding constellation for
 
 ## The Cardano blockchain
 
-Cardano is a third generation, open source, proof-of-stake blockchain platform. Its name derives from [Gerolamo Cardano](https://www.britannica.com/biography/Girolamo-Cardano), a mid-16th century Italian physician and mathematician. Third generation blockchain platforms are designed to resolve the issues that the first two generations (Bitcoin and Ethereum) suffer from, including _scalability_ and _interoperability,_ while fulfilling an ambitious agenda of _decentralization._
+Cardano is a third-generation, open source, proof-of-stake blockchain platform. Its name derives from [Gerolamo Cardano](https://www.britannica.com/biography/Girolamo-Cardano), a mid-16th century Italian physician and mathematician. Third-generation blockchain platforms are designed to resolve the issues that the first two generations (Bitcoin and Ethereum) suffer from, including _scalability_ and _interoperability,_ while fulfilling an ambitious agenda of _decentralization._
 
 The Cardano platform combines pioneering technologies based on peer-reviewed research to provide unparalleled security and sustainability to decentralized applications, systems, and communities worldwide. Cardano is about openness, fairness, and inclusivity. 
 
@@ -48,7 +64,8 @@ Decentralization is one of Cardano's main drivers, built around three central pi
     
 *   Governance
     
-These three elements combined form a fully decentralized environment where power shifts from monopolistic entities to the individual. Decentralization dissolves the concentration of power by enabling peers to make choices and decisions, and returning ownership of personal information where it belongs- with the users.
+
+These three elements combined form a fully decentralized environment where power shifts from monopolistic entities to the individual. Decentralization dissolves the concentration of power by enabling peers to make choices and decisions, and returning ownership of personal information where it belongs - with the users.
 
 On March 31, 2021, Cardano's block production became fully decentralized. On that day, [the stake pool operator (SPO) community began producing 100% of new blocks](https://iog.io/en/blog/posts/2021/03/31/decentralization-to-d-0-day-and-beyond/). This was an important milestone on the way to Cardano's ultimate destination; the creation of a platform wholly and democratically operated and controlled through a global community of SPOs, developers, and ada holders.  
 Technology
@@ -63,6 +80,7 @@ The Cardano architecture features three layers:
     
 *   Network layer
     
+
 **Consensus layer**
 
 This layer performs two fundamental functions:
@@ -71,6 +89,7 @@ This layer performs two fundamental functions:
     
 *   Maintaining all the state that is required to make the decisions taken in the consensus layer.
     
+
 **Ledger layer**
 
 This layer specifies:
@@ -79,6 +98,7 @@ This layer specifies:
     
 *   How the ledger must be updated for each new block.
     
+
 The ledger layer consists exclusively of pure functions that specify the transitions between successive ledger states, as derived from the formal ledger rules, using the [Extended UTXO (EUTXO)](https://api.zotero.org/groups/478201/items/T24L95MI/file/view?key=Qcjdk4erSuUZ8jvAah59Asef) accounting model. The state transitions are driven by the set of transactions contained within the Cardano blocks, and by major events such as epoch boundary transitions and hard fork combinator events.
 
 The consensus layer does not need to know the exact nature of the ledger state, nor the contents of the blocks, apart from some header fields required to run the consensus protocol.
@@ -87,7 +107,7 @@ The consensus layer does not need to know the exact nature of the ledger state, 
 
 This layer maintains the connections between all the distributed nodes in the Cardano network, obtains new blocks from the network as they are produced by block producing nodes, builds newly minted transactions into blocks, and transmits blocks between nodes.
 
-###   Cryptography
+### Cryptography
 
 Cardano uses strong cryptographic primitives to securely create and send transactions, and to protect the security and integrity of the protocol. 
 
@@ -99,8 +119,9 @@ Cardano utilizes asymmetric key pairs for:
     
 *   Multi-signature transactions
     
-*   Identifying and defining addresses on the Cardano blockchain  
+*   Identifying and defining addresses on the Cardano blockchain
     
+
 Key pairs include a public and a private key. By using their private key, users provide cryptographic proof that they indeed own the coins or assets they're using.
 
 Cryptography also provides security for the consensus protocol. The two main mechanisms are:
@@ -128,15 +149,16 @@ The network's P2P architecture includes four elements:
     
 *   Inbound Protocol Governor
     
+
 [Read more](https://iohk.io/en/blog/posts/2021/04/06/boosting-network-decentralization-with-p2p/) about P2P communication in Cardano.
 
-[Read more](https://iohk.io/en/blog/posts/2021/03/31/decentralization-to-d-0-day-and-beyond/) about Cardano’s decentralization drive.  
+[Read more](https://iohk.io/en/blog/posts/2021/03/31/decentralization-to-d-0-day-and-beyond/) about Cardano’s decentralization drive.
 
 ### Ouroboros
 
 Cardano's proof-of-stake consensus protocol.
 
-In mythology, Ouroboros (also, _uroboros_) is usually depicted as a snake (or sometimes a dragon) eating its own tail in a closed circle. The word Ouroboros itself derives from Ancient Greek, its literal meaning being 'tail eating' or 'tail devourer.'
+In mythology, Ouroboros (also, _Uroboros_) is usually depicted as a snake (or sometimes a dragon) eating its own tail in a closed circle. The word Ouroboros itself derives from Ancient Greek, its literal meaning being 'tail eating' or 'tail devourer.'
 
 As a symbol, Ouroboros represents the infinity of time flowing back unto itself, in a never-ending cycle, as if caught in an eternal loop. Ouroboros first appeared in Egypt, in the 13th century BC. Later, alchemists adopted Ouroboros into their mystical symbolism.
 
@@ -144,11 +166,11 @@ So why was this mythical creature chosen to represent the proof-of-stake consens
 
 Ouroboros' central message is the delivery of greater opportunities for the world, and its preservation through much-reduced energy consumption.
 
-###What makes Ouroboros unique?
+### What makes Ouroboros unique?
 
 Ouroboros is the first provably secure proof-of-stake blockchain protocol. In other words, Ouroboros offers _mathematically verifiable_ security against attackers. The protocol is guaranteed to be secure, as long as 51% of the stake is held by honest participants.
 
-Ouroboros realizes what is known as ‘Nakamoto-style consensus’ based on proof-of-stake. This provides the robustness from Bitcoin but ensures significant energy efficiency, higher speed and a fair reward mechanism. Also, the protocol ensures security against network attacks and has a rigorous game-theoretic mechanism designed to discourage monopolization.
+Ouroboros realizes what is known as ‘Nakamoto-style consensus’ based on proof-of-stake. This provides the robustness of Bitcoin but ensures significant energy efficiency, higher speed and a fair reward mechanism. Also, the protocol ensures security against network attacks and has a rigorous game-theoretic mechanism designed to discourage monopolization.
 
 Ouroboros upgrades are smooth due to hard-fork combinator technology, which does not cause disruptions for users. There have been several [‘flavors’ of Ouroboros](https://docs.cardano.org/core-concepts/ouroboros-overview), released in stages.
 
@@ -182,6 +204,7 @@ Sidechains give two immediate advantages to a network:
     
 2.  Scalability
     
+
 **New features**
 
 The addition of sidechains enables blockchain developers to add new features to a network without introducing additional security risks. These added features open up the possibility for developers building on top of the network to explore new use cases.
@@ -189,7 +212,7 @@ The addition of sidechains enables blockchain developers to add new features to 
 Also, sidechains can inherit some (or all) features (ledger model, consensus mechanism, etc.) from their parent chain, and pair them with features that might not exist on the main chain. For example, a sidechain can combine different security models, consensus protocols, or governance models to create a brand new blockchain that can interoperate with other blockchain networks.
 
 The EVM sidechain is a Cardano sidechain -which is currently underway- this sidechain will enable Solidity DApps and EVM developers to build on the Cardano platform. In this way, developers can easily expand their community's reach into Cardano and benefit from the blockchain's existing capabilities.
-  
+
 **Scalability**
 
 Sidechains enable a high degree of versatility and scalability. A blockchain can spin up a series of sidechains and 'delegate' processing work to them to increase throughput, for example. Think of this as a manager delegating tasks to other staff so that more work can be done simultaneously.
@@ -264,7 +287,7 @@ Marlowe also aims to facilitate new possibilities of financial innovation and ai
 
 ## Chain comparisons
 
-### How does Cardano differ from Bitcoin?  
+### How does Cardano differ from Bitcoin?
 
 Cardano and Bitcoin bear some fundamental differences in terms of design, purpose, and usability.
 
@@ -336,6 +359,7 @@ As described below, ada holders can opt to _stake_ their ada holding in order to
     
 *   transfer ada tokens to other users
     
+
 1 ada is divided into 1,000,000 lovelace.
 
 ### Staking
@@ -346,8 +370,8 @@ Every 5 days (a Cardano [epoch](https://docs.cardano.org/glossary#epoch)), Ourob
 
 Since the chance of a stake pool being selected for block creation increases based upon the amount of ada delegated to it, it's important for the pool to attract as many delegators as possible, up to the point when the pool becomes '[saturated](https://docs.cardano.org/glossary#saturation)'. When the pool is saturated, it has reached the peak return-on-investment (ROI) for its delegators. Any more ada delegated to a saturated pool will dilute the rewards for other delegators, reducing the ROI. The saturation property is designed to avoid a single pool dominating block creation, encouraging staked ada to be distributed among many stake, non-saturated pools. 
 
-### Check out this [staking tutorial](https://forum.cardano.org/t/staking-and-delegating-for-beginners-a-step-by-step-guide/36681) for more information.  
-  
+### Check out this [staking tutorial](https://forum.cardano.org/t/staking-and-delegating-for-beginners-a-step-by-step-guide/36681) for more information.
+
 RealFi
 
 Identity stands at the center of everything a blockchain can do. Blockchain identity solutions enable participants to build bonds and access essential services.
@@ -362,7 +386,7 @@ RealFi is an ecosystem of products that remove the frictions between real world 
 
 Daedalus is a full-node hierarchical deterministic (HD) desktop wallet for ada.
 
-Daedalus comes bundled with a full Cardano node, so requires a relatively high specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation.  
+Daedalus comes bundled with a full Cardano node, so requires a relatively high specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation.
 
 ### Yoroi
 
@@ -384,25 +408,33 @@ Daedalus supports a range of hardware wallets to keep ada secure.
 ### Other compatible wallets
 
 Cardano boasts of a thriving and very active developer community that has developed a number of compatible wallets. These include:
- 
-- [Nami](https://namiwallet.io/) 
-- [Eterni](https://ccvault.io/)
-- [Flint](https://flint-wallet.com/)
-- [Gero](https://gerowallet.io/)
-- [Exodus](https://www.exodus.com/ada-cardano-wallet)
-- [AdaLite](https://adalite.io/)
-- [Typhon](https://typhonwallet.io/)
-- [NuFi](https://nu.fi/)
+
+*   [Nami](https://namiwallet.io/) 
+    
+*   [Eterni](https://ccvault.io/)
+    
+*   [Flint](https://flint-wallet.com/)
+    
+*   [Gero](https://gerowallet.io/)
+    
+*   [Exodus](https://www.exodus.com/ada-cardano-wallet)
+    
+*   [AdaLite](https://adalite.io/)
+    
+*   [Typhon](https://typhonwallet.io/)
+    
+*   [NuFi](https://nu.fi/)
+    
 
 ## Governance
 
 ### Liquid Democracy
 
-One of the key pillars for Cardano's viability is active community engagement and participation. This necessitates an effective governance mechanism. Using an iterative, anti-fragile approach and setting high standards for effective decision making, IOG provides the Cardano community with the mechanisms and human-processes required to help decide & build the future of Cardano.
-  
+One of the key pillars for Cardano's viability is active community engagement and participation. This necessitates an effective governance mechanism. Using an iterative, anti-fragile approach and setting high standards for effective decision making, IOG provides the Cardano community with the mechanisms and human processes required to help decide & build the future of Cardano.
+
 IOG plans to deliver this through **absolute Liquid democracy** - collective decision-making through direct participation and dynamic representation.
 
-Liquid democracy is a concept of hybrid governance system that stands somewhere between representative and direct democracy. Ada holders can choose to vote directly, or delegate their votes to domain experts called Delegate Representatives (dReps_)_. This democratic culture plays a key role in Cardano's long-term sustainability as a public blockchain system.
+Liquid democracy is a concept of hybrid governance system that stands somewhere between representative and direct democracy. Ada holders can choose to vote directly, or delegate their votes to domain experts called Delegate Representatives (dReps\_)\_. This democratic culture plays a key role in Cardano's long-term sustainability as a public blockchain system.
 
 Liquid democracy is also about the staking benefits. Cardano’s delegation mechanism is based on a liquid democracy, meaning that staked ada are never locked and can be utilized at any time. Other platforms use a third-party protocol to make staked tokens liquid, which has the potential to introduce security problems.
 
@@ -412,7 +444,7 @@ Project Catalyst is a program that allows ada holders to directly vote on and al
 
 Catalyst brings governance to Cardano by allowing the community to self-determine priorities for growth.
 
-To do this, Project Catalyst is divided into a series of funds, which are deployed approximately every twelve weeks. These funds are used to elicit ideas in the form of proposals from participants. Each proposal is focused around a challenge issued by the Project Catalyst team or the Project Catalyst community. The proposals then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized community advisors. Once the proposals have been finalized, they are voted on by the community and ada funds are distributed to the successful projects.
+To do this, Project Catalyst is divided into a series of funds, which are deployed approximately every twelve weeks. These funds are used to elicit ideas in the form of proposals from participants. Each proposal is focused on a challenge issued by the Project Catalyst team or the Project Catalyst community. The proposals then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized community advisors. Once the proposals have been finalized, they are voted on by the community and ada funds are distributed to the successful projects.
 
 Catalyst enables people to realize great ideas and implement them, but funding is only part of the journey towards success. Other factors, such as education, mentorship, collaborations, and product roadmap development are also needed to nurture projects and help them formalize a business plan and effective go-to-market strategy.
 
@@ -422,7 +454,7 @@ The Catalyst Circle is a “human sensor array” acting as the representative b
 
 By recording meetings and capturing actions in a backlog accessible to all, this activity provides a view into the hopes, wants, needs, and concerns of the community within Project Catalyst. The Circle is also responsible for determining its own future shape and defining the election processes for Circle v3.
 
-The Circle exists to fulfill four key goals:
+The Circle exists to fulfil four key goals:
 
 *   To facilitate communication between the different functional groups
     
@@ -435,7 +467,7 @@ The Circle exists to fulfill four key goals:
 
 There are also numerous examples of community-led governance initiatives in addition to Catalyst. One significant example is the [Cardano DeFi Alliance](https://cardanodefialliance.org/). The Cardano DeFi Alliance is a consortium of projects with the primary mission of standardizing Plutus and Cardano best practices within the Cardano ecosystem. It aims to drive composability across Cardano DeFi protocols. The DeFi Alliance offers a framework to Plutus protocol development teams who are focused on collaboration of key issues and their strategic development. 
 
-Cardano’s ecosystem also encourages broad community participation. The Cardano improvements proposals program (“CIP”) allows ada holders and other third parties to build applications on the Cardano blockchain. The CIP describes standards and processes and provides general guidelines and information to the Cardano community. It is a formal, technical communication process that exists off-chain.  
+Cardano’s ecosystem also encourages broad community participation. The Cardano improvements proposals program (“CIP”) allows ada holders and other third parties to build applications on the Cardano blockchain. The CIP describes standards and processes and provides general guidelines and information to the Cardano community. It is a formal, technical communication process that exists off-chain.
 
 ## Digital Identity
 
