@@ -183,6 +183,8 @@ To conclude we should state that this is just the beginning. You have probably c
 
 *   [Essential Cardano](http://essentialcardano.io)
     
+*   [Cardano 101](https://www.essentialcardano.io/article/what-is-cardano-cardano-101)
+    
 *   [IOHK blog](https://iohk.io/en/blog/posts/page-1/)
     
 *   [IOHK Twitter](https://twitter.com/InputOutputHK)
