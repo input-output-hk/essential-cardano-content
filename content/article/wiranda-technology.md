@@ -11,6 +11,8 @@ image: https://ucarecdn.com/7252f24d-96f4-43b1-ad0b-63f05320f4e6/
 image_text: 3-D transaction
 ---
 
+### **Here are three ways that will help you move on intu the next, and it can be decisive**
+
 **Mining security:**
 
 The puzzle the miners are trying to solve serves no other purpose than securing the network.
@@ -60,7 +62,3 @@ And then predictable reward schedule could be more attractive fo yousers. This w
 It is a model of the ideal form of transaction of assets from one user to another, from the point of view of compensating the cost of future periods.
 
 You can do the math yourself, it's not hard. It will be a very powerful fork.
-
-We do not rise code core...
-
-Wiranda
