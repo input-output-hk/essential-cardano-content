@@ -63,4 +63,8 @@ It is a model of the ideal form of transaction of assets from one user to anothe
 
 You can do the math yourself, it's not hard. It will be a very powerful fork.
 
-We will see Cardano very high…
+And this innovative method method of operating a system for making difficult decisions using artificial intelligence means can contribute to the most optimal consensus.
+
+https://patentscope.wipo.int/search/ru/detail.jsf?docId=WO2020068025
+
+We will believe, and to see Cardano very high…
