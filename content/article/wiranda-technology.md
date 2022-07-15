@@ -33,7 +33,7 @@ This Wiranda Tech key can be infinite in time. This is an important factor of de
 
 **Capitalization of the coin unit:**
 
-Wiranda Technology to simplifies the probability of choosing a validator. Wiranda technology simplifies and accelerates the probability of choosing a validator. This increases the speed of circulation of currency (coins) and increases its capitalization. To select a number of delegates who manage the blockchain on behalf of their constituents, ensuring the security of the network and its consensus by their actions, we achieve a smaller number of validating nodes.
+Wiranda technology simplifies and accelerates the probability of choosing a validator. This increases the speed of circulation of currency (coins) and increases its capitalization. To select a number of delegates who manage the blockchain on behalf of their constituents, ensuring the security of the network and its consensus by their actions, we achieve a smaller number of validating nodes.
 
 You can reduce all processes by providing transaction protocols by driving data into 3-D form. In this way(case), you can simplify the following processes:
 
@@ -65,6 +65,6 @@ You can do the math yourself, it's not hard. It will be a very powerful fork.
 
 And this innovative method method of operating a system for making difficult decisions using artificial intelligence means can contribute to the most optimal consensus.
 
-https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020068025
+[https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020068025](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020068025)
 
 We will believe, and to see Cardano very high…
