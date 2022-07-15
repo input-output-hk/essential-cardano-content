@@ -62,3 +62,5 @@ And then predictable reward schedule could be more attractive fo yousers. This w
 It is a model of the ideal form of transaction of assets from one user to another, from the point of view of compensating the cost of future periods.
 
 You can do the math yourself, it's not hard. It will be a very powerful fork.
+
+We will see Cardano very high…
