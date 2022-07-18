@@ -45,7 +45,7 @@ Cardano aims to provide an opportunity for global communities to easily access a
 
 *   [Cardano 101](https://www.essentialcardano.io/article/what-is-cardano-cardano-101): introduces the team behind Cardano, explains Cardano’s commitment to decentralization, covers technology aspects, programming languages, and everything else you might be interested in.
     
-    You can also go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or [‘New to Cardano’ section on Cardano Docs](https://docs.cardano.org/new-to-cardano/introduction) to learn more about Ouroboros, ada, and what makes Cardano a third-generation blockchain:
+You can also go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or [‘New to Cardano’ section on Cardano Docs](https://docs.cardano.org/new-to-cardano/introduction) to learn more about Ouroboros, ada, and what makes Cardano a third-generation blockchain:
     
 *   [What is Cardano?](https://www.essentialcardano.io/faq/what-is-cardano)
     
