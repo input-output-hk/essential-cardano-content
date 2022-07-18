@@ -41,10 +41,12 @@ Let’s start with the blockchain basics:
 
 Now that you know how a blockchain works and what a cryptocurrency is, it is time to learn more about Cardano. 
 
-Cardano aims to provide an opportunity for global communities to easily access and use the blockchain in their daily lives. Using blockchain, you can for example send funds to your friends, pay for products or services, or use decentralized applications (DApps). Yet, blockchain is much more than just a financial system.
+Cardano aims to provide an opportunity for global communities to easily access and use the blockchain in their daily lives. Using blockchain, you can for example send funds to your friends, pay for products or services, or use decentralized applications (DApps). Yet, blockchain is much more than just a financial system. But first things first, here is everything you need to know about Cardano:
 
-You can go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or [‘New to Cardano’ section on Cardano Docs](https://docs.cardano.org/new-to-cardano/introduction) to learn more about Ouroboros, ada, and what makes Cardano a third-generation blockchain:
-
+*   [Cardano 101](https://www.essentialcardano.io/article/what-is-cardano-cardano-101): introduces the team behind Cardano, explains Cardano’s commitment to decentralization, covers technology aspects, programming languages, and everything else you might be interested in.
+    
+    You can also go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or [‘New to Cardano’ section on Cardano Docs](https://docs.cardano.org/new-to-cardano/introduction) to learn more about Ouroboros, ada, and what makes Cardano a third-generation blockchain:
+    
 *   [What is Cardano?](https://www.essentialcardano.io/faq/what-is-cardano)
     
 *   [What makes Cardano a third-generation blockchain?](https://www.essentialcardano.io/faq/what-makes-cardano-a-third-generation-blockchain)
