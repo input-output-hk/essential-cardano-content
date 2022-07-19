@@ -67,7 +67,7 @@ The main features of the EVM sidechain are:
 
 The EVM sidechain will replace Ethereum’s proof-of-work consensus algorithm with Ouroboros Byzantine Fault Tolerance (OBFT) consensus protocol. OBFT is an implementation of Ouroboros that is able to tolerate Byzantine faults. OBFT offers good transaction processing at full network speed and instant transaction confirmation as well as proof of settlement.
 
-Consensus is typically dependent on a fixed number of its validators (nodes), and the OBFT protocol does not presume that nodes can be dynamic. The EVM sidechain expands the initial OBFT protocol to allow for a _dynamic validator set_. This means that the block-producing nodes will be dynamically switched in and out of the fixed group used to choose the next block-producing node. The Cardano ledger enables the dynamic validator set feature by acting as a single source of truth to help in the selection of block-producing nodes.
+Consensus is typically dependent on a fixed number of its validators (nodes), and the OBFT protocol does not presume that nodes can be dynamic. The EVM sidechain expands the initial OBFT protocol to allow for a *dynamic validator set*. Dynamism will come from committee rotation, but the pool size will stay fixed. The Cardano ledger enables the dynamic validator set feature by acting as a single source of truth to help in the selection of block-producing nodes.
 
 **Permissionless approach**
 
@@ -77,15 +77,11 @@ Decentralization is one of the cornerstones of the digital trust economy. The tr
 
 The EVM sidechain includes several features to maintain security, including:
 
-*   **State observation**: after spinning up a sidechain validator node, these nodes are able to read the ada stake delegation distribution from the mainchain.
+* **State observation**: after spinning up a sidechain validator node, these nodes are able to read the ada stake delegation distribution from the main chain.
+* **Validator selection**: a deterministic algorithm is run for all candidates that are eligible and committees are selected by that algorithm.
+* **Block production**: validators selected to be a part of the block-producing committee receive rewards for their work.
+* **Validator rollover**: after a set interval, a new committee begins producing blocks replacing the previous one (Validator selection is algorithmic and deterministic).
     
-*   **Validator selection**: validators and validator candidates are selected from the stake pool operators based on their stake delegation distribution.
-    
-*   **Block production**: validators selected to be a part of the block-producing quorum receive rewards for their work.
-    
-*   **Reselection process**: after a set interval, stake pool operators select new validators to replace the previous block-producing quorum.
-    
-
 ## The roadmap
 
 Cardano’s EVM sidechain is being developed iteratively. As with any other product launch, an iterative approach and performance assessments are necessary to ensure that everything works as intended.
