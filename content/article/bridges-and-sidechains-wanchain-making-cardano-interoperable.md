@@ -51,7 +51,7 @@ For those unfamiliar, Figure 1, below, illustrates a source chain to target chai
 
 _Figure 1. A basic crosschain transaction_
 
-To bring the token back to the source chain, the owner of the token simply sends a “redeem” transaction to the target chain smart contract. The target chain smart contract burns the wrapped token and sends out a Burn event. The bridge nodes detect the Burn event and instruct the source chain smart contract to unlock the token on the source chain. Wanchain bridge nodes are permissioness and use multiparty computation and staking to prevent collusion.
+To bring the token back to the source chain, the owner of the token simply sends a “redeem” transaction to the target chain smart contract. The target chain smart contract burns the wrapped token and sends out a Burn event. The bridge nodes detect the Burn event and instruct the source chain smart contract to unlock the token on the source chain. Wanchain bridge nodes are permissionless and use multiparty computation and staking to prevent collusion.
 
 As mentioned above, Cardano has several fundamental differences that complicate the task of deploying crosschain bridges. Here is how IOG, Wanchain, and MLabs have tackled these issues:
 
