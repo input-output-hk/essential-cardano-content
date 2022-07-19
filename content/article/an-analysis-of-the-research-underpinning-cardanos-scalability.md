@@ -14,7 +14,7 @@ image_text: ""
 
 ### Taking a closer look at IOG research, part 4. How layer 1 and layer 2 solutions create a faster and more resilient blockchain
 
-Previous blog posts delved into the [foundational research](https://iohk.io/en/blog/posts/2022/06/10/cardanos-foundational-research-overview/) that enabled Cardano’s multi-functional ledger support for [expressive smart contracts](https://iohk.io/en/blog/posts/2022/06/23/overview-of-the-research-enabling-smart-contract-support-on-cardano/) and [native assets](https://iohk.io/en/blog/posts/2022/07/07/research-overview-part-3-tokens-stablecoins-and-fees/).
+Previous blog posts delved into the [foundational research](https://www.essentialcardano.io/article/cardanos-foundational-research-overview) that enabled Cardano’s multi-functional ledger support for [expressive smart contracts](https://www.essentialcardano.io/article/overview-of-the-research-enabling-smart-contract-support-on-cardano) and [native assets](https://www.essentialcardano.io/article/research-overview-part-3-tokens-stablecoins-and-fees).
 
 As part of the Basho development phase, Cardano is undergoing steady upgrades and optimizations for increased scalability and interoperability. The ‘[How we are scaling Cardano in 2022](https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/)’ post reflected on Cardano’s scalability goals, and also discussed [interoperability and the role of sidechains](https://iog.io/en/blog/posts/2022/04/28/interoperability-is-key-to-blockchain-growth/). This new post takes a closer look at the research that will enable these gradual enhancements.
 
