@@ -15,7 +15,7 @@ For a network monitoring tool to remain relevant, it must be updated as the netw
 
 ## [dApps overview](https://cexplorer.io/dapps)
 
-In ANALYTICS / dApps / Ranklist, you can find a list of script hashes with relevant information regarding activity.  
+In ANALYTICS / dApps / Ranklist, you can find a list of script hashes with relevant information regarding activity.
 
 ![](https://lh4.googleusercontent.com/nBc5su6qyWIvnfJmell1eQXmIHSHF_xWTqq633Er8fRxVVbOuoKFrhN3KIpuBRHu41JdY3ju9KiQup1a-51zGflSFeR2lteWtCCWHIKuM19JeVCRRzQmEwN_3FHi3kW4ftERLe1Br2nGx0ha1_-A1g)
 
@@ -54,7 +54,6 @@ Total value locked (TVL) is the overall value of crypto assets deposited in a de
 
 In the More / @handle section, you can find the handle validator. If you enter a specific handle name, you will see whether the handle is valid or not meaning whether it exists or not. You can learn more about $ handle on official website [adahandle.com](https://adahandle.com/).
 
-##   
-**Conclusion**
+## **Conclusion**
 
 Enjoy the news in Cexplorer and feel free to send suggestions for further improvements or report any bugs into our [github](https://github.com/cexplorer/cexplorer.io) :)
