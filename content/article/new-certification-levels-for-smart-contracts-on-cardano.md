@@ -72,3 +72,5 @@ We also plan to work with our ecosystem of partners to support certification of 
 It is still early days. There are some technical challenges that we are busy working through about how we support versioning of DApps, how they will be packaged, and how to make them available to automated tooling. However, we are very excited about this journey with our partners and the general community to deliver a secure platform and applications built on top of it.
 
 To learn even more about certification levels, and meet some of the partners on the program, make sure you watch this [video](https://summit.cardano.org/sessions/smart-contract-certification-the-why-and-how) from the Cardano summit.
+
+Test edit
