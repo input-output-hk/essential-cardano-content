@@ -14,6 +14,7 @@ tags:
   - Glosssary
   - Layer 1
   - Mainnet
+  - Hard fork
 url: ""
 image: ""
 image_text: ""
