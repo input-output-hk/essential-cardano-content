@@ -6,7 +6,7 @@ tags:
   - Hard fork
   - Hard fork combinator
 url: ""
-image: https://ucarecdn.com/ab6ea055-fcaa-4063-aede-a502b0639970/
+image: ""
 image_text: ""
 ---
 
