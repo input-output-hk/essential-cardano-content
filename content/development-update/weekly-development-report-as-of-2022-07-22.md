@@ -44,7 +44,7 @@ This week, **Project Catalyst** entered its final QA stage, where Veteran Propos
 
 Project Catalyst is approaching the final stretch for Fund9. Voting starts on August 11th and will run for two weeks up to August 24th; an important reminder - voter registration ([Android](https://play.google.com/store/apps/details?id=io.iohk.vitvoting&hl=en&gl=US) and [iOS](https://apps.apple.com/kw/app/catalyst-voting/id1517473397)) is now open and will close on August 4th (wallet snapshot). During registration, you will create a PIN and be prompted to download your QR code - make sure you remember your PIN and keep your QR code safe as you’ll need these to vote.   
 
-### ![](https://lh5.googleusercontent.com/-PCTToG5yrAb5JuPmZz1psx4o7ogZAFMz4eIGpn87QwouCc4GVno4HkbJ11iOVJ8hEAHNqUntj2OJOSvaL3v0LoGm5109du0K9BfNta_WF_tqDAXtzv1YFPezm8-TX6setjwYe_d8oPe0Wur2Jf5-mk)
+![](https://lh5.googleusercontent.com/-PCTToG5yrAb5JuPmZz1psx4o7ogZAFMz4eIGpn87QwouCc4GVno4HkbJ11iOVJ8hEAHNqUntj2OJOSvaL3v0LoGm5109du0K9BfNta_WF_tqDAXtzv1YFPezm8-TX6setjwYe_d8oPe0Wur2Jf5-mk)
 
 ### コアテクノロジー
 
@@ -61,7 +61,6 @@ UTXO HD開発作業は進んでいます。**台帳**チームはOnDiskステー
 **Daedalus**チームは、ウォレットが完全に同期されていない場合に生じる、資金の委任に関する不具合を修正しました。 
 
 **Lace**デスクトップアプリケーションで、Electronのエンドツーエンドテストに必要なライブラリーをセットアップしました。cardano-wallet backendからのデータとともにcardano-js-sdkによって提供されるObservableWalletインスタンスのアドレスプロパティのマッピングに進展が見られました。ChromaticをCIプロセスに統合し、コードクオリティの確認に必要なLinterを設定しました。Laceのデスクトップとブラウザーアプリがリポジトリ間でコードを再利用できるようにする新しいコード構造の調査は続けています。開発者が簡単に変数を追跡、デバッグできるように、cardano-node同期ステータスとChrome DevToolsをLaceアプリケーションに追加しました。
-
   
 **Adrestia**チームは、予定されているVasilハードフォークに向け、Adrestiaコンポーネントを準備しました。具体的には、cardano-js-sdkを本番環境にするための作業を行っており、db-sync上のHTTP APIの実装を仕上げています。
 
@@ -81,5 +80,4 @@ cardano-walletのマルチシグ機能の作業を再開しました。
 
 **Project Catalyst**は最終QA段階に入りました。ここではベテラン提案査定担当者（vPAs）がすべての査定結果と、初期のQA段階で発生したフラグを確認します。Project Catalyst Fund9では1,000を超える提案がコミュニティの考察を受けるために提出され、どの案が資金調達を得ることになるかが楽しみです。  
 
-  
 Project CatalystはFund9の最終局面に近づいています。投票は8月11日に開始され、締め切りは2週間後の8月24日です。有権者登録（[Android](https://play.google.com/store/apps/details?id=io.iohk.vitvoting&hl=en&gl=US)および[iOS](https://apps.apple.com/kw/app/catalyst-voting/id1517473397)）は現在可能で、締め切りは8月4日（ウォレットスナップショット）です。登録時にはPINを作成し、QRコードのダウンロードが指示されます。投票時に必要となりますので、PINを忘れないようにし、QRコードは安全に保管してください。
