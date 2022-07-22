@@ -9,8 +9,8 @@ tags:
   - Daedalus
   - Yoroi
 url: ""
-image: ""
-image_text: ""
+image: https://ucarecdn.com/fa867d61-173b-4a42-aac6-1a0ea86412f2/
+image_text: null
 ---
 
 ## Daedalus
@@ -53,7 +53,6 @@ Daedalus supports a range of hardware wallets to keep ada secure.
 *   Trezor model T
     
 
-###   
 Other compatible wallets
 
 Cardano boasts of a thriving and very active developer community that has developed a number of compatible wallets. These include:
