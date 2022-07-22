@@ -14,24 +14,24 @@ Cardano is a third generation blockchain whose versatility enables the creation 
 
 This new series explores the components that work synergistically to create such a unique blockchain network.
 
-*   Founding and IOG organization
+*   [Founding and IOG organization](https://www.essentialcardano.io/article/founding-and-iog-organization)
     
-*   The Cardano blockchain
+*   [The Cardano blockchain](https://www.essentialcardano.io/article/founding-and-iog-organizationhttps://www.essentialcardano.io/article/the-cardano-blockchain)
     
-*   Technology
+*   [Technology](https://www.essentialcardano.io/article/technology)
     
-*   Programming languages
+*   [Programming languages](https://www.essentialcardano.io/article/programming-languages)
     
-*   Chain comparisons
+*   [Chain comparisons](https://www.essentialcardano.io/article/chain-comparisons)
     
-*   Financial aspects
+*   [Financial aspects](https://www.essentialcardano.io/article/financial-aspects)
     
-*   Wallets
+*   [Wallets](https://www.essentialcardano.io/article/wallets)
     
-*   Governance
+*   [Governance](https://www.essentialcardano.io/article/governance-8c016e44)
     
-*   Digital Identity
+*   [Digital Identity](https://www.essentialcardano.io/article/digital-identity)
     
-*   Community
+*   [Community](https://www.essentialcardano.io/article/community)
     
-*   Cardano resources and further reading
+*   [Cardano resources and further reading](https://www.essentialcardano.io/article/cardano-resources-and-further-reading)
