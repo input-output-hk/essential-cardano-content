@@ -2,6 +2,8 @@
 title: " Comparison of energy consumption of Cardano and Bitcoin"
 tags:
   - energy
+  - consumption
+  - Cardano
 url: ""
 image: https://ucarecdn.com/3c45c5a9-c6f3-4811-af85-ecdf017253b8/
 image_text: ""
@@ -86,3 +88,5 @@ We believe that the PoW consensus makes sense if the problem of the declining se
 We understand that people selfishly advocate for their own investment first and foremost, so they feel the need to overlook the needs of other people who don't have skin in the game. There has not yet been a rational and open debate in the crypto-community on the subject of the over-consumption of electricity. We assume that it will not even take place because the different communities are hostile to each other and have no desire to accept the arguments of the other side. Everything is wrapped in false ideology. Frankly, we are not surprised that the authorities have taken up the issue and feel the need to make a decision. We do not like the possible ban on PoW, but we understand the arguments from the document that was published by ECB.
 
 If you want to look at the current power consumption of Cardano and Bitcoin and compare it on [energy usage estimation page](https://cexplorer.io/energy), which updates the data regularly.
+
+[Source: Comparison of energy consumption of Cardano and Bitcoin](https://cexplorer.io/article/comparison-of-energy-consumption-of-cardano-and-bitcoin)
