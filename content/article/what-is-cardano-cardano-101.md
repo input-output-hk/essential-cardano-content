@@ -1,5 +1,5 @@
 ---
-title: What is Cardano (Cardano 101)
+title: Introduction to Cardano
 tags:
   - ada
   - Ouroboros
@@ -19,6 +19,7 @@ tags:
   - Hard fork combinator
   - Code
   - Catalyst
+  - Babel fees
 url: ""
 image: https://ucarecdn.com/cc7fa8e4-40aa-4fde-bb4d-c1efe0fc3e0b/
 image_text: Cardano 101 - All you need to know
@@ -345,7 +346,7 @@ In terms of non-fungible tokens (NFTs), Algorand users can create NFTs using a s
 
 ### The ada token: definition and functionality
 
-Ada (from 19th-century English writer and mathematician Ada Lovelace) is Cardano's native digital currency. It is the sole means to pay for transactions on the Cardano blockchain. Formal ledger rules determine the effects of these ledger transactions, yielding an immutable and independently verifiable record that tracks the movement of ada and other assets over time. Transactions are authorized using secure cryptographic keys that are owned by the ada holder.
+Ada (from 19th-century English writer and mathematician Ada Lovelace) is Cardano's native digital currency. It is the main means to pay for transactions on the Cardano blockchain. Formal ledger rules determine the effects of these ledger transactions, yielding an immutable and independently verifiable record that tracks the movement of ada and other assets over time. Transactions are authorized using secure cryptographic keys that are owned by the ada holder.
 
 As described below, ada holders can opt to _stake_ their ada holding in order to participate in the Ouroboros proof-of-stake consensus mechanism, which determines how transactions are included in successive Cardano blocks. They receive rewards for this in proportion to the stake that has been delegated. In addition, ada allows holders to:
 
@@ -361,6 +362,12 @@ As described below, ada holders can opt to _stake_ their ada holding in order to
     
 
 1 ada is divided into 1,000,000 lovelace.
+
+### Babel fees, sstable coins and mass adoption possibility
+
+Most people outside of blockchain communities, only use fiat money for their daily transactions via the traditional internet banking system, which paves usage of stable coins like USDC or DAI as a good way to enter crypto. But there is one problem: to conduct stablecoin transactions in almost all other blockchains (besides Cardano), the user will have to buy the native token first, which may lead to confusion and extra unnecessary complexity.
+
+Luckily, thanks to Cardano’s Babel Fee mechanism, the transaction fees on Cardano could be paid with almost any token including stablecoins. A healthy mix of this feature and a user-friendly secure wallet could lead to the adoption of Cardano by millions or even billions of users as an easy alternative for conventional systems like PayPal.
 
 ### Staking
 
