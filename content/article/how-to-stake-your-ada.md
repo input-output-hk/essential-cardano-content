@@ -8,12 +8,12 @@ tags:
   - Infographic
 url: ""
 image: ""
-image_text: ""
+image_text: null
 ---
 
 ### By helping to validate the Cardano blockchain, you earn ada rewards
 
-Original author: Fernando Sanchez
+Original author: Ivan Irakoze
 
 ![How to stake your ada?](https://ucarecdn.com/9f7ec0ab-ee46-43c0-9efb-de96f76fcbff/ "How to stake your ada?")
 
