@@ -16,7 +16,7 @@ This new series explores the components that work synergistically to create such
 
 *   [Founding and IOG organization](https://www.essentialcardano.io/article/founding-and-iog-organization)
     
-*   [The Cardano blockchain](https://www.essentialcardano.io/article/founding-and-iog-organizationhttps://www.essentialcardano.io/article/the-cardano-blockchain)
+*   [The Cardano blockchain](https://www.essentialcardano.io/article/the-cardano-blockchain)
     
 *   [Technology](https://www.essentialcardano.io/article/technology)
     
