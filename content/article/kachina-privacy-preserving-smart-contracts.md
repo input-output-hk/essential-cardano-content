@@ -48,4 +48,4 @@ While the proposed design is mostly theoretical, Kachina proves the possibility 
 
 For more details, examples, and contract samples, read ‘[Kachina – Foundations of Private Smart Contracts](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/)’.
 
-_I’d like to thank_ [Thomas Kerber](https://iohk.io/en/team/thomas-kerber) for his input and support in preparing this blog post.
+*I’d like to thank [Thomas Kerber](https://iohk.io/en/team/thomas-kerber) for his input and support in preparing this blog post.*
