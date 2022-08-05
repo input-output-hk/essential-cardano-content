@@ -8,8 +8,8 @@ tags:
   - Real Finance
   - Stablecoin
 url: ""
-image: https://en.wikipedia.org/wiki/Monty_Hall_problem
-image_text: Monty Hall problem
+image: 
+image_text: 
 ---
 
 The current price fluctuation in ADA has generated much concern and a state of helplessness among my colleagues at Catalyst and the community at large in the face of the loss of value of their funded proposal budgets.
