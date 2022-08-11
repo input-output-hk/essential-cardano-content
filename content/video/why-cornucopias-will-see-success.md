@@ -1,5 +1,5 @@
 ---
-title: Why Cornucopias Will See Success
+title: Why Cornucopias will see success
 tags:
   - Metaverse
   - NFT
