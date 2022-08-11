@@ -1,5 +1,5 @@
 ---
-title: The SAFEST Way To Store Your ADA
+title: The safest way to store your ada
 tags:
   - Staking
   - Paper wallet
