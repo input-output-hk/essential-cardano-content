@@ -26,37 +26,37 @@ image_text: Cardano 101 - All you need to know
 
 ## What is Cardano?
 
-The Cardano universe is expanding with the arrival of a broad range of decentralized applications and exchanges. From games to decentralized finance (DeFi), Cardano covers the whole gamut of blockchain-based versatility.
+The Cardano universe is expanding with the arrival of a broad range of decentralized applications and experiences. From gaming to Decentralized Finance (DeFi), Cardano covers the whole gamut of blockchain-based versatility.
 
-As Cardano grows, so does its reach, its community, value, and adoption. This paper reflects all that Cardano is, what it represents, and what it can offer to the world.
+As Cardano grows, so does its reach, its community, value, and adoption. This paper reflects all that Cardano is thus far, what it represents, and what it can offer to the world.
 
 ## Founding and IOG organization
 
 The project to create Cardano was initiated by a group of cryptocurrency enthusiasts, investors, and entrepreneurs concentrated in Asia at the end of 2014. Charles Hoskinson and Jeremy Wood founded Input Output (initially, IOHK) to design and implement Cardano. In addition, the Cardano Foundation was set up to oversee and supervise the development of Cardano and to act as an advocate for its users. The foundation is based in Switzerland. A third entity, Emurgo, was created to pursue commercial activities on behalf of the ecosystem and community. The three entities have separate ownerships and leadership.
 
-The Cardano blockchain and ada, its founding native cryptocurrency, was launched in 2017 and established itself as one of the leading blockchains.
+The Cardano blockchain and ADA, its founding native cryptocurrency, was launched in 2017 and has established itself as one of the leading blockchains.
 
- IOHK has evolved into Input Output Global, Inc. (IOG) with Charles Hoskinson as Chief Executive Officer. IOG is incorporated in the state of Wyoming, USA.
+[IOHK](http://iohk.io) has evolved into Input Output Global, Inc. (IOG) with Charles Hoskinson as Chief Executive Officer. IOG is incorporated in the state of Wyoming, USA.
 
 ## The team behind Cardano
 
-As the blockchain engineering and research company that is participating, along with the Cardano Foundation, Emurgo, and other third parties, in developing the core Cardano platform, IOG has assembled a multi-talented [global team](https://iohk.io/en/team/) of more than 600 people. This includes computer scientists, academic researchers, software engineers, product specialists, and technical architects. 
-
-With over 600 staff (as of May 2022), IOG is an ever-expanding constellation for the development of decentralized applications, identity solutions, wallets, and an eclectic and thematically diversified range of decentralized applications for blockchain.
+As the blockchain engineering and research company that is participating, along with the Cardano Foundation, Emurgo, and other third parties, in developing the core Cardano platform, IOG has assembled a multi-talented [global team](https://iohk.io/en/team/) of more than 600 people. This includes computer scientists, academic researchers, cryptographers, game theorists, economists, and many more from diverse fields of study. Besides contributing to the Cardano blockchain project, IOG specialises in blockchain research and development with labs across multiple countries, with the goal to advance the overall crypto industry with well-researched solutions.
 
 ## The Cardano blockchain
 
-Cardano is a third-generation, open source, proof-of-stake blockchain platform. Its name derives from [Gerolamo Cardano](https://www.britannica.com/biography/Girolamo-Cardano), a mid-16th century Italian physician and mathematician. Third-generation blockchain platforms are designed to resolve the issues that the first two generations (Bitcoin and Ethereum) suffer from, including _scalability_ and _interoperability,_ while fulfilling an ambitious agenda of _decentralization._
+Cardano is identified as a third-generation, open source, proof-of-stake blockchain project. Its name derives from [Gerolamo Cardano](https://www.britannica.com/biography/Girolamo-Cardano), a mid-16th century Italian polymath and one of the most influential mathematicians of the [Renaissance](https://en.wikipedia.org/wiki/Renaissance).
 
-The Cardano platform combines pioneering technologies based on peer-reviewed research to provide unparalleled security and sustainability to decentralized applications, systems, and communities worldwide. Cardano is about openness, fairness, and inclusivity. 
+Third-generation blockchains aspire to solve the problems that prior generations of blockchain projects never could, namely: scalability, interoperability, sustainability and governance.
 
-The blockchain's proof-of-stake protocol, Ouroboros, offers a scalable and energy-efficient solution to accommodate millions – and ultimately, billions – of users worldwide.
+The Cardano blockchain combines pioneering technologies based on peer-reviewed research to provide unparalleled security and sustainability to decentralized applications (dApps), services, and global communities.  
 
-Cardano's development is led by a deliberate approach to construct a robust and reliable enterprise-grade infrastructure.
+Cardano's consensus mechanism, Ouroboros, stands out as the first provably secure Proof-of-Stake protocol that offers a scalable, inclusive, and energy-efficient solution to secure the value of millions – and ultimately, billions – of users worldwide.
+
+Cardano's development is led by a deliberate approach to construct a robust and reliable infrastructure that can support both consumer and enterprise-level needs.
 
 ### Commitment to decentralization
 
-Decentralization is one of Cardano's main drivers, built around three central pillars:
+Decentralization is one of Cardano's main drivers, built around three key pillars:
 
 *   Block production & consensus
     
@@ -65,10 +65,9 @@ Decentralization is one of Cardano's main drivers, built around three central pi
 *   Governance
     
 
-These three elements combined form a fully decentralized environment where power shifts from monopolistic entities to the individual. Decentralization dissolves the concentration of power by enabling peers to make choices and decisions, and returning ownership of personal information where it belongs - with the users.
+These three pillars combined form a fully decentralized environment that is public, permissionless and inclusive for all. Decentralization ensures the distribution of power by enabling peers to make decisions that collectively advance the ecosystem, and exhibit more agency over their value and assets.
 
-On March 31, 2021, Cardano's block production became fully decentralized. On that day, [the stake pool operator (SPO) community began producing 100% of new blocks](https://iog.io/en/blog/posts/2021/03/31/decentralization-to-d-0-day-and-beyond/). This was an important milestone on the way to Cardano's ultimate destination; the creation of a platform wholly and democratically operated and controlled through a global community of SPOs, developers, and ada holders.  
-Technology
+On March 31, 2021, Cardano's block production became fully decentralized. On that day, [the stake pool operator (SPO) community began producing 100% of new blocks](https://iog.io/en/blog/posts/2021/03/31/decentralization-to-d-0-day-and-beyond/). This was an important milestone as part of the Cardano [roadmap](https://roadmap.cardano.org/en/) of developments and further enabled a platform that is wholly and democratically operated and controlled through a global community of validators, developers, and ADA holders.
 
 ### How does Cardano work?
 
@@ -85,7 +84,7 @@ The Cardano architecture features three layers:
 
 This layer performs two fundamental functions:
 
-*   Running the [Ouroboros](https://eprint.iacr.org/2016/889.pdf) consensus protocol. This layer takes decisions like adopting blocks, choosing between competing chains (if there are any), and decides when to produce blocks of its own; and 
+*   Running the [Ouroboros](https://eprint.iacr.org/2016/889.pdf) consensus protocol. This layer takes decisions like adopting blocks, choosing between competing chains (if there are any), and deciding when to produce blocks of its own; and 
     
 *   Maintaining all the state that is required to make the decisions taken in the consensus layer.
     
@@ -99,17 +98,17 @@ This layer specifies:
 *   How the ledger must be updated for each new block.
     
 
-The ledger layer consists exclusively of pure functions that specify the transitions between successive ledger states, as derived from the formal ledger rules, using the [Extended UTXO (EUTXO)](https://api.zotero.org/groups/478201/items/T24L95MI/file/view?key=Qcjdk4erSuUZ8jvAah59Asef) accounting model. The state transitions are driven by the set of transactions contained within the Cardano blocks, and by major events such as epoch boundary transitions and hard fork combinator events.
+The ledger layer consists exclusively of pure functions that specify the transitions between successive ledger states, as derived from the formal ledger rules, using the [Extended UTXO (EUTXO)](https://api.zotero.org/groups/478201/items/T24L95MI/file/view?key=Qcjdk4erSuUZ8jvAah59Asef) model of transaction recording. The state transitions are driven by the set of transactions contained within the Cardano blocks, and by major events such as epoch boundary transitions and Hard Fork Combinator events.
 
 The consensus layer does not need to know the exact nature of the ledger state, nor the contents of the blocks, apart from some header fields required to run the consensus protocol.
 
 **Network layer**
 
-This layer maintains the connections between all the distributed nodes in the Cardano network, obtains new blocks from the network as they are produced by block producing nodes, builds newly minted transactions into blocks, and transmits blocks between nodes.
+This layer maintains the connections between all the distributed nodes in the Cardano network, facilitates the propagation of new blocks on the network as they are produced by Block Producing nodes, and embodies the collective set of mini-protocols and P2P networking solutions.
 
 ### Cryptography
 
-Cardano uses strong cryptographic primitives to securely create and send transactions, and to protect the security and integrity of the protocol. 
+Cardano uses strong cryptographic primitives to securely create and send transactions, and to protect the security and integrity of the ledger. 
 
 Cardano utilizes asymmetric key pairs for:
 
@@ -122,11 +121,11 @@ Cardano utilizes asymmetric key pairs for:
 *   Identifying and defining addresses on the Cardano blockchain
     
 
-Key pairs include a public and a private key. By using their private key, users provide cryptographic proof that they indeed own the coins or assets they're using.
+Key pairs include a public and a private key. By using their private key, users provide cryptographic proof that they indeed own the coins or assets they wish to spend or interact with.
 
 Cryptography also provides security for the consensus protocol. The two main mechanisms are:
 
-*   Node keys, which are used to register and operate stake pools, and are sub-divided into Operator/operational key, Key Evolving Signature (KES) key pairs, and Verifiable Random Function (VRF) keys; and
+*   Node keys, which are used to register and operate Block Producing nodes, and are sub-divided into Operator/operational key, Key Evolving Signature (KES) key pairs, and Verifiable Random Function (VRF) keys; and
     
 *   Payment and stake credentials, which are used to authorize fund transfers or to delegate stake to stake pools. These may be either key hashes or script hashes.
     
@@ -135,7 +134,7 @@ Cryptography also provides security for the consensus protocol. The two main mec
 
 ### Peer-to-peer communication between nodes
 
-Peer-to-peer (P2P) communication enables nodes to self-organize into a globally distributed network of Cardano block producers and relays, and also self-optimize, choosing the best and more performant connected nodes and disconnecting from less performant ones. 
+Peer-to-Peer (P2P) communication enables nodes to self-organize into a globally distributed network of Cardano block producers and relays, and also self-optimize, choosing the honest and more performant connected nodes and disconnecting from dishonest and less performant ones. 
 
 Information is exchanged between nodes to enable a flexible network topology that automatically adapts to dynamically changing network conditions. This further boosts network decentralization, resilience and robustness.
 
@@ -152,49 +151,45 @@ The network's P2P architecture includes four elements:
 
 [Read more](https://iohk.io/en/blog/posts/2021/04/06/boosting-network-decentralization-with-p2p/) about P2P communication in Cardano.
 
-[Read more](https://iohk.io/en/blog/posts/2021/03/31/decentralization-to-d-0-day-and-beyond/) about Cardano’s decentralization drive.
-
 ### Ouroboros
 
 Cardano's proof-of-stake consensus protocol.
 
-In mythology, Ouroboros (also, _Uroboros_) is usually depicted as a snake (or sometimes a dragon) eating its own tail in a closed circle. The word Ouroboros itself derives from Ancient Greek, its literal meaning being 'tail eating' or 'tail devourer.'
+In mythology, Ouroboros is usually depicted as a snake (or sometimes a dragon) eating its own tail in a closed circle. The word Ouroboros itself derives from Ancient Greek, its literal meaning being 'tail eating' or 'tail devourer.'
 
-As a symbol, Ouroboros represents the infinity of time flowing back unto itself, in a never-ending cycle, as if caught in an eternal loop. Ouroboros first appeared in Egypt, in the 13th century BC. Later, alchemists adopted Ouroboros into their mystical symbolism.
+Symbolically, Ouroboros represents the infinity of time flowing back unto itself, in a never-ending cycle, as if caught in an eternal loop. Ouroboros first appeared in Egypt, in the 13th century BC.
 
-So why was this mythical creature chosen to represent the proof-of-stake consensus protocol that underlies Cardano? In this context, Ouroboros represents the possibility of infinite and ethical growth and scalability of the blockchain, and also, the protocol feeds itself from previous epochs for the randomness used in the current epoch. This is known as ‘eating its own tail’, as the pictorial representation of Ouroboros does.
-
-Ouroboros' central message is the delivery of greater opportunities for the world, and its preservation through much-reduced energy consumption.
+So why was this mythical creature chosen to represent the proof-of-stake consensus protocol that underlies Cardano? In this context, Ouroboros represents the possibility of infinite and eternal growth and sustainability of the blockchain. One might even say that such symbolism foreshadows how the Cardano Blockchain inputs randomness data from the previous epoch to determine the randomness of the next epoch as part of the slot leader selection process, effectively creating an eternal cycle of randomness.
 
 ### What makes Ouroboros unique?
 
 Ouroboros is the first provably secure proof-of-stake blockchain protocol. In other words, Ouroboros offers _mathematically verifiable_ security against attackers. The protocol is guaranteed to be secure, as long as 51% of the stake is held by honest participants.
 
-Ouroboros realizes what is known as ‘Nakamoto-style consensus’ based on proof-of-stake. This provides the robustness of Bitcoin but ensures significant energy efficiency, higher speed and a fair reward mechanism. Also, the protocol ensures security against network attacks and has a rigorous game-theoretic mechanism designed to discourage monopolization.
+Ouroboros exhibits a modified approach of ‘Nakamoto-style consensus’ with Proof-of-Stake as its Sybil Control mechanism. This provides the liveness guarantees of Bitcoin but ensures significant energy efficiency, low latency and a fair, accessible, and inclusive reward system for all.
 
-Ouroboros upgrades are smooth due to hard-fork combinator technology, which does not cause disruptions for users. There have been several [‘flavors’ of Ouroboros](https://docs.cardano.org/core-concepts/ouroboros-overview), released in stages.
+Also, the protocol implements measures involving game theory and incentive-structures to prevent detrimental situations such as centralization of stake and collusion.
 
-This is just a high-level overview of Cardano’s protocol. For more information about Ouroboros, visit IOG’s [research library page](https://iohk.io/en/research/library/).
+Bonus: Protocol upgrades are seamless due to what is known as a Hard-Fork Combinator which allows for the introduction new blockchain rules and features without compromising old ledger and interrupting dApps and services.
+
+To learn more about Ouroboros, visit the IOG [research library page](https://iohk.io/en/research/library/).
 
 ## EUTXO
 
-Cardano uses an innovative [Extended Unspent Transaction Output (EUTXO)](https://iohk.io/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/) accounting model to support multi-assets and smart contracts.
+Cardano uses an innovative [Extended Unspent Transaction Output (EUTXO)](https://iohk.io/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/) transaction recording model to support multi-assets and smart contracts.
 
-Smart contracts are digital agreements, written in code, that can be executed without an intermediary once certain conditions are met. Smart contracts make non-fungible tokens (NFTs) and decentralized finance applications possible.
+Smart contracts are blockchain software/code that enforce a digital agreement and can be executed by users once required conditions are met. Smart contracts make the creation and functionality of digital assets like NFTs and decentralized applications (dApps) like Decentralized Exchanges possible.
 
-Building on Bitcoin’s UTXO model, the EUTXO model provides a secure and versatile environment to process multiple operations without system failures. This model offers better scalability and privacy, as well as more simplified transaction logic, as each UTXO can only be consumed once and as a whole, which makes transaction verification much simpler.
+Improving on the UTXO model pioneered on Bitcoin, the Extended UTXO model provides a secure and expressive structure to enable smart contract computation. This model offers better scalability and privacy, as well as more simplified transaction logic, as each UTXO can only be consumed once and completely, which makes transaction verification much simpler and secure.
 
-EUTXO offers unique advantages over other accounting models. The success or failure of transaction validation depends only on the transaction itself and its inputs, and not on anything else on the blockchain. As a consequence, the validity of a transaction can be checked off-chain, before the transaction is sent to the blockchain. A transaction can still fail if some other transaction concurrently consumes an input that the transaction is expecting, but if all inputs are still present, the transaction is guaranteed to succeed.
+EUTXO offers unique advantages over other transaction recording models such as the Account Balance model. The success or failure of transaction validation depends only on the local state of the transaction itself and its inputs, and not on anything else on the blockchain. As a benefit, the validity of a transaction can be checked off-chain even before the transaction is sent to the blockchain. A transaction can still fail if some other transaction concurrently consumes an input that the transaction is expecting, but if all inputs are still present, the transaction is guaranteed to succeed.
 
 ## Interoperability
 
-Interoperability is about two or more blockchains interacting to move assets and data back and forth. This is usually achieved by two-way mechanisms called _bridges_. 
+Interoperability is about two or more blockchains interacting to exchange assets and arbitrary data between their systems. This is usually achieved by two-way mechanisms called _bridges_. 
 
-Interoperating chains can be in a symmetric or an asymmetric relationship. Two main chains that interoperate (Ethereum and Cardano, for instance) form the symmetric case. A mainchain and a sidechain that interoperate form the asymmetric case.
+This allows blockchains like Cardano to offload work to more dedicated/specialized systems and reduce the load on the base layer. This also allows users to expand their experiences with new assets and markets that may not natively be available on the base chain.
 
-In the symmetric case, if one chain dies, the other one is not affected. The situation is different with the asymmetric case, because the sidechain depends on the mainchain, but not the other way around. If the sidechain dies or is compromised, a firewall property typically protects the mainchain from harm. However, if the mainchain is compromised, the sidechain will usually no longer be able to function securely. However, the precise consequences depend on the nature of the sidechain's dependency on the mainchain.
-
-The main blockchain and its properties (like throughput and scaling) represent layer 1. Sidechains and off-chain solutions (like ZK-rollups) that run independently alongside the main blockchain are referred to as _layer 2 solutions_.
+In the interoperability scene, the main/base blockchain and its properties (like security and settlement) is commonly dubbed as Layer 1 whereas Sidechains and off-chain solutions (like Rollups) that run independently alongside the main blockchain are referred to as _Layer 2 solutions_.
 
 ## Sidechains
 
@@ -211,21 +206,25 @@ The addition of sidechains enables blockchain developers to add new features to 
 
 Also, sidechains can inherit some (or all) features (ledger model, consensus mechanism, etc.) from their parent chain, and pair them with features that might not exist on the main chain. For example, a sidechain can combine different security models, consensus protocols, or governance models to create a brand new blockchain that can interoperate with other blockchain networks.
 
-The EVM sidechain is a Cardano sidechain -which is currently underway- this sidechain will enable Solidity DApps and EVM developers to build on the Cardano platform. In this way, developers can easily expand their community's reach into Cardano and benefit from the blockchain's existing capabilities.
+**Execution/Programmability**
+
+Another feature of Sidechains is their ability to introduce new and alternate execution environments such as Virtual Machines like the Ethereum Virtual Machine, into existing blockchain ecosystems and thereby unlock new opportunities and experiences for developers and users alike.
+
+The EVM sidechain is an anticipated Cardano sidechain that is expected to enable EVM-based developers to build dApps and services with languages like [Solidity](https://soliditylang.org) on the Cardano platform. In this way, developers from other blockchain ecosystems like Ethereum can easily expand their community's reach into Cardano and benefit from the blockchain's existing capabilities.
 
 **Scalability**
 
 Sidechains enable a high degree of versatility and scalability. A blockchain can spin up a series of sidechains and 'delegate' processing work to them to increase throughput, for example. Think of this as a manager delegating tasks to other staff so that more work can be done simultaneously.
 
-Sidechains do have one drawback: in most cases, they're not operated by the same nodes or network as the mainchain, which means that sidechain nodes will need to trust the sidechain's security model. The EVM sidechain however will implement a sidechain that will inherit Cardano’s security model.
+Sidechains do have one drawback: in most cases, they don't inherit the security of the main-chain i.e. they're not necessarily operated by the same nodes or network as the main-chain. This means that sidechains need to build their own trust and security model.
 
 ## Hydra
 
-Hydra is a layer 2 solution for Cardano. It is not a single protocol, but rather a family of layer 2 protocols designed to address network security and scalability capabilities. As part of the Basho development phase, Hydra focuses on steady network optimizations and improvements to establish a scalable, versatile, and high-throughput blockchain. The Hydra suite of protocols includes the Hydra Head protocol, Interhead Hydra, Hydra Tail, etc.  
+Hydra is a Layer 2 solution for Cardano. It is not a single protocol, but rather a family of Layer 2 protocols designed to scalability needs such as fast settlement, low fees, and micropayments. As part of the Basho era, Hydra introduces the use of state channels to serve as an alternative route for transactions in a way that doesn't congest the base chain . The Hydra family of protocols includes the Hydra Head protocol, Interhead Hydra, Hydra Tail, etc.  
 
-The [Hydra Head](https://eprint.iacr.org/2020/299.pdf) protocol is the first in this suite and an important element of Cardano’s scaling journey. It provides the foundation on which to build out advanced scalability solutions and will be the first element to be delivered while research on the others is completed. 
+The [Hydra Head](https://eprint.iacr.org/2020/299.pdf) protocol is the first in this suite and an important element of Cardano’s scaling journey. It provides the foundation on which to build out advanced scalability solutions and is expected to be the first product to be delivered while research on the others is underway. 
 
-Hydra Heads are isomorphic multi-party state channels and form fast and secure off-chain communication paths between two or more participants to process transactions. Being isomorphic means that this channel works just the same way as the mainchain, but is faster and cheaper to operate due to its local scope. It is very similar to Bitcoin Lightning, but elegantly extends the mainchain with fully capable EUTXO mini-ledgers to layer more complex solutions on top. Use cases of the basic Hydra Head include bank-to-bank private transfers for processing multiple transactions between 2 or more peers, a pay-per-use API service to pay a virtual private cloud provider for resources, an auction between a seller and several bidders, etc. 
+Hydra Heads are isomorphic multi-party state channels that form fast and secure off-chain communication paths between two or more participants to process transactions. Being isomorphic means that this channel works just the same way as the underlying blockchain, but is faster and cheaper to operate due to its local scope. It is very similar to Bitcoin Lightning, but elegantly extends the underlying ledger with fully capable EUTXO mini-ledgers to perform more complex solutions. Use cases of the basic Hydra Head include bank-to-bank private transfers for processing multiple transactions between 2 or more peers, a pay-per-use API service to pay a virtual private cloud provider for resources, an auction between a seller and several bidders, etc. 
 
 This technology can also produce advanced layer 2 solutions, including networks of Hydra Heads that would support fast and cheap consumer-to-consumer payments, or Interhead Hydra, which could introduce seamless smart contract scalability.
 
@@ -243,35 +242,35 @@ Overall, the protocol is also beneficial for light client applications like ligh
 
 ## DApp Store
 
-Since the Alonzo hard fork in September 2021, Cardano offers a blockchain environment to support smart contracts and decentralized applications (DApps). The “DApp Store” – currently under development – will be a gateway to the Cardano DApp ecosystem. 
+Since the Alonzo upgrade in September 2021, Cardano offers a blockchain environment to support smart contracts and decentralized applications (dApps). The “DApp Store” – currently under development – will be a gateway to the Cardano DApp ecosystem. 
 
-For developers, the [DApp Store](https://iohk.io/en/blog/posts/2021/09/22/bringing-certified-dapps-to-cardano/) will provide a path to building product awareness and driving user adoption, plus a way to establish their DApps' legitimacy and build reputation. 
+For developers, the [DApp Store](https://iohk.io/en/blog/posts/2021/09/22/bringing-certified-dapps-to-cardano/) will provide a path to building product awareness and driving user adoption, plus a way to establish their dApps' legitimacy and build reputation. 
 
-For end users, the dAppStore will be an on-ramp, the main touch point to a wide range of blockchain products, and a path to the discovery of new use cases and capabilities offered by DApps. The DApp Store will provide frictionless access to the ecosystem through an easy to use interface. End users will be equipped with all the information about DApp offerings, including the security assurance level of certified DApps, and usage statistics to help them make the right choices.
+For end users, the dAppStore will be an on-ramp, the main touch point to a wide range of blockchain products and services, and a path to the discovery of new use cases and capabilities offered by dApps. The DApp Store will provide frictionless access to the ecosystem through an easy to use interface. End-users will be equipped with all the information about dApp offerings, including the security assurance level of certified dApps, and valuable analytics to help them make the right choices.
 
 ## Hard fork combinator
 
-Hard forks tend to be 'traumatic' events where a blockchain splits ('forks'), rendering the 'old' blockchain invalid, along with its transaction history, protocol, etc.
+Hard forks tend to be 'contentious' events where a blockchain splits off ('forks') and renders the 'old' blockchain invalid, along with its transaction history, protocol, etc.
 
-The hard fork combinator is an IOG engineered, open-source technology that, rather than discarding the old data, combines two protocols into a single protocol. We call this a sequential combination of the two protocols because it runs the first protocol for a while and at some point, it switches over to the second. The current Cardano chain combines blocks of the following development phases: Byron, Shelley, Allegra, Mary, and Alonzo. After future transitions, it will also combine Goguen, Basho, and Voltaire blocks - all as a single property.
+The hard fork combinator is an IOG engineered, open-source technology that combines two or more new protocols with an existing one to form a single new and unified protocol. The current Cardano chain combines blocks of the following development eras: Byron, Shelley, Allegra, Mary, and Alonzo. In future upgrades, it will also combine the new protocols that will arrive in the Goguen, Basho, and Voltaire eras - all as a single protocol.
 
-We have successfully used this technology for all the hard forks that Cardano has undergone (except for the first one, where Cardano switched from Ouroboros Classic to Ouroboros BFT.)
+With the Hard Fork Combinator, users and businesses can always rest assured that their funds and applications are completely safe whenever there is an upgrade.
 
 ## Programming languages
 
 ### Haskell
 
-Cardano is written in Haskell, a functional language that emphasizes 'pure' functions. That is, functions that produce the same result for the same input.
+The Cardano node which embodies the blockchain's software implementation is written in Haskell, a functional language that emphasizes 'pure' functions i.e. functions that do not produce side-effects.
 
-Haskell is particularly well suited to Cardano's high-assurance code, and the need for greater formal verification in the blockchain. Cardano aims to become a global social and financial system, which requires a very high degree of reliability and verification. 
+Haskell is particularly well suited to Cardano's high-assurance solutions, and its need for correctness of the blockchain. Cardano aims to become a global financial system, which requires a very high degree of robustness and safety. 
 
-Many other companies use Haskell, both because of its security properties and pure functional nature. Well-known firms like Oracle and Facebook use Haskell for blockchain research and advertising, respectively, while lesser known companies such as Atos IT and Jotron use it for building applications for the aerospace industry.
+Many other companies use Haskell, both because of its security properties and pure functional nature. Well-known firms like Facebook use Haskell for spam mitigation, and lesser known companies such as Atos IT and Jotron use it for building applications for the aerospace industry.
 
 ### Plutus
 
 Plutus is Cardano's native smart contract language. Plutus smart contracts are effectively Haskell programs.
 
-Plutus draws from modern language research to provide a safe, full-stack programming environment based on Haskell, the leading purely-functional programming language. By using Plutus, users can be confident in the correct execution of their smart contracts.
+Plutus draws from modern language research to provide a safe, full-stack programming environment based on Haskell. By using Plutus, users can be confident in the correct execution and functional nature of their smart contracts.
 
 Watch the latest [Plutus update](https://youtu.be/zUerLu_GOQs) video. 
 
@@ -279,7 +278,7 @@ Watch the latest [Plutus update](https://youtu.be/zUerLu_GOQs) video. 
 
 Marlowe is a domain-specific language (DSL) for writing and executing financial contracts. 
 
-Marlowe contracts are optimized for financial transactions, development platforms, and ensure a fast track for financial service providers to build expertise in smart contracts and blockchain technology.
+Marlowe contracts are designed for financial transactions and ensure a fast track for financial service providers to build expertise in smart contracts and blockchain technology.
 
 Marlowe provides a suite of products for the community that will foster the adoption of Cardano in finance. Marlowe creates a blockchain-specific way to replicate key processes within financial services by making smart contract development easier for developers in this industry.
 
@@ -291,21 +290,23 @@ Marlowe also aims to facilitate new possibilities of financial innovation and ai
 
 Cardano and Bitcoin bear some fundamental differences in terms of design, purpose, and usability.
 
-Cardano uses a proof-of-stake consensus mechanism, while Bitcoin relies on proof of work to mine new coins and add blocks to the chain. Functionally, Bitcoin is designed to transfer digital currency in a decentralized, peer-to-peer fashion. Cardano, on the other hand, supports a much broader range of functions. Cardano can handle smart contracts, custom tokens, and decentralized applications (DApps).
+Cardano uses a proof-of-stake consensus mechanism to validate blocks, while Bitcoin relies on proof of work to mine new blocks to the its chain. Functionally, Bitcoin is designed to be a peer-to-peer network for electronic cash. Cardano, on the other hand, supports a much broader range of features and goals. Cardano can handle advanced smart contracts, custom tokens, and decentralized applications (DApps) thanks to EUTXO whereas Bitcoin is limited to simple scripts at best with the UTXO model.
 
-Another key difference between Cardano and Bitcoin is the energy utilization. Bitcoin's proof-of-work design [consumes huge amounts of energy](https://digiconomist.net/bitcoin-energy-consumption/), to the tune of 204.50 Terawatts/hour. Cardano is far more environmentally sustainable. Charles Hoskinson estimates that Cardano’s electricity consumption is [about 0.01% of Bitcoin’s](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html).
+Another key difference between Cardano and Bitcoin is the energy utilization. Bitcoin's proof-of-work design [consumes huge amounts of energy](https://digiconomist.net/bitcoin-energy-consumption/), to the tune of 204.50 Terawatts/hour. Cardano is far more environmentally sustainable. It is estimated that Cardano’s electricity consumption is [about 0.01% of Bitcoin’s](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html).
 
 ### How does Cardano differ from Ethereum?
 
 Cardano differs from Ethereum in fundamental ways. 
 
-Cardano is a proof-of-stake blockchain, while Ethereum uses a proof-of-work consensus mechanism. This confers Cardano with several key advantages, including a far more efficient energy consumption rate (Cardano is known as a [green blockchain](https://iohk.io/en/blog/posts/2021/08/17/why-they-re-calling-cardano-the-green-blockchain/)). Ethereum recently decided to follow Cardano’s approach and move to PoS. This transition will occur sometime in 2022, according to [Ethereum sources](https://ethereum.org/en/upgrades/merge/).
+Cardano is a proof-of-stake blockchain, while Ethereum (currently) uses a proof-of-work consensus mechanism. This confers Cardano with several key advantages, including a far more efficient energy consumption rate (Cardano is known as a [green blockchain](https://iohk.io/en/blog/posts/2021/08/17/why-they-re-calling-cardano-the-green-blockchain/)). Ethereum en route to move to Proof-of-Stake to improve its energy consumption inefficiencies. This transition is expected to occur sometime in 2022, according to [Ethereum sources](https://ethereum.org/en/upgrades/merge/).
 
-Also, Cardano supports custom tokens natively, without the need for smart contracts. Ethereum does support custom tokens also, but requires smart contracts, which adds a layer of complexity and the possibility of errors. In Cardano, the ledger handles all token functionality.
+Cardano supports Native Assets, this allows for the creation of user-defined tokens/assets without the need for complex smart contracts while inheriting the core security of the native cryptocurrency ADA. Ethereum also supports the creation of custom tokens, but requires the use of complex smart contracts which adds a barrier of complexity for casual users and increases the possibility of errors. Furthermore, Ethereum custom tokens a.k.a. ERC tokens do not gain the native security/scope of the underlying blockchain like the base currency Ether does.
 
-Another fundamental difference is the accounting model. Cardano features an extended unspent transaction output (EUTXO) model. Ethereum uses an account-based ledger model. This is significant for many reasons. For example, Cardano's model enables simpler transaction verification as each individual UTXO can only be consumed once, and as whole. Ethereum's transaction logic is more complex, as each individual transaction updates the global state of the chain. Because Ethereum’s transactions are processed sequentially, parallelization is hard to implement, to the detriment of throughput.
+Another fundamental difference is the transaction recording model. Cardano uses the Extended Unspent Transaction Output (EUTXO) model whereas Ethereum uses the Account-Balance model. This is significant for many reasons. For example, Cardano's model enables simpler transaction verification as each individual UTXO can only be consumed once, and as whole. Ethereum's transaction logic is more costly, as each individual transaction updates the global state of the entire chain. Because Ethereum’s transactions are processed sequentially, parallelization is hard to implement, to the detriment of throughput.
 
-Cardano's EUTXO accounting model is deterministic, meaning transactions can be validated beforehand. Fees and transaction outcomes are predictable. Also, if a transaction fails the phase 1 validation, no fees are taken. This is not the case in an account-based model, like Ethereum, where users will lose all paid fees in this same scenario.
+Cardano's EUTXO transaction recording model enables for better determinism, meaning the results of transactions can be better guaranteed and pre-calculated prior to submission with predictable fees.  
+  
+Bonus: In the event of an invalid transaction, the Two-Phase validation system (courtesy determinism) on Cardano is able to prevent further submission and execution to avoid loss/damage of funds and assets. This is not the case in an account-balance model, like Ethereum, where users will lose all paid fees in this same scenario.
 
 ### How does Cardano differ from Polkadot?
 
@@ -333,19 +334,19 @@ Cardano and Algorand have some similarities.
 
 Both are backed by strong academic research (Algorand was founded by an MIT professor and Turing award winner), and both emphasize decentralization as a core tenet.
 
-Cardano and Algorand operate proof-of-stake consensus protocols, which means significantly better energy efficiency and faster transaction times than proof-of-work chains like Ethereum or Bitcoin. But each chain uses a different implementation of the consensus mechanism. Algorand implements what it calls Pure Proof of Stake (PPoS), which randomly selects a token holder as the next block producer. The block then needs to be approved by 1,000 validators before being added to the chain. Cardano uses Ouroboros, the first provably secure proof-of-stake consensus mechanism.
+Cardano and Algorand operate proof-of-stake consensus protocols, which means significantly better energy efficiency and faster transaction times than proof-of-work chains like Ethereum or Bitcoin. But each chain uses a different implementation of the consensus mechanism.
 
-Cardano is written in Haskell (with Plutus as its scripting language), while Algorand uses JavaScript, Python, Java, and Go.
+Algorand implements what it calls Pure Proof of Stake (PPoS), which randomly selects a token holder as the next block producer. The block then needs to be approved by 1,000 validators before being added to the chain.
 
-Both chains also differ in their core architecture: Algorand features two layers, whereas Cardano uses three.
+Cardano uses Ouroboros, the first provably secure proof-of-stake consensus mechanism.
 
-In terms of non-fungible tokens (NFTs), Algorand users can create NFTs using a system built into the protocol, without the need for smart contracts. Cardano users can create NFTs in a variety of ways.
+Cardano is written in Haskell (with Plutus as its scripting language), while Algorand uses TEAL, JavaScript, Python, Java, and Go.
 
 ## Financial aspects
 
-### The ada token: definition and functionality
+### The ADA token: definition and functionality
 
-Ada (from 19th-century English writer and mathematician Ada Lovelace) is Cardano's native digital currency. It is the sole means to pay for transactions on the Cardano blockchain. Formal ledger rules determine the effects of these ledger transactions, yielding an immutable and independently verifiable record that tracks the movement of ada and other assets over time. Transactions are authorized using secure cryptographic keys that are owned by the ada holder.
+ADA (from 19th-century English writer and mathematician Ada Lovelace) is Cardano's native digital currency. It is the sole means to pay for transactions on the Cardano blockchain. Formal ledger rules determine the effects of these ledger transactions, yielding an immutable and independently verifiable record that tracks the movement of ada and other assets over time. Transactions are authorized using secure cryptographic keys that are owned by the ada holder.
 
 As described below, ada holders can opt to _stake_ their ada holding in order to participate in the Ouroboros proof-of-stake consensus mechanism, which determines how transactions are included in successive Cardano blocks. They receive rewards for this in proportion to the stake that has been delegated. In addition, ada allows holders to:
 
