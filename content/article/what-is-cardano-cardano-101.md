@@ -311,99 +311,96 @@ Cardano's EUTXO accounting model is deterministic, meaning transactions can be v
 
 Cardano and Polkadot share a common starting point: the resolution of some of the shortcomings inherent to Ethereum's design, including chronic network congestion, high gas fees, unpredictable transaction outcomes, etc.
 
-The chains' evolutionary paths diverged, however, as both chains differ in substantive ways, starting with their consensus mechanisms. Cardano uses proof of stake, whereas Polkadot relies on a variation of this system, called Nominated Proof of Stake, which is designed with the roles of validators and nominators to maximize chain security. Validators produce new blocks, validate parachain blocks, and guarantee finality. Nominators can choose to back select validators with their stake. Nominators can approve candidates that they trust and back them with their tokens. Polkadot’s design was in fact heavily influenced by Cardano. 
-
-Another fundamental difference is in the chains' architecture. Cardano's design includes three layers (consensus, ledger, and network), whereas Polkadot's architecture is anchored on a single layer, the Relay Chain.
+The chains' evolutionary paths diverged, however, as both chains differ in substantive ways, starting with their consensus mechanisms. Cardano uses Ouroboros Proof-of-Stake, whereas Polkadot uses Hybrid Consensus with Nominated Proof of Stake. Polkadot's consensus mechanism is designed with numerous roles of active participants across a modular architecture to ensure system security. Validators produce new blocks and order blocks on the Relay Chain while Collators maintain and aggregate valid transactions from Parachains to be submitted to the Relay Chain, which later guarantees finality. Nominators can choose to "nominate" Relay Chain validators with their stake. Nominators can elect candidates that they trust with their DOT tokens.
 
 ### How does Cardano differ from Solana?
 
-There are some similarities between Cardano and Solana, and the media often refers to both chains as direct ‘rivals’. Both chains use a proof-of-stake consensus mechanism, for example, but Solana adds a technology known as _proof of history_, where consensus is achieved by the validation of the time difference between two events on the blockchain. Proof of history enables timestamps to be built on the blockchain itself (rather than relying on off-chain programs to calculate time, like Ethereum does). Proof-of-history technology is achieved through a Verifiable Delay Function (VDF).
+There are some similarities between Cardano and Solana, and the media often refers to both chains as direct ‘rivals’. Solana uses a combination of Proof-of-Stake and another known as Proof-of-History as Sybil Control mechanisms, the latter is what optimises the operation of Solana's consensus model known as Tower BFT (a variation of PBFT). Proof of history enables timestamps to be built on the blockchain itself (rather than relying on off-chain programs to calculate time). Proof-of-History technology is achieved through a Verifiable Delay Function (VDF).
 
-But in stark contrast to Cardano, the Solana blockchain is not as decentralized. It has been reported that almost 50% of all [Solana's tokens are owned by venture capital entities](https://www.makeuseof.com/reasons-solana-isnt-really-decentralized/), the blockchain's developers, and the Solana Labs company. Also, the Solana Foundation is currently the only entity able to add new blocks to the chain.
+On the topic of network decentralization, it has been reported that almost 50% of all [Solana's tokens are owned by venture capital entities](https://www.makeuseof.com/reasons-solana-isnt-really-decentralized/), the blockchain's developers, and the Solana Labs company.
 
-Another well-known trait of the Solana blockchain is the costly hardware requirements needed for running a validator node. Cardano's nodes can be run efficiently with far lower hardware specs.
+On the topic of accessibility by means of hardware requirements, the Solana blockchain is known to require hardware with high specifications to deliver performance demand of the Solana network whereas Cardano functions with low hardware specifications requirements. For better context, Solana requires hardware with near enterprise-grade specs while Cardano leans more towards consumer-grade hardware specifications.
 
-Cardano offers liquid staking without slashing, so there is no risk for delegators to lose funds. In contrast, the Solana delegation system does involve slashing, so delegators can lose funds.
-
-Cardano's strength and resilience lie in peer-reviewed research and design principles.
+On the topic of staking, Cardano offers liquid staking in a non-custodial fashion via its stake delegation mechanism without slashing penalties, so there is no risk for delegators to lose their principal funds. In contrast, the stake delegation mechanism of Solana does involve slashing penalties, so delegators risk the loss of principal funds as a worse-case scenario.
 
 ## How does Cardano differ from Algorand?
 
-Cardano and Algorand have some similarities.
+Cardano and Algorand have some core similarities and fair differences as well.
 
-Both are backed by strong academic research (Algorand was founded by an MIT professor and Turing award winner), and both emphasize decentralization as a core tenet.
+Algorand is backed by strong academic research and founded by Silvio Micali, an Italian computer scientist (currently a professor at MIT) and Turing award winner for his work in Cryptography.
 
-Cardano and Algorand operate proof-of-stake consensus protocols, which means significantly better energy efficiency and faster transaction times than proof-of-work chains like Ethereum or Bitcoin. But each chain uses a different implementation of the consensus mechanism. Algorand implements what it calls Pure Proof of Stake (PPoS), which randomly selects a token holder as the next block producer. The block then needs to be approved by 1,000 validators before being added to the chain. Cardano uses Ouroboros, the first provably secure proof-of-stake consensus mechanism.
+Cardano and Algorand both operate proof-of-stake protocols as part of their consensus mechanism. They even share the use of Verifiable Random Functions (VRFs), a technology invented by Silvio Micali, as part of their respective slot/block leader selection process.
 
-Cardano is written in Haskell (with Plutus as its scripting language), while Algorand uses JavaScript, Python, Java, and Go.
+Algorand implements what is known as Byzantine Agreement for its consensus mechanism which is secured/supported by their trademarked Pure Proof of Stake (PPoS) protocol. It operates via a process known as "Cryptographic Sortitioning" which randomly selects a block producing node/validator as the next block producer per its stake-weight, to propose a new block. The block then needs to be approved with signatures by 1,000 other randomly selected validators (at time of writing) before being finalized to the chain.
 
-Both chains also differ in their core architecture: Algorand features two layers, whereas Cardano uses three.
+Cardano's core implementation is written in Haskell (with Plutus as its smart contract language), while Algorand's is written in C and Go (with TEAL, PyTeal, and Reach as its smart contract language).
 
-In terms of non-fungible tokens (NFTs), Algorand users can create NFTs using a system built into the protocol, without the need for smart contracts. Cardano users can create NFTs in a variety of ways.
+In terms of user-defined assets or custom tokens like Non-Fungible Tokens (NFTs), Algorand users can create their custom tokens using in-built scripts of the Algorand protocol, without the need for complex smart contracts. This is very similar to how user-defined assets are created via Native Scripts on Cardano.
 
 ## Financial aspects
 
-### The ada token: definition and functionality
+### The ADA token: definition and functionality
 
-Ada (from 19th-century English writer and mathematician Ada Lovelace) is Cardano's native digital currency. It is the sole means to pay for transactions on the Cardano blockchain. Formal ledger rules determine the effects of these ledger transactions, yielding an immutable and independently verifiable record that tracks the movement of ada and other assets over time. Transactions are authorized using secure cryptographic keys that are owned by the ada holder.
+ADA (from 19th-century English writer and mathematician Ada Lovelace) is Cardano's native digital currency. It is currently the sole means to pay for transaction fees on the Cardano blockchain. Formal ledger rules determine the effects of these ledger transactions, yielding an immutable and independently verifiable record that tracks the movement of ADA and custom assets over time.
 
-As described below, ada holders can opt to _stake_ their ada holding in order to participate in the Ouroboros proof-of-stake consensus mechanism, which determines how transactions are included in successive Cardano blocks. They receive rewards for this in proportion to the stake that has been delegated. In addition, ada allows holders to:
+As hinted earlier, Cardano users can opt to _stake_ their ADA holdings in order to participate in the Ouroboros proof-of-stake consensus process, which determines how transactions are validated and ordered in successive Cardano blocks. They receive rewards for this in proportion to the stake that has been delegated in the entire system. In addition, ADA allows Cardano users to:
 
-*   participate in governance activities, including voting on Catalyst ecosystem proposals
+*   participate in decentralized governance activities such as on-chain voting eg. [Project Catalyst](https://projectcatalyst.org)
     
-*   pay for the costs of creating and transferring assets such as Non-Fungible Tokens (NFTs)
+*   pay for the costs of forging, destroying and transferring Native Assets such as Non-Fungible Tokens (NFTs).
     
-*   pay for the costs of using smart contracts
+*   pay for the costs of smart contract execution.
     
-*   pay for the costs of recording data on the blockchain
+*   pay for the costs of recording data on the blockchain.
     
-*   transfer ada tokens to other users
+*   pay for the cost of every day simple transactions.
     
 
-1 ada is divided into 1,000,000 lovelace.
+Bonus: 1 ADA divides into 1,000,000 lovelaces.
 
 ### Staking
 
-As a fully decentralized blockchain, a large network of Cardano stake pools creates 100% of the blocks. These pools gather the ada that has been delegated ('staked') by ada holders, earning rewards that are based on the blocks that the pool contributes to the chain.
+As a Proof-of-Stake blockchain, a large network of Cardano validators (a.k.a. Stake Pool Operators) creates 100% of blocks on the Cardano blockchain.
 
-Every 5 days (a Cardano [epoch](https://docs.cardano.org/glossary#epoch)), Ouroboros chooses certain pools to add blocks to the chain, in proportion to the ada that is held by each pool. At the end of the epoch, block creation rewards are given to the pools that have been selected and that have successfully created their assigned blocks. These rewards are distributed among those ada holders who staked their ada as well as the pool operator, and contribute to the pool's maintenance, growth, and sustainability.
+Unlike the common Proof-of-Work systems that require the constant and energy-inefficient computation of complex calculations to do work and secure the blockchains like Bitcoin, Proof-of-Stake uses advanced cryptographic processes with the support of economic resources to do work and secure the blockchain in an eco-friendly and low cost manner.  
 
-Since the chance of a stake pool being selected for block creation increases based upon the amount of ada delegated to it, it's important for the pool to attract as many delegators as possible, up to the point when the pool becomes '[saturated](https://docs.cardano.org/glossary#saturation)'. When the pool is saturated, it has reached the peak return-on-investment (ROI) for its delegators. Any more ada delegated to a saturated pool will dilute the rewards for other delegators, reducing the ROI. The saturation property is designed to avoid a single pool dominating block creation, encouraging staked ada to be distributed among many stake, non-saturated pools. 
+For Cardano, this Proof-of-Stake technology is known as Ouroboros and the economic resource is the ADA cryptocurrency.  
+  
+Cardano uses a staking rewards system which collects snapshots of validator stake and user stake delegations and rewards all parties accordingly per their stake-weights provided to do work at the turn of the Epoch.
+
+An Epoch in Cardano is currently a period of 5 days where work is done to advance the blockchain with transactions and other protocol related activities. It is also the current interval for which Cardano users who stake their existing ADA receive new ADA as staking rewards. At the end of every Epoch, a new snapshot is taken to account for stake-weight of validators and user delegations, and used to randomly and privately select the next line-up of slot leaders (block producers) for the next Epoch.
+
+Since the chance of a validator (or stake pool) being selected for block creation increases based upon the amount of ADA staked (or delegated) to it, it's important for the validator to provide as much stake or attract as many stake delegations as possible, up to the point when the pool becomes '[saturated](https://docs.cardano.org/glossary#saturation)'. As more ADA is delegated to a single stake pool by others and saturation increases, rewards become more competitive among delegators which impedes their expected Return on ADA (ROA) as dilution of rewards is likely to occur. When the pool is saturated, it will no longer be selected to do work (produce blocks) by Ouroboros and for that matter will lose economic incentive i.e. staking rewards, this affects the validator and their stake delegators in total. The saturation property is designed to mitigate a single pool dominating block creation, encourage stake delegation to decentralised by distributing across multiple unique Stake Pools. This also helps counter "the rich get richer" scenario.
 
 ### Check out this [staking tutorial](https://forum.cardano.org/t/staking-and-delegating-for-beginners-a-step-by-step-guide/36681) for more information.
 
-RealFi
+Bonus: RealFi
 
-Identity stands at the center of everything a blockchain can do. Blockchain identity solutions enable participants to build bonds and access essential services.
+Identity stands as a core aspiration of what a third-gen blockchain should do. Blockchain identity solutions enable participants from the real-world to build relationships and access essential services for business needs across an open and permissionless peer-to-peer network.
 
-Cardano integrates decentralized identity to open up a brand new range of opportunities and inclusivity that confluence in [RealFi](https://iohk.io/en/blog/posts/2021/11/25/welcome-to-the-age-of-realfi/) – Real finance targeted at the people who really need new ways to access finance, creating that real value often missing from DeFi. 
+Cardano aims to combines Decentralized Identity standards and Decentralized Finance applications to unlock a brand new range of inclusive financial opportunities that encompasses what is referred to as [RealFi](https://iohk.io/en/blog/posts/2021/11/25/welcome-to-the-age-of-realfi/) – Real Finance (or RealFi for short) is aimed at supporting people in the real world economies who have a need of business and financial solutions, with novel blockchain-based decentralized applications.
 
-RealFi is an ecosystem of products that remove the frictions between real world economic activities to offer greater access and cheaper credit/financial products for real people.
+RealFi is an ecosystem of financial products and services that removes the frictions between real world economic activities and Decentralized Finance (DeFi) to offer greater access to global financial products and services, for all.
 
-## Wallets
+## Wallets on Cardano
+
+Wallets in the blockchain/cryptocurrency context are tools/applications that allow users to manage and transact their cryptocurrency and digital assets in a seamless fashion. They also enable users to explore new experiences and decentralized applications (dApps) in the blockchain ecosystem.  
+  
+Wallets come in the forms of software and hardware, each with their respective benefits and tradeoffs.
+
+Certain categories of wallets may either operate as Full Nodes/Clients by downloading the entire blockchain database or as Light Clients/Nodes by downloading smaller bits of the entire blockchain data such as metadata (like block headers). Depending on the needs and capacity of the user will determine which category of wallets best works for them.
+
+## Software Wallets
 
 ### Daedalus
 
-Daedalus is a full-node hierarchical deterministic (HD) desktop wallet for ada.
+Daedalus is a full-node hierarchical deterministic (HD) desktop wallet software for ADA.
 
-Daedalus comes bundled with a full Cardano node, so requires a relatively high specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation.
+Daedalus comes bundled with a full Cardano node, so requires a relatively performant/capable desktop machine for good performance. The wallet software downloads and stores the entire history of the Cardano blockchain and validates all blocks and transactions to ensure better security.
 
 ### Yoroi
 
-[Yoroi](https://twitter.com/YoroiWallet?s=20&t=sjacJxtxQ1kWELsD_k4FqA) is a light wallet for ada running as a browser extension. It connects to a full Cardano node hosted by a third party ([Emurgo](https://emurgo.io/)). 
-
-Yoroi allows for instant initial setup, plus quick and easy operation with the minimum usage of system resources. It is also available as a mobile application.
-
-### Hardware wallets
-
-Daedalus supports a range of hardware wallets to keep ada secure.
-
-*   Ledger Nano X
-    
-*   Ledger Nano S
-    
-*   Trezor model T
-    
+[Yoroi](https://twitter.com/YoroiWallet?s=20&t=sjacJxtxQ1kWELsD_k4FqA) is a light wallet product for ADA that is available as a browser-based extension and a native mobile application. It connects to full nodes via third-party infrastructure hosted by a [EMURGO](https://emurgo.io/). 
 
 ### Other compatible wallets
 
@@ -411,7 +408,7 @@ Cardano boasts of a thriving and very active developer community that has develo
 
 *   [Nami](https://namiwallet.io/) 
     
-*   [Eterni](https://ccvault.io/)
+*   [Eternl](https://ccvault.io/)
     
 *   [Flint](https://flint-wallet.com/)
     
@@ -424,6 +421,17 @@ Cardano boasts of a thriving and very active developer community that has develo
 *   [Typhon](https://typhonwallet.io/)
     
 *   [NuFi](https://nu.fi/)
+    
+
+## Hardware wallets
+
+Here are some Hardware Wallets currently compatible with Cardano
+
+*   Ledger Nano X
+    
+*   Ledger Nano S
+    
+*   Trezor model T
     
 
 ## Governance
@@ -503,19 +511,30 @@ Also, IOG works [with a number of universities](https://github.com/input-output-
 
 ## NFTs
 
-The implementation of the native tokens feature enabled the creation of non-fungible tokens (NFTs) on Cardano.
+Cardano utilises a Multi-Asset ledger architecture which allows for user-defined tokens i.e. Native Assets to benefit from the very security and ledger rules that power up ADA.
 
-The native tokens feature extends the existing accounting infrastructure defined in the ledger model (originally designed for processing ada-only transactions) to accommodate transactions using a range of assets.
+The implementation of the Native Assets feature enabled the creation of Non-Fungible tokens (NFTs) on Cardano via the use of Native Scripts (in-built scripts on the Cardano Blockchain)
 
-Native support offers distinct advantages for developers: there is no need to create smart contracts to handle custom tokens, for example, which removes a layer of added complexity and potential for manual errors since the ledger handles all token-related functionality.
+Native Scripts offers distinct advantages for developers and casual/power users alike that are looking to issue their own brand of Native Assets/Tokens: there is no need to write complex or specialised smart contracts to generate custom tokens, for example. This removes a barrier of added complexity and risk of erroneous code/bugs since the Native Scripts used are pre-built and secured by the Cardano Blockchain core implementation.
 
-Due in part to the ease of creation and low minting costs, the NFT space has rapidly grown to be one of the most vibrant and creative elements of the early Cardano ecosystem, with over 400 projects and NFT marketplaces launched and live by early 2022. As of late March, 2022, over [4 million NFTs have minted on Cardano](https://twitter.com/mtschofield/status/1506575854217928706).
+Due in part to the easy and low cost nature of minting Native Assets, the Cardano NFT ecosystem has rapidly grown to be one of the most vibrant and creative elements of the early Cardano blockchain, with over 400 projects and diverse NFT marketplaces launched and live as of early 2022.  
+  
+Fact: As of late March, 2022, over [4 million NFTs have minted on Cardano](https://twitter.com/mtschofield/status/1506575854217928706).
 
-### Cardano non-fungible tokens (CNFT) marketplace
+### NFT Marketplaces on Cardano
 
-The Cardano non-fungible tokens (CNFT) is a community created- and led- [marketplace](https://cnft.io/) for NFTs built on Cardano.
+NFT Marketplaces serve as hubs for the trading and distribution of various digital assets secured by the Cardano blockchain by means of NFTs.
 
-Launched in 2021 by a multi-national team of NFT creators, the site became the first marketplace for all Cardano NFTs.
+Here is a non-exhaustive list of some NFT Marketplaces on Cardano:  
+`<ul>   <li><a href = "https://www.jpg.store"> JPG.Store </a></li>   <li><a href = "https://artano.io/home/"> Artano </a></li>`
+
+`<li><a href = "https://www.jamonbread.com"> JAM ON BREAD </a></li>`
+
+`<li><a href = "https://artifct.app"> Artifct </a></li>`
+
+`<li><a href = "https://cardahub.io/home"> Cardahub </a></li>`
+
+`<li><a href = "https://cnft.io"> CNFT.IO </a></li>   </ul>`
 
 ## Cardano resources and further reading
 
