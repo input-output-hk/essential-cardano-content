@@ -4,6 +4,7 @@ tags:
   - Weekly development updates
   - Development
   - Statistics
+  - "101"
 url: ""
 image: https://ucarecdn.com/ddf967ac-7cca-4468-8ee7-14b5666f379d/
 image_text: ""
@@ -15,11 +16,11 @@ This week, the **node, ledger, and consensus** teams worked on node improvements
 
 A new dedicated pre-production environment has been spun up for the final stages of Vasil functionality testing. This environment offers improved chain density and a better developer experience.
 
-It is recommended that all developers, SPOs, and exchanges use this environment rather than the main Cardano testnet. For more details, see [Vasil testnet introduction](https://testnets.cardano.org/en/testnets/cardano/about/testnet-introduction/).
+It is recommended that all developers, SPOs, and exchanges use this environment rather than the main Cardano testnet. For more details, see [Vasil testnet introduction](https://docs.cardano.org/cardano-testnet/about/testnet-introduction).
 
 The **ledger** team continued working on UTXO HD storage. They identified parts of the code that need additional testing and worked on the prototype performance improvements. They also investigated Genesis model assumptions and reviewed ChainSync rate-limiting optimizations for P2P, Eclipse, and Genesis.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Daedalus** team worked on quality assurance for node stability issues troubleshooting.
 
@@ -45,7 +46,7 @@ This week, the **Hydra** team continued working on the time handling fixes. They
 
 ### GOVERNANCE
 
-This week, **Project Catalyst** wallet snapshot took place, finalizing all participating wallets for voting in Fund9. The voting starts one week from now, soft launching on August 11 and closing on August 24. With over 1,000 projects pitching for a slice of the $16m Fund9 pie, participating wallets will vote across domains such as Dapps and products, to localized projects in Latin America and Africa.  
+This week, **Project Catalyst** wallet snapshot took place, finalizing all participating wallets for voting in Fund9. The voting starts one week from now, soft launching on August 11 and closing on August 24. With over 1,000 projects pitching for a slice of the $16m Fund9 pie, participating wallets will vote across domains such as Dapps and products, to localized projects in Latin America and Africa.
 
 ![](https://lh4.googleusercontent.com/uOjvjAiqylBIRecqvxcV6e1dCWPtEwExLvflh2IxTR0PLH7ZlodmNh3rqovu4-q0hVS_2tB4KOwBRB733gzr8P1LCg52LPDnVY3WFfdkP30I3PlWsKZ-d0Qx9W0yX91C0bATtdP99jRQeaRcwSE4R2Q)
 
@@ -55,11 +56,11 @@ This week, **Project Catalyst** wallet snapshot took place, finalizing all parti
 
 Vasil機能テストの最終段階のために、新たに専用のプリプロ環境が作成されました。この環境では、チェーン密度と開発者の操作性が向上しています。
 
-すべての開発者、SPO、取引所には、メインのCardanoテストネットでなく、この環境を使用することが推奨されます。詳細は、[Vasil testnet introduction](https://testnets.cardano.org/en/testnets/cardano/about/testnet-introduction/)（Vasilテストネット紹介）をご覧ください。
+すべての開発者、SPO、取引所には、メインのCardanoテストネットでなく、この環境を使用することが推奨されます。詳細は、[Vasil testnet introduction](https://docs.cardano.org/cardano-testnet/about/testnet-introduction)（Vasilテストネット紹介）をご覧ください。
 
 **台帳**チームは、引き続きUTXO HDに取り組みました。追加テストが必要なコードを特定し、プロトタイプのパフォーマンス向上に取り組みました。Genesisモデルの仮説を調査し、P2P、Eclipse、GenesisのChainSyncレート制限の最適化をレビューしました。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Daedalus**チームはノードの安定性問題のトラブルシューティングのQAに取り組みました。
 
