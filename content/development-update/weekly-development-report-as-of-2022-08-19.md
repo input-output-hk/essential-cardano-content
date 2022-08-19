@@ -38,7 +38,7 @@ This week, the **Hydra** team continued working on code updates following the re
 
 ### コアテクノロジー
 
-**ノード、台帳、コンセンサス**チームはVasilアップグレードの準備を続けました。ノードv.1.35.3のリリースに続き、DB Sync v.13.0.4、Cardano Rosetta v.1.8.1、Cardano Addresses v.3.12.0、Cardano Wallet v.2022-08-16をデプロイしました。シリアル化ライブラリーは準備を終え、トークンレジストリ、GraphQL、Cardanoエクスプローラーなど、その他のコンポーネントのアップグレードを進めています。Vasil機能のテストは、DevNet、プレビュー、プリプロの[各環境](https://docs.cardano.org/cardano-testnet/getting-started/%23environments)で進行中です。開発者コミュニティには、メインネットリリースに向けて、ノードや他のコンポーネントを[最新バージョン](https://docs.cardano.org/cardano-testnet/getting-started/%23environments)にアップグレードすることが推奨されています。 
+**ノード、台帳、コンセンサス**チームはVasilアップグレードの準備を続けました。ノードv.1.35.3のリリースに続き、DB Sync v.13.0.4、Cardano Rosetta v.1.8.1、Cardano Addresses v.3.12.0、Cardano Wallet v.2022-08-16をデプロイしました。シリアル化ライブラリーは準備を終え、トークンレジストリ、GraphQL、Cardanoエクスプローラーなど、その他のコンポーネントのアップグレードを進めています。Vasil機能のテストは、DevNet、プレビュー、プリプロの[各環境](https://docs.cardano.org/cardano-testnet/getting-started/%23environments)で進行中です。開発者コミュニティには、メインネットリリースに向けて、ノードや他のコンポーネントを[最新バージョン](https://docs.cardano.org/tools/comp-matrix)にアップグレードすることが推奨されています。 
 
 UTXO HD開発作業は進行中です。インメモリー設定を再実装し、ベンチマークおよびメモリープールプロパティの調査に取り組み、UTXO HDコードベースのテストカバレッジレポートを追加しました。Genesisの作業領域にChainSync Jumpingを実装する作業も始めました。 
 
