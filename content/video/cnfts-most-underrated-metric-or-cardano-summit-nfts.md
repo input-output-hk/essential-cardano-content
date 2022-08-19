@@ -1,5 +1,5 @@
 ---
-title: CNFTs Most UNDERRATED Metric | Cardano Summit NFTs
+title: CNFTs' most underrated metric | Cardano Summit NFTs
 tags:
   - NFT
   - Non-fungible token
