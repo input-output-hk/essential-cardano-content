@@ -31,7 +31,7 @@ The **Marlowe** team created the on-chain transaction specification for Marlowe 
 
 ### BASHO (SCALING)
 
-This week, the **Hydra** team continued working on code updates following the reference script implementation. They also made progress in getting ‘dynamically configurable peers’ in the system. The team extended the network layer with a `modifyPeer` function, which allows the addition or removal of network peers dynamically, effectively restarting all network connections. Finally, they worked on adding some meta-information to each page of the user manual to keep translations up-to-date.
+This week, the **Hydra** team continued working on code updates following the reference script implementation. They also made progress in getting ‘dynamically configurable peers’ in the system. The team extended the network layer with a `modifyPeer` function, which allows the addition or removal of network peers dynamically, effectively restarting all network connections. Finally, they worked on adding some meta-information to each page of the user manual to keep the translation up-to-date.
 
   
 ![](https://ucarecdn.com/666622d8-3f65-4613-931e-d38c557f0771/)
