@@ -411,7 +411,7 @@ Cardano boasts of a thriving and very active developer community that has develo
 
 *   [Nami](https://namiwallet.io/) 
     
-*   [Etern](https://ccvault.io/)l
+*   [Eternl](https://ccvault.io/)
     
 *   [Flint](https://flint-wallet.com/)
     
