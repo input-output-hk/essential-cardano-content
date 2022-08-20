@@ -2,9 +2,12 @@
 title: Cardano enviroments
 tags:
   - cardanoenviroments
+  - enviroments
+  - preprod
+  - preview
 url: ""
-image: ""
-image_text: ""
+image: https://ucarecdn.com/e8396f6b-0e05-4c5b-b8b2-0d7aac482d45/
+image_text: Cardano enviroments
 ---
 
 ## Production (Mainnet)
@@ -13,13 +16,13 @@ Usage: Live Production. Only gets official mainnet releases.
 
 Explorer: [https://cexplorer.io/](https://cexplorer.io/)
 
-## Preview Testnet
+## Testnet - preview
 
 Usage: Testing release candidates and mainnet releases. Leads mainnet hard forks by at least 4 weeks.
 
 Explorer: [https://preview.cexplorer.io/](https://preview.cexplorer.io/)
 
-## Preprod Testnet
+## Testnet - preprod
 
 Usage: Testing release candidates and mainnet releases. Forks at approximately same time as mainnet (within an epoch of each other).
 
