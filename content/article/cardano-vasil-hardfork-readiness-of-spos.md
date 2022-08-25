@@ -28,8 +28,12 @@ Red - older 1.34.x
 
 Visualised pools with stake more than 2M (order by stake desc)
 
+## Progress in time
+
+![](https://ucarecdn.com/fb1c2344-54d4-4c89-b2ce-ee95be2db8fe/-/preview/-/format/auto/-/quality/smart/)
+
 ## Wen hardfork?
 
-Several things need to work together - readiness of exchanges, compatible mostly used DAPPs and upgraded pools (75%), then the trigger will be pulled.  
+Several things need to work together - readiness of exchanges, compatible mostly used DAPPs and upgraded pools (75%), then the trigger will be pulled.
 
 The page dedicated to network versions is available as live there: [https://cexplorer.io/versions](https://cexplorer.io/versions)
