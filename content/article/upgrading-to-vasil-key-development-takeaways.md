@@ -43,5 +43,5 @@ Once the ledger is hard forked to Vasil functionality and the transition is comp
 The table below summarizes the improvements:
 
   **![](https://lh5.googleusercontent.com/5sh7lqIlHxhGpTGR9qn9Qyj31fqczSNG6iGgm36xiuhQsx0eN16oTwNcROzefwSonbiXVcVkujzfNPx0XsfVwyKPMHgjIgxUzGFmNlc6EXFozWJolPALRS1gMlm-22d_TV0tbi2jyys3nGin2HHlDso)  
-  \***The results are gained from currently deployed _mainnet_ using the node v.1.34.1  
+  \***The results are gained from currently deployed _mainnet_ using the node v.1.34.1.  
 **\*\***The results are gained from testing Vasil functionality on the _preview testnet_ using the node v.1.35.3.
