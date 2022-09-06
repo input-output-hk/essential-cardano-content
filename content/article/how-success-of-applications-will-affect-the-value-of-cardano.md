@@ -11,4 +11,4 @@ image_text: ""
 
 The difference between Web2 and Web3 is how the revenue is split between the applications and the underlying infrastructure. Web2 applications capture the entire revenue and do not need to share with.
 
-Full article: [https://cexplorer.io/article/how-success-of-applications-will-affect-the-value-of-cardano](https://cexplorer.io/article/how-success-of-applications-will-affect-the-value-of-cardano)
+Read more about Web2 and Web3 in [this article](https://cexplorer.io/article/how-success-of-applications-will-affect-the-value-of-cardano)
