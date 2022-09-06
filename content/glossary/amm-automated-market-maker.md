@@ -1,5 +1,5 @@
 ---
-title: AMM (Automated Market Maker)
+title: AMM: automated market maker
 tags:
   - DEX
   - AMM
