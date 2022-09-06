@@ -1,5 +1,5 @@
 ---
-title: How Success of Applications Will Affect the Value of Cardano
+title: How the success of applications will affect the value of Cardano
 tags:
   - cardano
   - applications
