@@ -1,5 +1,5 @@
 ---
-title: 10 Things That Worry Me About Cardano
+title: 10 things that worry me about Cardano
 tags:
   - Cardano
   - Community
@@ -8,4 +8,4 @@ image: ""
 image_text: ""
 ---
 
-Responding to Flantoshi's Twitter thread "10 Things That Worry Me About Cardano"
+A video responding to Flantoshi's Twitter thread "10 Things That Worry Me About Cardano"
