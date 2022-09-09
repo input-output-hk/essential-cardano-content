@@ -1,5 +1,5 @@
 ---
-title: Hosky Token Breakdown
+title: Hosky token breakdown
 tags:
   - Meme
   - Native tokens
@@ -8,4 +8,4 @@ image: ""
 image_text: ""
 ---
 
-A brief overview of Cardano's biggest meme coin
+A brief overview of Cardano's biggest meme coin.
