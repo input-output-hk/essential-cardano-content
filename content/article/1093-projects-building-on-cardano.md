@@ -7,7 +7,7 @@ image: https://ucarecdn.com/f2026f14-0f95-406b-8a10-f5f46c6008cc/
 image_text: 1093 Projects Building On Cardano
 ---
 
-[https://www.linkedin.com/posts/timbharrison\_defi-community-blockchain-activity-6975452581288366081-4t44](https://www.linkedin.com/posts/timbharrison_defi-community-blockchain-activity-6975452581288366081-4t44?utm_source=share&utm_medium=member_desktop)
+[Tim Harrison's community LinkedIn post](https://www.linkedin.com/posts/timbharrison_defi-community-blockchain-activity-6975452581288366081-4t44?utm_source=share&utm_medium=member_desktop)
 
 After a year of building, and months of testing, we’re now a little more than a week away from the deployment of the Cardano Vasil upgrade (22nd September), which significantly improves and enhances platform capabilities. New Plutus smart contract features and enhancements will enable DApp developers to create novel and exciting DeFi experiences, while diffusion pipelining will offer greater throughput and capacity for anticipated network growth.  
   
