@@ -9,7 +9,7 @@ tags:
   - Hydra
   - Project Catalyst
 url: ""
-image: https://ucarecdn.com/0a2d51e4-695f-4b6f-ab60-711243c45105/
+image: https://ucarecdn.com/675f2fee-6e73-4cf0-b856-22de0a1bf567/
 image_text: a graphic showing weekly development updates on Cardano
 ---
 
@@ -17,7 +17,7 @@ image_text: a graphic showing weekly development updates on Cardano
 
 This week, the **node, ledger, and consensus** teams continued preparing for the Vasil upgrade.
 
-The pre-production environment will hard fork on the 19th, before the mainnet hard fork on the 22nd.
+The PreProduction environment will hard fork on the 19th, before the mainnet hard fork on the 22nd.
 
 The new node v.1.35.3 currently mints over 95% of SPO blocks, with the leading DApp projects also on track for the upgrade. Exchange liquidity is around 55% and good progress continues to be made toward the targeted 80%.
 
@@ -57,9 +57,10 @@ Over the past few months, the team has been quietly building delegation features
 
 In Fund10, all ada holders will be able to delegate their voting power (with no minimum ada holding requirements) to their chosen dReps. If you’d like to review the workshop material, [Quality Assurance DAO (QA-DAO)](https://quality-assurance-dao.github.io/docs/) have published all the documentation and workshop recordings [here](https://quality-assurance-dao.gitbook.io/community-governance-oversight/dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough).
 
-![a Japanese language graphic showing weekly development updates on Cardano](https://ucarecdn.com/bdd126d8-60fd-4dd3-9a5d-50599398799c/)
+  
+![a Japanese language graphic showing weekly development updates on Cardano](https://ucarecdn.com/d0ed64b9-38e0-4861-90fa-43379a8e767f/)
 
-### コアテクノロジー
+コアテクノロジー
 
 **ノード、台帳、コンセンサス**チームはVasilアップグレードの準備を続けました。
 
