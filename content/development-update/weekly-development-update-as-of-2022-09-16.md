@@ -23,11 +23,11 @@ The new node v.1.35.3 currently mints over 95% of SPO blocks, with the leading D
 
 Track the latest status of these metrics through [this ecosystem readiness page](https://iohk.zendesk.com/hc/en-us/articles/7981157534105-Third-party-readiness-for-Vasil-upgrade).
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Daedalus** team tested the new Trezor firmware. The team is adding more decimals in the sync message while syncing the blockchain.
 
-Development work is ongoing on the **Lace** desktop features. The Lace team is finalizing a proof of concept where cardano-wallet generates a typed API for Typescript from Haskell. Since lace-desktop supports multiaddress, the team has implemented an address rotation with unused addresses on the Receive page.
+Development work is ongoing on the Lace desktop features. The **Lace** team is finalizing a proof of concept where cardano-wallet generates a typed API for Typescript from Haskell. Since lace-desktop supports multiaddress, the team has implemented an address rotation with unused addresses on the Receive page.
 
 The **Adrestia** team kept working to get cardano-js-sdk ready for production. They're also working on the implementation of multisig (shared wallets) and "light" mode features in cardano-wallet.
 
@@ -57,7 +57,6 @@ Over the past few months, the team has been quietly building delegation features
 
 In Fund10, all ada holders will be able to delegate their voting power (with no minimum ada holding requirements) to their chosen dReps. If you’d like to review the workshop material, [Quality Assurance DAO (QA-DAO)](https://quality-assurance-dao.github.io/docs/) have published all the documentation and workshop recordings [here](https://quality-assurance-dao.gitbook.io/community-governance-oversight/dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough).
 
-  
 ![a Japanese language graphic showing weekly development updates on Cardano](https://ucarecdn.com/bdd126d8-60fd-4dd3-9a5d-50599398799c/)
 
 ### コアテクノロジー
@@ -70,7 +69,7 @@ In Fund10, all ada holders will be able to delegate their voting power (with no 
 
 最新の進捗状況は[このエコシステム進捗情報ページ](https://iohk.zendesk.com/hc/en-us/articles/7981157534105-Third-party-readiness-for-Vasil-upgrade)をご覧ください（現在英語のみ）。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Daedalus**チームは新しいTrezorファームウェアのテストを行いました。また、ブロックチェーンの同期中の同期メッセージに小数点を追加しています。
 
