@@ -14,6 +14,8 @@ image_text: Cardano's Vasil Upgrade
 
 **Author:** [Tim Harrison](https://iohk.io/en/team/tim-harrison) - VP Community & Ecosystem
 
+**Last updated**: 16th September 2022
+
 **Summary**:
 
 Increased functionality, performance & scalability; find out what the Vasil upgrade will bring to Cardano.
