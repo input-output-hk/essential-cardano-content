@@ -104,9 +104,8 @@ A few things need to happen between now and the agreed hard fork date. The Vasil
 
 ### **Deployment Timeline & Key dates**
 
-\*Here’s a closer look at the technical timelines:\*
+_Here’s a closer look at the technical timelines:_
 
-  
 ![Vasil upgrade timeline](https://ucarecdn.com/23903c67-d1b2-48a5-a3c3-bc6451d37f9c/)
 
 Vasil arrives in the month of Cardano's fifth anniversary, and represents a step-change in the blockchain's capabilities. Yet the regular ada holder using Cardano for transactions and DApps doesn't need to do anything, as it all happens mostly behind the scenes. Cardano’s unique Hard Fork Combinator (HFC) technology makes upgrades for end users a seamless and fuss-free affair. All they have to do is look forward to greater efficiency and faster transaction processing times!
