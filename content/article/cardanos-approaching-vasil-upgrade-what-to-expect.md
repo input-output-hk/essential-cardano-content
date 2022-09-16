@@ -6,14 +6,13 @@ tags:
   - Basho
   - Development
   - Plutus
+  - Vasil
 url: ""
-image: https://ucarecdn.com/58bb2032-7e2c-45f7-b89f-bc18437c4018/
+image: https://ucarecdn.com/7091bd94-a70a-40eb-82f2-9f2757d9c12a/
 image_text: Cardano's Vasil Upgrade
 ---
 
-**Original author:** [Tim Harrison](https://iohk.io/en/team/tim-harrison) - VP Community & Ecosystem
-
-Originally published on [IOHK.io](//IOHK.io): July 4, 2022
+**Author:** [Tim Harrison](https://iohk.io/en/team/tim-harrison) - VP Community & Ecosystem
 
 **Summary**:
 
@@ -105,7 +104,9 @@ A few things need to happen between now and the agreed hard fork date. The Vasil
 
 ### **Deployment Timeline & Key dates**
 
-_Here’s a closer look at the technical timelines:_  
+\*Here’s a closer look at the technical timelines:\*
+
+  
 ![Vasil upgrade timeline](https://ucarecdn.com/23903c67-d1b2-48a5-a3c3-bc6451d37f9c/)
 
 Vasil arrives in the month of Cardano's fifth anniversary, and represents a step-change in the blockchain's capabilities. Yet the regular ada holder using Cardano for transactions and DApps doesn't need to do anything, as it all happens mostly behind the scenes. Cardano’s unique Hard Fork Combinator (HFC) technology makes upgrades for end users a seamless and fuss-free affair. All they have to do is look forward to greater efficiency and faster transaction processing times!
@@ -117,7 +118,5 @@ At the time of writing, approx. exchange liquidity is nearing 60%.  While the C
 The upgrade was named in honor of Cardano ambassador, the [late Vasil St. Dabov](https://www.youtube.com/watch?v=OFKrVcEg0Jc), who sadly passed away in 2021. Vasil was a Bulgarian mathematician, programmer, polymath and conservationist who planted over 10,000 trees in his lifetime, and hosted Cardano’s 2nd anniversary celebrations in his home city of Plovdiv in 2019.
 
 So it is especially poignant – and entirely coincidental – that September 22nd is also the anniversary of the 1908 declaration of [independence of the Bulgarian state](https://www.izbite.com/en/traditions-and-celebrations/traditions-and-celebrations/september-22-day-of-bulgarian-independence#:~:text=On%20September%2022%2C%201908%20in,headed%20by%20Crown%20King%20Ferdinand.) (one of the oldest in Europe) from the Ottoman empire. A ‘happy accident’ for a steadfast and highly deliberate community that imparts additional meaning to this most significant of upgrades.
-
-  
 
 _Stay up to date on the upgrade progress via IOG’s_ [Twitter](https://twitter.com/InputOutputHK) _and_ [YouTube](https://www.youtube.com/c/IohkIo/videos)_. Thanks from all the team at IOG to the Cardano Foundation and the Cardano Community for their continued support. Thank you to Olga Hryniuk, Fernando Sanchez, Kevin Hammond, Nigel Hemsley & Vitor Silva for their support in creating this article._
