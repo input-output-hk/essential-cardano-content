@@ -2,6 +2,13 @@
 title: 6 types of blockchain consensus mechanisms
 tags:
   - consensus mechanism
+  - blockchain
+  - proof of stake
+  - proof of work
+  - proof of useful work
+  - proof of capacity
+  - delegated proof of stake
+  - proof of authority
 url: ""
 image: https://ucarecdn.com/98a12612-b202-4d99-9dc8-94cfcfb03a7c/
 image_text: A header image on 6 types of blockchain consensus mechanisms
