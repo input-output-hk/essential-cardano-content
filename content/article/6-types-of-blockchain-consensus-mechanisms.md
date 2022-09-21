@@ -51,7 +51,7 @@ Here are a few advantages and disadvantages to think about before committing to 
     
 *   [Expensive and specialized hardware](https://corporatefinanceinstitute.com/resources/knowledge/other/bitcoin-mining/) is required to become a miner, thus hindering decentralization.
     
-*   PoW has scalability limitations due to the network's design, which limits block size and creation time. 
+*   PoW has scalability limitations due to the network's design, which limits block size and creation time.
     
 
 ### Proof of stake (PoS)
@@ -173,7 +173,7 @@ The blockchain industry is still relatively new, having existed for not much lon
 
 [Input Output Global](https://iog.io/) is one such example with its recent research into **Ofelimos** – a novel proof of _useful_ work (PoUW) consensus mechanism that seeks to minimize the energy wastage in a PoW mechanism.
 
-At the time of writing, no blockchain uses PoUW and any pros and cons of this consensus mechanism are only theoretical. The table below lists a possible advantage and a presumed disadvantage of Ofelimos.
+At the time of writing, no blockchain uses PoUW and any pros and cons of this consensus mechanism are only theoretical. Here's a possible advantage and a presumed disadvantage of Ofelimos:
 
 **_Advantage_**
 
