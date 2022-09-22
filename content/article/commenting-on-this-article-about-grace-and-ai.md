@@ -4,6 +4,7 @@ tags:
   - "101"
   - AI
   - Medical
+  - Robotics
 url: ""
 image: ""
 image_text: ""
