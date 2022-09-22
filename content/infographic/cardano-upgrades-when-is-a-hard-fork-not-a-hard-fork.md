@@ -9,6 +9,7 @@ tags:
   - upgrade
   - Development
   - Blockchain
+  - NFT
 url: ""
 image: https://ucarecdn.com/f7f6226f-84c3-4158-8345-f9a9343d14af/
 image_text: "Cardano upgrades: when is a hard fork not a hard fork"
