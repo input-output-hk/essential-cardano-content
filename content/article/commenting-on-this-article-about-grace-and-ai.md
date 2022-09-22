@@ -20,3 +20,5 @@ I might be going off track here but, it is an obvious concern for obvious reason
 Also, it would be nice to have a comment section here in this space. Give us a devoted platform to interact... "Apple" Job's style and not so much either, "Orange".
 
 Thank you for reading.
+
+P.S. Congratulations on the Vasil Hard Fork everybody!
