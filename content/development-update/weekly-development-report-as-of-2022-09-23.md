@@ -19,6 +19,8 @@ You can track the latest status of the [ecosystem readiness](https://iohk.zendes
 
 The **ledger** team also worked on era types in terms of organizational consistency, transaction output modules, and improved different parameters for more efficient script and transaction deployment.
 
+The **consensus** team investigated ways for the UTXO HD mempool integration redesign and reviewed code on the alternative implementation of diff-sequences required by the UTXO HD feature. They also completed the Genesis implementation specification draft and started working on epoch boundaries and overhead benchmarking. For more details, see [this update](https://input-output-hk.github.io/cardano-updates/posts/2022-09-20-consensus.html).
+
 ### WALLETS AND SERVICES 
 
 This week, the **Daedalus** team added voluntary-anonymous analytics tracking to the application. They also added and tested the LedgerJS library v.5.1.0.
