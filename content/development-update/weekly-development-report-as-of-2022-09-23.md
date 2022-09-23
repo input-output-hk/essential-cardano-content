@@ -19,8 +19,6 @@ You can track the latest status of the [ecosystem readiness](https://iohk.zendes
 
 The **ledger** team also worked on era types in terms of organizational consistency, transaction output modules, and improved different parameters for more efficient script and transaction deployment.
 
-The **consensus** team continued working on UTXO HD and in-memory reimplementation, added some test coverage reports, and investigated anti-difference prototype benchmarking results. 
-
 ### WALLETS AND SERVICES 
 
 This week, the **Daedalus** team added voluntary-anonymous analytics tracking to the application. They also added and tested the LedgerJS library v.5.1.0.
@@ -74,8 +72,6 @@ Vasilリリースに実装される拡散パイプラインは、さらなるパ
 最新の状況は[エコシステムの進捗情報ページ](https://iohk.zendesk.com/hc/en-us/articles/7981157534105-Third-party-readiness-for-Vasil-upgrade)を、また、[Tim HarrisonによるVasilの解説ブログ](https://iohk.io/jp/blog/posts/2022/07/04/cardano-s-approaching-vasil-upgrade-what-to-expect/)も合わせてご覧ください。
 
 **台帳**チームはまた、組織の一貫性、トランザクションアウトプットモジュール、そして、より効率的なスクリプトとトランザクションデプロイのためのさまざまなパラメーターの改善に関して、開発期の型に取り組みました。
-
-**コンセンサス**チームはUTXO HDとインメモリー再実装の作業を続け、テストカバレッジレポートを追加し、差異防止プロトタイプのベンチマークの結果を調査しました。 
 
 ### ウォレットとサービス 
 
