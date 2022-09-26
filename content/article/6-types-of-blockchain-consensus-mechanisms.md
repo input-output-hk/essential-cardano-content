@@ -14,13 +14,13 @@ image: https://ucarecdn.com/98a12612-b202-4d99-9dc8-94cfcfb03a7c/
 image_text: A header image on 6 types of blockchain consensus mechanisms
 ---
 
-\*日本語版はスクロールダウンしてください
+*日本語版はスクロールダウンしてください*
 
 Blockchains are distributed systems in which records of digital [transactions](https://www.essentialcardano.io/glossary/transaction-tx) are both publicly verifiable and [immutable](https://www.merriam-webster.com/dictionary/immutable). Each new transaction is included in a block along with other recent transactions, and the block is then added to a chain of other blocks (hence the term ‘blockchain’).
 
 For a blockchain to operate successfully, the participants – also known as [nodes](https://www.essentialcardano.io/glossary/node) – need to agree on the validity of each new block. Blockchains can use different variations of different consensus protocols to determine eligibility of block-producing nodes.
 
-ensure continuity, block producers must reach _consensus_ on a particular transaction history. This is achieved by a specific consensus mechanism that guarantees that the participant’s views converge to the same history of events. This ensures trust in the blockchain as a whole, _without the need to trust specific participants_. Mutually distrustful entities can still participate in the blockchain, comfortable in the knowledge that the blockchain itself can arbitrate and verify their actions.
+To ensure continuity, block producers must reach _consensus_ on a particular transaction history. This is achieved by a specific consensus mechanism that guarantees that the participant’s views converge to the same history of events. This ensures trust in the blockchain as a whole, _without the need to trust specific participants_. Mutually distrustful entities can still participate in the blockchain, comfortable in the knowledge that the blockchain itself can arbitrate and verify their actions.
 
 Different protocols provide varying levels of security, scalability, and decentralization. Each consensus mechanism might claim to be the 'best' solution.
 
