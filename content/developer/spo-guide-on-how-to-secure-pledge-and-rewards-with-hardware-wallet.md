@@ -10,6 +10,6 @@ image: ""
 image_text: ""
 ---
 
-This guide describes the process of adding a hardware wallet as a stake pool owner. That way you can secure your pledge and rewards with a hardware wallet like Trezor or Ledger Nano S+/X.
+[This guide](https://ecp.gitbook.io/how-to-guides-for-coincashew-method-cardano-spos/maintenance-and-daily-operations/maintenance-daily-operations-and-best-practices-guides-for-spos/how-to-secure-pledge-with-hardware-wallet) describes the process of adding a hardware wallet as a stake pool owner. That way you can secure your pledge and rewards with a hardware wallet like Trezor or Ledger Nano S+/X.
 
 File names and paths are based on standard Coincashew build of a stake pool.
