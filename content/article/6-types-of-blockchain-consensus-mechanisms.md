@@ -14,6 +14,8 @@ image: https://ucarecdn.com/98a12612-b202-4d99-9dc8-94cfcfb03a7c/
 image_text: A header image on 6 types of blockchain consensus mechanisms
 ---
 
+*日本語版はスクロールダウンしてください*
+
 Blockchains are distributed systems in which records of digital [transactions](https://www.essentialcardano.io/glossary/transaction-tx) are both publicly verifiable and [immutable](https://www.merriam-webster.com/dictionary/immutable). Each new transaction is included in a block along with other recent transactions, and the block is then added to a chain of other blocks (hence the term ‘blockchain’).
 
 For a blockchain to operate successfully, the participants – also known as [nodes](https://www.essentialcardano.io/glossary/node) – need to agree on the validity of each new block. Blockchains can use different variations of different consensus protocols to determine eligibility of block-producing nodes.
@@ -186,3 +188,182 @@ At the time of writing, no blockchain uses PoUW and any pros and cons of this co
     
 
 **Learn more** about this new model by reading this [in-depth article](https://iohk.io/en/blog/posts/2022/08/16/introducing-ofelimos-a-proof-of-useful-work-consensus-protocol/).
+
+# ブロックチェーンコンセンサスメカニズム6種
+
+検証を理解するための初心者向けガイド
+
+ブロックチェーンは分散型システムです。ここでは、デジタル[トランザクション](https://www.essentialcardano.io/glossary/transaction-tx)の記録が公に検証可能かつ[不可変](https://www.merriam-webster.com/dictionary/immutable)です。新しいトランザクションは、他の最近のトランザクションとともにブロックに格納され、その後ブロックは他のブロックからなるチェーンに追加されます（故に「ブロックチェーン」と呼ばれます）。
+
+ブロックチェーンが良好に稼働するためには、参加者（または[ノード](https://www.essentialcardano.io/glossary/node)）が新規ブロックの検証に合意する必要があります。ブロックチェーンはブロック生成ノードの適正を判断するために、さまざまなコンセンサスプロトコルのさまざまなバリエーションを使用することができます。
+
+継続性を確保するために、ブロック生成者は特定のトランザクション履歴について_コンセンサス_に達する必要があります。これは、参加者の見解が同じ履歴に収束することを保証する、特定のコンセンサスメカニズムによって達成されます。これにより、_特定の参加者を信用する必要なく_、ブロックチェーン全体の信頼が保証されます。相互に不信感を抱いている者同士でも、ブロックチェーン自体が自分たちの行動を仲裁して検証できるとわかっているため、安心してブロックチェーンに参加することができます。
+
+プロトコルによって、さまざまなレベルの安全性、スケーラビリティ、分散性が提供されます。それぞれのコンセンサスメカニズムが「ベスト」ソリューションであると主張するでしょう。
+
+ここでは、6つのブロックチェーンプロトコルについて解説します。
+
+**最も普及しているコンセンサスメカニズムとは何でしょうか。**
+
+![](file:///C:/Users/junko/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+
+最も有名なコンセンサスプロトコルは[プルーフオブワーク](https://www.essentialcardano.io/faq/what-is-proof-of-work-pow)（PoW）と[プルーフオブステーク](https://www.essentialcardano.io/glossary/pos-proof-of-stake)（PoS）の2つですが、その複数のバリエーションも含め、他にもプロトコルは存在します。こうしたプロトコルのメカニズムの仕組みと、それぞれの違いについて掘り下げてみましょう。
+
+**プルーフオブワーク（Proof of work：PoW）**
+
+PoWは最初のブロックチェーンコンセンサスメカニズムで、[サトシ・ナカモト](https://nakamotoinstitute.org/)が2009年にこのモデルを[ビットコイン](https://bitcoin.org/en/how-it-works)チェーンに適用しました。
+
+PoWは、適度に難しいパズルを解くというコンピューター（マイナー）間の競争に依存しています。クエリに対する可能な解決策を見つけた次のマイナーは、ブロックチェーン上の新しいブロックを[マイニング](https://www.essentialcardano.io/faq/what-is-mining)します。
+
+[Ergo](https://ergoplatform.org/en/discover/)と[Ethereum Classic](https://ethereumclassic.org/why-classic)もPoWを使用しています。
+
+PoWを使う前に考慮したい利点と欠点は以下の通りです。
+
+**_利点_**
+
+*   PoWチェーンを攻撃するためには、ネットワークの計算力の51%をコントロールすることが必要となる、すなわち、ハッカーにとってプロセスが高額になりすぎる
+    
+
+**_欠点_**
+
+*   クエリの解決に[エネルギーを大量に消費する](https://adan.eu/en/article/blockchain-protocol-energy-footprint)（_すべて_のマイナーがブロックのマイニングのために積極的に競争するため）ことは、PoWチェーンの大きな欠点
+    
+*   マイナーになるためには、[高額な専用ハードウェア](https://corporatefinanceinstitute.com/resources/knowledge/other/bitcoin-mining/)が必要であるため、分散化の妨げとなる
+    
+*   PoWはネットワークの設計上スケーラビリティに限界があるため、ブロックサイズと生成時間が限定される
+    
+
+**プルーフオブステーク（Proof of stake：PoS）**
+
+PoSは、PoWよりも新しく、エネルギー消費が少ない、よりサステナブルなコンセンサスメカニズムです。PoSコンセンサスを通じて、ブロックチェーン資産保有者は、自分のステークをバリデーターに委任することによって、オンチェーントランザクションの保守と検証に参加できます。
+
+2012年に立ち上げられた[Peercoin](https://www.peercoin.net/)は、最初のPoSプロジェクトです。[Cardano](https://docs.cardano.org/)、[Polygon](https://polygon.technology/about)**、**[Tezos](https://tezos.com/learn/what-is-tezos/)は、三大PoS ブロックチェーンです。イーサリアムは最近無事に「マージ」して、PoWからPoSに移りました。
+
+ただし、CardanoのPoSメカニズムは以下の点でイーサリアムとは異なっています。
+
+*   Cardanoネイティブトークン保有者がいつでもステークを引き出したり他のバリデーター（ステークプール）に委任することができる流動ステーキング（ロック無し）が可能
+    
+*   ステーキングを始めるには最初に2.17ADAという少額の資金が必要
+    
+*   意図したとおりに運営しないノードにステーキングしたデリゲーター（委任者）を不当に罰する怖れのあるスラッシング機能はない
+    
+
+[Ouroboros](https://www.essentialcardano.io/glossary/ouroboros)（ウロボロス）はCardanoのPoSコンセンサスプロトコルであり、最初の証明可能安全性を持つPoSプロトコルです。言い換えれば、Ouroborosは攻撃に対し_数学的に検証可能な_安全性を持ちます。このプロトコルは、ステークの51%が誠実な参加者に保有されている限り、安全であることが保障されます。[Google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ouroboros&btnG=)によれば、オリジナルの論文は1400回以上学術的に引用されており、このプロトコルのバリエーションが他のPoSチェーンで使用されています。 
+
+PoSの利点と欠点は以下の通りです。
+
+**_利点_**
+
+*   バリデーターがノードをセットアップするのに[高額な専用の機材は必要ではなく](https://iohk.zendesk.com/hc/en-us/articles/900001208966-Stake-Pool-Minimum-System-Requirements)標準のコンピューターで済むため、分散化が促進される
+    
+*   PoSプロトコルは、バリデーターがリソースを大量に必要とするパズルを解く必要がないため、極めて[エネルギー効率がよく](https://slate.com/technology/2022/03/how-green-is-green-crypto.html)[サステナブル](https://www.essentialcardano.io/glossary/sustainability)
+    
+
+**_欠点_**
+
+*   PoSコンセンサスプロトコルによっては、バリデーターが[少額の資産をロックする](https://cardano.org/stake-pool-operation/)必要があり（プレッジ）、この資産は一定期間ステークできない
+    
+
+注：これはCardanoには当てはまりません
+
+*   ステーク資産の最大額を持つ、あるいは[複数のプール](https://adapulse.io/multiple-stakepool-operators-are-harming-cardano/)を持つバリデーターがトランザクションの検証に大きな影響を及ぼすことで、セキュリティリスクにつながる恐れがある
+    
+*   チェーンによっては、バリデーターが不正確なトランザクションを有効とする、または、他のバリゲーターと一緒にオフラインになる、ネットワークを攻撃するなどした場合に、デリゲーターとバリデーターがステークした資金の一部を失う（スラッシング）リスクがある
+    
+
+注：Cardanoにはスラッシングはありません
+
+*   アクティブなバリデーターが少数のPoSシステムや、一元的にホストされているクラウドサービス（対してベアメタル、セルフホストノード）に過剰に依存しているPoSシステムは分散化が低下する
+    
+
+**委任型プルーフオブステーク（Delegated proof of stake：DPoS）**
+
+DPoSは[PoSコンセンサス](https://emurgo.io/explain-proof-of-stake-pos-dpos/)メカニズムをアレンジしたもので、デリゲートと投票者という2つのアクターによる投票システムを実装しています。
+
+投票者は自分の資産をステーキングしてネットワークでトランザクションを検証するデリゲートを選出します。これは、デリゲートが自身の評判次第でバリデーターとなり、その役に留まることを意味します。1つのミスで排除され、取って代わられることもあり、評判を保つことが重要になります。
+
+[WAX](https://on.wax.io/about-wax/)と[EOS](https://eosnetwork.com/about-us/)はDPoSブロックチェーンです。
+
+DPoSコンセンサスメカニズムの利点と欠点は以下の通りです。
+
+**_利点_**
+
+*   DPoSネットワークではバリデーターの数が限られていることからコンセンサスが迅速であり、トランザクションの高速化が可能 
+    
+*   DPoSコンセンサスプロトコルブロックチェーンでは投票を介して安全性が保たれる。疑わしい行動をするデリゲートは即座に投票で落とされる
+    
+*   DPoSブロックチェーンは非常にエネルギー効率が良い
+    
+
+**_欠点_**
+
+*   DPoSネットワークはバリデーターの数が比較的少数であることから、[51%攻撃](https://www.investopedia.com/terms/1/51-attack.asp)に対してより脆弱となる可能性がある。この攻撃は、チェーンで50%を超えるステークが1個人や1グループにコントロールされると発生する
+    
+*   DPoSブロックチェーンは、バリデーターの数が他に比べて少ないため、他の一部のコンセンサスメカニズムのチェーンよりも中央集権化しやすい
+    
+*   多くのステーク資産を持つ投票者ほど、影響力が増す
+    
+
+**プルーフオブオーソリティ（Proof of authority：PoA）**
+
+PoAはプライベートネットワークに適したコンセンサスモデルです。チェーンのデジタル資産をステーキングする代わりに、信任された委員会が検証を実行します。これは、一般参加型（パーミッションレス）とは対照的です。
+
+PoAコンセンサスメカニズムは、固定されたノードのグループがチェーンを保守します。これらのノードはネットワークを保全しトランザクションを検証する独占権を得ます。
+
+[VeChain](https://docs.vechain.org/)や、[JP MorganのCoin Systems](https://www.jpmorgan.com/onyx/coin-system.htm)といったプライベートネットワークはこのメカニズムを採用しています。
+
+PoAプロトコルの利点と欠点は以下の通りです。
+
+**_利点_**
+
+*   PoSの一種であるこのモデルは[エネルギー効率が良く](https://smartcharging-electricvehicles.medium.com/the-proof-of-authority-algorithm-in-the-energy-market-9535735d8f9c)、高額なハードウェアや高度な計算力を必要としない
+    
+
+**_欠点_**
+
+*   ブロックチェーンは承認された少数のバリデーターによって保守されるため、真の意味で[分散型](https://stackoverflow.com/questions/57465247/does-proof-of-authority-make-blockchain-network-centralized)とは言えない
+    
+*   バリデーターになるには多額のフィアットが必要であるため、ほとんどの人にとってプロセスに参加することは困難
+    
+
+**プルーフオブキャパシティ（Proof of capacity：PoC）**
+
+PoCはプルーフオブスペースとも呼ばれ、マイナーがマイニング権を得てトランザクションを検証するために空きディスク容量を要求されます。PoWと同様に、PoCでは、新ブロックの生成権は、所与のマイナーがPoCシステム専用にする容量（計算力ではなく）に比例して割り当てられます。
+
+PoCを使用しているブロックチェーンには、[Chia](https://www.chia.net/about/)、[Signum](https://signum.network/discover)（旧Burstcoin）、[SpaceMint](https://dci.mit.edu/research/2019/3/20/spacemint-a-cryptocurrency-based-on-proofs-of-space)、[Storj](https://www.storj.io/about)があります。
+
+**_利点_**
+
+*   ブロック生成者はディスク容量に基づいて選定されるため、高い電力消費は必要にならない
+    
+*   PoCは標準ハードディスク対応
+    
+*   ハードウェアをマイニング専用にしか使えないPoWシステムとは異なり、ドライブはマイニングデータの削除後に別のデータストレージとして利用可能
+    
+*   ノードによりハードドライブのアップグレードや専用ハードウェアが必要となることはなく、必要なのはディスク容量のみ
+    
+
+**_欠点_**
+
+*   PoCモデルの人気が高まると、マイナーがブロックを検証するチャンスを高めるために、より大容量のストレージの需要が高まる可能性がある
+    
+
+**プルーフオブユースフルワーク（Proof of useful work：PoUW）：サステナブルな新型コンセンサスメカニズム**
+
+ブロックチェーン業界は、その存在が10年そこそこと、いまだに比較的新しい業界です。組織やブロックチェーンプロジェクトは恒常的にコンセンサスメカニズムの構築方法および改善方法を模索しています。
+
+[Input Output Global](https://iog.io/ja/)最近の研究**Ofelimos**はその好例です。これは、プルーフオブ_ユースフル_ワーク（PoUW）という新しいコンセンサスメカニズムで、PoWメカニズムのエネルギー浪費を最小に抑えることを目指しています。
+
+執筆時点で、PoUWを使用しているブロックチェーンはなく、このコンセンサスメカニズムの利点と欠点は理論上のものです。Ofelimosの予想される利点と欠点は以下の通りです。
+
+**_利点_**
+
+*   PoUWは、PoWの計算にかかるエネルギー消費の少なくとも一部を、複雑な実世界の問題を解決するために使用する。この例としては、DNA塩基配列決定、分散コンピューティング、タンパク質のアンフォールディング、都市計画など
+    
+
+**_欠点_**
+
+*   PoUWモデルでは、解決を要する複雑な現実世界のクエリの継続的なストリームが必要。そうでなければ、PoW同様に計算能力を無駄に損失することになる
+    
+
+この新モデルの**詳細**は、こちらの[解説記事](https://iohk.io/jp/blog/posts/2022/08/16/introducing-ofelimos-a-proof-of-useful-work-consensus-protocol/)を参照してください。
