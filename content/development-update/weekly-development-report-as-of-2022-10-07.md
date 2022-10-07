@@ -37,7 +37,7 @@ Finally, the team executed two Marlowe contracts with Babbage capabilities on ma
 
 ### BASHO (SCALING)
 
-This week, the **Hydra** team set up a four-party Hydra Head for testing purposes, which allowed improving the tangible user interface (TUI) to show logs better and inform about pending transitions. The team also checked the Hydra Head protocol implementation using quickcheck-dynamic simulations. Work is ongoing on the integration of test suites, and the team completed the implementation of the handling time. Finally, they extended [Hydra user documentation](https://hydra.family/head-protocol/docs/getting-started).
+This week, the **Hydra** team set up a four-party Hydra Head for testing purposes. In course of doing this, they improved [Hydra user documentation](https://hydra.family/head-protocol/docs/getting-started) and the terminal user interface (TUI) to show logs better and inform about pending transitions. The team also progressed with the model-based tests of the Head protocol using quickcheck-dynamic. See [this blog post](https://engineering.iog.io/2022-09-28-introduce-q-d/) for more details.
 
 This week, the **Mithril** team worked on the implementation of a hybrid registration mode for the SPOs in the Mithril network (with or without certification). This will allow for a smooth transition in the test environment, which is run with pioneer SPOs. The team also continued designing the new version of the release process. 
 
@@ -81,7 +81,7 @@ As we move into Fund10, there is wide recognition that processes need to mature,
 
 ### Basho( スケーリング)
 
-**Hydra**チームは、テスト用に4パーティHydra Headをセットアップしました。これにより、TUI（タンジブルユーザーインターフェイス）を改良してログ表示を向上させ、保留中の遷移について通知できるようになります。  Hydra Headプロトコル実装をquickcheck-dynamicシミュレーションを使って確認しました。テストスイートの統合作業は進行中です。また、処理時間の実装を完了しました。[Hydraユーザードキュメント](https://hydra.family/head-protocol/docs/getting-started)を拡張しました。
+**Hydra**チームは、テスト目的で4パーティHydra Headをセットアップしました。この過程で、[Hydraユーザードキュメント](https://hydra.family/head-protocol/docs/getting-started)を改訂し、TUI（ターミナルユーザーインターフェイス）を改良してログ表示の強化と保留中の遷移の通知を可能にしました。また、quickcheck-dynamicを使用したHeadプロトコルのモデルベーステストを進めました。詳細は[このブログ記事](https://engineering.iog.io/2022-09-28-introduce-q-d/)をご覧ください。
 
 **Mithril**チームは、MithrilネットワークのSPO登録ハイブリッドモード（認証有りまたは無し）の実装に取り組みました。これにより、パイオニアSPOが実行しているテスト環境のスムーズな遷移が可能になります。リリースプロセスの新バージョンの設計も続けました。MithrilノードCLIとドキュメントの改良にも取り組みました。 
 
