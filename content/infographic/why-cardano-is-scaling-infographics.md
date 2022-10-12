@@ -1,5 +1,5 @@
 ---
-title: Why Cardano is scaling
+title: Why Cardano?
 tags:
   - Cardano
   - Blockchain
