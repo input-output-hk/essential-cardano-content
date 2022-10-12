@@ -94,6 +94,6 @@ Figure 2. Stages of the EVM sidechain deployment
 
 We’ll be talking about the Cardano EVM sidechain in more detail over the coming months.
 
-_Meanwhile, you can request early access to the EVM sidechain alpha testnet, by filling out_ [this form](https://alpha-evm-sidechain.iohk.io/). Check out the EVM sidechain [demo](https://www.youtube.com/watch?v=NFxoi3YItEM) to see a smart contract deployed on testnet!
+Check out the EVM sidechain [demo](https://www.youtube.com/watch?v=NFxoi3YItEM) to see a smart contract deployed on testnet!
 
 _I’d like to thank Kathryn Stacy and Dominika Bukowska for their input and support in creating this blog post._
