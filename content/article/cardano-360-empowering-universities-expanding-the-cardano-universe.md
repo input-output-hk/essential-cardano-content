@@ -2,6 +2,7 @@
 title: "Cardano 360: Empowering Universities, Expanding the Cardano Universe"
 tags:
   - "#EMURGOAcademy"
+  - education
 url: ""
 image: https://ucarecdn.com/8fda9f02-d9ca-45c3-8aeb-a55447fce8e8/
 image_text: Empowering Universities
