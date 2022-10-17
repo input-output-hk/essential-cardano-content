@@ -40,7 +40,7 @@ The **Mithril** team released the hybrid registration for the Mithril network SP
 
 ### GOVERNANCE
 
-This week, **Project Catalyst** continues onboarding successful Fund9 projects. Over 200 projects are now going through a proof of live process, agreeing on project deliverables. 
+This week, **Project Catalyst** continues onboarding successful Fund9 projects. Over 200 projects are now going through a proof of life process, agreeing on project deliverables. 
 
 All successful Fund9 projects, which were awarded over $75k or were in the Products, DApps, and Integrations Challenge now have to go through more rigorous reporting requirements. This involves documenting milestones for the entire project and when these are met, projects will have their next funding tranche unlocked. The community are part of the auditing process, providing feedback on projects’ milestones and working with each project to support their project delivery. 
 
