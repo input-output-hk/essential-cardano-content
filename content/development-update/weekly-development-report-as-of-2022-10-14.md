@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/f659b50d-e0ad-464d-8476-aefeb9f11167/
+image: https://ucarecdn.com/b4ebaeff-023b-4291-a643-9135fb23425c/
 image_text: A graphic displaying highlights from the weekly development report
   as of 2022-10-14
 ---
@@ -40,13 +40,12 @@ The **Mithril** team released the hybrid registration for the Mithril network SP
 
 ### GOVERNANCE
 
-This week, **Project Catalyst** continues onboarding successful Fund9 projects. Over 200 projects are now going through a proof of life process, agreeing on project deliverables. 
+This week, **Project Catalyst** continues onboarding successful Fund9 projects. Over 200 projects are now going through a proof of live process, agreeing on project deliverables. 
 
 All successful Fund9 projects, which were awarded over $75k or were in the Products, DApps, and Integrations Challenge now have to go through more rigorous reporting requirements. This involves documenting milestones for the entire project and when these are met, projects will have their next funding tranche unlocked. The community are part of the auditing process, providing feedback on projects’ milestones and working with each project to support their project delivery. 
 
 As with all projects, funding is always sent in batches, dependent on receiving monthly progress reports, as well as milestone reports (if applicable).
 
-  
 ![A graphic in Japanese displaying highlights from the weekly development report as of 2022-10-14](https://ucarecdn.com/7da7723d-3b38-4370-9c80-588652382928/)
 
 ### コアテクノロジー
@@ -55,7 +54,7 @@ As with all projects, funding is always sent in batches, dependent on receiving 
 
 詳細は[技術開発レポート](https://input-output-hk.github.io/cardano-updates/)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Daedalus**チームは最新のcardano-walletバージョンを次回リリース版に追加しました。これは、最小手数料計算の不具合を解消するものです。 
 
