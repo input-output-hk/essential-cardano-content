@@ -6,13 +6,13 @@ tags:
   - Metadata
   - Non-fungible
 url: https://www.nft-maker.io/
-image: https://ucarecdn.com/b34167c0-345a-4779-baf8-3250ee40d4bb/
-image_text: NFT-MAKER PRO
+image: https://ucarecdn.com/5620afda-194e-4ae3-a21b-de1260978f82/
+image_text: NMKR Logo
 ---
 
-At [NFT-MAKER](https://www.nft-maker.io/), our goal is to make NFTs accessible to everyone.
+At [NMKR](https://www.nft-maker.io/), our goal is to make NFTs accessible to everyone.
 
-This guide is designed for those in our community who have very little programming knowledge. Using this step-by-step process, you will be able to create and Mint your NFT project with ease.
+This guide is designed for those in our community who have very little programming knowledge. Using this step-by-step process, you will be able to create and Mint your NFT project with ease using [NMKR Studio](https://www.nmkr.io/studio).
 
 The aim of this guide is to provide you with the optimal workflow for getting your project live, using our most up to date systems to ensure the best user experience.
 
@@ -22,9 +22,9 @@ You can review the information below or watch the video tutorial (6 minutes).
 
 In every NFT drop, there are 5 high level tasks that need to be completed to ensure everything is technically ready for launch (assuming you have already generated your Art and have your Metadata ready).
 
-*   NFT-MAKER Settings
+*   NMKR Studio Settings
     
-*   NFT-MAKER Config
+*   NMKR Studio Config
     
 *   Upload Base Media (The Art)
     
@@ -35,9 +35,9 @@ In every NFT drop, there are 5 high level tasks that need to be completed to ens
 
 This section is designed to be a very quick overview that will likely save you considerable time and effort when getting your project ready, for a full guide you can review the Step-By-Step Workflow in the [KnowledgeHub](https://docs.nft-maker.io/nft-maker-pro/step-by-step-workflow/1.-preparation).
 
-## NFT-MAKER Settings
+## NMKR Studio Settings
 
-It is logically helpful to think about the NFT-MAKER side in two parts, the first of which is settings and this covers all of the simple backend tasks such as:
+It is logically helpful to think about the NMKR Studio side in two parts, the first of which is settings and this covers all of the simple backend tasks such as:
 
 *   Creating your account
     
@@ -56,11 +56,11 @@ It is logically helpful to think about the NFT-MAKER side in two parts, the firs
 
 These tasks don't take very long and are very simple to do using our user interface but they should remain in your mind throughout the project and should not be left until the 'last minute'.
 
-## NFT-MAKER Config
+## NMKR Studio Config
 
 ### Metadata
 
-The second part of NFT-MAKER will be the more technically complex elements that need to be considered ahead of time to ensure the smoothest possible set up. This is specifically referring to the POLICY ID LOCKING and of course, the Metadata Template.
+The second part of NMKR Studio will be the more technically complex elements that need to be considered ahead of time to ensure the smoothest possible set up. This is specifically referring to the POLICY ID LOCKING and of course, the Metadata Template.
 
 Correctly [configuring the metadata](https://docs.nft-maker.io/nft-maker-pro/step-by-step-workflow/creating-nfts/configuring-metadata) is an important part of constructing your NFTs on the Cardano blockchain. Most projects currently use this as a place to describe the asset such as the serial number, what hat the character is wearing and how many attributes it has.
 
@@ -105,15 +105,16 @@ Once you have your art completed, you need to upload it to our servers so that i
 
 You can upload additional subfiles for \*\*\*, such as:
 
-+ Application: Zip; PDF; Json; GITF+Json, Octet-Stream
-
-+ Audio: Mpeg; Ogg; WAV.
-
-+ Image: Bmp; SVG+XML.
-
-+ Text: HTML; Javascript; Plain Text; CSS.
-
-+ Video: Mpeg; Mp4; Ogg; Quicktime; Webm.
+*   Application: Zip; PDF; Json; GITF+Json, Octet-Stream
+    
+*   Audio: Mpeg; Ogg; WAV.
+    
+*   Image: Bmp; SVG+XML.
+    
+*   Text: HTML; Javascript; Plain Text; CSS.
+    
+*   Video: Mpeg; Mp4; Ogg; Quicktime; Webm.
+    
 
 Further information can be found in the [Uploading Files](https://docs.nft-maker.io/nft-maker-pro/step-by-step-workflow/managing-your-nfts/uploading-files) section.
 
@@ -125,7 +126,7 @@ The best method of uploading your files is through our [SFTP-Server (see guide).
 
 If you plan on using the SFTP server, this next part is essentially the same process as drag-and-drop as you did with the media files, only using the .metadata JSON files rather than the .PNG Image files or other media you might have already uploaded.
 
-Having already completed the NFT-MAKER Metadata Config, you will already have the template and placeholders ready to accept the Metdata and as such can start to upload this.
+Having already completed the NMKR Studio Metadata Config, you will already have the template and placeholders ready to accept the Metdata and as such can start to upload this.
 
 We also have a feature for people who are more familiar with spreadsheets, allowing you to upload the metadata using a single CSV file.
 
