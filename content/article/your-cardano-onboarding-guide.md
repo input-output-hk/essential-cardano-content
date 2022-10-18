@@ -45,8 +45,9 @@ Cardano aims to provide an opportunity for global communities to easily access a
 
 *   [Cardano 101](https://www.essentialcardano.io/article/what-is-cardano-cardano-101): introduces the team behind Cardano, explains Cardano’s commitment to decentralization, covers technology aspects, programming languages, and everything else you might be interested in.
     
+
 You can also go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or [‘New to Cardano’ section on Cardano Docs](https://docs.cardano.org/new-to-cardano/introduction) to learn more about Ouroboros, ada, and what makes Cardano a third-generation blockchain:
-    
+
 *   [What is Cardano?](https://www.essentialcardano.io/faq/what-is-cardano)
     
 *   [What makes Cardano a third-generation blockchain?](https://www.essentialcardano.io/faq/what-makes-cardano-a-third-generation-blockchain)
@@ -120,6 +121,8 @@ Find out more:
     
 *   [LIDO NATION](https://www.lidonation.com/en)
     
+*   [AdaPulse](https://adapulse.io/)
+    
 
 ### Ready for more? Discover decentralized finance (DeFi)
 
@@ -139,6 +142,8 @@ There are a number of community-driven resources gathering information about the
 *   [Built on Cardano](https://builtoncardano.com/)
     
 *   [Cardano crowd](https://cardanocrowd.com/dapps)
+    
+*   [AdaPulse](https://adapulse.io/)
     
 
 ### Non-fungible tokens
