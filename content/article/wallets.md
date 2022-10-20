@@ -61,16 +61,16 @@ Cardano boasts of a thriving and very active developer community that has develo
 
 ## Eternl
 
-[Eternl](https://eternl.io) is a light Cardano wallet that is available as a website, chrome extension, iOS and Android app. A few of their key features are:
+Eternl is a Cardano light wallet which is available as a website/PWA, Chrome browser extension, and mobile app on iOS and Android. Here are a few of their key features:
 
-*   Full Ledger and Trezor Hardware Wallet support
+*   Ledger and Trezor Hardware Wallet support
     
-*   A mobile based DApp Browser
+*   DApp Browser to connect to the Cardano ecosystem
     
-*   Smart auto-management of your wallet structure
+*   Smart UTxO management and Token Fragmentation
     
 
-[Eternl](https://eternl.io) is focused on giving the user full access to Cardano's capabilities, and are actively engaging with the community to keep improving their featureset. (Discord)
+[Eternl](https://eternl.io) is focused on giving the user full access to Cardano's capabilities, and are actively engaging with the community to further improve its features. ([Discord](https://discord.gg/qpvMnz7Wwp))
 
 [Nami](https://namiwallet.io/) 
 
