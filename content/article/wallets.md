@@ -10,7 +10,7 @@ tags:
   - Yoroi
 url: ""
 image: https://ucarecdn.com/15f214f0-9918-4bf0-a50d-cff8b0980ef6/
-image_text: null
+image_text: ""
 ---
 
 ## Wallets
@@ -59,9 +59,20 @@ Other compatible wallets
 
 Cardano boasts of a thriving and very active developer community that has developed a number of compatible wallets. These include:
 
-[Nami](https://namiwallet.io/) 
+## Eternl
 
-[Eterni](https://ccvault.io/)
+[Eternl](https://eternl.io) is a light Cardano wallet that is available as a website, chrome extension, iOS and Android app. A few of their key features are:
+
+*   Full Ledger and Trezor Hardware Wallet support
+    
+*   A mobile based DApp Browser
+    
+*   Smart auto-management of your wallet structure
+    
+
+[Eternl](https://eternl.io) is focused on giving the user full access to Cardano's capabilities, and are actively engaging with the community to keep improving their featureset. (Discord)
+
+[Nami](https://namiwallet.io/) 
 
 [Flint](https://flint-wallet.com/)
 
