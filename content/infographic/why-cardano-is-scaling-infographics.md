@@ -6,6 +6,15 @@ tags:
   - Staking
   - Liquid Staking
   - Consensus
+  - Smart Contracts
+  - EUTXO
+  - Decentralization
+  - Governance
+  - Interoperability
+  - Scalability
+  - Sustainability
+  - Hard fork combinator
+  - Open Source
 url: ""
 image: https://ucarecdn.com/85f3cddc-97e5-4152-9349-3f1b7583c9d0/
 image_text: "Why Cardano? "
@@ -25,9 +34,10 @@ Cardano is a proof-of-stake (PoS) blockchain designed to address the design and 
 
 ![Technology](https://ucarecdn.com/e2314f43-e855-4c30-9590-726e399381d2/)
 
-## Addressing the blockchain trilemma
+## Addressing problems of earlier blockchains
 
-![Addressing the blockchain trilemma ](https://ucarecdn.com/81600333-297a-4f58-960f-81cf2c48ff7f/)
+  
+![why cardano addressing problems of earlier blockchains](https://ucarecdn.com/81659ab6-e58f-424a-bc98-4021159923dc/)
 
 ## Community
 
