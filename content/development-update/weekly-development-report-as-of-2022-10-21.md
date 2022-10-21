@@ -15,9 +15,9 @@ This week, the **ledger** team continued addressing technical debt. The infrastr
 
 Finally, the team is in the process of improving code packaging and versioning.
 
-The **consensus** team worked on adding property tests for different aspects of the UTXO HD prototype (era transitions, mempool, and backing store). Work is also ongoing on Genesis development. The team benchmarked a different version of the ChainSync jumping prototype and inspected performance improvements. 
+The **consensus** team worked on adding property tests for different aspects of the UTXO HD prototype (era transitions, mempool, and backing store), which helped to uncover a bug. Work is also ongoing on Genesis development. The team benchmarked a different version of the ChainSync jumping prototype and inspected its performance. For more details,  [see the technical report here](https://input-output-hk.github.io/cardano-updates/posts/2022-10-18-consensus.html). 
 
-For a detailed overview, see this [technical development report](https://input-output-hk.github.io/cardano-updates/).
+For a detailed overview from the core technolohy teams, see this [technical development report](https://input-output-hk.github.io/cardano-updates/).
 
 ### WALLETS AND SERVICES 
 
