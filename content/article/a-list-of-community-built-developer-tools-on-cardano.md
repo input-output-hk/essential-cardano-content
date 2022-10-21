@@ -14,8 +14,6 @@ Cardano’s community of developers is one of the strongest in blockchain. Many 
 
 Here is a list of available tools and resources:
 
-Category list:
-
 ## NFT creation tools
 
 *   [Anvil](https://ada-anvil.io/): a developer agency that specializes in NFT minting, staking, airdrops, snapshots, and custom services.
