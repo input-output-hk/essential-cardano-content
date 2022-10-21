@@ -2,6 +2,7 @@
 title: A list of community-built developer tools on Cardano
 tags:
   - developertools
+  - developerresources
   - Cardano
   - Blockchain
 url: ""
