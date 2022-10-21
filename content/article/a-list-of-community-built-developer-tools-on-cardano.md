@@ -7,7 +7,7 @@ tags:
   - Blockchain
 url: ""
 image: ""
-image_text: ""
+image_text: null
 ---
 
 Cardano’s community of developers is one of the strongest in blockchain. Many developers build and provide access to the tools and applications needed to improve Cardano.
@@ -34,7 +34,7 @@ Category list:
     
 *   [NFT-MACHINE](https://nft-machine.com): NFT minting platform.
     
-*   [NFT-MAKER](https://www.nft-maker.io/): create, manage, and sell NFTs with NFT-MAKER.IO PRO. We offer backend tools and services for brands, companies, and creators to help them build white-label NFT solutions.
+*   [NMKR](https://www.nft-maker.io/): create, manage, and sell NFTs with NFT-MAKER.IO PRO. We offer backend tools and services for brands, companies, and creators to help them build white-label NFT solutions.
     
 *   [Peppermint](https://twitter.com/Peppermint_nfts): minting service for NFT projects based on the Cardano blockchain.
     
@@ -69,8 +69,6 @@ Category list:
 *   [BlockFrost](http://blockfrost.io): API for Cardano providing abstraction between user and blockchain data.
     
 *   [NFTada.io](//NFTada.io): a web interface for creating assets on Cardano easily. Includes an API for automated printing and distribution.
-    
-*   [CanuckCrypto](https://www.canuckcrypto.com/public): a P2P money transfer platform with escrow Service.
     
 *   [CardanoBI](https://cardanobi.io/): a fully open-source business intelligence API layer for Cardano.
     
