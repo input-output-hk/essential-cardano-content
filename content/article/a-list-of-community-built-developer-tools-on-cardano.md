@@ -212,3 +212,6 @@ Here is a list of available tools and resources:
 *   [Cardano serialization library](https://developers.cardano.org/docs/get-started/cardano-serialization-lib/overview/): a library for serialization & deserialization of data structures used in Cardano’s Haskell implementation of Shelley, along with useful utility functions.
     
 *   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
+    
+
+_This list of tools was compiled thanks to the work done by_ [Anita Jovic](https://iohk.io/en/team/anita-jovic) _and_ [Fernando Sanchez](https://iohk.io/en/team/fernando-sanchez)_._
