@@ -21,7 +21,7 @@ For a detailed overview, see this [technical development report](https://input-o
 
 ### WALLETS AND SERVICES 
 
-The **Daedalus** team released Daedalus v.5.1.0 and is now upgrading dependencies with critical vulnerabilities.
+The **Daedalus** team released Daedalus v.5.1.0 and is now working on dependency upgrades.
 
 Work is ongoing on **Lace** desktop development. The team resolved wallet restoration issues and started moving traces of the bridge component for cardano-wallet. 
 
