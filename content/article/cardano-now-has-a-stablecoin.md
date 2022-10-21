@@ -7,7 +7,7 @@ tags:
   - Interoperability
   - DeFi
 url: ""
-image: https://ucarecdn.com/8ff2671a-2845-420b-bd39-dd1d85102cd4/
+image: https://ucarecdn.com/1dc0d7b9-3031-47a5-be99-a59c99c007d1/
 image_text: Redeemable coin logo
 ---
 
