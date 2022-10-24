@@ -44,9 +44,9 @@ Here is a list of available tools and resources:
 ## Smart contract platforms
 
 *   [Aiken](https://github.com/txpipe/aiken): Cardano smart contract language and toolchain. The current version of the CLI application can only encode/decode Untyped Plutus Core to/from its on-chain format.
-       
+    
 *   [Clear Contracts](https://clearcontracts.io/): Smart contract templates with non-dev UI.
-
+    
 *   [Demeter.run](https://demeter.run/): A cloud environment with all the tools for building your dApp. Cardano Node, DB-Sync, Ogmios with no setup. Ready to code workspaces on Haskell, Plutus, Rust, Python and others. Deploy your dApp as a Docker image. Move to self-hosted at any time.
     
 *   [Marlowe Playground](https://marlowe-finance.io/): an end-to-end financial smart contract development platform.
@@ -216,4 +216,4 @@ Here is a list of available tools and resources:
 *   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
     
 
-_This list of tools was compiled thanks to the work done by_ [Anita Jovic](https://iohk.io/en/team/anita-jovic) _and_ [Fernando Sanchez](https://iohk.io/en/team/fernando-sanchez)_._
+_This list of tools was compiled thanks to the work done by_ [Anita Jovic](https://iohk.io/en/team/anita-jovic) _and_ [Fernando Sanchez](https://iohk.io/en/team/fernando-sanchez)_. The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
