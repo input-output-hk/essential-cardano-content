@@ -40,6 +40,8 @@ Here is a list of available tools and resources:
     
 *   [Stampd.io](//Stampd.io): a set of tools for blockchain timestamping and NFT creation.
     
+*   [Tangocrypto NFT Studio](https://www.tangocrypto.com): An easy-to-use NFT minting platform that allows creators to upload their collections and sell them. It doesn't require any technical knowledge and it gives sellers all the details about the sales, like income, fees, and transactions.
+    
 
 ## Smart contract platforms
 
@@ -162,6 +164,8 @@ Here is a list of available tools and resources:
 *   [TxPipe (parent to Oura)](http://txpipe.io): open-source tools and infrastructure for Cardano developers.
     
 *   [StricaHQ:](https://github.com/StricaHQ/bip32Ed25519#bip32ed25519) a company building open source developer tools for the Cardano ecosystem, powering Cardanoscan, a feature-rich blockchain explorer and analytics platform.
+    
+*   [Tangocrypto](https://www.tangocrypto.com): We are a blockchain infrastructure company providing a platform for innovators with a Cardano API, webhooks for real-time events from the blockchain, and a NFT API for minting at scale.
     
 
 ## Stake pool tooling
