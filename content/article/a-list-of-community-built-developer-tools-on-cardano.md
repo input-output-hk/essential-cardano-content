@@ -137,6 +137,8 @@ Here is a list of available tools and resources:
     
 *   [Boros](https://txpipe.io/): a backend tool that consumes a stream of Cardano transactions from different pluggable sources and takes care of submitting them on-chain in an orderly and resilient fashion.
     
+*   [Cardano-Signer](https://github.com/gitmachtl/cardano-signer): tool to sign and verify data with cardano secret keys, support for CIP-0008 and CIP-0036 (Catalyst Voting/Delegation) signing
+    
 *   [Clarity Protocol](https://clarity-protocol.com/): a multi-chain, accessible, decentralized protocol that supports democratic risk management and due diligence for the tokenized economy.
     
 *   [Dandelion APIs](https://gimbalabs.com/dandelion): a set of developer tools to help with fast integration into the Cardano chain.
@@ -171,6 +173,8 @@ Here is a list of available tools and resources:
 *   [Cardano Light Tools](https://github.com/orpheus-antpool/cardano-light-tools): a set of lightweight tools to operate and maintain a Cardano stake pool.
     
 *   [Guild Operators Suite](https://cardano-community.github.io/guild-operators/): a set of tools and scripts for setting up, managing, and monitoring Cardano stake pools, and also managing tokens and keys.
+    
+*   [Stake Pool Operator Scripts](https://github.com/gitmachtl/scripts): a full collection of shell scripts to operator and maintain a Cardano stake pool, token minting, voting, hardware wallet integration.
     
 *   [Stake Pool Operator Tools Alliance (SPOTA)](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance): SPOTA brings together individuals in the Cardano ecosystem that provide tools for running and maintaining a stake pool.
     
