@@ -1,10 +1,10 @@
 ---
 title: Staking parameters and network optimization – where next for ‘k’ and ‘min fee’?
 tags:
-  - "#Cardano"
-  - "Staking"
-  - "Stake Pool Operator"
-  - "SPO" 
+  - Cardano
+  - Staking
+  - Stake Pool Operator
+  - SPO
 url: ""
 image: https://ucarecdn.com/fcecd1dc-beef-4673-a328-8dbb71256d45/
 image_text: ""
