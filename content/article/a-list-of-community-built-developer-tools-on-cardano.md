@@ -149,6 +149,8 @@ Here is a list of available tools and resources:
     
 *   [Gimbalabs](https://gimbalabs.com/): Gimbalabs aims to mobilize everyone to develop tools and applications through a unique experience of co-creation that facilitates the adoption of the Cardano protocol, reveals new possibilities, and ignites the public imagination worldwide.
     
+*   [Go Ouroboros Network](go-ouroboros-network): A Go client implementation of the Cardano Ouroboros network protocol.
+    
 *   [Joget](https://www.joget.com/): rapidly build enterprise applications and automate workflows, anytime, anywhere.
     
 *   [Koios](https://www.koios.rest/): a consistent query layer for developers to build upon Cardano, with multiple, redundant endpoints that allow for easy scalability.
