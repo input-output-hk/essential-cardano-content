@@ -82,6 +82,8 @@ Here is a list of available tools and resources:
     
 *   [libada-go](https://github.com/Bitrue-exchange/libada-go): Golang library for Cardano network, used and maintained by Bitrue.
     
+*   [Kuber](https://github.com/dquadrant/kuber): Haskell library and json-api for composing Cardano transactions and working with off-chain cardano blockchain.
+    
 *   [Liqwid Developer Portal:Cardano SDK](https://cardano.ideascale.com/a/dtd/333382-48088): JavaScript SDK for Cardano & the Liqwid Protocol.
     
 *   [Ogmios](https://ogmios.dev/): Ogmios is a lightweight bridge interface for cardano-node. It offers a WebSockets API that enables local clients to speak Ouroboros' mini-protocols via JSON/RPC.
