@@ -86,6 +86,8 @@ Here is a list of available tools and resources:
     
 *   [Liqwid Developer Portal:Cardano SDK](https://cardano.ideascale.com/a/dtd/333382-48088): JavaScript SDK for Cardano & the Liqwid Protocol.
     
+*   [Mesh](https://mesh.martify.io): Open-source library that enables Cardano integration in Web Applications, including Plutus, Transaction building, Minting and more. Also comes with beginner-friendly guides.
+    
 *   [Ogmios](https://ogmios.dev/): Ogmios is a lightweight bridge interface for cardano-node. It offers a WebSockets API that enables local clients to speak Ouroboros' mini-protocols via JSON/RPC.
     
 *   [Open CNFT Public Rest API](https://api.opencnft.io/1/): an open-source API for the CNFT tool.
