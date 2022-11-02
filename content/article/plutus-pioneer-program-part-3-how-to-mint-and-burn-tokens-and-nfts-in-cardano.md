@@ -154,8 +154,6 @@ To learn more about the PAB, check [this link](https://plutus-apps.readthedocs.i
 
 **You can find the original article published in** [PeakChain](https://medium.com/peakchain) **Medium Publication under** [this link](https://medium.com/peakchain/building-on-cardano-my-whole-journey-part-7-how-to-mint-and-burn-tokens-and-nfts-in-cardano-49bedd8c8df6)**.**
 
-**To Support this educational content and contribute in the Success of** [PeakChain](https://peak-chain.com/) Automotive Solutions, we appreciate delegating to our [PeakChain Pool](https://www.peakchain-pool.com/), Ticker: \[PKCP\]
-
 **Support also our PeakChain Automotive Solutions in Project Catalyst Fund 9!**
 
 [1- PeakChain Car Wallet Device](https://cardano.ideascale.com/c/idea/414249)
