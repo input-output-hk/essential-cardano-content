@@ -170,7 +170,7 @@ What follows is an example of the random generation of actions (Test Data) using
 
 The next function we should implement in our model is the **_initialState function._**
 
-**_A_**s the name shows, it represents the initial state of our model. In our case, in the beginning, we should set an empty initial state, because no Token Sale will be there at the beginning.
+\*\*_A_\*\*s the name shows, it represents the initial state of our model. In our case, in the beginning, we should set an empty initial state, because no Token Sale will be there at the beginning.
 
 ![](https://ucarecdn.com/068a6030-b767-42c8-920f-e5160c883ca0/-/preview/-/format/auto/-/quality/smart/)
 
@@ -188,9 +188,8 @@ The next function is **precondition**. See “figure 5”
 
 This function is essential because it allows us to set the legality of actions, given a specific model state.
 
-For example, the precondition of triggering a “Start Action” of a Token Sale Contract, is that no Token Sale Contract should have already started. In such an instance, we must know the current State of the Token Sale Contract to check the preconditions for running Actions.  
-  
-  
+For example, the precondition of triggering a “Start Action” of a Token Sale Contract, is that no Token Sale Contract should have already started. In such an instance, we must know the current State of the Token Sale Contract to check the preconditions for running Actions.
+
 Indeed, to know the current State of our Token Sale Contract, we have to specify a helper function called „getTSState‘“, which returns the state of our Token Sale Contract. Hence, given a **ModelState** (as the next point discusses), and the wallet, we try to extract the token sale **TSState** that this wallet runs.
 
 Recall, TSState is a triple consisting of:
@@ -355,8 +354,6 @@ Standards like ISTQB helps a lot when defining such testing strategies.
 \---------------------------------------------------------------------------
 
 **You can find the original article published in** [PeakChain](https://medium.com/peakchain) **Medium Publication under** [this link](https://medium.com/peakchain/building-on-cardano-my-whole-journey-part-12-testing-plutus-smart-contracts-3-3-f0dc3b34f107)**.**
-
-**To Support this educational content and contribute in the Success of** [PeakChain](https://peak-chain.com/) Automotive Solutions, we appreciate delegating to our [PeakChain Pool](https://www.peakchain-pool.com/), Ticker: \[PKCP\]
 
 **Support also our PeakChain Automotive Solutions in Project Catalyst Fund 9!**
 
