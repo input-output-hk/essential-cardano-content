@@ -28,7 +28,6 @@ In this way, we are confident of the transaction status, whether it will pass or
 
 Furthermore, the eUTXO Model ensures high security and scalability, which is delivered through its powerful parallelization. Cardano is built with a “quality-first” approach in mind. After all, focusing on delivering high quality and secure DApps should be the blockchain industry’s number one focus.
 
-  
 ![Figure 1: A visual representation of Transactions, UTXOs, flow of funds and in a eUTXO based model](https://ucarecdn.com/2fd3bc09-5522-4612-8abe-d626a746e36f/)
 
 **Figure 1:** A visual representation of Transactions, UTXOs, flow of funds and in a eUTXO based model
@@ -41,21 +40,18 @@ I encountered challenges when configuring the local development environment on m
 
 Consequently, the developer’s community engagement within the Cardano ecosystem, as well as how helpful they are, is displayed.
 
-  
 ![Figure 2: Starting nix-shell and the playground server in Mac M1: Step by Step guide written by Cardano Community member in Github](https://ucarecdn.com/ab6d8bf3-fba6-4093-a712-edc97ab867c2/)
 
 **Figure 2:** Starting nix-shell and the playground server in Mac M1: Step by Step guide written by Cardano Community member in [Github](https://github.com/renzwo/cardano-Plutus-apps-install-m1/blob/main/README.md)
 
 After configuring the environment, you will gain access to high level Plutus and Marlowe documentation, which runs on a local server using port 8002.
 
-  
 ![Figure 3: High Level Documentation of Plutus and Marlowe running on a local server on port 8002](https://ucarecdn.com/72674382-3828-4022-8ebd-e7511ac0a1ac/)
 
 **Figure 3:** High Level Documentation of Plutus and Marlowe running on a local server on port 8002
 
 The haddock detailed documentation for all the Plutus libraries is also accessible in the same server; this is run locally in port 8002. The extensive documentation provided contains further technical concepts, including clarifications of important Plutus details.
 
-  
 ![Figure 4: Haddock documentation of Plutus running on a local server on port 8002](https://ucarecdn.com/ccd37ae0-c889-4c03-81b3-adfea0883b07/)**Figure 4:** Haddock documentation of Plutus running on a local server on port 8002
 
 **3- Understanding the notion of a Plutus validator**
@@ -76,14 +72,12 @@ In this way, the auction covers an open bid for an NFT. At the end of the biddin
 
 The graph below offers an excellent example of an NFT bid, as well as the flows of the UTXOs.
 
-  
 ![Figure 5: A visual representation of the Transaction, UTXOs, flow of funds and in a eUTXO based model](https://ucarecdn.com/c79510ea-ca33-4ce8-b040-b4872fb2f7dd/)
 
 **Figure 5:** A visual representation of the Transaction, UTXOs, flow of funds and in a eUTXO based model
 
 Beneath I have included a screenshot example of the Plutus validator code. When viewing the code the first time, it may seem tricky to understand, but actually, it isn’t. [Dr. Lars Brünjes](https://iohk.io/en/team/lars-brunjes) uses an excellent pedagogical methodology to comb over each part of the code.
 
-  
 ![Figure 6: The Auction Plutus Validator Script](https://ucarecdn.com/12aef8b5-2dac-4145-9e60-8c6b15bb083d/)
 
 **Figure 6:** The Auction Plutus Validator Script
@@ -92,19 +86,15 @@ When learning Plutus, I also found the number of available tools, which help dev
 
 Using the Plutus playground, you can test different scenarios of the NFT Auction Validator and, after that, check the UTXO flows and the scenario results.
 
-  
 ![Figure 7: Configuring a scenario of the auction validator script in the Plutus playground](https://ucarecdn.com/f9fcabe7-f70b-4399-a547-f7753724f062/)
 
 **Figure 7:** Configuring a scenario of the auction validator script in the Plutus playground
 
-  
 ![Figure 8: Transaction inputs and outputs for a configured scenario of the auction validator script](https://ucarecdn.com/c1fe5f0b-5f5e-4a26-8561-052114c98f9f/)
 
 **Figure 8:** Transaction inputs and outputs for a configured scenario of the auction validator script
 
 **You can find the original article published in** [PeakChain](https://medium.com/peakchain) **Medium Publication under** [this link](https://medium.com/peakchain/building-on-cardano-my-whole-journey-part-5-the-plutus-pioneer-program-understanding-the-874064b216b7)**.**
-
-**To Support this educational content and contribute in the Success of** [PeakChain](https://peak-chain.com/) Automotive Solutions, we appreciate delegating to our [PeakChain Pool](https://www.peakchain-pool.com/), Ticker: \[PKCP\]
 
 **Support also our PeakChain Automotive Solutions in Project Catalyst Fund 9!**
 
