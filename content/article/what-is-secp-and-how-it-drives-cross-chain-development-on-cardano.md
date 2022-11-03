@@ -13,6 +13,8 @@ image: https://ucarecdn.com/a6f4043c-75a6-41ae-a2c2-a7317ae1d7f8/
 image_text: SECP on Cardano
 ---
 
+### New cryptographic primitives are coming to Cardano to enable secure, cross-chain DApp development
+
 Cryptography plays an integral role in the blockchain space, ensuring trust and security between network participants.
 
 DApp developers can use _cryptographic primitives_ as the building blocks to create secure transactions containing sensitive data, develop custom encryption and decryption algorithms, and validate such by using digital signatures.
