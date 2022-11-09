@@ -27,8 +27,8 @@ In three Plutus Testing related articles, we will go over special techniques on 
 
 To show testing strategies, in the [8th lecture of the Plutus Pioneer Program](https://youtube.com/playlist?list=PLNEK_Ejlx3x0UIixvEQG2Y2mmFL6__pEJ), Lars presented a Use Case implementation with State Machine, an example of a Token Sale.
 
-In this example, a seller wants to buy a certain amount of Tokens by locking them in a contract and then setting their prices. In this way, the seller is able to retrieve their locked Tokens at any time.  
-  
+In this example, a seller wants to buy a certain amount of Tokens by locking them in a contract and then setting their prices. In this way, the seller is able to retrieve their locked Tokens at any time.
+
 ![](https://ucarecdn.com/65c4d206-ced7-4d2c-9ef8-99ea6c4ffa1f/-/preview/-/format/auto/-/quality/smart/)
 
 **Figure 1:** Modelization of the flow of UTXOs of the Token Sale Use Case
@@ -199,8 +199,6 @@ Furthermore, we notice another essential function that we will later utilize, th
 \---------------------------------------------------------------------------
 
 **You can find the original article published in** [PeakChain](https://medium.com/peakchain) **Medium Publication under** [this link](https://medium.com/peakchain/building-on-cardano-my-whole-journey-part-10-testing-plutus-smart-contracts-1-3-ee53a8127536)**.**
-
-**To Support this educational content and contribute in the Success of** [PeakChain](https://peak-chain.com/) Automotive Solutions, we appreciate delegating to our [PeakChain Pool](https://www.peakchain-pool.com/), Ticker: \[PKCP\]
 
 **Support also our PeakChain Automotive Solutions in Project Catalyst Fund 9!**
 
