@@ -144,96 +144,17 @@ Third-party operators run one or more validating nodes. The operator provides so
 
 Staking is a necessary feature of every proof-of-stake chain, but every chain has its own rules.
 
-`<table>`
-
-`<tr><strong>`
-
-`<td>Cardano</td>`
-
-`<td>Ethereum 2.0</td> </strong>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>Stake without locking</td>`
-
-`<td>Stake is locked</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>Withdraw any amount any time</td>`
-
-`<td>Withdrawals not yet allowed</td>` 
-
-`</tr>`
-
-`<tr>`
-
-`<td>No minimum stake</td>`
-
-`<td>Minimum 32ETH (except with third-party assistance)</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>Rewards added to stake</td>`
-
-`<td>Rewards added to stake</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>Custody remains with ada holder</td>`
-
-`<td>Custody passes to staking address or third party</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>Select from thousands of stake pools</td>`
-
-`<td>Staker sets up and runs a validating node or pays a third party to run it</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>Little technical expertise required</td>`
-
-`<td>Either technical expertise or a third party</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>No slashing</td>`
-
-`<td>Slashing risk from inactivity or misconfiguration</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>Newly-purchased ada can be automatically staked</td>`
-
-`<td>Newly-purchased ETH is not automatically staked</td>`
-
-`</tr>`
-
-`<tr>`
-
-`<td>No need to disclose any key information</td>`
-
-`<td>Third parties need signing keys</td>`
-
-`</tr>`
-
-`</table>`  
+|Cardano |Ethereum 2.0 |
+|------------|------------------|
+| Stake without locking | Stake is locked |
+| Withdraw any amount any time | Withdrawals not yet allowed |
+| No minimum stake | Minimum 32ETH (except with third-party assistance) |
+| Rewards added to stake | Rewards added to stake |
+| Custody remains with ada holder | Custody passes to staking address or third party |
+| Select from thousands of stake pools | Staker sets up and runs a validating node or pays a third party to run it |
+| Little technical expertise required | Either technical expertise or a third party |
+| No slashing | Slashing risk from inactivity or misconfiguration |
+| Newly-purchased ada can be automatically staked | Newly-purchased ETH is not automatically staked |
+| No need to disclose any key information | Third parties need signing keys |
 
 Nothing in this article is intended to be professional advice, including without limitation, financial, investment, legal or tax advice. Input Output Global, Inc. is not responsible for your use of or reliance on any information in this article_._
