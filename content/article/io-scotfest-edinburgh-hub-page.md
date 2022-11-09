@@ -6,7 +6,7 @@ tags:
   - Input Output
 url: ""
 image: https://ucarecdn.com/96651315-4422-448e-8523-06cc1f0afbd1/
-image_text: IO ScotFest - Edinburgh - November 18 - 20 2022
+image_text: IO ScotFest - Edinburgh - November 18th to 20th 2022
 ---
 
 \[PLACEHOLDER\]
