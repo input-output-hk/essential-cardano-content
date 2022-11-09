@@ -49,7 +49,6 @@ Taking this advice offered a dramatic shift in CH’s life and helped him get in
 
 You may also notice that various Charles Hoskinson quotes from AMAs on YouTube or Twitter were extensively mentioned in the book. These quotes involve fundamental information about Cardano’s philosophy and vision.
 
-  
 ![Cardano roadmap](https://ucarecdn.com/93bb592f-c86d-462c-a978-19ad5f7ed797/)
 
 # **Consensus Mechanism**
@@ -105,8 +104,6 @@ Despite being a Plutus and Atala Prism Pioneer, as well as being active in the C
 \---------------------------------------------------------------------------
 
 **You can find the original article published in** [PeakChain](https://medium.com/peakchain) **Medium Publication under** this [link](https://medium.com/peakchain/cardano-for-the-m-sses-book-review-987a8bccc1fe)**.**
-
-**To Support this educational content and contribute in the Success of** [PeakChain](https://peak-chain.com/) Automotive Solutions, we appreciate delegating to our [PeakChain Pool](https://www.peakchain-pool.com/), Ticker: \[PKCP\]
 
 **Support also our PeakChain Automotive Solutions in Project Catalyst Fund 9!**
 
