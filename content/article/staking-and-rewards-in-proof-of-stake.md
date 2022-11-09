@@ -17,21 +17,15 @@ image_text: Staking and rewards in proof of stake
 
 Cardano's [staking and rewards system](https://www.essentialcardano.io/article/staking-is-the-bedrock-of-cardano) supports and incentivizes the blockchain's decentralization, and is a fundamental component of Cardano's operations. By staking some (or all) of their ada, Cardano users become active participants in the network's sustainability – and staking in Cardano is safe with no upfront or out of pocket costs.
 
-  
-
 This post compares staking in Cardano with staking in Ethereum 2.0, using technical information from public sources. The intention is to provide a convenient summary of what’s publicly available, with some references for readers to do their own research.
 
-# Staking on Cardano
+## Staking on Cardano
 
 [Decentralization](https://www.essentialcardano.io/glossary/decentralization) was the motivation and the main achievement of the Shelley development phase in Cardano in 2020. Ada holders can [delegate](https://www.essentialcardano.io/faq/what-is-stake-delegation) their ada to stake pools run by [stake pool operators](https://www.essentialcardano.io/faq/who-is-a-stake-pool-operator-spo) (SPOs). There are now [thousands of stake pools](https://www.statista.com/statistics/1279280/cardano-ada-biggest-staking-pool-groups/) in operation. 
 
 [Five years](https://roadmap.cardano.org/en/byron/) of experience and [millions of wallet addresses](https://cardanofeed.com/cardano-active-wallets-skyrocket-past-3-million-a-striking-1000-year-on-year-increase-45346) have demonstrated the security and decentralization of Cardano’s [Ouroboros proof-of-stake consensus](https://www.essentialcardano.io/article/from-classic-to-genesis-the-implementations-of-ouroboros-explained) at scale and volume.
 
-  
-
 Anyone who holds some ada can run a stake pool on a computer that is dedicated to the task. Running a stake pool does require some technical knowledge. [This page from](https://cardano.org/stake-pool-operation/) [Cardano.org](//Cardano.org) gives more details.
-
-  
 
 An easier and more popular option for an ada holder is to delegate ada to a stake pool. This description of staking in Cardano is from the viewpoint of a delegator:
 
@@ -58,8 +52,6 @@ Figure 1 shows the relevant activities in a single thread of staking. Every epoc
 
 Figure 1. The sequence of staking in Cardano
 
-  
-
 The main implications of this system are:
 
 *   Delegated stake earns rewards that compound at five-day intervals
@@ -77,21 +69,19 @@ The main implications of this system are:
 *   There is no cost to delegators because the protocol rewards the pool operator directly.
     
 
-# Staking on Ethereum
+## Staking on Ethereum
 
 Transforming into a proof-of-stake chain was the main motivation for ETH2.0 and the Merge. 
 
 Ethereum does not natively support delegation, so unless the holder runs their own validating node, they must choose between staking as a service and pooled staking. These options are explored below. In all cases, the stake must be transferred from the ETH holder’s wallet to the staking address, so the holder loses control of their assets.
 
-  
-
 The Ethereum protocol has the ability to penalize a validator that acts against the network by reducing their stake. The process is called **slashing**, and can result in the exclusion of a validator from the network. [More information](https://medium.com/prysmatic-labs/eth2-slashing-prevention-tips-f6faa5025f50).
 
-## Solo home staking in Ethereum
+### Solo home staking in Ethereum
 
 This option is preferable for the safety of the staker and the security of the network. This is similar to running a stake pool in Cardano.
 
-[More information.](https://ethereum.org/en/staking/solo/)
+[More information about solo staking](https://ethereum.org/en/staking/solo/).
 
 *   A minimum of 32ETH must be staked 
     
@@ -107,12 +97,11 @@ This option is preferable for the safety of the staker and the security of the n
     
 *   If the validating node is misconfigured or goes offline, there is a danger of slashing.
     
-
-## Staking as a service in Ethereum
+### Staking as a service in Ethereum
 
 Third-party operators run the validating node for a fee.
 
-[More information](https://ethereum.org/en/staking/saas/).
+[More information about staking as a service](https://ethereum.org/en/staking/saas/).
 
 *   The same constraints as for solo staking apply to stake and withdrawals
     
@@ -121,13 +110,12 @@ Third-party operators run the validating node for a fee.
 *   The third-party operator needs the holder’s signing keys
     
 *   Third-party operators are not free.
-    
 
-## Pooled staking in Ethereum
+### Pooled staking in Ethereum
 
 Third-party operators run one or more validating nodes. The operator provides software that allows ETH holders to stake amounts smaller than 32ETH.
 
-[More information](https://ethereum.org/en/staking/pools/).
+[More information about pooled staking](https://ethereum.org/en/staking/pools/).
 
 *   The operator may provide a smart contract and a special token that represents the staked ETH
     
@@ -139,8 +127,7 @@ Third-party operators run one or more validating nodes. The operator provides so
     
 *   Third-party operators are not free.
     
-
-# Conclusion
+## Conclusion
 
 Staking is a necessary feature of every proof-of-stake chain, but every chain has its own rules.
 
@@ -157,4 +144,4 @@ Staking is a necessary feature of every proof-of-stake chain, but every chain ha
 | Newly-purchased ada can be automatically staked | Newly-purchased ETH is not automatically staked |
 | No need to disclose any key information | Third parties need signing keys |
 
-Nothing in this article is intended to be professional advice, including without limitation, financial, investment, legal or tax advice. Input Output Global, Inc. is not responsible for your use of or reliance on any information in this article_._
+*Nothing in this article is intended to be professional advice, including without limitation, financial, investment, legal or tax advice. Input Output Global, Inc. is not responsible for your use of or reliance on any information in this article.*
