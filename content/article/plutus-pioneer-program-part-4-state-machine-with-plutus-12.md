@@ -139,8 +139,6 @@ As said previously, in the next article "Plutus Pioneer Program - Part 4: State 
 
 **You can find the original article published in** [PeakChain](https://medium.com/peakchain) **Medium Publication under** [this link](https://medium.com/peakchain/building-on-cardano-my-whole-journey-part-7-state-machines-with-plutus-1-2-96a6db743fda)**.**
 
-**To Support this educational content and contribute in the Success of** [PeakChain](https://peak-chain.com/) Automotive Solutions, we appreciate delegating to our [PeakChain Pool](https://www.peakchain-pool.com/), Ticker: \[PKCP\]
-
 **Support also our PeakChain Automotive Solutions in Project Catalyst Fund 9!**
 
 [1- PeakChain Car Wallet Device](https://cardano.ideascale.com/c/idea/414249)
