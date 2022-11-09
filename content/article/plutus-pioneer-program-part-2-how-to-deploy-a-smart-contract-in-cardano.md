@@ -17,7 +17,7 @@ image: https://ucarecdn.com/31fa67c9-d517-4eb9-87bc-9739d87fc78e/
 image_text: ""
 ---
 
-This blog post will demonstrate how to simulate the execution of a smart contract and how to **“**deploy“ it to the testnet through using various tools. Using the term “deploying” a smart contract is not accurate in the context of the Cardano Blockchain. We will explain the reason behind it later.
+This blog post will demonstrate how to simulate the execution of a smart contract and how to \*\*“\*\*deploy“ it to the testnet through using various tools. Using the term “deploying” a smart contract is not accurate in the context of the Cardano Blockchain. We will explain the reason behind it later.
 
 I will try to break down technical concepts using straightforward and simple language. My goal is to make these technical terms understandable for all audiences. Ultimately, this blog post is a worthwhile not only for DApps developers but also for non-technical Cardano community members. After all, the knowledge here will empower your faith in Cardano when you discover Plutus’ various powerful tools, helping every developer to build scalable and secure DApps.
 
@@ -27,8 +27,8 @@ In this blog post, we will present the concepts explained in the [third lecture 
 
 There are two ways to simulate a smart contract’s execution. The first method by the Plutus playground was outlined in the [previous blog post](https://medium.com/peakchain/building-on-cardano-my-whole-journey-part-5-the-plutus-pioneer-program-understanding-the-874064b216b7).
 
-However, the second method involves using the emulator trace monad. Contrary to the Plutus Playground, where you should write and configure the simulated scenario by hand, the emulator trace monad forces you to script the simulator tab.  
-  
+However, the second method involves using the emulator trace monad. Contrary to the Plutus Playground, where you should write and configure the simulated scenario by hand, the emulator trace monad forces you to script the simulator tab.
+
 ![](https://ucarecdn.com/0bc13143-642d-441f-b035-c367eb928eba/-/preview/-/format/auto/-/quality/smart/)  
 **Figure 1:** Overview of final state of the wallets after the smart contract execution using the emulator trace monad
 
@@ -121,8 +121,6 @@ Lars effectively explains this method in lecture 6 of the Plutus Pioneer Program
 To know more about the PAB, you can check [this link](https://plutus-apps.readthedocs.io/en/latest/plutus/explanations/pab.html).
 
 **You can find the original article published in** [PeakChain](https://medium.com/peakchain) **Medium Publication under** [this link](https://medium.com/peakchain/building-on-cardano-my-whole-journey-part-6-the-plutus-pioneer-program-how-to-deploy-a-b51bd6e99d05)**.**
-
-**To Support this educational content and contribute in the Success of** [PeakChain](https://peak-chain.com/) Automotive Solutions, we appreciate delegating to our [PeakChain Pool](https://www.peakchain-pool.com/), Ticker: \[PKCP\]
 
 **Support also our PeakChain Automotive Solutions in Project Catalyst Fund 9!**
 
