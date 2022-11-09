@@ -15,4 +15,4 @@ image_text: Cardano compared to Ethereum
 
 Staking is a necessary feature of every proof-of-stake chain, but every chain has its own rules.
 
-Staking works differently in Cardano.
+Staking works differently in Cardano. For more details, read [this article](https://www.essentialcardano.io/article/staking-and-rewards-in-proof-of-stake).
