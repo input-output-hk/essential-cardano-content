@@ -180,8 +180,6 @@ But, Lenses solve this issue. In fact, it provides a concept similar to “acces
 
 **You can find the original article published in** [PeakChain](https://medium.com/peakchain) **Medium Publication under** [this link](https://medium.com/peakchain/building-on-cardano-my-whole-journey-part-11-testing-plutus-smart-contracts-2-3-4af6e04507f8)**.**
 
-**To Support this educational content and contribute in the Success of** [PeakChain](https://peak-chain.com/) Automotive Solutions, we appreciate delegating to our [PeakChain Pool](https://www.peakchain-pool.com/), Ticker: \[PKCP\]
-
 **Support also our PeakChain Automotive Solutions in Project Catalyst Fund 9!**
 
 [1- PeakChain Car Wallet Device](https://cardano.ideascale.com/c/idea/414249)
