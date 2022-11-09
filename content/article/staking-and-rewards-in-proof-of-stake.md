@@ -97,6 +97,7 @@ This option is preferable for the safety of the staker and the security of the n
     
 *   If the validating node is misconfigured or goes offline, there is a danger of slashing.
     
+
 ### Staking as a service in Ethereum
 
 Third-party operators run the validating node for a fee.
@@ -110,6 +111,7 @@ Third-party operators run the validating node for a fee.
 *   The third-party operator needs the holder’s signing keys
     
 *   Third-party operators are not free.
+    
 
 ### Pooled staking in Ethereum
 
@@ -127,21 +129,12 @@ Third-party operators run one or more validating nodes. The operator provides so
     
 *   Third-party operators are not free.
     
+
 ## Conclusion
 
 Staking is a necessary feature of every proof-of-stake chain, but every chain has its own rules.
 
-|Cardano |Ethereum 2.0 |
-|------------|------------------|
-| Stake without locking | Stake is locked |
-| Withdraw any amount any time | Withdrawals not yet allowed |
-| No minimum stake | Minimum 32ETH (except with third-party assistance) |
-| Rewards added to stake | Rewards added to stake |
-| Custody remains with ada holder | Custody passes to staking address or third party |
-| Select from thousands of stake pools | Staker sets up and runs a validating node or pays a third party to run it |
-| Little technical expertise required | Either technical expertise or a third party |
-| No slashing | Slashing risk from inactivity or misconfiguration |
-| Newly-purchased ada can be automatically staked | Newly-purchased ETH is not automatically staked |
-| No need to disclose any key information | Third parties need signing keys |
+  
+![](https://ucarecdn.com/02fa1ad9-231e-4d4f-88ca-e0ac0db87e10/)
 
-*Nothing in this article is intended to be professional advice, including without limitation, financial, investment, legal or tax advice. Input Output Global, Inc. is not responsible for your use of or reliance on any information in this article.*
+_Nothing in this article is intended to be professional advice, including without limitation, financial, investment, legal or tax advice. Input Output Global, Inc. is not responsible for your use of or reliance on any information in this article._
