@@ -1,7 +1,7 @@
 ---
-title: "Astarter: Introducing a Framework for Merge Staking Protocol Rewards"
+title: "Astarter: introducing a framework for merge staking protocol rewards"
 tags:
-  - "#cardano"
+  - Cardano
   - Emurgo
   - ada
   - ASTARTER
@@ -10,11 +10,11 @@ image: https://ucarecdn.com/bf8c520a-7a6d-4520-b41c-ea76842e4269/
 image_text: Merge Staking Protocol Rewards
 ---
 
-There are many reasons for Astarter developing a two-stage ISPO, for instance, to incentivize both ADA and AA staking for Cardano and Astarter ecosystems, incentive reward for participation in the ecosystems, and to create an innovative way to fundraise and invest in projects with minimal risk.
+There are many reasons for Astarter to develop a two-stage ISPO. For instance, to incentivize both ada and AA staking for Cardano and Astarter ecosystems, incentive reward for participation in the ecosystems, and to create an innovative way to fundraise and invest in projects with minimal risk.
 
 As an ISPO distribution method, MSP distributes project tokens in a more targeted way than any other ISPO while at the same time addressing issues relating to value addition and utility.
 
-The first stage of the Astarter ISPO that enables the community to accumulate an assignment of native AA tokens from delegating ADA to Astarter AA1 Stake pool is underway. The accumulated AA tokens may be utilized in the second stage of the ISPO, Merge Staking.
+The first stage of the Astarter ISPO that enables the community to accumulate an assignment of native AA tokens from delegating ada to Astarter AA1 Stake pool is underway. The accumulated AA tokens may be utilized in the second stage of the ISPO, Merge Staking.
 
 This article focuses primarily on the second stage of Astarter ISPO, Merge Staking Protocol (MSP) rewards. To read more about the first stage of the ISPO, follow [this link](https://medium.com/astarter/astarter-ispo-stage1-launch-1350f4e36c5).
 
@@ -35,19 +35,19 @@ In addition to the Astarter ISPO AA1 stake pool, we also introduced two MSP prog
 
 In regards to the second stage of the ISPO Merge Staking Protocol rewards, there is a two-step process to earning AA through Merge Staking as follows;
 
-1) Delegation of ADA to Astarter AA1 or an MSP pool, This is ADA delegated to earn Cardano protocol staking rewards or other rewards depending on the chosen pool.
+1) Delegation of ada to Astarter AA1 or an MSP pool, This is ada delegated to earn Cardano protocol staking rewards or other rewards depending on the chosen pool.
 
 2) Staking AA in the Astarter staking ecosystem, the Astarter staking ecosystem is multifaceted in that it has different rewards and incentives specific to each core product which adds to the AA token utility.
 
-The combination of 1) ADA delegated and 2) AA Staked in the steps above is a combined requirement for Merge Staking AA rewards. Merge staking AA rewards come on top of any delegation or staking reward in 1 and 2 above.
+The combination of 1) ada delegated and 2) AA Staked in the steps above is a combined requirement for Merge Staking AA rewards. Merge staking AA rewards come on top of any delegation or staking reward in 1 and 2 above.
 
-While the exact formula is not as simple as ADA Delegation + AA Stake, the combination of the two produces a computation of a virtual stake.
+While the exact formula is not as simple as ada Delegation + AA Stake, the combination of the two produces a computation of a virtual stake.
 
 `AvgStake x N = Virtual Stake`
 
 `AvgStake` is the average amount of AA the user has staked within the Astarter ecosystem.
 
-`N` is the sum of multipliers and includes a merge staking multiplier incremental to the combined ADA delegation to Astarter AA1 or an MSP pool and AA stake within the Astarter ecosystem.
+`N` is the sum of multipliers and includes a merge staking multiplier incremental to the combined ada delegation to Astarter AA1 or an MSP pool and AA stake within the Astarter ecosystem.
 
 This adaptive approach allows for additional multipliers to increase the Virtual Stake and subsequent AA rewards earned; for example, early participation, duration, NFT, or Multi Token multipliers.
 
@@ -67,7 +67,7 @@ To calculate participant AA rewards per epoch during stage 2 Merge Staking. The 
 
 **Example Scenario**
 
-> **_An early participant delegating 1000 ADA to Astarter AA1 or an MSP pool has collected an AWL NFT and holds it in the same delegating wallet. When merge staking begins, the participant stakes 500 AA in the Astarter staking ecosystem._**
+> **_An early participant delegating 1000 ada to Astarter AA1 or an MSP pool has collected an AWL NFT and holds it in the same delegating wallet. When merge staking begins, the participant stakes 500 AA in the Astarter staking ecosystem._**
 > 
 > **_The 500 AA stake multiplied by 2.274 (the sum of multipliers) gives a Virtual Stake of 1,137_**
 > 
@@ -96,29 +96,29 @@ The maximum bonus multiplier, at least for now, is four and includes the followi
 
 **Basic Bonus Multiplier**
 
-This Multiplier gets granted to all Merge Skating participants delegating ADA to an MSP pool and Staking AA in the Astarter staking ecosystem.
+This Multiplier gets granted to all Merge Skating participants delegating ada to an MSP pool and Staking AA in the Astarter staking ecosystem.
 
 **Merge Staking multiplier**
 
-The Merge Staking multiplier is relative to the combined ADA/AA stake. Delegated ADA and staked AA thresholds are combined to achieve the merge staking multiplier.
+The Merge Staking multiplier is relative to the combined ada/AA stake. Delegated ada and staked AA thresholds are combined to achieve the merge staking multiplier.
 
-After the stage 2 Merge Staking starts, participants will earn MSP AA rewards based on the amount of ADA delegation to Astarter AA1 or a participating MSP Pool and the amount of AA staked in the Astarter staking ecosystem.
+After the stage 2 Merge Staking starts, participants will earn MSP AA rewards based on the amount of ada delegation to Astarter AA1 or a participating MSP Pool and the amount of AA staked in the Astarter staking ecosystem.
 
-More ADA delegated to Astarter AA1 or an MSP pool, and the more AA staked to the Astarter ecosystem, will increase the Merge Staking multiplier.
+More ada delegated to Astarter AA1 or an MSP pool, and the more AA staked to the Astarter ecosystem, will increase the Merge Staking multiplier.
 
 **Earlybird Multiplier**
 
 The first early participation bonus applies to delegators participating from epoch 366–369 with a sustained average delegation over a specific time after stage 2 Merge Staking starts.
 
-More ADA delegated to Astarter AA1 or our MSP pools during a period will give a higher Earlybird multiplier.
+More ada delegated to Astarter AA1 or our MSP pools during a period will give a higher Earlybird multiplier.
 
 **NFT Multipliers**
 
 Astarter AWLs NFT series is packed with ISPO and Merge Staking Protocol utility, and while still being developed, the basic principle of this utility is thus;
 
-Holding Astarter NFTs in the same wallet that is delegating ADA to Astarter AA1 or an MSP pool and Staking AA in the Astarter ecosystem will result in an NFT multiplier. NFT Multipliers are specific to Astarter NFT collections and are awarded based on the number of NFTs held up to a maximum.
+Holding Astarter NFTs in the same wallet that is delegating ada to Astarter AA1 or an MSP pool and Staking AA in the Astarter ecosystem will result in an NFT multiplier. NFT Multipliers are specific to Astarter NFT collections and are awarded based on the number of NFTs held up to a maximum.
 
-To conclude this article with a heads up on the first NFT multiplier coming to the Astarter ISPO AA1 pool soon! [Learn how to participate in the Astarter ISPO stage 1](https://medium.com/astarter/how-to-participate-in-astarter-ispo-stage-1-cf14aa3f235e) delegating ADA before epoch 380!
+To conclude this article with a heads up on the first NFT multiplier coming to the Astarter ISPO AA1 pool soon! [Learn how to participate in the Astarter ISPO stage 1](https://medium.com/astarter/how-to-participate-in-astarter-ispo-stage-1-cf14aa3f235e) delegating ada before epoch 380!
 
 Thank you for reading.
 
