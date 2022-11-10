@@ -1,5 +1,5 @@
 ---
-title: Top 3 Reasons Cardano Blockchain May Need a Stablecoin Backed by Dollars
+title: Top 3 reasons the Cardano blockchain may need a stablecoin backed by dollars
 tags:
   - Stablecoin
 url: ""
@@ -11,19 +11,19 @@ image_text: A picture about Cardano stablecoins.
 
 The Cardano blockchain, is an open-source and decentralized blockchain platform driven by a research-first approach. Cardano is considered to be one of the biggest environmentally-friendly blockchain networks in the industry due to its algorithm.
 
-ADA, the native cryptocurrency to Cardano, was developed to provide permissionless financial access to anyone and everyone. To date, there are more than [3.9 million active ADA wallet addresses](https://messari.io/asset/cardano/metrics/all) signaling its global reach. However, the price volatility of ADA, and other cryptocurrencies in general, potentially restricts users from taking full advantage of the permissionless and global nature of Cardano, such as not being able to use crypto assets as a store of value or medium of exchange.
+Ada, the native cryptocurrency to Cardano, was developed to provide permissionless financial access to anyone and everyone. To date, there are more than [3.9 million active ada wallet addresses](https://messari.io/asset/cardano/metrics/all) signaling its global reach. However, the price volatility of ada, and other cryptocurrencies in general, potentially restricts users from taking full advantage of the permissionless and global nature of Cardano, such as not being able to use crypto assets as a store of value or medium of exchange.
 
 Some people believe that the solution to this problem is stablecoins, digital currencies that are pegged to a US dollar or other fiat currency.  Because stablecoins are backed by a safe asset, like the dollar, this should contrast cryptocurrencies that aren’t backed by anything and lead to wild price fluctuations. 
 
 For more on stablecoins and the different stablecoin approaches [see Stablecoins: What Are They, and How Do They Work?](https://cardanoclan.com/news/stablecoins-what-are-they-and-how-do-they-work)
 
-For this blog, we’ll focus on stablecoins backed by dollars and provide reasons why Cardano Blockchain may need this stablecoin approach. But first, a little more on stablecoins backed by dollars, otherwise known as fiat collateralized stablecoins.
+For this blog, we’ll focus on stablecoins backed by dollars and provide reasons why Cardano may need this stablecoin approach. But first, a little more on stablecoins backed by dollars, otherwise known as fiat collateralized stablecoins.
 
 ## Fiat collateralized stablecoins
 
-[According to Cardano Clan](https://cardanoclan.com/news/stablecoins-what-are-they-and-how-do-they-work), with a market cap of $130B+, stablecoins backed by dollars are the most dominantly-used stablecoins making up almost 90% of the existing stablecoins in the market today. Some of the most popular stablecoins of this type are Tether tokens (USDt), USD Coin (USDC), and Binance USD (BUSD). Fiat-collateralized stablecoins are fully backed by cash or cash equivalents and maintained by centralized issuers like Tether or Circle. These issuers are audited regularly to ensure the integrity of the reserves.
+[According to Cardano Clan](https://cardanoclan.com/news/stablecoins-what-are-they-and-how-do-they-work), with a market cap of $130B+, stablecoins backed by dollars are the most dominantly-used stablecoins making up almost 90% of the existing stablecoins in the market today. Some of the most popular stablecoins of this type are Tether tokens (USDT), USD Coin (USDC), and Binance USD (BUSD). Fiat-collateralized stablecoins are fully backed by cash or cash equivalents and maintained by centralized issuers like Tether or Circle. These issuers are audited regularly to ensure the integrity of the reserves.
 
-As smart contracts and DeFi on Cardano Blockchain grows, a stablecoin backed by dollars could be well suited to become one of the most important tools for our ecosystem. Let’s unpack some of the reasons why.
+As smart contracts and DeFi on Cardano grows, a stablecoin backed by dollars could be well suited to become one of the most important tools for our ecosystem. Let’s unpack some of the reasons why.
 
 ## Top 3 reasons Cardano may need a stablecoin backed by dollars
 
@@ -44,13 +44,13 @@ Because every approach has strengths and weaknesses, maintaining a balance towar
 
 ## Connect with EMURGO 
 
-Have more reasons why a Cardano Stablecoin backed by dollars would be great for the ecosystem?  We’d love to hear from you. Follow EMURGO’s official channels listed below for up-to-date information and announcements about EMURGO and Cardano.
+Have more reasons why a Cardano stablecoin backed by dollars would be great for the ecosystem?  We’d love to hear from you. Follow EMURGO’s official channels listed below for up-to-date information and announcements about EMURGO and Cardano.
 
 **About EMURGO**
 
 *   Official Homepage: [emurgo.io](//emurgo.io)
     
-*   Twitter (Global): [@EMURGO\_io](https://twitter.com/emurgo_io)
+*   Twitter (Global): [@emurgo_io](https://twitter.com/emurgo_io)
     
 *   YouTube: [EMURGO channel](https://www.youtube.com/channel/UCgFQ0hHuPO1QDcyP6t9KZTQ)
     
@@ -58,6 +58,6 @@ Have more reasons why a Cardano Stablecoin backed by dollars would be great for 
     
 *   Facebook: [@](https://www.facebook.com/emurgo.io/)[EMURGO.io](//EMURGO.io)
     
-*   Instagram: [@EMURGO\_io](https://www.instagram.com/emurgo_io/)
+*   Instagram: [@emurgo_io](https://www.instagram.com/emurgo_io/)
     
-*   LinkedIn: [@EMURGO\_io](https://www.linkedin.com/company/emurgo_io/)
+*   LinkedIn: [@emurgo_io](https://www.linkedin.com/company/emurgo_io/)
