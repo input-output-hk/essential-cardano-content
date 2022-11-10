@@ -1,5 +1,5 @@
 ---
-title: Metaverse Supply Chains | Cornucopias
+title: Metaverse supply chains | Cornucopias
 tags:
   - Metaverse
   - NFT
