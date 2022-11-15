@@ -9,11 +9,17 @@ image_text: Three reasons why the Cardano blockchain may need a stablecoin
   backed by dollars
 ---
 
+Authored by: Keisha Dwyer - EMURGO
+
+Acknowledgments: Tyler Wales - EMURGO
+
+Originally published on [emurgo.io](https://emurgo.io/): October 24, 2022
+
 ## Why stablecoins?
 
 The Cardano blockchain is an open-source and decentralized blockchain platform driven by a research-first approach. Cardano is considered to be one of the biggest environmentally-friendly blockchain networks in the industry due to its algorithm.
 
-Ada, the native cryptocurrency to Cardano, was developed to provide permissionless financial access to anyone and everyone. To date, there are more than [3.9 million active ada wallet addresses](https://messari.io/asset/cardano/metrics/all) signaling its global reach. However, the price volatility of ADA, and other cryptocurrencies in general, potentially restricts users from taking full advantage of the permissionless and global nature of Cardano, such as not being able to use crypto assets as a store of value or medium of exchange.
+Ada, the native cryptocurrency to Cardano, was developed to provide permissionless financial access to anyone and everyone. To date, there are more than [3.9 million active ADA wallet addresses](https://messari.io/asset/cardano/metrics/all) signaling its global reach. However, the price volatility of ADA, and other cryptocurrencies in general, potentially restricts users from taking full advantage of the permissionless and global nature of Cardano, such as not being able to use crypto assets as a store of value or medium of exchange.
 
 Some people believe that the solution to this problem is stablecoins, digital currencies that are pegged to a US dollar or other fiat currency.  Because stablecoins are backed by a safe asset, like the dollar, this should contrast cryptocurrencies that aren’t backed by anything and lead to wild price fluctuations. 
 
@@ -29,7 +35,7 @@ As smart contracts and DeFi on Cardano grows, a stablecoin backed by dollars cou
 
 ## Top 3 reasons Cardano may need a stablecoin backed by dollars
 
-1.  **Dollar reserve-backed stablecoins could build Cardano investor confidence** 
+1.  **Dollar reserve-backed stablecoins could build Cardano investor confidence**
     
 
 Not all stablecoin designs are made equal. A fiat-backed stablecoin losing its peg has a higher probability of returning 1:1 to its paired asset. A Cardano stablecoin backed by dollars can be said to be a more reliable approach than an algorithmic design, which is not backed by “real-world” assets.  The integrity of a stablecoin approach backed by dollar reserves could create a strong price stability assurance for the Cardano community and improve Cardano investor confidence.  This is especially true during periods of sudden volatility.  Temporary price deviations from the peg during extreme market downturns would spook the Cardano investor less since a stablecoin backed by dollars would in theory come back to the peg once the market stabilizes.  
@@ -44,7 +50,7 @@ One main goal of stablecoins on Cardano is to facilitate trades.  A USD-denomin
 
 Because every approach has strengths and weaknesses, maintaining a balance towards stablecoin approaches is key. When choosing a stablecoin for the Cardano ecosystem, it is important to consider vulnerabilities and looming global stablecoin regulation.  The [LUNA collapse in May 2022](https://cointelegraph.com/news/breaking-terra-blockchain-officially-halted-following-luna-price-collapse) laid the groundwork for stricter regulation of algorithmic stablecoins and the future of this approach is uncertain, particularly in the United States.  For an [algorithmic stablecoin on Cardano like Djed](https://www.cardanocube.io/projects/djed), several countries, including the USA, will likely [not have access](https://cotinetwork.medium.com/djed-frequently-asked-questions-f636735be76) to its platform at launch. 
 
-## Connect with EMURGO 
+## Connect with EMURGO
 
 Have more reasons why a Cardano stablecoin backed by dollars would be great for the ecosystem?  We’d love to hear from you. Follow EMURGO’s official channels listed below for up-to-date information and announcements about EMURGO and Cardano.
 
