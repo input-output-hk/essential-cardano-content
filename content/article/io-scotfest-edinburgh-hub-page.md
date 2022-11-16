@@ -9,8 +9,6 @@ image: https://ucarecdn.com/96651315-4422-448e-8523-06cc1f0afbd1/
 image_text: IO ScotFest - Edinburgh - November 18th to 20th 2022
 ---
 
-\[PLACEHOLDER\]
-
 ### Blog posts
 
 *   [IO ScotFest: the age of Voltaire](https://iohk.io/en/blog/posts/2022/11/04/announcing-io-scotfest-the-age-of-voltaire/)
@@ -21,7 +19,7 @@ image_text: IO ScotFest - Edinburgh - November 18th to 20th 2022
     
 *   [Kachina](https://iohk.io/en/blog/posts/2022/08/05/kachina-privacy-preserving-smart-contracts/)
     
-*   [ZK-SNARKS]( https://iohk.io/en/blog/posts/2022/09/01/zk-snarks-updatable-setups-on-the-blockchain/)
+*   [ZK-SNARKS](https://iohk.io/en/blog/posts/2022/09/01/zk-snarks-updatable-setups-on-the-blockchain/)
     
 
 ## Infographics
