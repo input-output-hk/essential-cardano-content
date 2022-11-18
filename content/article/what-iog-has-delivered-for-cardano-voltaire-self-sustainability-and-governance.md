@@ -14,15 +14,15 @@ image_text: What IOG has delivered for Cardano. Voltaire
 
 Cardano’s development is guided by a methodical, research-based, and deliberate approach to innovation. Over five development phases, IOG introduced innovations, new functionality, and novel features, with each phase building upon the previous phase's achievements.
 
-Introduction
+[Introduction](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano)
 
-Chapter 1. Byron: the foundation of Cardano
+[Chapter 1. Byron: the foundation of Cardano](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano-byron-the-foundation-of-cardano)
 
-Chapter 2. Shelley: decentralizing the blockchain
+[Chapter 2. Shelley: decentralizing the blockchain](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano-shelley-decentralizing-the-blockchain)
 
-Chapter 3. Goguen: introducing native tokens and smart contracts
+[Chapter 3. Goguen: introducing native tokens and smart contracts](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano-goguen-introducing-native-tokens-and-smart-contracts)
 
-Chapter 4. Basho: scaling Cardano
+[Chapter 4. Basho: scaling Cardano](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano-basho-scaling-cardano)
 
 ## Chapter 5. Voltaire: self-sustainability and governance
 
