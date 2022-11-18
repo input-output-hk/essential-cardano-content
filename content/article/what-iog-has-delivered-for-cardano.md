@@ -22,7 +22,7 @@ _This paper has been written by Fernando Sanchez and Olga Hryniuk with input fro
 
 ### _Toil without song is like a weary journey without an end_
 
-The development of the Cardano blockchain is guided by a methodical, research-based, and deliberate approach to innovation. Since Cardano’s first iteration as a federated network of just seven nodes, Input Output Global Inc. (IOG) has added many new pieces to the blockchain design, one at a time. Over five development phases, IOG introduced innovations, new functionality, and novel features, with each phase building upon the previous phase's achievements.
+Since Cardano’s first iteration as a federated network of just seven nodes, Input Output Global Inc. (IOG) has added many new pieces to the blockchain design, one at a time. Over five development phases, IOG introduced innovations, new functionality, and novel features, with each phase building upon the previous phase's achievements.
 
 Every addition has improved or enhanced Cardano in one way or another. Some features, like smart contracts, are highly visible. Others, such as pipelining or block diffusion, are more subtle but no less impactful. And each new feature brings Cardano one step closer to becoming a leading, robust, and reliable enterprise-grade blockchain.
 
@@ -40,15 +40,15 @@ For clarity and completeness, the structure of this paper matches Cardano's jour
 
 In keeping with this narrative, this paper includes five chapters:
 
-*   Byron: the foundation of Cardano
+*   [Byron: the foundation of Cardano](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano-byron-the-foundation-of-cardano)
     
-*   Shelley: decentralizing the blockchain
+*   [Shelley: decentralizing the blockchain](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano-shelley-decentralizing-the-blockchain)
     
-*   Goguen: introducing native tokens and smart contracts
+*   [Goguen: introducing native tokens and smart contracts](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano-goguen-introducing-native-tokens-and-smart-contracts)
     
-*   Basho: scaling Cardano
+*   [Basho: scaling Cardano](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano-basho-scaling-cardano)
     
-*   Voltaire: self-sustainability and governance
+*   [Voltaire: self-sustainability and governance](https://www.essentialcardano.io/article/what-iog-has-delivered-for-cardano-voltaire-self-sustainability-and-governance)
     
 
 Each chapter focuses on a single phase, recounting its achievements and defining its bearing and importance on the overarching development journey.
