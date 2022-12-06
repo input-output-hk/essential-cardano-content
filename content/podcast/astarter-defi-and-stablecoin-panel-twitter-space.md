@@ -1,5 +1,5 @@
 ---
-title: Astarter DeFi & Stablecoin Panel Twitter Space
+title: Astarter DeFi & stablecoin panel Twitter Space
 tags:
   - "#cardano"
   - Emurgo
