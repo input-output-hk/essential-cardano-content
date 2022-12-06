@@ -1,5 +1,5 @@
 ---
-title: Astarter ISPO provides safe bets and high rewards: Why Join Astarter AA1 Pool?
+title: Astarter ISPO provides safe bets and high rewards: why join Astarter AA1 pool?
 tags:
   - "#cardano"
   - Emurgo
