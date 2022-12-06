@@ -87,9 +87,9 @@ Stay tuned for Part 2 of the Getting to a Future-Ready Yoroi Wallet series where
 
 [Click here to download Yoroi Wallet](https://yoroi-wallet.com)
 
-Yoroi is an open-source and the first light wallet built for Cardano ADA users to be your gateway to Cardano’s Web3 ecosystem of dApps including DeFi and NFTs.
+Yoroi is an open-source and the first light wallet built for Cardano ada users to be your gateway to Cardano’s Web3 ecosystem of dApps including DeFi and NFTs.
 
-As a self-custodial wallet, the user always has complete control over their Cardano ADA and can stake and unstake as they wish.
+As a self-custodial wallet, the user always has complete control over their Cardano ada and can stake and unstake as they wish.
 
 EMURGO and Yoroi Wallet would also love to hear back from the community. We have created a Yoroi community feedback form to gather ideas and ways to improve the Yoroi user experience.
 
