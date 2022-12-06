@@ -15,7 +15,7 @@ As you may notice, the size of all blocks for the last full [epoch 377](https://
 
 For the record, the largest increase in one epoch was [epoch 335](https://cexplorer.io/epoch/335) and was 1,376 MB.
 
-In the days when cardano didn't have staking, the increase was about 10-20 MB per epoch.
+In the days when Cardano didn't have staking, the increase was about 10-20 MB per epoch.
 
 All blocks together have actually size 85,486 MB.
 
