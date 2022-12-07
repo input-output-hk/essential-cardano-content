@@ -1,5 +1,5 @@
 ---
-title: METAVERSE & GAMING PROJECTS UPDATES | CARDANO NEWS
+title: Metaverse & gaming projects' updates | Cardano News
 tags:
   - "#cardano"
   - AI
@@ -7,8 +7,8 @@ tags:
   - game
   - gaming
 url: https://www.youtube.com/watch?v=wtMNCBij22E
-image: ""
-image_text: ""
+image: https://img.youtube.com/vi/wtMNCBij22E/maxresdefault.jpg
+image_text: METAVERSE & GAMING PROJECTS UPDATES | CARDANO NEWS
 ---
 
 [00:00](https://www.youtube.com/watch?v=wtMNCBij22E&t=0s) intro
