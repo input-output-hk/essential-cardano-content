@@ -39,7 +39,7 @@ Finally, the team fixed default validity interval calculations in marlowe-tx, wr
 
 This week, the **Hydra** team worked on some current tasks, extended their model-based testing (MBT) approach to [transaction creation and observation](https://github.com/input-output-hk/hydra/issues/410), and resolved \`[AcquirePointTooOld](https://github.com/input-output-hk/hydra/issues/439)\` issues of the hydra-node by changing the wallet initialization. Hydra researchers also updated security proofs of the Coordinated Hydra Head protocol, which are bound to be included in the Hydra Head V1 specification. 
 
-The **Mithril** team released a new [2248.1](https://github.com/input-output-hk/mithril/releases/tag/2248.1) distribution. They published the first version of the Mithril cryptographic library on [crates.io](//crates.io) – the Rust community’s crate registry. The team also completed editing the first draft version of the ‘Mithril decentralized network’ CIP, which is currently being reviewed by the Cardano network team.
+The **Mithril** team released a new [2248.1](https://github.com/input-output-hk/mithril/releases/tag/2248.1) distribution. They published the first version of the Mithril cryptographic library on [crates.io](https://crates.io/crates/mithril-stm) – the Rust community’s crate registry. The team also completed editing the first draft version of the ‘Mithril decentralized network’ CIP, which is currently being reviewed by the Cardano network team.
 
 Finally, they started simplifying the aggregator node's multi-signer by removing the certificate creation from its responsibilities.
 
@@ -87,7 +87,7 @@ marlowe-txのデフォルトの有効期間計算を修正し、「marlowe ls」
 
 **Hydra**チームは現行のタスクに取り組み、モデルベースのテスト（MBT）アプローチを[トランザクションの作成と観察](https://github.com/input-output-hk/hydra/issues/410)に拡張し、hydra-nodeの[AcquirePointTooOld](https://github.com/input-output-hk/hydra/issues/439)問題を、ウォレットの初期化を変更することによって解消しました。Hydra研究者は、Coordinated Hydra Headプロトコルのセキュリティ証明を更新しました。これは、Hydra Head V1の仕様に含まれる予定です。 
 
-**Mithril**チームは新ディストリビューション[2248.1](https://github.com/input-output-hk/mithril/releases/tag/2248.1)をリリースしました。Mithril暗号理論ライブラリー初回バージョンを、Rustコミュニティのクレートレジストリ、[crates.io](//crates.io)に公開しました。Mithril decentralized network CIPの初回ドラフトの編集を完了しました。これは現在Cardanoネットワークチームのレビュー中です。
+**Mithril**チームは新ディストリビューション[2248.1](https://github.com/input-output-hk/mithril/releases/tag/2248.1)をリリースしました。Mithril暗号理論ライブラリー初回バージョンを、Rustコミュニティのクレートレジストリ、[crates.io](https://crates.io/crates/mithril-stm)に公開しました。Mithril decentralized network CIPの初回ドラフトの編集を完了しました。これは現在Cardanoネットワークチームのレビュー中です。
 
 アグリゲーターノードのマルチ署名者の責任から証明書の作成を取り除くことで、そのマルチ署名者を簡素化する作業を開始しました。
 
