@@ -54,7 +54,6 @@ For 2023, the community is facing some critical decisions on how they would like
 Some of this work has already started. For example, IOG and representatives from the Catalyst community hosted a workshop at the Cardano Foundation Summit to discuss how to make Catalyst more inclusive. The attendees recognized the need for a charter empowering the community to self-determine the next era of Project Catalyst. Having a Project Catalyst charter could be the bedrock for engagement and how each community member participates in the overall governance of Project Catalyst.
 
 Additionally, Project Catalyst and Cardano are heading into the age of Voltaire, and much of the technical aspects of how Cardano will be governed on the chain are available to [read in CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694). With the release of the Voltaire CIP and all the announcements at IO ScotFest, next year promises to be full of evolution - with Project Catalyst playing a significant role in the innovation and growth of Cardano.
-
   
 ![](https://ucarecdn.com/e58d5923-2c46-4175-a365-6d2891ab78d6/)
 
