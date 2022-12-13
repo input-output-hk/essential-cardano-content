@@ -138,7 +138,7 @@ This final, very important step is all about how your community will actually mi
 
 As a final headline overview, try and build your project in a way that means you can try things out with one or two files first, check it and then implement the bulk operations.
 
-You may also want to use our [Testnet](https://docs.nft-maker.io/advanced-topics/testnet) to try things out first before you launch your project.
+You may also want to use our [Testnet](https://docs.nmkr.io/nmkr-studio/testnet) to try things out first before you launch your project.
 
 Thank you for choosing us as your Minting Partner - if you have any further queries that haven't been solved in this Knowledge Base - please contact our support teams who will be happy to help you.
 
