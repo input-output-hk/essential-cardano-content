@@ -17,7 +17,7 @@ UK: 62% of people admit dropping street litter. 
 
 US: 90% of residents agree litter is a problem.
 
-Open litter map gamifies collecting litter off streets and into $ADA rewards! An eco #PokemonGo? 
+Open litter map gamifies collecting litter off streets and into ada rewards! An eco #PokemonGo? 
 
 Solutions on Cardano, join the conversation!
 
