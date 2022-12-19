@@ -42,9 +42,9 @@ After hearing about a project, IOG does some preliminary checks, including – b
 *   Do they respond to outreach? Contacting  projects is part of the process - for example, for the soon to be published [Essential Cardano Guide to the Ecosystem](https://services.iohk.io/guide-to-the-ecosystem), IOG reached out to over 150 separate projects to verify details.
     
 
-\* You’d think this was a given! You’d be surprised how many don’t mention it.
+*You’d think this was a given! You’d be surprised how many don’t mention it.*
 
-\*\*Members of our team join a LOT of Discord servers.  
+*Members of our team join a LOT of Discord servers.*  
 
 Next, IOG performs some basic checks for red flags, such as:
 
@@ -57,8 +57,6 @@ Next, IOG performs some basic checks for red flags, such as:
 *   Have they been reported to the [Cardano Fraud Detection Bureau](https://cfdb.atlassian.net/servicedesk/customer/portal/1)?
     
 *   Is there a thread about them in the “[Report A Scam](https://forum.cardano.org/c/english/report-a-scam/184)” part of the [Cardano Forum](https://forum.cardano.org/)?
-    
-
   
 Some of these are obvious, some not so much. If a project appears to be a scam, or if there is little to no evidence of work actually being done, IOG will record that data separately i.e. it won't be included in our total.
 
@@ -79,7 +77,6 @@ Several sources:
 2.  Catalyst-funded projects. Not all of them - they need to meet the above definitions.
     
 3.  Projects IOG has discovered through research, mostly originating on social media. These are the projects about which IOG knows the least, and they're often the most exciting to discover.  
-    
 
 **What isn't a "project"?**
 
@@ -89,8 +86,7 @@ Concepts or tasks are not projects, for example. So a Catalyst proposal to trans
 
 No! New projects appear all the time.
 
-**  
-How can I tell you about a project?**
+**How can I tell you about a project?**
 
 You can submit it to the [Essential Cardano list](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md) on GitHub or email [community@iohk.io](mailto:community@iohk.io) with “Guide to the Ecosystem” as the subject.  
 
