@@ -39,6 +39,8 @@ Here is a list of available tools and resources:
 *   [Secret Goat Society](https://www.secretgoats.io/): an investment club and minting service for Cardano NFTs.
     
 *   [Stampd.io](//Stampd.io): a set of tools for blockchain timestamping and NFT creation.
+
+*   [Tangocrypto NFT Studio](https://www.tangocrypto.com): An easy-to-use NFT minting platform that allows creators to upload their collections and sell them. It doesn't require any technical knowledge and it gives sellers all the details about the sales, like income, fees, and transactions.
     
 
 ## Smart contract platforms
@@ -80,13 +82,15 @@ Here is a list of available tools and resources:
     
 *   [Cardano Sharp](https://www.cardanosharp.com/): CardanoSharp.Wallet is a Cardano Cryptographic and Serialization library for .NET applications.
     
-*   [Drasil.io](https://drasil.io): A Blockchain Application Framework and platform
+*   [Drasil.io](https://drasil.io): A blockchain application framework that simplifies application development on Cardano
     
 *   [libada-go](https://github.com/Bitrue-exchange/libada-go): Golang library for Cardano network, used and maintained by Bitrue.
     
 *   [Kuber](https://github.com/dquadrant/kuber): Haskell library and json-api for composing Cardano transactions and working with off-chain cardano blockchain.
     
 *   [Liqwid Developer Portal:Cardano SDK](https://cardano.ideascale.com/a/dtd/333382-48088): JavaScript SDK for Cardano & the Liqwid Protocol.
+
+*   [Mesh](https://mesh.martify.io): Open-source library that enables Cardano integration with web applications, including Plutus, transaction building, minting and more. Also comes with beginner-friendly guides.
     
 *   [Ogmios](https://ogmios.dev/): Ogmios is a lightweight bridge interface for cardano-node. It offers a WebSockets API that enables local clients to speak Ouroboros' mini-protocols via JSON/RPC.
     
@@ -170,6 +174,8 @@ Here is a list of available tools and resources:
 *   [TxPipe (parent to Oura)](http://txpipe.io): open-source tools and infrastructure for Cardano developers.
     
 *   [StricaHQ:](https://github.com/StricaHQ/bip32Ed25519#bip32ed25519) a company building open source developer tools for the Cardano ecosystem, powering Cardanoscan, a feature-rich blockchain explorer and analytics platform.
+
+*   [Tangocrypto](https://www.tangocrypto.com): a blockchain infrastructure company providing a platform for innovators with a Cardano API, webhooks for real-time events from the blockchain, and a NFT API for minting at scale.
     
 
 ## Stake pool tooling
