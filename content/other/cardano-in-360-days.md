@@ -9,7 +9,7 @@ image: https://ucarecdn.com/d097a3d6-2163-4168-8ff1-5bf27d6e35a9/
 image_text: ""
 ---
 
-We created a comparison of the last 360 days in terms of various metrics.
+We created a [comparison](https://cexplorer.io/comparison?a=2021-12-21&b=2022-12-21) of the last 360 days in terms of various metrics.
 
 For interest, the last 360 days represent:
 
