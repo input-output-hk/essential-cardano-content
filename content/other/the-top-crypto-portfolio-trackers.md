@@ -1,7 +1,7 @@
 ---
 title: The top crypto portfolio trackers
 tags:
-  - "#cardano"
+  - Cardano
   - Cryptocurrency
   - storage
   - Projects
@@ -15,14 +15,12 @@ image_text: The top crypto portfolio trackers
 
 The top crypto portfolio trackers
 
-1.  Coin Market Cap
+1.  CoinMarketCap
     
-2.  Coinstats
+2.  CoinStats
     
 3.  Messari
     
-4.  Coin Gecko
-    
-5.  Blackfolio
-    
-6.  Delta
+4.  CoinGecko
+     
+5.  Delta
