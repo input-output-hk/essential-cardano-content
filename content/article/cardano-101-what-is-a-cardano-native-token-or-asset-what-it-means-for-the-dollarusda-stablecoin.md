@@ -1,6 +1,6 @@
 ---
-title: "Cardano 101: What is a Cardano Native Token or Asset? + What it Means
-  for the $USDA Stablecoin"
+title: "Cardano 101: What is a Cardano native token or asset? + What it means
+  for the $USDA stablecoin"
 tags:
   - Native tokens
   - Stablecoin
@@ -16,15 +16,15 @@ image_text: Cardano native asset
 
 Cryptocurrencies (coins and tokens) are the backbone of any public or decentralized blockchain network. 
 
-These are the digital assets that give blockchain developers a way to provide needed services for users through dApps (decentralized applications) built on a particular blockchain. These days, there are popular dApps for DeFi (decentralized finance) and NFTs (non-fungible tokens), among many others. 
+These are the digital assets that give blockchain developers a way to provide needed services for users through DApps (decentralized applications) built on a particular blockchain. These days, there are popular DApps for DeFi (decentralized finance) and NFTs (non-fungible tokens), among many others. 
 
-A blockchain’s native cryptocurrency/coin or other token types for dApps built on that particular blockchain are ultimately what highlight the useful benefits for its users.
+A blockchain’s native cryptocurrency/coin or other token types for DApps built on that particular blockchain are ultimately what highlight the useful benefits for its users.
 
 These new types of digital assets also display versatile features. 
 
 From fungible tokens that allow for decentralized voting and governance to NFTs that express the uniqueness of a particular digital creation, cryptocurrencies can represent almost anything in a digital format.
 
-Tokens are what allow DEXs (decentralized exchanges), borrowing & lending DeFi platforms, NFT marketplaces, and other dApps built on the Cardano blockchain to deliver unique value. 
+Tokens are what allow DEXs (decentralized exchanges), borrowing & lending DeFi platforms, NFT marketplaces, and other DApps built on the Cardano blockchain to deliver unique value. 
 
 But not all cryptocurrencies and their blockchains are identical. 
 
@@ -94,13 +94,13 @@ But in the case of $USDA, it is a native asset.
 
 This means that there is no need to compute a smart contract when transferring it. For this reason, the fee for that transaction is always stable and predictable which means that users can move small amounts of USDA to pay for things, and developers don’t have to worry about expensive fees reducing its utility. 
 
-Smart contracts can also be malicious or poorly secured, introducing risks for developers and users. The code of a smart contract is fully mutable which makes it a big source for possible attacks or exploits. For dApps that use stablecoins, this is a major risk that again reduces the utility of a stablecoin. 
+Smart contracts can also be malicious or poorly secured, introducing risks for developers and users. The code of a smart contract is fully mutable which makes it a big source for possible attacks or exploits. For DApps that use stablecoins, this is a major risk that again reduces the utility of a stablecoin. 
 
 As a native asset, $USDA doesn’t require a smart contract. The attack surface is vastly reduced when the Cardano blockchain understands what tokens and other assets are. The security of the base protocol is extended to the tokens, so users can be sure that $USDA is secure, while developers can model for its predictable behavior.
 
 Native tokens were a major design choice for Cardano and one of its strongest features in addition to its eco-friendly technology. This required some major research considerations, as other multi-asset ledgers were not in existence when Cardano was in development. 
 
-But the advantages native tokens bring are clear and their increased utility can be seen in how they make the USDA stablecoin a better asset, especially for Cardano-based dApps and ADA users.
+But the advantages native tokens bring are clear and their increased utility can be seen in how they make the USDA stablecoin a better asset, especially for Cardano-based DApps and ada holders.
 
 ## Join the waitlist for $USDA Cardano stablecoin
 
