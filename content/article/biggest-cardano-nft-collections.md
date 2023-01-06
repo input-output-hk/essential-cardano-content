@@ -9,9 +9,9 @@ image: https://ucarecdn.com/5304e0ee-2791-438f-9144-86a88ac5be98/
 image_text: Cardano NFT collections by marketcap
 ---
 
-NFTs, digital colectibles of the future, are on Cardano available almost two years. Several million NFTs and thousands of collections have been released in the meantime.
+NFTs, digital colectibles of the future, have been on Cardano for almost two years. Millions of NFTs and thousands of collections have been released.
 
-But which are the most successful ones? At least in terms of floor price and quantity (marketcap)?
+But which are the most successful ones - at least in terms of floor price and quantity (marketcap)? Here are the current top 10 projects:
 
 ## [Cardano NFT collections](https://cexplorer.io/collection) by marketcap
 
@@ -36,4 +36,4 @@ But which are the most successful ones? At least in terms of floor price and qua
 10.   [![](https://nft.cexplorer.io/d/3/7/2/5/asset1vn350x2y6pz3lr0rpt3zupkvjugn754kq0c72u.png) Derpbirds](https://cexplorer.io/policy/b92f6473f18d4b78733d022fd89f3cacc1484fab6eddfd3c5d4b9494)
     
 
-At the same time, thanks here to [NFT marketplace Jam on bread](https://jamonbread.io/) for providing some of the data.
+Thanks to [NFT marketplace Jam On Bread](https://jamonbread.io/) for providing some of the data.
