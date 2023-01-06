@@ -21,11 +21,11 @@ But which are the most successful ones - at least in terms of floor price and qu
     
 3.   [![](https://nft.cexplorer.io/2/5/9/1/0/asset1nxm9jlypf5j0sp926xshamwxkceaey5a85ej04.png) Spacebudz](https://cexplorer.io/policy/d5e6bf0500378d4f0da4e8dde6becec7621cd8cbf5cbb9b87013d4cc)
     
-4.  . [![](https://nft.cexplorer.io/5/5/f/5/4/asset14pm7d5k9xtgeu87g7skz8sqvxjkepwsysdmvcg.png) Claynation](https://cexplorer.io/policy/40fa2aa67258b4ce7b5782f74831d46a84c59a0ff0c28262fab21728)
+4.   [![](https://nft.cexplorer.io/5/5/f/5/4/asset14pm7d5k9xtgeu87g7skz8sqvxjkepwsysdmvcg.png) Claynation](https://cexplorer.io/policy/40fa2aa67258b4ce7b5782f74831d46a84c59a0ff0c28262fab21728)
     
 5.   [![](https://nft.cexplorer.io/2/b/d/7/0/asset1gqvunkdee2xdgypcvf3yl2pt7wu93kj6qkjnxt.png) Pavia](https://cexplorer.io/policy/4bf184e01e0f163296ab253edd60774e2d34367d0e7b6cbc689b567d)
     
-6.  . [![](https://nft.cexplorer.io/b/3/d/5/d/asset1w8xjw347cv5ywd6xwkdv0zl2chwt5fq0ugq4l9.png) Oremob](https://cexplorer.io/policy/062b1da3d344c1e6208ef908b2d308201e7ff6bcfddf0f606249817f)
+6.   [![](https://nft.cexplorer.io/b/3/d/5/d/asset1w8xjw347cv5ywd6xwkdv0zl2chwt5fq0ugq4l9.png) Oremob](https://cexplorer.io/policy/062b1da3d344c1e6208ef908b2d308201e7ff6bcfddf0f606249817f)
     
 7.   [![](https://nft.cexplorer.io/8/4/4/7/5/asset1k0hwhyr4x2qsuz87xdvlk82twpmey5ncgawswk.png) Deadpxlz](https://cexplorer.io/policy/1ec85dcee27f2d90ec1f9a1e4ce74a667dc9be8b184463223f9c9601)
     
