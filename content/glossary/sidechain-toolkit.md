@@ -2,6 +2,7 @@
 title: Sidechain toolkit
 tags:
   - Sidechain
+  - sidechain toolkit
 url: ""
 image: ""
 image_text: ""
