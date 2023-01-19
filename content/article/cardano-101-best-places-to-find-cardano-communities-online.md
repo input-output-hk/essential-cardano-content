@@ -11,11 +11,11 @@ image_text: ""
 
 The Cardano blockchain community continues to grow by leaps and bounds as we head into 2023. 
 
-Since the [formal launch of Cardano’s mainnet in September 2017](https://emurgo.io/cardano-blockchain-turns-five/), many people and ADA holders have consistently joined the Cardano community. 
+Since the [formal launch of Cardano’s mainnet in September 2017](https://emurgo.io/cardano-blockchain-turns-five/), many people and ada holders have consistently joined the Cardano community. 
 
 Steady technical development and the introduction of long-awaited features such as Cardano smart contracts and Cardano native assets have fostered tremendous growth and activity. 
 
-Currently, there are more than 4.3 million active ADA wallet addresses with more than 1,150 dApp projects building on Cardano’s blockchain.
+Currently, there are more than 4.3 million active ada wallet addresses with more than 1,150 DApp projects building on Cardano’s blockchain.
 
 All these new Cardano users including developers are looking for reliable and up-to-date Cardano-related content.
 
