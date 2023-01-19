@@ -18,7 +18,7 @@ Cardano uses the Edwards-curve Digital Signature Algorithm (EdDSA) with elliptic
 
 ## New cryptographic primitives on Cardano
 
-The variance in algorithms means that Plutus DApp developers who want to work with other blockchains and need to validate ECDSA and Schnorr signatures would have to spend time, effort, and funds to implement such algorithms over the [SECP](https://iohk.io/en/blog/posts/2022/11/03/what-is-secp-and-how-it-drives-cross-chain-development-on-cardano/) elliptic curves in Plutus. This considerably increases potential security risks and may use an unrealistic amount of resources.
+The variance in algorithms means that Plutus DApp developers who want to work with other blockchains and need to validate ECDSA and Schnorr signatures would have to spend time, effort, and funds to implement such algorithms over the Standards for Efficient Cryptography ([SECP](https://iohk.io/en/blog/posts/2022/11/03/what-is-secp-and-how-it-drives-cross-chain-development-on-cardano/)) elliptic curves in Plutus. This considerably increases potential security risks and may use an unrealistic amount of resources.
 
 Since only Cardano’s primary signature algorithm Ed25519 is provided as a Plutus built-in function, ECDSA and Schnorr operations would be more expensive and time-consuming *unless also provided as built-in functions*.
 
