@@ -7,10 +7,10 @@ tags:
   - Smart Contracts
 url: ""
 image: ""
-image_text: ""
+image_text: null
 ---
 
-Standard for Efficient Cryptography. SECP256k1 is the name of the elliptic curve used by many [blockchains](https://www.essentialcardano.io/faq/what-is-a-blockchain) to implement public key cryptography. Examples of SECP include the Elliptic Curve Digital Signature Algorithm (ECDSA) and Schnorr which allow users to verify the integrity of specific signed hashed data. ECDSA and Schnorr signature algorithms work with the SECP256k1 curve in many blockchains.
+Standard for Efficient Cryptography. SECP256k1 is the name of the elliptic curve used by many [blockchains](https://www.essentialcardano.io/faq/what-is-a-blockchain) to implement public key [cryptography](https://www.essentialcardano.io/glossary/elliptic-curve-cryptography-ecc). Examples of SECP include the Elliptic Curve Digital Signature Algorithm (ECDSA) and Schnorr which allow users to verify the integrity of specific signed hashed data. ECDSA and Schnorr signature algorithms work with the SECP256k1 curve in many blockchains.
 
 Cardano uses the Edwards-curve Digital Signature Algorithm (EdDSA) with elliptic curve Curve25519 as its base curve (aka. Ed25519). 
 
