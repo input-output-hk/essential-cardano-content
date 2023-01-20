@@ -10,7 +10,7 @@ image: https://ucarecdn.com/baa33e83-4070-4ed6-9c01-759f64a36d59/
 image_text: ""
 ---
 
-Input Output Global, Inc. (IOG) and MLabs Ltd. (MLabs) are collaborating on developing a reference implementation of an auction using Hydra protocols. The first outcome of this collaboration is a [paper](https://iohk.io/en/blog/posts/2023/01/20/implementing-auction-projects-using-hydra/) outlining possible approaches to the implementation of digital asset auctions using the Hydra Head protocol with respective advantages and current limitations. This post introduces a brief summary of the topics covered in more detail in the paper.
+Input Output Global, Inc. (IOG) and MLabs Ltd. (MLabs) are collaborating on developing a reference implementation of an auction using Hydra protocols. The first outcome of this collaboration is a [paper](https://www.essentialcardano.io/article/implementing-auction-projects-using-hydra) outlining possible approaches to the implementation of digital asset auctions using the Hydra Head protocol with respective advantages and current limitations. This post introduces a brief summary of the topics covered in more detail in the paper.
 
 This collaboration aims to demonstrate the feasibility of the current implementation of the Hydra Head protocol to develop auction applications. The proposed reference implementation also constructively determines and aligns the Hydra Head protocol design with the concrete use cases in the Cardano ecosystem.
 
@@ -67,7 +67,7 @@ The initial design of the auction aims to provide the following features:
 
 ## Learn more from the paper
 
-If you are interested to find out more, read this **‘**[Implementing auction projects using Hydra](https://iohk.io/en/blog/posts/2023/01/20/implementing-auction-projects-using-hydra/)’ paper.
+If you are interested to find out more, read this **‘**[Implementing auction projects using Hydra](https://www.essentialcardano.io/article/implementing-auction-projects-using-hydra)’ paper.
 
 The paper reflects on:
 
