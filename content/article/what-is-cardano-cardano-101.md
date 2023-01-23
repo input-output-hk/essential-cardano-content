@@ -327,7 +327,7 @@ Cardano offers liquid staking without slashing, so there is no risk for delegato
 
 Cardano's strength and resilience lie in peer-reviewed research and design principles.
 
-## How does Cardano differ from Algorand?
+### How does Cardano differ from Algorand?
 
 Cardano and Algorand have some similarities.
 
