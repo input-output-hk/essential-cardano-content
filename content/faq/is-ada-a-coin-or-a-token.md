@@ -7,7 +7,7 @@ image: ""
 image_text: null
 ---
 
-Both **coins** and **tokens** represent a unit of cryptocurrency on a blockchain. Yet there is a difference between the two – a ‘coin’ has its own native blockchain whereas a ‘token’ is created on an existing blockchain. 
+Both **coins** and [**tokens**](https://www.essentialcardano.io/glossary/token) represent a unit of cryptocurrency on a blockchain. Yet there is a difference between the two – a ‘coin’ has its own native blockchain whereas a ‘token’ is created on an existing blockchain. 
 
 Ada (‘Ticker: ADA’) is the native cryptocurrency on Cardano and is the only currency used on Cardano to pay fees, make deposits and distribute rewards. In this sense, ada is a coin because it is native to Cardano in the same way that bitcoin is a coin on the Bitcoin blockchain and ether is a coin on Ethereum. 
 
