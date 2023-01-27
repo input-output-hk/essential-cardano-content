@@ -99,4 +99,4 @@ APIに追加した`HeadId`とTUIサンプルクライアントにより、`hydra
 
 **Project Catalyst**の新拠点、[projectcatalyst.io](//projectcatalyst.io)は、Project Catalystへの窓口となるだけでなく、資金調達を受けたすべてのプロジェクトとファンドの詳細に光を当てるデータベースです。プロジェクトの進捗状況はレポート、支払い状況で追跡することができます。また、舞台裏で活躍するチームについて知ることもできます。 
 
-昨年、IOGは新たに資金調達を受けたプロジェクトの大グループが提出すべき[マイルストンベースのレポート要件](https://iohk.io/jp/blog/posts/2022/11/01/repositioning-project-catalyst-ahead-of-the-next-funding-round/)を立ち上げました。 これにより、すべてのプロジェクトの監視と透明性が向上し、Cardanoで行われている素晴らしい作業がより詳しく示されることになりました。IOGはまた、誰でも参加可能なコミュニティ監査ワーキンググループを立ち上げ、Project CatalystがCardanoに提供する価値を支えています。参加をご希望の方は、[catalyst@iohk.io](mailto:catalyst@iohk.io)へメールでご連絡ください。
+昨年、新たに資金調達を受けたプロジェクトの大グループが提出すべき[マイルストンベースのレポート要件](https://iohk.io/jp/blog/posts/2022/11/01/repositioning-project-catalyst-ahead-of-the-next-funding-round/)が導入されました。  これにより、すべてのプロジェクトの監視と透明性が向上し、Cardanoで行われている素晴らしい作業がより詳しく示されることになりました。また、誰でも参加可能なコミュニティ監査ワーキンググループが立ち上がり、Project CatalystがCardanoに提供する価値を支えています。参加をご希望の方は、catalyst@iohk.ioへメールでご連絡ください。
