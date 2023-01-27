@@ -2,6 +2,13 @@
 title: "EMURGO Academy Sparks presents: A Job in Cardano's Blockchain"
 tags:
   - sparks
+  - emurgo
+  - cardano
+  - adoption
+  - community
+  - education
+  - catalyst
+  - Project Catalyst
 url: https://youtu.be/m9mqufXyp58
 image: ""
 image_text: ""
