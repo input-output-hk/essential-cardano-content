@@ -64,6 +64,6 @@ Hydra replicates the main chain's functionality while minimizing friction for us
 
 With the Alonzo hard fork, Cardano will start on a new journey as a smart contract platform, enabling technologies like Hydra, which in turn will dramatically improve Cardano’s scalability, and thus further its adoption.
 
-_At the_ [Cardano Summit 2021](https://summit.cardano.org/), taking place 25-26 September, we’ll talk more about Hydra, its progress to date, and goals for the future. Make sure you join us! And you might also like to check out [this video explainer](https://www.youtube.com/watch?v=7ySUbFpTrAk).
+_At the_ Cardano Summit 2021, taking place 25-26 September, we’ll talk more about Hydra, its progress to date, and goals for the future. Make sure you join us! And you might also like to check out [this video explainer](https://www.youtube.com/watch?v=7ySUbFpTrAk).
 
 #### _Matthias Benkort, Arnaud Bailly, and Fernando Sanchez also contributed to this piece._
