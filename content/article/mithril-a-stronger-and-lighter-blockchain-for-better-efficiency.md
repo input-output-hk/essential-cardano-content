@@ -21,7 +21,7 @@ A new IOHK-developed protocol acts as a stake-based threshold signature scheme a
 
 **Article**:
 
-At the [Cardano Summit 2021](https://summit.cardano.org/), IOHK researchers Pyrros Chaidos and Roman Oliynykov presented the design and goals of Mithril – new research and engineering effort carried out by IOHK. Mithril will provide a stake-based threshold signature scheme that can be implemented as the protocol to solve chain synchronization, state bootstrapping, and trust issues in blockchain applications.
+At the Cardano Summit 2021, IOHK researchers Pyrros Chaidos and Roman Oliynykov presented the design and goals of Mithril – new research and engineering effort carried out by IOHK. Mithril will provide a stake-based threshold signature scheme that can be implemented as the protocol to solve chain synchronization, state bootstrapping, and trust issues in blockchain applications.
 
 Mithril is the name used for a fictional metal in Middle-Earth – a malleable material, very light in weight but strong as 'triple steel', which does not tarnish or dim. Thus, the name symbolizes strength in terms of security and a lightweight approach with regard to the developed protocol.
 
@@ -90,7 +90,7 @@ It is also important to provide a reference string for the proof system. This is
 
 During this phase, users should _update the state distribution._ This lets every stakeholder know from what stake they are holding. Then, each stakeholder is responsible for _registering their keys_. This can happen either on or off the chain.
 
-Finally, users need to _distribute stake and compress their test keys_, which is done using the [Merkle tree](https://docs.cardano.org/glossary/#merkletree). This function allows Mithril signatures to be verified against a single hash that represents that Merkle tree. So, the size of the state needed to verify a signature can be kept low.
+Finally, users need to _distribute stake and compress their test keys_, which is done using the Merkle tree. This function allows Mithril signatures to be verified against a single hash that represents that Merkle tree. So, the size of the state needed to verify a signature can be kept low.
 
 ### Operation
 
@@ -136,4 +136,4 @@ Several companies are already interested in Mithril implementation within their 
 
 [Idyllic Vision](https://www.google.com/url?q=https://idyllicvision.com/%23/&sa=D&source=editors&ust=1633533919267000&usg=AOvVaw1sXpYwItx-H5CX6OgJ-wzT) is another company focused on building a self-sovereign identity protocol based on zero-knowledge proofs, a credential management system for organizations, and a mobile wallet for end-users that supports interoperability between diverse society solutions. They are planning to implement the proof of concept of the Mithril node. In the following months, they will begin with creating a blueprint of solution architecture, defining a number of system components that should be developed and organically integrated into the existing infrastructure. This includes integration with the Mithril crypto library and the Cardano node, and a networking layer for communication between nodes. The result of this phase should be integrated into Cardano to enable fast bootstrapping of the node and support for extra functionality like lightweight clients as others.
 
-To find out more, read the [Mithril research paper](https://iohk.io/en/research/library/papers/mithrilstake-based-threshold-multisignatures/) and watch the [Cardano Summit presentation](https://summit.cardano.org/sessions/mithril-linking-together-a-stronger-and-lighter-blockchain).
+To find out more, read the [Mithril research paper](https://iohk.io/en/research/library/papers/mithrilstake-based-threshold-multisignatures/).
