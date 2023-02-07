@@ -14,6 +14,8 @@ Cardano’s community of developers is one of the strongest in blockchain. Many 
 
 Here is a list of available tools and resources:
 
+Category list:
+
 ## NFT creation tools
 
 *   [Anvil](https://ada-anvil.io/): a developer agency that specializes in NFT minting, staking, airdrops, snapshots, and custom services.
@@ -32,7 +34,7 @@ Here is a list of available tools and resources:
     
 *   [NFT-MACHINE](https://nft-machine.com): NFT minting platform.
     
-*   [NMKR](https://www.nft-maker.io/): create, manage, and sell NFTs with NFT-MAKER.IO PRO. We offer backend tools and services for brands, companies, and creators to help them build white-label NFT solutions.
+*   [NFT-MAKER](https://www.nft-maker.io/): create, manage, and sell NFTs with NFT-MAKER.IO PRO. We offer backend tools and services for brands, companies, and creators to help them build white-label NFT solutions.
     
 *   [Peppermint](https://twitter.com/Peppermint_nfts): minting service for NFT projects based on the Cardano blockchain.
     
@@ -49,11 +51,15 @@ Here is a list of available tools and resources:
     
 *   [Clear Contracts](https://clearcontracts.io/): Smart contract templates with non-dev UI.
     
-*   [Demeter.run](https://demeter.run/): A cloud environment with all the tools for building your dApp. Cardano Node, DB-Sync, Ogmios with no setup. Ready to code workspaces on Haskell, Plutus, Rust, Python and others. Deploy your dApp as a Docker image. Move to self-hosted at any time.
+*   [CTL (cardano-transaction-lib)](https://github.com/Plutonomicon/cardano-transaction-lib): a Purescript library for building smart contract transactions on Cardano. It aims to port the functionality and interface of Plutus off-chain code to the browser environment and NodeJS.
+    
+*   [eopsin](https://github.com/ImperatorLang/eopsin): an implementation of smart contracts for Cardano which are written in a very strict subset of valid Python.
     
 *   [Marlowe Playground](https://marlowe-finance.io/): an end-to-end financial smart contract development platform.
     
 *   [Monkey Contracts](https://monkeycontracts.com): smart contract creation and deployment platform.
+    
+*   [pyscc (Python Smart Contracts for Cardano)](https://github.com/ImperatorLang/pyscc): a prototypical implementation of smart contracts for Cardano which are written in a subset of valid Python.
     
 
 ## Software libraries, APIs, interfaces, SDKs, digital product platforms
@@ -72,6 +78,8 @@ Here is a list of available tools and resources:
     
 *   [NFTada.io](//NFTada.io): a web interface for creating assets on Cardano easily. Includes an API for automated printing and distribution.
     
+*   [CanuckCrypto](https://www.canuckcrypto.com/public): a P2P money transfer platform with escrow Service.
+    
 *   [CardanoBI](https://cardanobi.io/): a fully open-source business intelligence API layer for Cardano.
     
 *   [Cardano Client Library](https://github.com/bloxbean/cardano-client-lib): a Java client library for Cardano that simplifies the interaction with Cardano blockchain from a Java application.
@@ -82,11 +90,7 @@ Here is a list of available tools and resources:
     
 *   [Cardano Sharp](https://www.cardanosharp.com/): CardanoSharp.Wallet is a Cardano Cryptographic and Serialization library for .NET applications.
     
-*   [Drasil.io](https://drasil.io): A blockchain application framework that simplifies application development on Cardano
-    
 *   [libada-go](https://github.com/Bitrue-exchange/libada-go): Golang library for Cardano network, used and maintained by Bitrue.
-    
-*   [Kuber](https://github.com/dquadrant/kuber): Haskell library and json-api for composing Cardano transactions and working with off-chain cardano blockchain.
     
 *   [Liqwid Developer Portal:Cardano SDK](https://cardano.ideascale.com/a/dtd/333382-48088): JavaScript SDK for Cardano & the Liqwid Protocol.
     
@@ -145,8 +149,6 @@ Here is a list of available tools and resources:
     
 *   [Boros](https://txpipe.io/): a backend tool that consumes a stream of Cardano transactions from different pluggable sources and takes care of submitting them on-chain in an orderly and resilient fashion.
     
-*   [Cardano-Signer](https://github.com/gitmachtl/cardano-signer): tool to sign and verify data with cardano secret keys, support for CIP-0008 and CIP-0036 (Catalyst Voting/Delegation) signing
-    
 *   [Clarity Protocol](https://clarity-protocol.com/): a multi-chain, accessible, decentralized protocol that supports democratic risk management and due diligence for the tokenized economy.
     
 *   [Dandelion APIs](https://gimbalabs.com/dandelion): a set of developer tools to help with fast integration into the Cardano chain.
@@ -157,7 +159,7 @@ Here is a list of available tools and resources:
     
 *   [Gimbalabs](https://gimbalabs.com/): Gimbalabs aims to mobilize everyone to develop tools and applications through a unique experience of co-creation that facilitates the adoption of the Cardano protocol, reveals new possibilities, and ignites the public imagination worldwide.
     
-*   [Go Ouroboros Network](go-ouroboros-network): A Go client implementation of the Cardano Ouroboros network protocol.
+*   [GL Cardano Starter Kits](https://www.gimbalabs.com/pbl/csk): an experiment by Gimbalabs on how to inspire developers to build on Cardano. 
     
 *   [Joget](https://www.joget.com/): rapidly build enterprise applications and automate workflows, anytime, anywhere.
     
@@ -168,6 +170,10 @@ Here is a list of available tools and resources:
 *   [Oura](http://txpipe.io): a Rust-native implementation of a pipeline that connects to the tip of a Cardano node through a combination of Ouroboros mini-protocol (using either a UNIX socket or TCP bearer).
     
 *   [Pirouette](https://github.com/tweag/pirouette#readme): a research prototype currently under development.
+    
+*   [SCALUS (Session Client Application Launch URI System)](https://github.com/OneIdentity/SCALUS): a URI protocol handler dispatcher. A protocol handler runs when the operating system attempts to launch a URI. The OS looks up an application that is registered to handle a particular URI protocol.
+    
+*   [StricaHQ:](https://github.com/StricaHQ/bip32Ed25519#bip32ed25519) a company building open source developer tools for the Cardano ecosystem, powering Cardanoscan, a feature-rich blockchain explorer and analytics platform.
     
 *   [ThirdWeb](https://thirdweb.com/): a set of tools to help people bring projects to Cardano.
     
@@ -186,8 +192,6 @@ Here is a list of available tools and resources:
     
 *   [Guild Operators Suite](https://cardano-community.github.io/guild-operators/): a set of tools and scripts for setting up, managing, and monitoring Cardano stake pools, and also managing tokens and keys.
     
-*   [Stake Pool Operator Scripts](https://github.com/gitmachtl/scripts): a full collection of shell scripts to operator and maintain a Cardano stake pool, token minting, voting, hardware wallet integration.
-    
 *   [Stake Pool Operator Tools Alliance (SPOTA)](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance): SPOTA brings together individuals in the Cardano ecosystem that provide tools for running and maintaining a stake pool.
     
 
@@ -199,11 +203,21 @@ Here is a list of available tools and resources:
     
 *   [Plu-ts](https://harmonicpool.on.fleek.co/): an embedded DSL for Cardano smart contracts creation coupled with a library for Cardano transactions, all in Typescript.
     
+*   [Pluthon](https://libraries.io/pypi/pluthon): a [Pluto](https://github.com/Plutonomicon/pluto)\-like programming language for Cardano Smart Contracts in Python
+    
+*   [Pluto](https://github.com/Plutonomicon/pluto): a programming language, written in a Haskell-like human-friendly syntax.
+    
 *   [Plutonomicon](https://github.com/Plutonomicon/plutonomicon#readme): a developer-driven guide to the Plutus smart contract language in practice.
+    
+*   [Plutonomy](https://github.com/well-typed/plutonomy): an optimizer for Untyped Plutus Core, that can be plugged into any Plutus compilation pipeline, by adding an extra pass.
+    
+*   [Plutonomy-cli](https://github.com/ImperatorLang/plutonomy-cli): a simple command-line wrapper for [Plutonomy](https://github.com/well-typed/plutonomy).
     
 *   [Plutus Playground:](https://iohk.io/en/blog/posts/2021/01/25/introducing-the-new-plutus-playground/) an environment for writing and testing smart contracts before they are released on the Cardano blockchain.
     
 *   [Plutus fee estimator](https://docs.cardano.org/cardano-testnet/tools/plutus-fee-estimator): this tool can be used to calculate fees for actual transactions (e.g. to determine the fees that will be charged if the network parameters change), and also to estimate fees for individual script transactions or complete DApps before or during development.
+    
+*   [UPLC (Untyped Plutus Language Core)](https://github.com/imperatorlang/uplc): a basic library to support creating and manipulating programs written in Untyped Plutus Core. It can parse, reformat, evaluate or build contract artifacts from Untyped Plutus Core code. 
     
 
 ## Domain-specific languages
@@ -219,7 +233,7 @@ Here is a list of available tools and resources:
     
 *   [cardano-wallet-connector](https://github.com/dynamicstrategies/cardano-wallet-connector): a tool for connecting DApps to the web wallet and interact with the blockchain.
     
-*   [cardano-wallet-interface](https://github.com/HarmonicPool/cardano-wallet-interface): A Javascript/Typescript library to easily interact with the DApp connector of various wallets.
+*   [cardano-wallet-interface](https://github.com/HarmonicPool/cardano-wallet-interface): a Javascript/Typescript library to easily interact with the DApp connector of various wallets.
     
 *   [cardano-wallet-js](https://github.com/tango-crypto/cardano-wallet-js): a JavaScript/Typescript SDK for Cardano with several functionalities. It can be used as a client for the official cardano-wallet and also to create native tokens and NFTs.
     
@@ -229,7 +243,8 @@ Here is a list of available tools and resources:
     
 *   [Cardano serialization library](https://developers.cardano.org/docs/get-started/cardano-serialization-lib/overview/): a library for serialization & deserialization of data structures used in Cardano’s Haskell implementation of Shelley, along with useful utility functions.
     
-*   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
+*   [Carp (Cardano Postgres Indexer)](https://dcspark.github.io/carp/docs/intro): an indexer that syncs Cardano blockchain information to a Postgres database.
     
+*   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
 
 _This list of tools was compiled thanks to the work done by_ [Anita Jovic](https://iohk.io/en/team/anita-jovic) _and_ [Fernando Sanchez](https://iohk.io/en/team/fernando-sanchez)_. The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._

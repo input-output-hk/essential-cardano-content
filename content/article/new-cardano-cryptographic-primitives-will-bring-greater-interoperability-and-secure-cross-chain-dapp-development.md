@@ -20,7 +20,7 @@ Cardano uses the Edwards-curve Digital Signature Algorithm (EdDSA) with elliptic
 
 The variance in algorithms means that Plutus DApp developers who want to work with other blockchains and need to validate ECDSA and Schnorr signatures would have to spend time, effort, and funds to implement such algorithms over the Standards for Efficient Cryptography ([SECP](https://iohk.io/en/blog/posts/2022/11/03/what-is-secp-and-how-it-drives-cross-chain-development-on-cardano/)) elliptic curves in Plutus. This considerably increases potential security risks and may use an unrealistic amount of resources.
 
-Since only Cardano’s primary signature algorithm Ed25519 is provided as a Plutus built-in function, ECDSA and Schnorr operations would be more expensive and time-consuming *unless also provided as built-in functions*.
+Since only Cardano’s primary signature algorithm Ed25519 is provided as a Plutus built-in function, ECDSA and Schnorr operations would be more expensive and time-consuming _unless also provided as built-in functions_.
 
 To make it easier for developers to build cross-chain applications, Input Output Global (IOG) has added new built-in functions to Plutus to support ECDSA and Schnorr signatures. This will allow developers to use a wider range of multi-signature or threshold signature designs natively in Cardano, thus providing the highest level of security.
 
@@ -32,6 +32,8 @@ For the Vasil upgrade, IOG and the Cardano Foundation agreed on some clear criti
 
 At the time of writing, [over 80% of block-producing nodes](https://pooltool.io/networkhealth) were running the required new node (version 1.35.4). Downstream components (such as DB Sync, the wallet backend, GraphQL, etc.) are not impacted directly by the change, but as ever, compatibility against the new node version has been fully tested.
 
-Exchanges have already been notified of the upgrade, so they have enough time to upgrade their systems as required. IOG has also polled the DApp/tool development community – very few projects will be impacted by the change and we have factored in the needs of those that do need to update their code accordingly. Based on that community polling, the **mainnet** upgrade is proposed tentatively for **February 14, 2023 at 21:44:51 UTC**. On that basis, IOG is targeting the update to the **pre-production test environment on February 11, 2023 at 00:00:00 UTC**.
+Exchanges have already been notified of the upgrade, so they have enough time to upgrade their systems as required. IOG has also polled the DApp/tool development community – very few projects will be impacted by the change and we have factored in the needs of those that do need to update their code accordingly. Based on that community polling, the **mainnet** upgrade is proposed tentatively for **February 14, 2023 at 21:44:51 UTC**. The mainnet hard fork will take place at the beginning of epoch 394 around absolute slot height 84844800, estimated block height 8403208.
+
+On that basis, IOG is targeting the update to the **pre-production test environment on February 11, 2023 at 00:00:00 UTC**.
 
 As ever, stay close to our and the Cardano Foundation social channels for the latest on progress as we head towards this date. If you are a developer or SPO, please join our [Discord](https://discord.com/invite/inputoutput), [TG announcement](https://t.me/SPOannouncements) channels, and track this [ecosystem readiness page](https://iohk.zendesk.com/hc/en-us/articles/14669691361433-Ecosystem-readiness-for-the-SECP-upgrade).
