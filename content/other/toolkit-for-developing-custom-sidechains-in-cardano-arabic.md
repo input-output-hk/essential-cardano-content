@@ -1,7 +1,7 @@
 ---
 title: Toolkit for developing custom sidechains in Cardano (Arabic)
 tags:
-  - "#cardano"
+  - Cardano
   - IOHK
   - sidechain toolkit
 url: ""
