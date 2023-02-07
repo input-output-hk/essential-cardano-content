@@ -1,5 +1,5 @@
 ---
-title: What Makes Djed Better? | LGC Review
+title: What makes Djed better? | LGC Review
 tags:
   - Djed
   - Stablecoin
