@@ -6,7 +6,7 @@ tags:
   - upgrade
   - Interoperability
 url: ""
-image: https://ucarecdn.com/f5b57c83-4bb0-49e0-bc50-c8190d49df93/
+image: https://ucarecdn.com/7b1b14a9-0d3e-4c6e-8c67-a2a9fe53953b/
 image_text: ""
 ---
 
