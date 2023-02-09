@@ -5,6 +5,7 @@ tags:
   - developerresources
   - Cardano
   - Blockchain
+  - Building on Cardano
 url: ""
 image: ""
 image_text: null
@@ -34,7 +35,7 @@ Category list:
     
 *   [NFT-MACHINE](https://nft-machine.com): NFT minting platform.
     
-*   [NFT-MAKER](https://www.nft-maker.io/): create, manage, and sell NFTs with NFT-MAKER.IO PRO. We offer backend tools and services for brands, companies, and creators to help them build white-label NFT solutions.
+*   [NMKR](https://www.nft-maker.io/): create, manage, and sell NFTs with NFT-MAKER.IO PRO. We offer backend tools and services for brands, companies, and creators to help them build white-label NFT solutions.
     
 *   [Peppermint](https://twitter.com/Peppermint_nfts): minting service for NFT projects based on the Cardano blockchain.
     
@@ -42,7 +43,12 @@ Category list:
     
 *   [Stampd.io](//Stampd.io): a set of tools for blockchain timestamping and NFT creation.
     
-*   [Tangocrypto NFT Studio](https://www.tangocrypto.com): An easy-to-use NFT minting platform that allows creators to upload their collections and sell them. It doesn't require any technical knowledge and it gives sellers all the details about the sales, like income, fees, and transactions.
+*   [Tangocrypto NFT Studio](https://www.tangocrypto.com/): An easy-to-use NFT minting platform that allows creators to upload their collections and sell them. It doesn't require any technical knowledge and it gives sellers all the details about the sales, like income, fees, and transactions.
+    
+
+## NFT displaying tools
+
+*   [NFTCDN](https://nftcdn.io/): A low-code service used to display Cardano NFTs on websites and apps eliminating the need for large up-front development and infrastructure investments. Using our high-performance NFT Content Delivery Network and innovative media optimisation tools, we aim to achieve the best end-user NFT viewing experience for speed, security and reliability.
     
 
 ## Smart contract platforms
@@ -52,6 +58,8 @@ Category list:
 *   [Clear Contracts](https://clearcontracts.io/): Smart contract templates with non-dev UI.
     
 *   [CTL (cardano-transaction-lib)](https://github.com/Plutonomicon/cardano-transaction-lib): a Purescript library for building smart contract transactions on Cardano. It aims to port the functionality and interface of Plutus off-chain code to the browser environment and NodeJS.
+    
+*   [Demeter.run](https://demeter.run/): A cloud environment with all the tools for building your dApp. Cardano Node, DB-Sync, Ogmios with no setup. Ready to code workspaces on Haskell, Plutus, Rust, Python, and others. Deploy your dApp as a Docker image. Move to self-hosted at any time.
     
 *   [eopsin](https://github.com/ImperatorLang/eopsin): an implementation of smart contracts for Cardano which are written in a very strict subset of valid Python.
     
@@ -76,8 +84,6 @@ Category list:
     
 *   [BlockFrost](http://blockfrost.io): API for Cardano providing abstraction between user and blockchain data.
     
-*   [NFTada.io](//NFTada.io): a web interface for creating assets on Cardano easily. Includes an API for automated printing and distribution.
-    
 *   [CanuckCrypto](https://www.canuckcrypto.com/public): a P2P money transfer platform with escrow Service.
     
 *   [CardanoBI](https://cardanobi.io/): a fully open-source business intelligence API layer for Cardano.
@@ -90,11 +96,17 @@ Category list:
     
 *   [Cardano Sharp](https://www.cardanosharp.com/): CardanoSharp.Wallet is a Cardano Cryptographic and Serialization library for .NET applications.
     
+*   [Drasil.io](//Drasil.io): A blockchain application framework that simplifies application development on Cardano.
+    
+*   [Kuber](https://github.com/dquadrant/kuber): Haskell library and json-api for composing Cardano transactions and working with off-chain cardano blockchain.
+    
 *   [libada-go](https://github.com/Bitrue-exchange/libada-go): Golang library for Cardano network, used and maintained by Bitrue.
     
 *   [Liqwid Developer Portal:Cardano SDK](https://cardano.ideascale.com/a/dtd/333382-48088): JavaScript SDK for Cardano & the Liqwid Protocol.
     
-*   [Mesh](https://meshjs.dev/): An open-source SDK for building applications on Cardano. Building a Web3 application has never been this easy. With clean and intuitive transaction APIs to integrate with smart contracts, Mesh abstracts all the transaction building complexity. Start kits, to kick start your new project with one of our templates or run it on Demeter. Mesh provide a collection of useful UI components, so you can easily include web3 functionality and convenient utilities for your application. By using Mesh, your application will always be ready for the latest network changes, so you can focus on building your application.
+*   [Mesh](https://mesh.martify.io/): Open-source library that enables Cardano integration with web applications, including Plutus, transaction building, minting, and more. Also comes with beginner-friendly guides.
+    
+*   [NFTada.io](//NFTada.io): a web interface for creating assets on Cardano easily. Includes an API for automated printing and distribution.
     
 *   [Ogmios](https://ogmios.dev/): Ogmios is a lightweight bridge interface for cardano-node. It offers a WebSockets API that enables local clients to speak Ouroboros' mini-protocols via JSON/RPC.
     
@@ -149,6 +161,8 @@ Category list:
     
 *   [Boros](https://txpipe.io/): a backend tool that consumes a stream of Cardano transactions from different pluggable sources and takes care of submitting them on-chain in an orderly and resilient fashion.
     
+*   [Cardano-Signer](https://github.com/gitmachtl/cardano-signer): a tool to sign and verify data with Cardano secret keys, support for CIP-0008 and CIP-0036 (Catalyst Voting/Delegation) signing
+    
 *   [Clarity Protocol](https://clarity-protocol.com/): a multi-chain, accessible, decentralized protocol that supports democratic risk management and due diligence for the tokenized economy.
     
 *   [Dandelion APIs](https://gimbalabs.com/dandelion): a set of developer tools to help with fast integration into the Cardano chain.
@@ -160,6 +174,8 @@ Category list:
 *   [Gimbalabs](https://gimbalabs.com/): Gimbalabs aims to mobilize everyone to develop tools and applications through a unique experience of co-creation that facilitates the adoption of the Cardano protocol, reveals new possibilities, and ignites the public imagination worldwide.
     
 *   [GL Cardano Starter Kits](https://www.gimbalabs.com/pbl/csk): an experiment by Gimbalabs on how to inspire developers to build on Cardano. 
+    
+*   [Go Ouroboros Network](https://github.com/input-output-hk/essential-cardano-content/blob/rockynftcdnio/contrib/a-list-of-community-built-developer-tools-on-cardano-1674726935279/content/article/go-ouroboros-network): A Go client implementation of the Cardano Ouroboros network protocol.
     
 *   [Joget](https://www.joget.com/): rapidly build enterprise applications and automate workflows, anytime, anywhere.
     
@@ -179,10 +195,6 @@ Category list:
     
 *   [TxPipe (parent to Oura)](http://txpipe.io): open-source tools and infrastructure for Cardano developers.
     
-*   [StricaHQ:](https://github.com/StricaHQ/bip32Ed25519#bip32ed25519) a company building open source developer tools for the Cardano ecosystem, powering Cardanoscan, a feature-rich blockchain explorer and analytics platform.
-    
-*   [Tangocrypto](https://www.tangocrypto.com): a blockchain infrastructure company providing a platform for innovators with a Cardano API, webhooks for real-time events from the blockchain, and a NFT API for minting at scale.
-    
 
 ## Stake pool tooling
 
@@ -191,6 +203,8 @@ Category list:
 *   [Cardano Light Tools](https://github.com/orpheus-antpool/cardano-light-tools): a set of lightweight tools to operate and maintain a Cardano stake pool.
     
 *   [Guild Operators Suite](https://cardano-community.github.io/guild-operators/): a set of tools and scripts for setting up, managing, and monitoring Cardano stake pools, and also managing tokens and keys.
+    
+*   [Stake Pool Operator Scripts](https://github.com/gitmachtl/scripts): a full collection of shell scripts to operate and maintain a Cardano stake pool, token minting, voting, and hardware wallet integration.
     
 *   [Stake Pool Operator Tools Alliance (SPOTA)](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance): SPOTA brings together individuals in the Cardano ecosystem that provide tools for running and maintaining a stake pool.
     
@@ -217,7 +231,7 @@ Category list:
     
 *   [Plutus fee estimator](https://docs.cardano.org/cardano-testnet/tools/plutus-fee-estimator): this tool can be used to calculate fees for actual transactions (e.g. to determine the fees that will be charged if the network parameters change), and also to estimate fees for individual script transactions or complete DApps before or during development.
     
-*   [UPLC (Untyped Plutus Language Core)](https://github.com/imperatorlang/uplc): a basic library to support creating and manipulating programs written in Untyped Plutus Core. It can parse, reformat, evaluate or build contract artifacts from Untyped Plutus Core code. 
+*   [UPLC (Untyped Plutus Language Core)](https://github.com/imperatorlang/uplc): a basic library to support creating and manipulating programs written in Untyped Plutus Core. It can parse, reformat, evaluate or build contract artifacts from Untyped Plutus Core code.
     
 
 ## Domain-specific languages
@@ -246,5 +260,6 @@ Category list:
 *   [Carp (Cardano Postgres Indexer)](https://dcspark.github.io/carp/docs/intro): an indexer that syncs Cardano blockchain information to a Postgres database.
     
 *   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
+    
 
-_This list of tools was compiled thanks to the work done by_ [Anita Jovic](https://iohk.io/en/team/anita-jovic) _and_ [Fernando Sanchez](https://iohk.io/en/team/fernando-sanchez)_. The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
+_This list of tools was originally compiled thanks to the work done by_ [Anita Jovic](https://iohk.io/en/team/anita-jovic) _and_ [Fernando Sanchez](https://iohk.io/en/team/fernando-sanchez)_. The list is frequently updated with contributions from the Cardano community, and it is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
