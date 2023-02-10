@@ -21,7 +21,7 @@ The **consensus** team continued refactoring the UTXO-HD prototype and created a
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the team continued working on **Lace** desktop development. They ran more automated tests, integrated Matomo analytics tracking, and worked on the reflection of the cardano-node status in the UI. They also restructured the code base so that source code files are split by feature, and separated translation files from the Lace browser folder. The team worked with the DevX team to create a single Lace desktop installer capable of connecting to all available networks (mainnet/pre-production/preview). 
 
@@ -51,7 +51,8 @@ The **sidechains** team [released the proof of concept EVM sidechain testnet](ht
 
 This week **Project Catalyst** received its 400th project close-out report, which is an amazing milestone for a grassroots innovation fund in two years. Stay tuned for further updates and see the Project Catalyst [website](https://projectcatalyst.io/) for more information.
 
-![](https://lh4.googleusercontent.com/1vWdnseHibGcT_Nvkpu3KY4HFk5jeQI_75zoKGzsWd_t9VkUva-icj7bQfAdSTR1jXdcwHwJYnS16trecbmV_08St48peX-cn76IE6CN-emuxADWHuWf2QXFswPVYqRcc_6zH_AqY4OM)
+  
+![](https://ucarecdn.com/5a5f63c7-6fcb-4ef8-aa80-d114ec140162/)
 
 ### コアテクノロジー
 
@@ -65,7 +66,7 @@ This week **Project Catalyst** received its 400th project close-out report, whic
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 引き続き**Lace**デスクトップの開発に取り組みました。さらに多くの自動化されたテストを実行し、Matomo分析追跡を統合し、cardano-nodeのステータスをUIに繁栄させる作業に取り組みました。コードベースをリファクタリングしてソースコードファイルを機能で分割し、翻訳ファイルをLaceブラウザーフォルダーから分離しました。DevXチームと協力して、利用可能な全ネットワーク（メインネット、プリプロ、プレビュー）に接続可能な単一のLaceデスクトップインストーラーを作成しました。 
 
@@ -89,7 +90,7 @@ UI/UXチームのスタイルと詳細を追加してDAppインナーブラウ�
 
 Mithrilネットワークに新しいSPOノードを作成し、`devnet`とインフラでCardanoノードを1.35.5にアップグレードしました。
 
-**サイドチェーン**チームは、[EVMサイドチェーンテストネットの概念実証をリリースしました](https://twitter.com/InputOutputHK/status/1622886158140145669?s=20&t=2gmkNcznmHf9NLyvA-wGKg)**。**開発者は、テスト環境間でトークンの移動、ウォレットの接続、スマートコントラクトやDAppのデプロイをテストすることができます。[EVMサイドチェーンのサンプル](https://docs.cardano.org/cardano-sidechains/example-evm-sidechain/network-details)の使い方に関する更新されたドキュメントをご覧ください。
+**サイドチェーン**チームは、[EVMサイドチェーンテストネットの概念実証をリリースしました](https://twitter.com/InputOutputHK/status/1622886158140145669?s=20&t=2gmkNcznmHf9NLyvA-wGKg)\*\*。\*\*開発者は、テスト環境間でトークンの移動、ウォレットの接続、スマートコントラクトやDAppのデプロイをテストすることができます。[EVMサイドチェーンのサンプル](https://docs.cardano.org/cardano-sidechains/example-evm-sidechain/network-details)の使い方に関する更新されたドキュメントをご覧ください。
 
 ### ガバナンス
 
