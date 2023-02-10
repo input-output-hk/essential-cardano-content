@@ -105,6 +105,8 @@ Ada holders can delegate stake using their wallets. Here are some useful article
     
 *   [What other wallets support staking?](https://www.essentialcardano.io/faq/what-other-wallets-support-staking)
     
+*   [How to stake your ada](https://www.essentialcardano.io/infographic/how-to-stake-your-ada)
+    
 
 **Being part of decision making and innovation**
 
