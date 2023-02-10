@@ -7,6 +7,9 @@ tags:
   - DeFi
   - Cryptocurrency
   - Blockchain
+  - Smart Contracts
+  - DID
+  - Staking
 url: ""
 image: https://ucarecdn.com/47797035-a45c-4e27-aaa1-93fc562801e7/
 image_text: Getting started with Cardano
@@ -109,7 +112,7 @@ One of the key pillars for Cardano's long-term sustainability is active communit
 
 The process of decentralized governance has already started. Project Catalyst is one of the world’s largest decentralized innovation funds, where ada holders can vote on the most promising projects to get funded from the treasury.
 
-There are many ways to get involved with Project Catalyst – as an innovator, voter, commenter, proposer, proposal reviewer, community advisor, or even a mentor. The first step is [creating an account](https://cardano.ideascale.com/) on the Catalyst collaboration platform, Ideascale. 
+There are many ways to get involved with Project Catalyst – as an innovator, voter, commenter, proposer, proposal reviewer, community advisor, or even a mentor. The first step is [creating an account](https://cardano.ideascale.com/) on the Catalyst collaboration platform, IdeaScale. 
 
 Find out more:
 
@@ -173,7 +176,7 @@ Cardano provides the possibility to work with Plutus and Marlowe contracts:
 
 *   Plutus is a set of programming tools for developers to write smart contracts on Cardano.
     
-*   Marlowe is a ‘domain specific’ language designed specially for writing financial smart contracts. It is limited to financial applications and its ‘low-code’ approach means it is perfect for experts in finance rather than in programming.
+*   Marlowe is a ‘domain specific’ language specially designed for writing financial smart contracts. It is limited to financial applications and its ‘low-code’ approach means it is perfect for experts in finance rather than in programming.
     
 
 If you’re interested in learning how to write Plutus and Marlowe contracts, you can take part in the [Plutus Pioneer](https://testnets.cardano.org/en/plutus-pioneer-program/) and [Marlowe Pioneer](https://pioneers.marlowe-finance.io/) training courses.
