@@ -3,9 +3,10 @@ title: Cardano360 January 2023
 tags:
   - Building on Cardano
   - Cardano360
+  - "360"
 url: https://www.youtube.com/watch?v=IYv-W_qtnxo
-image: ""
-image_text: ""
+image: https://img.youtube.com/vi/IYv-W_qtnxo/maxresdefault.jpg
+image_text: Cardano360 January 2023
 ---
 
 Every month, Cardano360 brings you the latest news and feature content from across the Cardano ecosystem.
