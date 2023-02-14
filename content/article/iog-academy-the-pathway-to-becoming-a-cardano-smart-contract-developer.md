@@ -125,7 +125,12 @@ At the IOG Education team we are willing to collaborate with companies, governme
 
 One way of collaborating with us is by organizing a hackathon around the Cardano ecosystem. To do so, you are invited to review our [hackathon starter kit](https://github.com/input-output-hk/education/blob/main/hackatons/organization-guide.md.html).
 
-If you are interested in hosting any of our courses or any kind of joint educational effort that involves the technology or products that we develop at IOG, please reach out to [the IOG Education team](mailto:education@iohk.io).
+If you are interested in hosting any of our courses or any kind of joint educational effort that involves the technology or products that we develop at IOG, please reach out to (The email has an error : We're writing to let you know that the group you tried to contact (education) may not exist, or you may not have permission to post messages to the group. A few more details on why you weren't able to post:  
+  
+\* You might have spelled or formatted the group name incorrectly.  
+\* The owner of the group may have removed this group.  
+\* You may need to join the group before receiving permission to post.  
+\* This group may not be open to posting.-Kindly provide the correct email address ) [the IOG Education team](mailto:education@iohk.io).
 
 Stay tuned in our social media channels for future cohorts of our Pioneer Programs and new in person Haskell courses during 2023.
 
