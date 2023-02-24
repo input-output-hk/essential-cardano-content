@@ -1,7 +1,7 @@
 ---
-title: CARDANO NEWS | This week major Update !
+title: CARDANO NEWS | This week major update !
 tags:
-  - "#cardano"
+  - Cardano
   - preview
   - Metaverse
   - Non-fungible token
@@ -11,15 +11,16 @@ url: https://youtu.be/0ohJvKNLa28
 image: ""
 image_text: ""
 ---
+Here are helpful timestamps for the video:
 
-01:50 @cashpognft on cip 68 !
+01:50 @cashpognft on CIP 68
 
-11:26 alternative routes to "updating" nfts with an example from @ChibidangoNFT
+11:26 Alternative routes to "updating" NFTs with an example from @ChibidangoNFT
 
-14:35 @adahandle virtual and sub handles update!
+14:35 @adahandle virtual and sub handles update
 
-15:27 @the\_ape\_society updates
+15:27 @the_ape_society updates
 
-17:29 iohk activity update
+17:29 IOG activity update
 
-19:54 why i really enjoy the @SingularityNET Update videos
+19:54 Why I really enjoy the @SingularityNET update videos
