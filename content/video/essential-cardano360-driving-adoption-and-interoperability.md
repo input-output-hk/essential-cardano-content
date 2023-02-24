@@ -1,5 +1,5 @@
 ---
-title: "Essential Cardano360: Driving Adoption and Interoperability"
+title: "Essential Cardano360 February 2023: Driving Adoption and Interoperability"
 tags:
   - "360"
   - Cardano360
@@ -9,8 +9,8 @@ tags:
   - Lace
   - Project Catalyst
 url: https://www.youtube.com/watch?v=J2UdDtqziF4
-image: ""
-image_text: ""
+image: https://img.youtube.com/vi/J2UdDtqziF4/maxresdefault.jpg
+image_text: "Essential Cardano360: Driving Adoption and Interoperability"
 ---
 
 Welcome to another episode of Cardano360, your essential guide to the latest news from across the ecosystem. In that spirit, we’ve rebranded the show to become an arm of Essential Cardano, a channel for promoting community-generated content, while championing the innovators scaling the ecosystem for continued adoption.
