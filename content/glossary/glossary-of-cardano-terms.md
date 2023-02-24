@@ -1,15 +1,14 @@
 ---
-title: Glossary of Cardano Terms
+title: Chain follower
 tags:
-  - "#cardano"
-  - "#sidechains"
-  - "#chainfollower"
+  - "Cardano"
+  - "Sidechain"
+  - "Chainfollower"
+  - "sidechain toolkit"
 url: ""
 image: ""
 image_text: ""
 ---
-
-# Chain follower
 
 As part of the [Cardano sidechain toolkit](https://www.essentialcardano.io/glossary/sidechain-toolkit), a chain follower is a general purpose component capable of reading and indexing events that occur on the main chain.
 
