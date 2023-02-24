@@ -7,6 +7,7 @@ tags:
   - Development
   - Governance
   - Lace
+  - Project Catalyst
 url: https://www.youtube.com/watch?v=J2UdDtqziF4
 image: ""
 image_text: ""
