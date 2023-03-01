@@ -1,7 +1,7 @@
 ---
 title: Astarter ISPO Transition Reward Incentive
 tags:
-  - "#cardano"
+  - Cardano
   - ada
   - ISPO
 url: ""
