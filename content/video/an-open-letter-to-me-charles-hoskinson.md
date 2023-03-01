@@ -1,7 +1,7 @@
 ---
 title: An Open Letter to Me (Charles Hoskinson)
 tags:
-  - "#cardano"
+  - Cardano
   - CIP
   - Industry
   - Charles Hoskinson
@@ -20,9 +20,6 @@ url: https://www.youtube.com/watch?v=A2sHSecdkvc
 image: ""
 image_text: ""
 ---
+Topics mentioned in the video include:
 
-CIPs, Constitutions, Contingent Staking, SpaceX
-
-Shades of right, Wrong, Sometimes in between without looking at the personality,
-
-without being absolutely categorical,
+CIPs, Constitutions, Contingent Staking, SpaceX, shades of right, wrong, sometimes in between without looking at the personality, without being absolutely categorical.
