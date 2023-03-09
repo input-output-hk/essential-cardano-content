@@ -25,7 +25,7 @@ As Cardano is a Proof of Stake blockchain, it relies on people (delegators) dele
     
 *   A delegator can move to a new Stake Pool any time they wish.
     
-*   It is advisable to use a hardware wallet for extra security. See '[Should I get a hardware wallet?](https://www.essentialcardano.io/faq/should-i-get-a-hardware-wallet)'
+*   You can stake while using a hardware wallet and it is advisable to use one for extra security. See '[Should I get a hardware wallet?](https://www.essentialcardano.io/faq/should-i-get-a-hardware-wallet)'
     
 
 You could think of staking your ada as a vote of confidence in a Stake Pool. Each ada you have in the wallet that you have delegated to a Stake Pool increases the chances of that Stake Pool being chosen to produce the next block.
