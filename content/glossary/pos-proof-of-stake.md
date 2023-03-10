@@ -1,5 +1,5 @@
 ---
-title: "POS: proof-of-stake"
+title: "PoS: proof of stake"
 tags:
   - Consensus
   - Transaction
@@ -9,7 +9,7 @@ tags:
   - Decentralization
 url: ""
 image: ""
-image_text: ""
+image_text: null
 ---
 
 A consensus mechanism for processing transactions and adding new blocks to a blockchain. Proof-stake validates entries on the blockchain while also keeping it secure and contributing to Cardano's decentralization.
