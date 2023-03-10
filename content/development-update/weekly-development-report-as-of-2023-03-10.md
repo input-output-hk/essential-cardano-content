@@ -51,7 +51,7 @@ They also published the February [monthly report](https://hydra.family/head-prot
 
 The **Mithril** team finished deploying the era activation mechanism in the preview testing environment as well as preparing the upgrade procedure for the SPOs. They are actively working on deploying this mechanism on the `pre-release-preview` and `release-preprod` networks where signers are run by the SPOs. The team also completed the refactoring of the handling of critical errors in the signer and aggregator state machines. Additionally, they continued the deployment of a new test network that runs on Cardano mainnet and computes the stake distribution with the optimized unreleased Cardano CLI command.
 
-Finally, they finished designing the certification of generic types of data by a Mithril network and started implementing its first phase.
+Finally, they finished designing the [certification](https://mithril.network/doc/mithril/mithril-protocol/certificates) of generic types of data by a Mithril network and started implementing its first phase.
 
 ![](https://lh3.googleusercontent.com/AKxrE5UJIAlcZJZmsKVy6Pbysr-x70Obku_QfnUmEkIleDpQLYoD41pqn2HtD9itiCZ1ltyGbkq6kCxa-37nFmLEZ8SEz2ItKH1Ce4XTmmcf9BDWTyIvrmKhyUPNYaS-9pDpmHg8oMrs)
 
