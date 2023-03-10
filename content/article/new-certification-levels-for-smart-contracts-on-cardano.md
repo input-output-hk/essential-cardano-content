@@ -23,7 +23,7 @@ Certification will bring high assurance to the development of decentralized appl
 
 High assurance is paramount when developing and working with smart contracts. You want to be confident that the source code is of high quality, that the contract is secure and will behave as it should, and that it utilizes good properties and behaviors in the process. Certification ensures that security checks are performed prior to any deployment and that smart contracts can be continually audited as they are updated. It provides benefits to both smart contract developers and end-users, helping protect user funds and project reputations alike from coding errors or exploits.
 
-At September’s [Cardano Summit 2021](https://summit.cardano.org/), we laid out our plans for the introduction of new levels of certification for decentralized applications (DApps) running on Cardano. This certification program will provide levels of quality for DApps and their internal smart contacts.
+At September’s Cardano Summit 2021, we laid out our plans for the introduction of new levels of certification for decentralized applications (DApps) running on Cardano. This certification program will provide levels of quality for DApps and their internal smart contacts.
 
 This initiative has been led by [Professor Simon Thompson](https://iohk.io/en/team/simon-thompson), technical project director at IOG, and [Shruti Appiah](https://iohk.io/en/team/shruti-appiah), head of product at IOG. It will help us comply with the best practices we’ve seen around the industry. We are working with [Runtime Verification](https://runtimeverification.com/), [Tweag](https://www.tweag.io/), [Well-Typed](https://well-typed.com/), [Certik](https://www.certik.io/), and others to roll out this new certification program that will link in with the new DApp Store, also unveiled in prototype form at the summit. This will be released in conjunction with the new light wallet.
 
@@ -59,7 +59,6 @@ By auditing the specifications and design and ideation phases, you can present e
 
 We plan to integrate this certification with the new DApp Store that we are building to provide cryptographically secure non-fungible tokens (NFTs) that give evidence of the levels of certification that we will guarantee. The DApp Store will be part of a light wallet that IO is developing, and users will be able to access the light wallet and DApp Store using a web browser, and in the store to view the certification status of each DApp as they browse through the categories and individual applications. Making the relevant certification status visible to users during the selection process will offer reassurance on quality and safety for users in their choice of DApps.
 
-To learn more about our DApp Store plans, you can watch a concept walkthrough on the [DApp Store summit video](https://summit.cardano.org/sessions/redefining-dapp-discovery-bringing-dapps-to-the-mass-market).
 
 ## What is next for certification?
 
@@ -71,4 +70,3 @@ We also plan to work with our ecosystem of partners to support certification of 
 
 It is still early days. There are some technical challenges that we are busy working through about how we support versioning of DApps, how they will be packaged, and how to make them available to automated tooling. However, we are very excited about this journey with our partners and the general community to deliver a secure platform and applications built on top of it.
 
-To learn even more about certification levels, and meet some of the partners on the program, make sure you watch this [video](https://summit.cardano.org/sessions/smart-contract-certification-the-why-and-how) from the Cardano summit.

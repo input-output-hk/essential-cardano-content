@@ -1,5 +1,5 @@
 ---
-title: How to stake your ada?
+title: How to stake your ada
 tags:
   - Cardano
   - Staking
@@ -8,7 +8,7 @@ tags:
   - Infographic
 url: ""
 image: https://ucarecdn.com/eb94becd-5432-4959-bde3-49c45af27f07/
-image_text: How to stake your ada?
+image_text: How to stake your ada
 ---
 
 Original author: Ivan Irakoze
