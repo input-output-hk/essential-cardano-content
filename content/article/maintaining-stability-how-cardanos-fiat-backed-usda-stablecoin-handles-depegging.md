@@ -36,9 +36,9 @@ EMURGO Fintech’s USDA provides Web3 organizations and individuals with a viabl
 
 USDA – Cardano’s regulatory-compliant USD-backed stablecoin for the ecosystem – is scheduled to launch in early 2023 and bring value to Cardano’s Web3 ecosystem of decentralized applications. USDA will be a native token to the Cardano blockchain that is backed 1:1 by real-world reserves. It’s meant to be a stable asset that can unlock fast global transactions without legacy banking and payment infrastructure delays. USDA is the key that will unlock all of the future use cases and applications that will be available on Anzens.
 
-Join the waitlist now at [https://www.anzens.com](https://www.anzens.com) to be ready for USDA.
+[Join the waitlist now at Anzens](https://www.anzens.com) to be ready for USDA.
 
-_This article originally appears here:_ [https://emurgo.io/how-cardano-usda-stablecoin-handles-depegging](https://emurgo.io/how-cardano-usda-stablecoin-handles-depegging/)
+_This article originally [appears here](https://emurgo.io/how-cardano-usda-stablecoin-handles-depegging/).
 
 **About USDA**
 
