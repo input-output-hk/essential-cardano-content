@@ -11,7 +11,7 @@ image: https://ucarecdn.com/e25339bc-7a22-4767-a174-c9542afbde9f/
 image_text: ""
 ---
 
-[The EUTXO Handbook](https://ucarecdn.com/3da33f2f-73ac-4c9b-844b-f215dcce0628/EUTXOhandbook_for_EC.pdf)
+[The EUTXO Handbook](https://ucarecdn.com/6d3813f2-6886-4c61-833f-e78ba5f887d7/EUTXOhandbook_for_EC.pdf)
 
 There currently are two major accounting ledgers in the blockchain space: UTXO-based blockchains (Bitcoin, for instance), and Account/Balance chains (Ethereum and others).
 
