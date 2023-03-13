@@ -9,7 +9,7 @@ tags:
   - Stake Key
   - Stake
 url: https://dconecrypto.finance/DC_WebhookWallets
-image: https://uploads-ssl.webflow.com/635b615fa5453d42d64fd2aa/6401ee7294e3874ed956b34c_dconecrypto-webhook.png
+image: https://ucarecdn.com/9d27a71e-6767-4a9b-8585-fc8f971adbbc/
 image_text: DCOneCrypto Webhook
 ---
 
@@ -40,6 +40,7 @@ Network: `Mainnet` Endpoint: [https://dconecrypto-mainnet.dconecrypto.finance
 
 ```markup
 Authorization: Bearer {{accessToken}}
+
 ```
 
 **Authenticate**
@@ -57,6 +58,7 @@ curl --location '{{domain}}/api/TokenAuth/Authenticate' \
   "password": "",
   "rememberClient": true
 }'
+
 ```
 
 Example api Authenticate responses
@@ -78,6 +80,7 @@ Example api Authenticate responses
   "refreshToken": "string",
   "refreshTokenExpireInSeconds": 0
 }
+
 ```
 
 **Create a new webhook (CreateOrEdit)**
@@ -99,6 +102,7 @@ curl --location -g '{{domain}}/api/services/app/DC_WebhookWallets/CreateOrEdit' 
     "userId": 0,
     "id": ""
 }'
+
 ```
 
 **List of webhook connections (GetAll)**
@@ -111,6 +115,7 @@ Example api request:
 curl --location -g '{{domain}}/api/services/app/DC_WebhookWallets/GetAll' \
 --header 'Authorization: Bearer {{accessToken}}' \
 --data ''
+
 ```
 
 **Example api response:**
@@ -138,6 +143,7 @@ curl --location -g '{{domain}}/api/services/app/DC_WebhookWallets/GetAll' \
     "unAuthorizedRequest": false,
     "__abp": true
 }
+
 ```
 
 **Get detailed information of a webhook (GetDC\_WebhookWalletForEdit)**
@@ -150,6 +156,7 @@ Example api request:
 curl --location -g '{{domain}}/api/services/app/DC_WebhookWallets/GetDC_WebhookWalletForEdit?Id=d205f25a-72b6-4e0e-c9c8-08db1614d234' \
 --header 'Authorization: Bearer {{accessToken}}' \
 --data ''
+
 ```
 
 **Remove webhooks (Delete)**
@@ -162,6 +169,7 @@ Example api request:
 curl --location -g '{{domain}}/api/services/app/DC_WebhookWallets/Delete?null=d205f25a-72b6-4e0e-c9c8-08db1614d234' \
 --header 'Authorization: Bearer {{accessToken}}' \
 --data ''
+
 ```
 
 **Get userId by token (GetAllUserForTableDropdown)**
@@ -172,6 +180,7 @@ Get the userId variable and put in the userId input parameter in the "CreateOrEd
 curl --location -g '{{domain}}/api/services/app/DC_WebhookWallets/GetAllUserForTableDropdown' \
 --header 'Authorization: Bearer {{accessToken}}' \
 --data ''
+
 ```
 
 **Example success response:**
@@ -185,6 +194,7 @@ curl --location -g '{{domain}}/api/services/app/DC_WebhookWallets/GetAllUserForT
     "unAuthorizedRequest": false,
     "__abp": true
 }
+
 ```
 
 **Example error response:**
@@ -203,6 +213,7 @@ curl --location -g '{{domain}}/api/services/app/DC_WebhookWallets/GetAllUserForT
     "unAuthorizedRequest": false,
     "__abp": true
 }
+
 ```
 
 **Trigger webhook callback and return data results**
@@ -221,17 +232,14 @@ Note: Trigger webhook callback (result `webhookUrl` in `CreateOrEdit` api) a
     "StakeAddress": "stake1uxa5t2u5j43gv03esw8s726v8ul4c6r3g0d7x97cr2seeag0sa0dk"
   }
 ]
+
 ```
 
-  
-![Application GUI Screenshots_1](https://user-images.githubusercontent.com/106427209/222141713-45eb4015-6107-4581-bd9a-863b0313c035.PNG)
+![Application GUI Screenshots\_1](https://user-images.githubusercontent.com/106427209/222141713-45eb4015-6107-4581-bd9a-863b0313c035.PNG)
 
-  
-![Application GUI Screenshots_2](https://user-images.githubusercontent.com/106427209/222141715-ac1d8cb1-12ac-460e-a35d-48eef0f14622.PNG)
+![Application GUI Screenshots\_2](https://user-images.githubusercontent.com/106427209/222141715-ac1d8cb1-12ac-460e-a35d-48eef0f14622.PNG)
 
-  
-![Application GUI Screenshots_3](https://user-images.githubusercontent.com/106427209/222141715-ac1d8cb1-12ac-460e-a35d-48eef0f14622.PNG)  
-![Application GUI Screenshots_4](https://user-images.githubusercontent.com/106427209/222142086-bc5c6a7f-e8ac-4035-b018-2adc9bd8cc1e.PNG)
+![Application GUI Screenshots\_3](https://user-images.githubusercontent.com/106427209/222141715-ac1d8cb1-12ac-460e-a35d-48eef0f14622.PNG)  
+![Application GUI Screenshots\_4](https://user-images.githubusercontent.com/106427209/222142086-bc5c6a7f-e8ac-4035-b018-2adc9bd8cc1e.PNG)
 
-  
-![Application GUI Screenshots_5](https://user-images.githubusercontent.com/106427209/222144942-450a4973-8346-4fdd-884a-09c143cb5fc9.PNG)
+![Application GUI Screenshots\_5](https://user-images.githubusercontent.com/106427209/222144942-450a4973-8346-4fdd-884a-09c143cb5fc9.PNG)
