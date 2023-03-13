@@ -13,10 +13,8 @@ tags:
   - DCOne
   - Crypto
 url: ""
-image: https://dconecrypto.finance/Common/Images/app-logo-on-light.svg
-image_text: DCOne Crypto Logo
+image:
+image_text:
 ---
 
-Cardano ecosystem interface map showing all projects and dapps on the Cardano blockchain tại [DCOne Crypto](https://dconecrypto.finance/)**.** Explore the latest projects in the Cardano ecosystem and discover the potential of blockchain innovation.
-
-![DCOne Crypto Logo](https://dconecrypto.finance/Common/Images/app-logo-on-light.svg)
+A Cardano ecosystem interface map showing all projects and DApps on the Cardano blockchain accessible at [DCOne Crypto](https://dconecrypto.finance/)**.** Explore the latest projects in the Cardano ecosystem and discover the potential of blockchain innovation.
