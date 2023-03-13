@@ -5,7 +5,6 @@ tags:
   - DCOneCrypto
   - Webhook
   - Api
-  - http
   - Development
   - Stake Key
   - Stake
@@ -18,7 +17,7 @@ image_text: DCOneCrypto Webhook
 
 **Notification of stake addresses tracking via Webhook, API (Announcement of webhook activity payment stake addresses)**
 
-*   Readmore: [https://docs.dconecrypto.finance/notify/webhooks](https://docs.dconecrypto.finance/notify/webhooks)
+*   Read more: [https://docs.dconecrypto.finance/notify/webhooks](https://docs.dconecrypto.finance/notify/webhooks)
     
 *   Document Github: [https://github.com/DCOneCrypto/StakeAddress-Tracking-Webhook-API](https://github.com/DCOneCrypto/StakeAddress-Tracking-Webhook-API)
     
