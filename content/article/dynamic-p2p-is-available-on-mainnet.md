@@ -9,7 +9,7 @@ image: https://ucarecdn.com/e81a33cd-996e-40c4-b53c-045113f43a5f/-/resize/800/-/
 image_text: ""
 ---
 
-### **Dynamic peer-to-peer (P2P) networking comes with the release of node v.1.35.6. Network participants can now test automatic node communication without a need for static configurations.**
+### Dynamic peer-to-peer (P2P) networking comes with the release of node v.1.35.6. Network participants can now test automatic node communication without a need for static configurations.
 
 Dynamic P2P networking is an important evolution for Cardano and a further boost to the network's performance, resilience, and decentralization. By automating the peer selection process, Dynamic P2P enables enhanced communication between distributed nodes and simplifies the process of running a relay or a block-producing node. This eliminates the need for static configurations and manual stake pool operators’ (SPO) input.
 
@@ -27,7 +27,6 @@ There are two ways to configure a Cardano node:
     
 2.  As a **relay node**, responsible for communicating with other relays in the network and broadcasting blocks from block-producing nodes. Relay nodes also act as a ‘defense layer’ for block producers to ensure that block producers are not directly exposed to the whole internet.
     
-
 ## Ensuring minimum communication delays and maximum resilience
 
 The network’s design aims to minimize communication delays and maximize network resilience against failures, capacity constraints, or malicious behavior.
@@ -57,7 +56,7 @@ SPOs need to spend time and effort running the tool manually. When updating thei
 
 Dynamic P2P enables automated connection of SPO relays to each other through self discovery and optimization, thus removing the need for static configuration and the manual SPO maintenance required by the hybrid setup. P2P makes the network more performant and resilient to changes such as node or routing failures, and also streamlines the flow of information between the thousands of distributed nodes.
 
-### **How does Dynamic P2P work?**
+### How does Dynamic P2P work?
 
 P2P doesn’t just automate the selection of the static configuration, it is more dynamic than that. Currently, SPOs might configure a node to connect to, for example, 50 other SPO nodes. This is a pretty large number, since many nodes can be offline, change their addresses, etc. While 20 connections are enough for efficient communication, SPOs may have to over-provision because of the static configuration.
 
@@ -69,4 +68,4 @@ Finally, P2P optimizes the selection of peers to minimize the overall diffusion 
 
 See this [technical specification](https://input-output-hk.github.io/ouroboros-network/pdfs/network-spec/network-spec.pdf) for more details.
 
-﻿_We’re continuing to share further updates with the SPO community and invite everyone to join the_ [SPO Telegram group](https://t.me/SPOannouncements) and [Discord channel](https://discord.com/invite/inputoutput) for technical discussions.
+We’re continuing to share further updates with the SPO community and invite everyone to join the [SPO Telegram group](https://t.me/SPOannouncements) and [Discord channel](https://discord.com/invite/inputoutput) for technical discussions.
