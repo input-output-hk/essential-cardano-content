@@ -16,6 +16,6 @@ image_text: npm site
 
 A delegation method that uses cip30 to improve the quality of life for developers and delegators.
 
-  
-Learn more about the npm at [https://www.npmjs.com/package/@dotare/cardano-delegation  
-](https://www.npmjs.com/package/@dotare/cardano-delegationLearn)Learn more about us at [https://www.dotare.io/](https://www.dotare.io/)
+Learn more about the npm at [https://www.npmjs.com/package/@dotare/cardano-delegation](https://www.npmjs.com/package/@dotare/cardano-delegationLearn)
+
+Learn more about us at [https://www.dotare.io/](https://www.dotare.io/)
