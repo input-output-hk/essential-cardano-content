@@ -8,6 +8,8 @@ tags:
   - Development
   - Stake Key
   - Stake
+  - Telegram
+  - Discord
 url: https://dconecrypto.finance/DC_WebhookWallets
 image: https://ucarecdn.com/9d27a71e-6767-4a9b-8585-fc8f971adbbc/
 image_text: DCOneCrypto Webhook
