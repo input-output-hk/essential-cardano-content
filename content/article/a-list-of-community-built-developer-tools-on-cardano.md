@@ -61,7 +61,7 @@ Category list:
     
 *   [Demeter.run](https://demeter.run/): A cloud environment with all the tools for building your dApp. Cardano Node, DB-Sync, Ogmios with no setup. Ready to code workspaces on Haskell, Plutus, Rust, Python, and others. Deploy your dApp as a Docker image. Move to self-hosted at any time.
     
-*   opshin: an implementation of smart contracts for Cardano which are written in a very strict subset of valid Python.
+*   [opshin](https://github.com/OpShin/opshin): an implementation of smart contracts for Cardano which are written in a very strict subset of valid Python.
     
 *   [Marlowe Playground](https://marlowe-finance.io/): an end-to-end financial smart contract development platform.
     
