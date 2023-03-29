@@ -18,8 +18,7 @@ A delegation method that uses cip-30 to improve the quality of life for develope
 
 This tool allows for any browser Dapp to have a delegation button for any stake pool.
 
-This has batteries included via API to only get the parameters of the blockchain(Cardano) to write the transaction on the client side.  
-Allowing the user the trust and security to sign and submit using their choice of browser wallet. (Without sending a transaction hex over the internet back and forth.)
+This has batteries included via API to only get the parameters of the blockchain(Cardano) to write the transaction on the client side. Allowing the user the trust and security to sign and submit using their choice of browser wallet. (Without sending a transaction hex over the internet back and forth.)
 
 Our code is public there is no hidden fee or transaction.
 
