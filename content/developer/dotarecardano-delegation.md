@@ -31,4 +31,4 @@ Learn more about the package at:
 
 Learn more about us at:  
 [https://www.dotare.io/](https://www.dotare.io/)  
-(works in WordPress)
+(works on WordPress)
