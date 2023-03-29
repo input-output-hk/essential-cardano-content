@@ -131,8 +131,6 @@ Category list:
 
 *   [Blockery](https://www.blockery.io/): a blockchain integration as a service platform.
     
-*   [Cardano metadata oracle](https://hackmd.io/@U2qMxi6GQXiT1n_tgvNhjw/rJ_VVDn0w): first generation of oracles providing external data sources to Cardano.
-    
 *   [Fluree](https://flur.ee/): solutions for secure, connected, and trusted data ecosystems.
     
 *   [Heidrun](https://github.com/adosia/Heidrun): automation platform for Cardano that triggers various actions based upon detection of a payment to a wallet address.
@@ -173,7 +171,7 @@ Category list:
     
 *   [GL Cardano Starter Kits](https://www.gimbalabs.com/pbl/csk): an experiment by Gimbalabs on how to inspire developers to build on Cardano. 
     
-*   [Go Ouroboros Network](https://github.com/input-output-hk/essential-cardano-content/blob/rockynftcdnio/contrib/a-list-of-community-built-developer-tools-on-cardano-1674726935279/content/article/go-ouroboros-network): A Go client implementation of the Cardano Ouroboros network protocol.
+*   [Go Ouroboros Network](https://github.com/cloudstruct/go-ouroboros-network): A Go client implementation of the Cardano Ouroboros network protocol.
     
 *   [Joget](https://www.joget.com/): rapidly build enterprise applications and automate workflows, anytime, anywhere.
     
