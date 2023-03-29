@@ -61,7 +61,7 @@ Category list:
     
 *   [Demeter.run](https://demeter.run/): A cloud environment with all the tools for building your dApp. Cardano Node, DB-Sync, Ogmios with no setup. Ready to code workspaces on Haskell, Plutus, Rust, Python, and others. Deploy your dApp as a Docker image. Move to self-hosted at any time.
     
-*   [eopsin](https://github.com/ImperatorLang/eopsin): an implementation of smart contracts for Cardano which are written in a very strict subset of valid Python.
+*   opshin: an implementation of smart contracts for Cardano which are written in a very strict subset of valid Python.
     
 *   [Marlowe Playground](https://marlowe-finance.io/): an end-to-end financial smart contract development platform.
     
@@ -155,9 +155,7 @@ Category list:
 
 ## Open source, developer tools, decentralized protocols, enterprise apps
 
-*   [AdaDAO](https://www.theadao.io/): open source tools to support DAO infrastructure and promote decentralization.
-    
-*   [Benjamin's Group](http://discord.gg/benjaminsgroup): building tools for the future of Cardano.
+*   [ADAO](https://www.theadao.io/): open source tools to support DAO infrastructure and promote decentralization.
     
 *   [Boros](https://txpipe.io/): a backend tool that consumes a stream of Cardano transactions from different pluggable sources and takes care of submitting them on-chain in an orderly and resilient fashion.
     
@@ -226,8 +224,6 @@ Category list:
 *   [Plutonomy](https://github.com/well-typed/plutonomy): an optimizer for Untyped Plutus Core, that can be plugged into any Plutus compilation pipeline, by adding an extra pass.
     
 *   [Plutonomy-cli](https://github.com/ImperatorLang/plutonomy-cli): a simple command-line wrapper for [Plutonomy](https://github.com/well-typed/plutonomy).
-    
-*   [Plutus Playground:](https://iohk.io/en/blog/posts/2021/01/25/introducing-the-new-plutus-playground/) an environment for writing and testing smart contracts before they are released on the Cardano blockchain.
     
 *   [Plutus fee estimator](https://docs.cardano.org/cardano-testnet/tools/plutus-fee-estimator): this tool can be used to calculate fees for actual transactions (e.g. to determine the fees that will be charged if the network parameters change), and also to estimate fees for individual script transactions or complete DApps before or during development.
     
