@@ -16,7 +16,7 @@ image_text: npm site
 
 ### A delegation method that uses cip-30 to improve the quality of life for developers and delegators.
 
-`---`
+\---
 
 This tool allows for any browser Dapp to have a delegation button for any stake pool.
 
