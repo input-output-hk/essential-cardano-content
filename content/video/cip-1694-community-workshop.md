@@ -17,9 +17,7 @@ IOG, the Cardano Foundation, and EMURGO recently hosted a community workshop to 
 
 The event was just the kickoff to a broader program of community governance events planned for the next few months, we had representation from across the community - from educators to developers, SPOs to academics. We covered topics such as enhancing participation, DReps, voting thresholds, community tooling, and much more, drilling down into the current CIP and capturing all the feedback.
 
-Find out more here:
-
-[https://forum.cardano.org/t/cip-1694-...](https://forum.cardano.org/t/cip-1694-...)
+[Find out more here.](https://forum.cardano.org/t/cip-1694-in-a-nutshell/115617)
 
 Thanks to all the attendees:
 
