@@ -89,6 +89,10 @@ Category list:
 *   [CardanoBI](https://cardanobi.io/): a fully open-source business intelligence API layer for Cardano.
     
 *   [Cardano Client Library](https://github.com/bloxbean/cardano-client-lib): a Java client library for Cardano that simplifies the interaction with Cardano blockchain from a Java application.
+
+*   [cardano-clusterlib](https://github.com/input-output-hk/cardano-clusterlib-py#readme): Cardano CLI Python wrapper for working with Cardano cluster. The library is used for the development of [cardano-node system tests](https://github.com/input-output-hk/cardano-node-tests#readme).
+
+*   [Cardano node tests](https://github.com/input-output-hk/cardano-node-tests#readme): system and end-to-end (E2E) tests for the cardano-node component. 
     
 *   [Cardano Rust SDK update for Alonzo](http://app.ideascale.com/t/UM5UZBitW): a widely used tool used by many exchanges and wallets to build an SDK for Cardano in a specific language.
     
