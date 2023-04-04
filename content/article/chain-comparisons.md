@@ -4,12 +4,13 @@ tags:
   - "101"
   - Cardano
   - ada
+  - Staking
 url: ""
 image: https://ucarecdn.com/f9dc5b41-33aa-4645-b96d-4e7da1f1d340/
 image_text: ""
 ---
 
-## How does Cardano differ from Bitcoin? 
+## How does Cardano differ from Bitcoin?
 
 Cardano and Bitcoin bear some fundamental differences in terms of design, purpose, and usability.
 
@@ -21,7 +22,17 @@ Another key difference between Cardano and Bitcoin is the energy utilization. Bi
 
 Cardano differs from Ethereum in fundamental ways. 
 
-Cardano is a proof-of-stake blockchain, while Ethereum uses a proof-of-work consensus mechanism. This confers Cardano with several key advantages, including a far more efficient energy consumption rate (Cardano is known as a [green blockchain](https://iohk.io/en/blog/posts/2021/08/17/why-they-re-calling-cardano-the-green-blockchain/)). Ethereum recently decided to follow Cardano’s approach and move to PoS. This transition will occur sometime in 2022, according to [Ethereum sources](https://ethereum.org/en/upgrades/merge/).
+Cardano is designed as a [proof-of-stake blockchain](https://www.essentialcardano.io/article/staking-is-the-bedrock-of-cardano). The transformation of the Ethereum chain from proof of work to proof of stake was the main motivation for ETH2.0 and the Merge. 
+
+Cardano and Ethereum feature different staking systems. Cardano users [delegate](https://www.essentialcardano.io/glossary/delegation) their ada to stake pools run by SPOs, while Ethereum does not natively support delegation. 
+
+Ethereum users can either run their own validating node, stake through a third-party operator as a service, or stake through pooled staking. Solo home staking on Ethereum requires a minimum of 32 ETH and a dedicated computer connected to the internet 24/7, while staking as a service and pooled staking also have their own constraints. Ethereum penalizes a validator that acts against the network through [slashing](https://www.essentialcardano.io/glossary/slashing). 
+
+On Cardano, Ouroboros provides incentives for good behavior instead. Each  SPO pledges funds to their pool to make it more attractive and earn a higher percentage of rewards. Dishonest behavior will result in loss of rewards. Leading-edge game theory techniques have contributed to this strategy too. 
+
+Finally, staking on Cardano is more convenient than on Ethereum as there is no locking (users can withdraw ada at any time), there is no minimum stake requirement, rewards get automatically assigned, and the custody always remains with an ada holder.
+
+For more details on staking see this [comparison](https://www.essentialcardano.io/article/staking-and-rewards-in-proof-of-stake) and [an infographic](https://www.essentialcardano.io/infographic/staking-and-rewards-in-proof-of-stake-b88a4532).
 
 Also, Cardano supports custom tokens natively, without the need for smart contracts. Ethereum does support custom tokens also, but requires smart contracts, which adds a layer of complexity and the possibility of errors. In Cardano, the ledger handles all token functionality.
 
@@ -49,8 +60,7 @@ Cardano offers liquid staking without slashing, so there is no risk for delegato
 
 Cardano's strength and resilience lie in peer-reviewed research and design principles. 
 
-##   
-How does Cardano differ from Algorand?
+## How does Cardano differ from Algorand?
 
 Cardano and Algorand have some similarities.
 
