@@ -7,7 +7,7 @@ image: ""
 image_text: ""
 ---
 
-Bulletproofs form part of the family of distinct _Zero-knowledge Proof_ systems, such as Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge (zk-SNARK); Succinct Transparent ARgument of Knowledge (STARK); and Zero Knowledge Prover and Verifier for Boolean Circuits (ZKBoo). Zero-knowledge proofs are designed so that a _prover_ is able to indirectly verify that a statement is true without having to provide any information beyond the verification of the statement, e.g. to prove that a number is found that solves a cryptographic puzzle and fits the hash value without having to reveal the _Nonce_
+Bulletproofs form part of the family of distinct _Zero-knowledge Proof_ systems, such as Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge (zk-SNARK); Succinct Transparent ARgument of Knowledge (STARK); and Zero Knowledge Prover and Verifier for Boolean Circuits (ZKBoo). Zero-knowledge proofs are designed so that a _prover_ is able to indirectly verify that a statement is true without having to provide any information beyond the correctness of the statement, e.g. to prove that a number is found that solves a cryptographic puzzle and fits the hash value without having to reveal the _Nonce_
 
 The Bulletproofs technology is a Non-interactive Zero-knowledge (NIZK) proof protocol for general _Arithmetic Circuits_ with very short proofs (_Arguments of Knowledge Systems_) and without requiring a trusted setup. They rely on the _Discrete Logarithm_ (DL) assumption and are made non-interactive using the _Fiat-Shamir Heuristic_. The name “Bulletproof” originated from a non-technical summary from one of the original authors of the scheme’s properties: “_Short like a bullet with bulletproof security assumptions_”
 
