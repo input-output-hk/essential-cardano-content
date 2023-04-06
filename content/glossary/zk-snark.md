@@ -19,4 +19,4 @@ The generally desired properties are that no prover can convince the verifier ab
 
 • ARguments: the verifier is only protected against computationally limited provers. Provers with enough computational power can create proofs/arguments about wrong statements (Note that with enough computational power, any public-key encryption can be broken). This is also called “computational soundness”, as opposed to “perfect soundness”.
 
-• of Knowledge: it is not possible for the prover to construct a proof/argument without knowing a certain so-called witness (for example the address she wants to spend from, the preimage of a hash function or the path to a certain Merkle-tree node).
+• Knowledge soundness: it is not possible for the prover to construct a proof/argument without knowing a certain so-called witness (for example the address she wants to spend from, the preimage of a hash function or the path to a certain Merkle-tree node).
