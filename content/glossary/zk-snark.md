@@ -13,7 +13,7 @@ In this general setting of so-called interactive protocols, there is a **prover*
 
 The generally desired properties are that no prover can convince the verifier about a wrong statement (soundness) and there is a certain strategy for the prover to convince the verifier about any true statement (completeness). The individual parts of the acronym have the following meaning:
 
-• Succinct: the sizes of the messages are tiny in comparison to the length of the actual computation
+• Succinct: verifier run time is exponentially less than running the complete computation
 
 • Non-interactive: there is no or only little interaction. For zkSNARKs, there is usually a setup
 
