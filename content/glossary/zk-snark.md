@@ -7,7 +7,7 @@ image: ""
 image_text: ""
 ---
 
-Zk-SNARK is an acronym that stands for “Zero-Knowledge Succinct Non-Interactive Argument of Knowledge.” A zk-SNARK is a cryptographic proof that allows one party to prove it possesses certain information without revealing that information. This proof is made possible using a secret key created before the transaction takes place.
+Zk-SNARK is an acronym that stands for “Zero-Knowledge Succinct Non-Interactive Argument of Knowledge.” A zk-SNARK is a cryptographic proof that allows one party to prove it possesses certain information without revealing that information.
 
 In this general setting of so-called interactive protocols, there is a **prover** and a **verifier** and the prover wants to convince the verifier about a statement (e.g. that f(x) = y) by exchanging messages.
 
