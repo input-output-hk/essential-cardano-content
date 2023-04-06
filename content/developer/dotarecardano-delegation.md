@@ -23,7 +23,7 @@ Our code is public and there are no hidden fees or transactions.
 Stake pools deserve to have a delegate button on their website.
 
 Learn more about the package at:  
-[https://www.npmjs.com/package/@dotare/cardano-delegation](https://www.npmjs.com/package/@dotare/cardano-delegationLearn)
+[https://www.npmjs.com/package/@dotare/cardano-delegation](https://www.npmjs.com/package/@dotare/cardano-delegation)
 
 Learn more about us at:  
 [https://www.dotare.io/](https://www.dotare.io/)  
