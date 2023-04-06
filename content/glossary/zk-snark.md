@@ -15,7 +15,7 @@ The generally desired properties are that no prover can convince the verifier ab
 
 • Succinct: verifier run time is exponentially less than running the complete computation
 
-• Non-interactive: there is no or only little interaction. For zkSNARKs, there is usually a setup
+• Non-interactive: there is no interaction. For zkSNARKs, there is usually a setup
 
 phase and after that a single message from the prover to the verifier. Furthermore, SNARKs
 
