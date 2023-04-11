@@ -293,7 +293,7 @@ Cardano and Bitcoin bear some fundamental differences in terms of design, purpos
 
 Cardano uses a proof-of-stake consensus mechanism, while Bitcoin relies on proof of work to mine new coins and add blocks to the chain. Functionally, Bitcoin is designed to transfer digital currency in a decentralized, peer-to-peer fashion. Cardano, on the other hand, supports a much broader range of functions. Cardano can handle smart contracts, custom tokens, and decentralized applications (DApps).
 
-Another key difference between Cardano and Bitcoin is the energy utilization. Bitcoin's proof-of-work design [consumes huge amounts of energy](https://digiconomist.net/bitcoin-energy-consumption/), to the tune of 204.50 Terawatts/hour. Cardano is far more environmentally sustainable. Charles Hoskinson estimates that Cardano’s electricity consumption is [about 0.01% of Bitcoin’s](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html).
+Another key difference between Cardano and Bitcoin is the energy utilization. Bitcoin's proof-of-work design [consumes huge amounts of energy](https://digiconomist.net/bitcoin-energy-consumption/), to the tune of 204.50 terawatt-hours. Cardano is far more environmentally sustainable. Charles Hoskinson estimates that Cardano’s electricity consumption is [about 0.01% of Bitcoin’s](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html).
 
 ### How does Cardano differ from Ethereum?
 
