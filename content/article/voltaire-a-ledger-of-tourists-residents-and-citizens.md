@@ -12,7 +12,7 @@ image_text: A painting of Voltaire, aFrench Enlightenment writer, historian, and
   philosopher
 ---
 
-**Voltaire is the name given to the next era of the Cardano core development roadmap(Bootstrap Period) that focuses on delivering Decentralised Governance functionality to the Cardano protocol and introducing a new framework of participants, roles, and actions, to the Cardano Ledger.**
+**Voltaire is the name given to the next era of the Cardano core development roadmap (Bootstrap Period) that focuses on delivering Decentralised Governance functionality to the Cardano protocol and introducing a new framework of participants, roles, and actions, to the Cardano Ledger.**
 
 > The views and opinions expressed in this article are those of the author and do not necessarily reflect the official policy or decisions of any other agency, organisation, or company. They are mostly based on CIP-1694 and other systems of governance used in previous eras of the Cardano blockchain.
 
