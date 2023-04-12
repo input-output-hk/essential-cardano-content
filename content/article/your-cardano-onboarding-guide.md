@@ -181,7 +181,7 @@ Cardano provides the possibility to work with Plutus and Marlowe contracts:
 *   Marlowe is a ‘domain specific’ language specially designed for writing financial smart contracts. It is limited to financial applications and its ‘low-code’ approach means it is perfect for experts in finance rather than in programming.
     
 
-If you’re interested in learning how to write Plutus and Marlowe contracts, you can take part in the [Plutus Pioneer](https://testnets.cardano.org/en/plutus-pioneer-program/) and [Marlowe Pioneer](https://pioneers.marlowe-finance.io/) training courses.
+If you’re interested in learning how to write Plutus and Marlowe contracts, you can take part in the [Plutus Pioneer](https://docs.cardano.org/pioneer-programs/plutus-pioneers) and [Marlowe Pioneer](https://pioneers.marlowe-finance.io/) training courses.
 
 ### Digital identity
 
