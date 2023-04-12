@@ -35,9 +35,9 @@ Let's find out 👇
 
 ## Prelude: A Brief on Organised Systems, Governments, and their Participants
 
-Most organized systems have core constructs i.e. \*\*rules(\*\*eg. Constitutions), \*\*processes(\*\*eg. Elections), and \*\*structures(\*\*eg. Parliaments), that participants follow to coordinate and make decisions. This helps them control, execute, and be accountable for common goals and resources in the system. This combination of core constructs enables participants to achieve consensus appropriately. When all participants in a system agree on the core constructs for achieving consensus, it results in a political engine called a government.
+Most organized systems have core constructs i.e. **rules**(eg. Constitutions), **processes**(eg. Elections), and **structures**(eg. Parliaments), that participants follow to coordinate and make decisions. This helps them control, execute, and be accountable for common goals and resources in the system. This combination of core constructs enables participants to achieve consensus appropriately. When all participants in a system agree on the core constructs for achieving consensus, it results in a political engine called a government.
 
-A government is the accepted political engine for governance in an organized system. It determines how the fundamental principles to achieve consensus are created, modified, interpreted, and administered. Over time, governments have formed in many organized systems of participants to coordinate the masses for the purpose of pursuing progress and sustainability. We can see this in historical human systems, such as the Athenian Democracy and also in non-human systems, such as beehives, which are known as colonies.
+A government is the accepted political engine for governance in an organized system. It determines how the fundamental principles to achieve consensus are created, modified, interpreted, and administered. Over time, governments have formed in many organized systems of participants to coordinate the masses for the purpose of pursuing progress and sustainability. We can see this in historical human systems, such as the [Athenian Democracy](https://www.worldhistory.org/Athenian_Democracy/) and also in non-human systems, such as beehives, which are known as colonies.
 
 In the real world, governments rule territories or nation states. These are organized systems inhabited by participants i.e. citizens, residents, and tourists. Each class of participant has its own specific rights and responsibilities. For example, citizens have the right to vote, residents have the right to access employment, and tourists have the right to access hospitality.
 
@@ -53,7 +53,7 @@ Since its inception and as part of the [Bootstrap Period](https://twitter.com/th
 
 The government is made up of Cardano's founding entities, namely: [Input Output](http://iog.io), [EMURGO](https://emurgo.io), and the [Cardano Foundation](https://cardanofoundation.org). These entities operate as **Primary Users** on the Ledger.
 
-The Cardano government has gradually distributed its authority and responsibilities to other participants over time, effectively promoting them to new ranks on the Cardano Ledger and giving them new roles in various domains, such as Consensus. Most of the advancements to the Cardano government system were initiated in the Shelley era and improved in the eras that followed.
+The Cardano government has gradually distributed its authority and responsibilities to other participants over time, effectively promoting them to new ranks on the Cardano Ledger and giving them new roles in various domains, such as Consensus. Most of the advancements to the Cardano government system were initiated in the Shelley era and further improved in the eras that followed.
 
 Let's discuss how these Cardano governments and participants on the Ledger have evolved.
 
@@ -78,11 +78,11 @@ Given the rights and responsibilities reserved for the founding entities in the 
 
 The Shelley era of the Cardano development roadmap introduced new features, major upgrades and changes that improved the Networking, Consensus, Ledger, and Execution layers of the Cardano protocol. The benefits of these improvements persisted and were further enhanced throughout the Goguen and Basho eras, which were accompanied by continuous feature additions.
 
-From the perspective of the Ledger, the current government (from Byron) retains their rights and duties as primary users. However, certain responsibilities and decision-making privileges were delegated to proxies, such as the Project Catalyst grants service.
+From the perspective of the Ledger, the current government (from Byron) retains their rights and duties as primary users. However, certain responsibilities and decision-making privileges were delegated to proxies, such as the [Project Catalyst](https://projectcatalyst.io) grants service.
 
 Project Catalyst functions as an innovation (grants) fund designed to help democratize the allocation of Cardano Treasury funds towards ecosystem development objectives and initiatives. It accomplishes this by receiving funding proposals from the general public and determining their acceptance or rejection through votes cast by all registered Ada Stakeholders. The grant fund determines which proposals get funded based on their alignment with community values and goals.
 
-At the Consensus level, block production and validation transitioned from being strictly reserved for federated nodes controlled by the founding entities(Genesis Key Holders), to a hybrid model that added support for participation from **Ada Stakeholders** through directly staking their Ada (as validators), or delegating their stake to other validators(a.k.a. SPOs).
+At the Consensus level, block production and validation transitioned from being strictly reserved for federated nodes controlled by the founding entities(**Genesis Key Holders**), to a hybrid model that added support for participation from **Ada Stakeholders** through directly staking their Ada (as validators), or delegating their stake to other validators(a.k.a. [SPOs](https://www.essentialcardano.io/faq/who-is-a-stake-pool-operator-spo)).
 
 The Shelley era redefined the rankings of all participants in the new government system of the Cardano Ledger by creating new roles and responsibilities for entities other than the founding ones. Given the changes in this system, we regard the following participants of the **Cardano Ledger**:
 
@@ -107,15 +107,15 @@ The reason for this is that the Voltaire governance system will be limited by a 
 
 From the perspective of the Ledger, the Voltaire governance system will introduce three new classes of roles/entities:
 
-*   Delegated Representatives(DReps) -> A set of governance agents that serve as Representatives for participants of the Cardano protocol who may not have the time or resources to be directly involved in governance processes, via the delegation of governance rights.
+*   **Delegated Representatives(DReps)** -> A set of governance agents that serve as Representatives for participants of the Cardano protocol who may not have the time or resources to be directly involved in governance processes, via the delegation of governance rights.
     
-    *   Note: This role is attainable by any participant at any time (Terms and Conditions apply)
+    *   Note: This role is attainable by any participant at any time ([Terms and Conditions apply](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md#delegated-representatives-dreps))
         
-*   Constitutional Committee -> A set of elected personnel that function as overseers of all governance events and proposals to ensure that said events and proposals are rightfully within the limits of the Constitution, and are interpreted as best as possible to all.
+*   **Constitutional Committee** -> A set of elected personnel that function as overseers of all governance events and proposals to ensure that said events and proposals are rightfully within the limits of the Constitution, and are interpreted as best as possible to all.
     
     *   Note: It is still to be determined what the exact requirements would be to join the Constitutional Committee, but it is safe to say that it will be an open and accessible path for all.
         
-*   Stake Pool Operators(SPOs) -> During the Shelley era, Stake Pool Operators (SPOs) were responsible for producing and validating blocks while also serving as proxy staking providers (delegates) for their delegators, thereby securing and advancing the Cardano protocol at the consensus level. With the introduction of the Voltaire government, SPOs will be appointed as governance agents with roles and responsibilities similar to those of Decentralized Representative (DReps). However, unlike DReps, SPOs will not be able to receive delegations of governance rights from other participants.
+*   **Stake Pool Operators(SPOs)** -> During the Shelley era, Stake Pool Operators (SPOs) were responsible for producing and validating blocks while also serving as proxy staking providers (delegates) for their delegators, thereby securing and advancing the Cardano protocol at the consensus level. With the introduction of the Voltaire government, SPOs will be _natively_ appointed as governance agents with roles and responsibilities similar to those of Decentralized Representative (DReps). However, unlike DReps, SPOs will not be able to receive delegations of governance rights from other participants.
     
     *   Note: SPOs can still separately register to be DReps(in addition to their natural governance appointment) and then be able to receive governance delegations from other participants.
         
