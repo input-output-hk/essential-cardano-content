@@ -17,7 +17,7 @@ Cardano light wallets such as Yoroi, Eternl, Flint, Typhon, and others rely on s
 
 Think of the aforementioned wallets more as wallet interfaces. Your wallet is on the blockchain and Yoroi, Eternl, Flint, Typon, and others are just software applications you can use to view and interact with your on-chain wallet.
 
-To view your actual balance, stake pool delegation, and more, you can enter your address (starting with 'addr1') or your stake key (starting with 'stake1') into [cardanoscan.io](https://www.cardanoscan.io). The 'Controlled Stake' section on the platform will show your whole balance including staking rewards.
+To view your actual balance, stake pool delegation, and more, you can enter your address (starting with 'addr1') or your stake key (starting with 'stake1') into [cardanoscan.io](https://cardanoscan.io/). The 'Controlled Stake' section on the platform will show your whole balance including staking rewards.
 
 To fix your wallet interface issues you could try resyncing. You can find a resync option in the settings of most light wallets. If this doesn't fix your issue and your wallet interface is still showing a different balance to cardanoscan.io, then you can use your seed phrase or hardware wallet to set up your wallet in a different wallet interface. You can have your wallet set up in multiple wallet interfaces at the same time, this also enables you to try the interfaces out and see which one is best for your needs.
 
