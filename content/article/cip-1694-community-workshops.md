@@ -12,7 +12,7 @@ image_text: CIP-1694 Workshops
 
 ### Plus:
 
-### Tokyo, Japan – June, 2023 
+### Tokyo, Japan – June, 2023
 
 ### Edinburgh, Scotland – July, 2023
 
@@ -38,7 +38,7 @@ There's an open invitation for global community leaders and groups to run their 
         
     *   Organize local vendors for food & drinks
         
-    *   Communicating and socializing the event (there will be additional support) 
+    *   Communicating and socializing the event (there will be additional support)
         
 *   Ideally, applicants should already have a good technical grasp of CIP-1694 to facilitate their event effectively 
     
@@ -68,8 +68,8 @@ There's an open invitation for global community leaders and groups to run their 
 
 ### **The outputs**
 
-Each workshop will produce a summary of outputs in the agreed format that will be collated into larger themes and topics that may warrant further discussion or consideration. Each host will be expected to run a post-workshop survey.  
-  
+Each workshop will produce a summary of outputs in the agreed format that will be collated into larger themes and topics that may warrant further discussion or consideration. Each host will be expected to run a post-workshop survey.
+
 Additionally, each host will have the opportunity to nominate a representative to deliver their workshops’ output at the final event in Edinburgh (travel costs will be covered).
 
 ### **The application process**
@@ -85,7 +85,7 @@ Additionally, each host will have the opportunity to nominate a representative t
 
 ### **Apply today!**
 
-Those wanting to host a community-led event can apply [here](https://forms.gle/ZtGZW9aVHrHvHCRx6)**.** Applications are open from Tuesday April 18 and close on Friday April 28, 2023 at 23:00 UTC. 
+Those wanting to host a community-led event can apply [here](https://forms.gle/ZtGZW9aVHrHvHCRx6)**.** Applications are open from Tuesday April 18 and close on Monday May 1, 2023 at 23:00 UTC. 
 
 ### **FAQs**
 
@@ -105,8 +105,8 @@ Payments will be made post-event (for both virtual and in-person meets), however
 
 #### **Will IOG, the Cardano Foundation, and/or EMURGO representatives join workshops?**
 
-#### Yes! But given the anticipated breadth of events, it will depend on location, date, and time. As a result, attendance by IOG, the Cardano Foundation, or EMURGO cannot be guaranteed. If your application is successful, and there is an opportunity for representatives to participate, they will confirm with hosts directly. 
+#### Yes! But given the anticipated breadth of events, it will depend on location, date, and time. As a result, attendance by IOG, the Cardano Foundation, or EMURGO cannot be guaranteed. If your application is successful, and there is an opportunity for representatives to participate, they will confirm with hosts directly.
 
-**When will the last event be held?  
-  
-**The wrap-up event will be in Edinburgh in mid-July. Any community workshops must have been completed and shared their outputs at least 5 days prior.
+**When will the last event be held?**
+
+The wrap-up event will be in Edinburgh in mid-July. Any community workshops must have been completed and shared their outputs at least 5 days prior.
