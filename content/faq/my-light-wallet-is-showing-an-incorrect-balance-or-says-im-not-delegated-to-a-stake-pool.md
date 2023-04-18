@@ -2,9 +2,9 @@
 title: My light wallet is showing an incorrect balance or says I'm not delegated
   to a Stake Pool
 tags:
-  - "#cardano"
+  - Cardano
   - light wallet
-  - Hot wallet
+  - hot wallet
   - Wallet
   - FAQ
   - Yoroi
