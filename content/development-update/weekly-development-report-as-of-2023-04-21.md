@@ -49,7 +49,7 @@ Finally, they completed the definition of the interfaces that must be implemente
 
 ### VOLTAIRE
 
-[CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694) marks the first iteration of Cardano’s on-chain governance. Given its importance, achieving broad consensus is vital as Cardano looks to the future. To make that happen, it’s equally important the community conducts its own governance discussions and events. 
+[CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694) marks the first iteration of on-chain voting for Cardano. Given its importance, achieving broad consensus is vital as Cardano looks to the future. To make that happen, it’s equally important the community conducts its own governance discussions and events. 
 
 There's an open invitation for global community leaders and groups to run their own workshops, with financial support made available. This is _your_ chance to bring Cardano and discussions on governance to your local community. The community-led events should welcome everyone wanting to participate and contribute to Cardano’s governance. If you are interested in running a workshop on CIP-1694, read further and apply [here](https://www.essentialcardano.io/article/cip-1694-community-workshops).
 
@@ -57,7 +57,7 @@ There's an open invitation for global community leaders and groups to run their 
 
 Earlier in the year, **Project Catalyst** launched the Ariob incubator program in collaboration with Iceaddis, a pan-African incubator and accelerator.
 
-The Ariob program is designed to elevate the most promising and impactful startups whose primary focus is tackling real-life challenges in Africa and that had initially received funding through Project Catalyst, the direct innovation engine of the Cardano blockchain.
+The Ariob program is designed to elevate the most promising and impactful startups whose primary focus is tackling real-life challenges in Africa and that had initially received funding through Project Catalyst, the innovation engine of the Cardano blockchain.
 
 In the initial cohort, Ariob helped eight early-stage ventures refine their businesses and prepare for presentations to pitch for either further funding or collaboration opportunities. To mark the completion of the initial cohort, Ariob ran a [Demo day](https://bit.ly/ARIOBDD) where the projects presented what they’d been working on. To find out more, [learn](https://ariob.io/) about Ariob and [Project Catalyst](https://projectcatalyst.io/), sign up for [Catalyst announcements](https://t.me/cardanocatalyst), [join](https://t.me/ProjectCatalystChat) the leading Telegram group or [Discord](https://discord.gg/2RnUtK8), and [subscribe](https://bit.ly/3dSZJvx) to the mailing list.
 
