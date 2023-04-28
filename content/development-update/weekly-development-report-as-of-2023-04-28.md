@@ -11,7 +11,7 @@ image_text: Weekly development report as of 2023-04-28
 
 ### CORE TECHNOLOGY
 
-Over the last two weeks, the **ledger** team continued making progress on CIP-1694 and the Conway ledger era development. In particular, they added [Plutus V3](https://github.com/input-output-hk/cardano-ledger/pull/3365) support to Conway, modified [delegation certificates](https://github.com/input-output-hk/cardano-ledger/pull/3372), and added some [governance ledger states](https://github.com/input-output-hk/cardano-ledger/pull/3369). The team also made small improvements to the ledger API and now host the Haskell code documentation (Haddocks) on [GitHub pages](https://input-output-hk.github.io/cardano-ledger/).
+Over the last two weeks, the **ledger** team continued making progress on CIP-1694 and the Conway ledger era development. In particular, they added [Plutus v3](https://github.com/input-output-hk/cardano-ledger/pull/3365) support to Conway, modified [delegation certificates](https://github.com/input-output-hk/cardano-ledger/pull/3372), and added some [governance ledger states](https://github.com/input-output-hk/cardano-ledger/pull/3369). The team also made small improvements to the ledger API and now host the Haskell code documentation (Haddocks) on [GitHub pages](https://input-output-hk.github.io/cardano-ledger/).
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
