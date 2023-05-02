@@ -23,13 +23,13 @@ _“Cardano is one of the largest web3 ecosystems in the world. As a chain-agnos
 
 Interested participants can also **join the [official Discord channel](https://discord.gg/ynW4qpvzra).**
 
-##About EMURGO Ventures
+##About EMURGO Ventures##
 
 EMURGO Ventures (“EMV’) is the venture capital and investment arm of EMURGO, the official commercial arm and a founding entity of the Cardano blockchain. EMV focuses on investing in and supporting innovative Web3 projects and startups that have the potential to drive the adoption and integration of blockchain technology across various industries. Through strategic partnerships and investments, EMV is working to expand the possibilities of blockchain technology and bring it closer to mainstream adoption, while also contributing to the growth and development of the broader blockchain community.
 
 **To learn more, please visit** [https://emurgo.io](https://emurgo.io).
 
-##About DoraHacks
+##About DoraHacks##
 
 DoraHacks is a global hackathon organizer and one of the world’s most active multi-chain Web3 developer platforms. It creates a global hacker movement and provides crypto-native toolkits to help developers around the world team up and fund their ideas and BUIDLs via hackathons, bounties, grants, grant DAOs, and public good staking. By far, more than 4000 projects from the DoraHacks community have received over $30 million in grants and other forms of contributions from supporters worldwide. A large number of open-source communities, DAOs, and more than 50 major blockchain ecosystems are actively using Dora’s infrastructure for open-source funding and community governance. 
 
