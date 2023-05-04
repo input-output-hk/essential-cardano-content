@@ -1,7 +1,7 @@
 ---
 title: Cardano advances with Valentine upgrade and zippier P2P nodes
 tags:
-  - "#cardano"
+  - "Cardano"
 url: ""
 image: https://ucarecdn.com/94c3136b-c082-4cd1-877f-1f53721b28ce/
 image_text: Cardano logo with network artwork
