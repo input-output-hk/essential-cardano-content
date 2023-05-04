@@ -1,7 +1,7 @@
 ---
 title: FUD
 tags:
-  - Fud
+  - FUD
   - Vcoincheck.io
 url: ""
 image: ""
