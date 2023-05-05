@@ -15,9 +15,7 @@ This week, the **networking** team worked on the ouroboros-network component. Af
 
 Over the past two weeks, the **consensus** team has made significant progress in the Genesis design. The team discovered that the BlockFetch logic may not require modification for Genesis, though this still needs to be verified. In addition, they began creating a DoS mitigation handbook and updated the conceptual component diagram to guide the Genesis design. Collaborating with IOG researchers, they focused on the ‘Limit on Patience’ attack vector, work on which is ongoing. They sketched a design to decouple the CPU load of the node from its responsiveness to the socket and worked with the networking team to reduce the performance impact of the BlockFetch decision logic.
 
-The team also migrated the consensus code to a [new repository](https://github.com/input-output-hk/ouroboros-consensus), splitting
-
-it from the `ouroboros-network` repository, and released consensus v.0.6. Finally, they merged the mempool fairness improvement to the main branch, and worked on documentation improvements. For more details, [see this update](https://input-output-hk.github.io/cardano-updates/2023-05-03-consensus).
+The team also migrated the consensus code to a [new repository](https://github.com/input-output-hk/ouroboros-consensus), splitting it from the `ouroboros-network` repository, and released consensus v.0.6. Finally, they merged the mempool fairness improvement to the main branch, and worked on documentation improvements. For more details, [see this update](https://input-output-hk.github.io/cardano-updates/2023-05-03-consensus).
 
 The **DB Sync** team worked on a schema change to enhance UTXO query speed and benchmarked it to ensure it is effective. They also optimized rewards performance and worked on [improving epoch calculations](https://github.com/input-output-hk/cardano-db-sync/pull/1380) by introducing a cache to reduce resource usage. Additionally, the team evaluated risks related to UTXO-HD integration and worked on two feature requests: splitting the tx\_out to an address table and pruning consumed entries from the tx\_out table. 
 
