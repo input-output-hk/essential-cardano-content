@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/67102359-bae9-44f5-8f8a-da50dc2288f1/
+image: https://ucarecdn.com/ca931ac9-fa77-4a7c-9b80-e61eec722c13/
 image_text: Weekly development report as of 2023-05-05
 ---
 
@@ -21,7 +21,7 @@ The **DB Sync** team worked on a schema change to enhance UTXO query speed and b
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Daedalus** team updated some potentially vulnerable libraries and integrated the latest cardano-wallet v.2023-04-14 and cardano-node v.1.35.4.
 
@@ -72,7 +72,6 @@ This week in **Project Catalyst,** a number of teams presented their projects to
 
 Finally, if you’d like to stay up to date with everything happening in Project Catalyst, bookmark the past issues of the weekly newsletter. Check [it out here](https://us20.campaign-archive.com/home/?u=26d3b656ecc43aa6f3063eaed&id=2451b43b07).
 
-  
 ![](https://ucarecdn.com/dfdb70dd-801c-4266-b29d-51abbece8260/)
 
 ### コアテクノロジー
@@ -89,7 +88,7 @@ ouroboros-networkリポジトリから分離させ、consensus v.0.6をリリー
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Daedalus**チームは、脆弱性のあるライブラリーを更新し、最新のｃardano-wallet v.2023-04-14とｃardano-node v.1.35.4を統合しました。
 
@@ -117,7 +116,7 @@ ouroboros-networkリポジトリから分離させ、consensus v.0.6をリリー
 
 今週、CIP-1694をめぐる会話はグローバルに展開しようとしています。[CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694)で説明されているCardanoのオンチェーンガバナンス提案に関するワークショップを開催するための資金調達の申請は、日本時間火曜日に締め切られました。世界中から、仮想会議と対面会議を合わせて75を超える応募がありました。まもなく、すべてのワークショップと参加方法の詳細が記載された最新情報がEssential Cardanoでリリースされます。
 
-**MBO（Member-Based Organization）**から、MBOがCardanoエコシステム全体でオーケストレーションする内容を詳細に記した最新進捗情報が発表されました。MBOは、ブロックチェーンの将来の開発拠点となり、コミュニティガバナンスの集約ポイントとなります。MBOは5つの柱に焦点を当てて、以下を行います。  
+\*\*MBO（Member-Based Organization）\*\*から、MBOがCardanoエコシステム全体でオーケストレーションする内容を詳細に記した最新進捗情報が発表されました。MBOは、ブロックチェーンの将来の開発拠点となり、コミュニティガバナンスの集約ポイントとなります。MBOは5つの柱に焦点を当てて、以下を行います。
 
 1.  開発者に焦点を当てたカンファレンス、ハッカソン、イベントを開催することで、コミュニティがエコシステムを発展させられるように支援する
     
