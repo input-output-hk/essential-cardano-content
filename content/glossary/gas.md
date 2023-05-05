@@ -8,8 +8,6 @@ image: ""
 image_text: ""
 ---
 
-"Gas" refers to the fee that is required to execute a transaction or contract on the network. Gas is paid in Ether, which is the native cryptocurrency of the Ethereum blockchain.
+The fee required to execute a transaction or contract on the proof-of-work network. On Ethereum, for example, gas is paid in ether, the native cryptocurrency of Ethereum. Gas fee is determined by the network's demand and supply, and is paid to incentivize miners to process and validate transactions. [Gas fees](https://ethereum.org/en/developers/docs/gas/ ) are essential to the network's efficiency and security. 
 
-Every operation that is performed on the Ethereum blockchain, such as transferring tokens, executing smart contracts, or deploying a new contract, requires a certain amount of gas. The gas fee is determined by the network's demand and supply dynamics, and it can vary depending on the congestion level of the network.
-
-Gas fees are paid to incentivize the miners to process and validate the transaction on the network. Miners receive a portion of the gas fees as compensation for their work in processing and validating transactions.
+There is no gas on Cardano since it is a proof-of-stake blockchain. Read more about [Cardano's transaction determinism here](https://www.essentialcardano.io/article/no-surprises-transaction-validation-on-cardano). 
