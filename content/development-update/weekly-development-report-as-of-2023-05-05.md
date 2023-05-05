@@ -23,7 +23,7 @@ As always, see [this technical development report](https://input-output-hk.githu
 
 ### WALLETS AND SERVICES
 
-This week, the **Daedalus** team updated some potentially vulnerable libraries and integrated the latest cardano-wallet v.2023-04-14 and cardano-node v.1.35.4.
+This week, the **Daedalus** team updated some libraries and integrated the latest cardano-wallet v.2023-04-14 and cardano-node v.1.35.4.
 
 The team continued working on the **Lace** desktop development. They focused on improving the user experience by enhancing the settings page, embedding DApp rendering, and updating the sidebar. Additionally, the team added new features to the DApp autoconnection functionality.
 
