@@ -2,6 +2,8 @@
 title: Liquidity pool
 tags:
   - Liquiditypool
+  - DEX
+  - Vcoincheck.io
 url: ""
 image: ""
 image_text: ""
