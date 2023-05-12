@@ -6,7 +6,7 @@ tags:
   - Governance
 url: ""
 image: ""
-image_text: ""
+image_text: null
 ---
 
 ## **CIP-1694 community corkshops - the lineup**
@@ -68,9 +68,7 @@ _Note: hosts names are their Discord handles_
 
 _To RSVP for an event near you, get in touch with the event organizers directly via Discord. Note that some workshops will confirm their dates early next week._
 
-**To help visualize the global reach of this event, there is an** [interactive map](https://voltaire.essentialcardano.io/) \*\*showcasing the workshop locations and contacts for participating.
-
-\---\*\*
+**To help visualize the global reach of this event,** there is an [interactive map](https://voltaire.essentialcardano.io/) showcasing the workshop locations and contacts for participating.
 
 ### **The Cardano founding entities co-hosted workshops**
 
