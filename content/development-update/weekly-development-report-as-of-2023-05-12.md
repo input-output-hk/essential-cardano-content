@@ -17,7 +17,7 @@ The **ledger** team primarily focused on improving the Conway ledger era and nod
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Daedalus** team worked on the creation of a proxy server to improve reliability of the currency conversion feature.
 
@@ -45,8 +45,8 @@ Finally, the team worked on preparing the roadmap toward releasing a Mithril net
 
 Following on from the launch of a global workshop grant fund, Input Output Global (IOG), EMURGO, and the Cardano Foundation are thrilled to announce the successful applicants to run a workshop to discuss [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694). Over 75 quality and diverse applications from around the world were received. Submissions from North America, LATAM, and Africa made up over 80% of all applications, evidencing the strength of Cardano’s roots and interest in the future of on-chain governance.
 
-The workshops, which will take place from May to July, will explore the latest developments in Cardano's on-chain governance proposed in CIP-1694. The in-person workshops will take place in over 20 locations worldwide, giving attendees the opportunity to network, confer, and collaborate with their local Cardano communities. On top of that, there will be over 25 virtual workshops, further opening opportunities to those who cannot attend in-person.  
-  
+The workshops, which will take place from May to July, will explore the latest developments in Cardano's on-chain governance proposed in CIP-1694. The in-person workshops will take place in over 20 locations worldwide, giving attendees the opportunity to network, confer, and collaborate with their local Cardano communities. On top of that, there will be over 25 virtual workshops, further opening opportunities to those who cannot attend in-person.
+
 An [interactive map](https://voltaire.essentialcardano.io/) and [further details](https://www.essentialcardano.io/article/cip-1694-community-workshops-the-line-up) are available on Essential Cardano. 
 
 ### CATALYST
@@ -57,7 +57,6 @@ This week in **Project Catalyst,** the Catalyst team hosted its 125th town hall.
 
 This week, the **Education** team wrapped up a successful 4th cohort of the Plutus Pioneer program (PPP4). This course has received very positive feedback from the community. They liked the easier setup, the new resources, and practical lectures. With over 3,000 registered participants, the course involved a 10-week interactive training program focusing on new Plutus features and showcasing some community tools. They published [weekly lectures](https://github.com/input-output-hk/plutus-pioneer-program), an accompanying [Playbook](https://iog-academy.gitbook.io/plutus-pioneers-program-fourth-cohort/), and a [blog](https://github.com/input-output-hk/plutus-pioneer-program/wiki), held interactive Q&A sessions, and supported the dedicated Discord channels. Thank you to the entire Education team who planned and delivered PPP4 with lots of new faces in front of the camera and working hard behind the scenes. If you participated in this program, we want to hear your thoughts, so watch out for a feedback survey landing in your inbox soon.
 
-  
 ![](https://ucarecdn.com/108eb292-5abb-4d99-8d17-b98f67f33d80/)
 
 ### コアテクノロジー
@@ -68,9 +67,9 @@ This week, the **Education** team wrapped up a successful 4th cohort of the Plut
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
-**Daedalus**チームは、CoinGeckoの詳細を使用せずにADAの価格を反映するプロキシサーバーの作成に取り組みました。
+**Daedalus**チームは、通貨換算機能の信頼性を向上させるプロキシサーバーの作成に取り組みました。
 
 **Lace 1.1.0**がリリースされました。これには、ユーザーエクスペリエンスを向上させるための改良と新機能が加えられています。ユーザーは、12ワードまたは15ワードの復元フレーズを使用してウォレットを復元し、利用可能なネイティブトークンの価格を表示できるようになりました。価格は11種類の法定通貨で表示でき、桁の大きい数字はコンパクトな数字表記で表されます。ユーザーは簡単にネットワークを切り替えることができ、パスワードを忘れた場合には復元フレーズを使用してウォレットに再びアクセスできます。NFTSがトークンリストとNFTギャラリーに正しく表示されるようバグを修正しました。
 
@@ -96,13 +95,13 @@ Adrestiaチームは、Balance TXライブラリーの分離に取り組み、�
 
 グローバルなワークショップ助成金ファンドの立ち上げに続き、Input Output Global（IOG）、EMURGO、Cardano財団が、[CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694)のワークショップ開催に選ばれた応募者を発表しました。75を超える優れた多彩な応募が寄せられました。北米、中南米、アフリカからの応募が全応募の80%以上を占めており、Cardanoのルーツとオンチェーンガバナンスの将来への関心の強さを証明しています。
 
-5月から7月まで開催されるワークショップでは、CIP-1694で提案されたCardanoのオンチェーンガバナンスの最新の動向を探ります。対面式のワークショップは、世界各地の20拠点で開催され、参加者は地元のCardanoコミュニティとのネットワーク作り、協議、コラボレーションの機会を得ることができます。さらに、25の仮想ワークショップも開催され、直接参加できない方々にもさらなる機会を提供します。  
-  
+5月から7月まで開催されるワークショップでは、CIP-1694で提案されたCardanoのオンチェーンガバナンスの最新の動向を探ります。対面式のワークショップは、世界各地の20拠点で開催され、参加者は地元のCardanoコミュニティとのネットワーク作り、協議、コラボレーションの機会を得ることができます。さらに、25の仮想ワークショップも開催され、直接参加できない方々にもさらなる機会を提供します。
+
 [インタラクティブマップ](https://voltaire.essentialcardano.io/)と[詳細](https://www.essentialcardano.io/article/cip-1694-community-workshops-the-line-up-community-workshops-the-line-upunity-workshops-the-line-up)は、Essential Cardanoで公開されています。 
 
 ### CATALYST
 
-**Project Catalyst**に関しては、Catalystチームが第125回タウンホールを主催しました。その模様は[フル録画](https://www.youtube.com/watch?v=h3VMfe_hCfg)で確認できます。トークンゲーティングの資金提供を受けた提案やチャレンジのチームレポートなど、一部の完了したプロジェクトが発表されました。日本時間毎週木曜日の午前2時に開催されるタウンホールへの次回参加を希望する場合は、こちらの[招待リンク](http://bit.ly/catalyst-townhall)[からお申し込みください。資金提供されたプロジェクトの進捗状況を知りたい場合は、projectcatalyst.io/fundsで現在の資金調達状況を確認できます。](//からお申し込みください。資金提供されたプロジェクトの進捗状況を知りたい場合は、projectcatalyst.io/fundsで現在の資金調達状況を確認できます。) 
+**Project Catalyst**に関しては、Catalystチームが第125回タウンホールを主催しました。その模様は[フル録画](https://www.youtube.com/watch?v=h3VMfe_hCfg)で確認できます。トークンゲーティングの資金提供を受けた提案やチャレンジのチームレポートなど、一部の完了したプロジェクトが発表されました。日本時間毎週木曜日の午前2時に開催されるタウンホールへの次回参加を希望する場合は、こちらの[招待リンク](http://bit.ly/catalyst-townhall)[からお申し込みください。資金提供されたプロジェクトの進捗状況を知りたい場合は、projectcatalyst.io/fundsで現在の資金調達状況を確認できます。](//%E3%81%8B%E3%82%89%E3%81%8A%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E8%B3%87%E9%87%91%E6%8F%90%E4%BE%9B%E3%81%95%E3%82%8C%E3%81%9F%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E9%80%B2%E6%8D%97%E7%8A%B6%E6%B3%81%E3%82%92%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E5%A0%B4%E5%90%88%E3%81%AF%E3%80%81projectcatalyst.io/funds%E3%81%A7%E7%8F%BE%E5%9C%A8%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E7%8A%B6%E6%B3%81%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82) 
 
 ### 教育
 
