@@ -27,7 +27,7 @@ Education is central to the Cardano mission. That’s why IOG, the Cardano Found
 
 Through this education outreach, the Cardano community is being equipped with the essential skills they need to build on Cardano. An empowered community means a stronger ecosystem.
 
-During 2021, IOG launched the [Plutus Pioneer](https://testnets.cardano.org/en/plutus-pioneer-program/) and [Atala Pioneer](https://atalaprism.io/pioneers/) programs. Together, these programs saw over 3,500 participants trained on Plutus and Atala and were very well received amongst the community. A Marlowe Pioneer Program will launch mid 2022.
+During 2021, IOG launched the [Plutus Pioneer](https://docs.cardano.org/pioneer-programs/plutus-pioneers) and [Atala Pioneer](https://atalaprism.io/pioneers/) programs. Together, these programs saw over 3,500 participants trained on Plutus and Atala and were very well received amongst the community. A Marlowe Pioneer Program will launch mid 2022.
 
 Earlier in 2022, IOG launched the [IOG Academy](https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw), a library of educational videos and materials covering Haskell, Plutus, and Marlowe.
 
