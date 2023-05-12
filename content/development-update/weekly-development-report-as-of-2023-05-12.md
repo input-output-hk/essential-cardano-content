@@ -19,7 +19,7 @@ As always, see [this technical development report](https://input-output-hk.githu
 
 ### WALLETS AND SERVICES 
 
-This week, the **Daedalus** team worked on the creation of a proxy server to reflect ada price without using CoinGecko details.
+This week, the **Daedalus** team worked on the creation of a proxy server to improve reliability of the currency conversion feature.
 
 The team released **Lace 1.1.0**, which brings several improvements and features for a better user experience. Users can now recover their wallets using a 12- or 15-word recovery phrase, and view the prices of their available native tokens. Pricing is now displayed in 11 fiat currencies with compact number notation for large numbers. Users can switch between networks with ease and regain access to their wallets using a recovery phrase if they forget their password. Finally, a bug fix ensures that NFTs display correctly in the ‘Tokens’ list and NFT gallery.
 
