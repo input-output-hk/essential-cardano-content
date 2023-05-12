@@ -13,7 +13,7 @@ image_text: ""
 
 CIP-1694 marks the first iteration of Cardano’s on-chain governance. Given this CIP’s importance, achieving broad consensus is vital as Cardano looks to the future. To make that happen, it’s incumbent that the community conducts its own governance discussions and events. Earlier this year, a [governance workshops letter](https://docs.google.com/document/d/1F8Hj2tBO8CW1xd9ifV0OA2NFJmV8t-julWNjtCB2xYU/edit?usp=sharing) drafted by community leaders provided much food for thought about how to engage and empower the community directly.
 
-Following on from the launch of a global workshop grant fund, Input Output Global (IOG), EMURGO and the Cardano Foundation are thrilled to announce the successful applicants to run a workshop to discuss [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694). Over 75 quality and diverse applications from around the world were received. Submissions from North America, LATAM, and Africa made up over 80% of all applications, evidencing the strength of Cardano’s roots and interest in the future of on-chain governance.
+Following on from the launch of a global workshop grant fund, Input Output Global (IOG), EMURGO and the Cardano Foundation are thrilled to announce the successful applicants to run a workshop to discuss [CIP-1694](https://github.com/JaredCorduan/CIPs/tree/voltaire-v1/CIP-1694). Nearly 100 quality and diverse applications from around the world were received. Submissions from North America, LATAM, and Africa made up over 80% of all applications, evidencing the strength of Cardano’s roots and interest in the future of on-chain governance.
 
 The workshops, which will take place from May to July, will explore the latest developments in Cardano's on-chain governance proposed in CIP-1694. The in-person workshops will take place in over 20 locations worldwide, giving attendees the opportunity to network, confer, and collaborate with their local Cardano communities. On top of that, there will be over 25 virtual workshops, further opening opportunities to those who cannot attend in-person. 
 
@@ -68,9 +68,9 @@ _Note: hosts names are their Discord handles_
 
 _To RSVP for an event near you, get in touch with the event organizers directly via Discord. Note that some workshops will confirm their dates early next week._
 
-**To help visualize the global reach of this event, there is an** [interactive map](https://voltaire.essentialcardano.io/) **showcasing the workshop locations and contacts for participating.  
-  
-\---**
+**To help visualize the global reach of this event, there is an** [interactive map](https://voltaire.essentialcardano.io/) \*\*showcasing the workshop locations and contacts for participating.
+
+\---\*\*
 
 ### **The Cardano founding entities co-hosted workshops**
 
