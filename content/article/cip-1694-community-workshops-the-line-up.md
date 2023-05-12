@@ -9,7 +9,7 @@ image: ""
 image_text: null
 ---
 
-## **CIP-1694 community corkshops - the lineup**
+## **CIP-1694 Community Workshops - The Lineup**
 
 CIP-1694 marks the first iteration of Cardano’s on-chain governance. Given this CIP’s importance, achieving broad consensus is vital as Cardano looks to the future. To make that happen, it’s incumbent that the community conducts its own governance discussions and events. Earlier this year, a [governance workshops letter](https://docs.google.com/document/d/1F8Hj2tBO8CW1xd9ifV0OA2NFJmV8t-julWNjtCB2xYU/edit?usp=sharing) drafted by community leaders provided much food for thought about how to engage and empower the community directly.
 
