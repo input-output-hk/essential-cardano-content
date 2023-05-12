@@ -52,7 +52,7 @@ Most blockchain programming platforms depend on a custom language, such as Ether
 
 IOG research and engineering teams delivered Plutus smart contracts based on such papers as ‘[The Extended UTXO Model](https://iohk.io/en/research/library/papers/the-extended-utxo-model/)’, ‘[Native Custom Tokens in the Extended UTXO Model](https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/)’, ‘[Unraveling recursion: compiling an IR with recursion to System F](https://iohk.io/en/research/library/papers/unraveling-recursioncompiling-an-ir-with-recursion-to-system-f/)’, and ‘[System F in Agda, for fun and profit](https://iohk.io/en/research/library/papers/system-f-in-agdafor-fun-and-profit/)’. Together these papers establish Cardano's smart contract-enabled ledger model as well as the on-chain representation of contract code as so-called lambda terms. ’System F in Agda, for fun and profit’ includes a rigorous mathematical definition, which was computer-checked with the help of the Agda theorem prover.
 
-Plutus is now a living, evolving programming platform for smart contracts on Cardano. The IOG education team has also launched the Plutus Pioneer Program to recruit and train developers in Plutus for the Cardano ecosystem. You can [find out more about the program here](https://testnets.cardano.org/en/plutus-pioneer-program/).
+Plutus is now a living, evolving programming platform for smart contracts on Cardano. The IOG education team has also launched the Plutus Pioneer Program to recruit and train developers in Plutus for the Cardano ecosystem. You can [find out more about the program here](https://docs.cardano.org/pioneer-programs/plutus-pioneers).
 
 ### Marlowe
 
