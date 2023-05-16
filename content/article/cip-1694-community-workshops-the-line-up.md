@@ -27,7 +27,7 @@ _Note: hosts names are their Discord handles_
 
 *   jamesdunseith#3315 hosting in Worcester, Massachusetts, USA 
     
-*   NeoCornelius#2319 hosting in Chicago, Illinoi, USA 
+*   NeoCornelius#2319 hosting in Chicago, Illinois, USA 
     
 *   Nori#9846 hosting in Victoria, British Columbia, Canada
     
