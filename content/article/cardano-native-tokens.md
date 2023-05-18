@@ -54,16 +54,15 @@ It is important to note that native tokens and Cardano’s currency, [ada](https
 Cardano native tokens differ from other tokens in several ways, as illustrated in the table below. 
 
   
-![An infographic comparing Cardano native tokens to other tokens](https://ucarecdn.com/e46e0e4a-61c0-4649-8964-4b0ff4d5f103/)
+![An infographic comparing Cardano native tokens to other tokens](https://ucarecdn.com/9e9d2fdc-6205-40f3-b2ea-a9031309d9ee/)
 
 ## How to create a native token on Cardano
 
 Creating a native token on Cardano is a straightforward process if you follow these steps:
 
   
-![An infographic explaining how to create a Cardano native token](https://ucarecdn.com/14faf756-785e-42e0-9566-d53c67991fb1/)
+![An infographic explaining the Cardano native token creation process](https://ucarecdn.com/4222db3b-6c37-4b55-abb0-c4133252a747/)
 
-  
 ![](https://ucarecdn.com/70803c33-e695-46b1-832a-cf06552f75c8/-/preview/-/format/auto/-/quality/smart/)
 
 _Figure 1. The prototype token builder dashboard_
