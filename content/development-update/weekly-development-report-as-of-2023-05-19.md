@@ -9,6 +9,8 @@ image: https://ucarecdn.com/18c4e2d1-1f42-4c63-984e-fac6102e7940/
 image_text: ""
 ---
 
+日本語版はスクロールダウンしてください
+
 ### CORE TECHNOLOGY
 
 This week, the **networking** team worked on a new way to switch between root and ledger peers and continued working on [Eclipse Evasion](https://input-output-hk.github.io/cardano-updates/2023-05-12-network/#detailed-summary). They also made changes to the handshake protocol, improved flaky tests, and added cddl specs for `NodeToNodeVersionData` and `NodeToClientVersionData`. Finally, the team improved the CI and automated the process of releasing new packages to CHaP.
@@ -21,7 +23,7 @@ The team also made enhancements to their tooling by releasing an immutable [DB s
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Daedalus** team finalized work on the proxy server to provide ada conversion rates from the CoinGecko API reliably. They are now preparing a Daedalus release that will switch to the new endpoint. 
 
@@ -51,8 +53,8 @@ Finally, the team started implementing the new [stake distribution computation](
 
 ### VOLTAIRE
 
-This week in **Voltaire**, the conversations on [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md) continue with the first workshops starting this weekend!  
-  
+This week in **Voltaire**, the conversations on [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md) continue with the first workshops starting this weekend!
+
 The workshops, which will take place from May to July, will explore the latest developments in Cardano's on-chain governance proposed in CIP-1694. The in-person workshops will take place in over 20 locations worldwide, giving attendees the opportunity to network, confer, and collaborate with their local Cardano communities. On top of that, there will be over 25 virtual workshops, further opening opportunities to those who cannot attend in person.
 
 An [interactive map](https://voltaire.essentialcardano.io/) and [further details](https://www.essentialcardano.io/article/cip-1694-community-workshops-the-line-up) are available on Essential Cardano. 
@@ -65,7 +67,6 @@ Last week, the **Project Catalyst** team held its 126th town hall meeting. You c
 
 This week, the **Education** team worked on preparing a feedback survey for participants in the 4th iteration of the Plutus Pioneer program, as well as an internal retrospective. They are also planning the next in-person Haskell course for later this year and preparing content for the Cardano Days workshops planned for the summer. Additionally, the team is focusing on writing sections for _Mastering Cardano_.
 
-  
 ![](https://ucarecdn.com/de46e5ba-ef18-4405-8f1a-1cad62fa707d/)
 
 ### コアテクノロジー
@@ -80,7 +81,7 @@ UTXO-HDプロトタイプに関しては、DBロックメカニズムを強化�
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Daedalus**チームは、CoinGecko APIからのADA換算率を確実に提供するプロキシサーバーの作業を完了しました。現在、新しいエンドポイントに切り替えるDaedalusのリリースを準備しています。 
 
@@ -110,8 +111,8 @@ Cardanoノードv.8.0.0から利用可能な新しい[ステーク分布計算](
 
 ### VOLTAIRE
 
-Voltaireについては、[CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md)に関するディスカッションが続いており、今週末には最初のワークショップが始まります。  
-  
+Voltaireについては、[CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md)に関するディスカッションが続いており、今週末には最初のワークショップが始まります。
+
 5月から7月まで開催されるワークショップでは、CIP-1694で提案されたCardanoのオンチェーンガバナンスの最新の動向を検討します。対面式のワークショップは世界各地の20拠点で開催され、参加者は地元のCardanoコミュニティとのネットワーク作り、協議、コラボレーションの機会を得ることができます。さらに、25の仮想ワークショップも開催され、直接参加できない方々にもさらなる機会を提供します。
 
 [インタラクティブマップ](https://voltaire.essentialcardano.io/)と[詳細情報](https://www.essentialcardano.io/article/cip-1694-community-workshops-the-line-up)は、Essential Cardanoをご覧ください。 
@@ -122,4 +123,4 @@ Voltaireについては、[CIP-1694](https://github.com/JaredCorduan/CIPs/blob/v
 
 ### 教育
 
-**教育**チームは、第4回Plutusパイオニアプログラムの参加者向けのアンケートと社内反省会の準備に取り組みました。今年後半には対面型Haskellコースを計画しており、夏に予定されているCardano Daysワークショップのコンテンツの準備も行っています。_Mastering Cardano（Cardanoを極める）_の各セクションの執筆にも注力しています。
+**教育**チームは、第4回Plutusパイオニアプログラムの参加者向けのアンケートと社内反省会の準備に取り組みました。今年後半には対面型Haskellコースを計画しており、夏に予定されているCardano Daysワークショップのコンテンツの準備も行っています。Mastering Cardano（Cardanoを極める）の各セクションの執筆にも注力しています。
