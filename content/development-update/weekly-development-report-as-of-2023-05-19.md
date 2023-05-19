@@ -123,4 +123,4 @@ Voltaireについては、[CIP-1694](https://github.com/JaredCorduan/CIPs/blob/v
 
 ### 教育
 
-**教育**チームは、第4回Plutusパイオニアプログラムの参加者向けのアンケートと社内反省会の準備に取り組みました。今年後半には対面型Haskellコースを計画しており、夏に予定されているCardano Daysワークショップのコンテンツの準備も行っています。\_Mastering Cardano（Cardanoを極める）\_の各セクションの執筆にも注力しています。
+**教育**チームは、第4回Plutusパイオニアプログラムの参加者向けのアンケートと社内反省会の準備に取り組みました。今年後半には対面型Haskellコースを計画しており、夏に予定されているCardano Daysワークショップのコンテンツの準備も行っています。Mastering Cardano（Cardanoを極める）の各セクションの執筆にも注力しています。
