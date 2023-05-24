@@ -72,7 +72,7 @@ There's an open invitation for global community leaders and groups to run their 
 
 Each workshop will produce a summary of outputs in the agreed format that will be collated into larger themes and topics that may warrant further discussion or consideration. Each host will be expected to run a post-workshop survey.
 
-Additionally, each host will have the opportunity to nominate a representative to deliver their workshops’ output at the final event in Edinburgh (travel costs will be covered).
+Additionally, each host will have the opportunity to nominate a representative to deliver their workshops’ output at the final event in Edinburgh (a fixed travel stipend will support travel costs).
 
 ### **The application process**
 
@@ -147,7 +147,7 @@ CIP-1694 は、Cardanoのオンチェーンガバナンスの最初のイテレ�
         
 *   イベントを効果的に運営するために、CIP-1694の技術に関して造詣が深いことが理想とされる 
     
-*   Cardanoコミュニティグループの運営経験や、イベントの主催経験は有利になる 
+*   Cardanoコミュニティグループの運営経験や、イベントの主催経験は有利になる
     
 
 **利用できるサポート**
@@ -179,13 +179,13 @@ CIP-1694 は、Cardanoのオンチェーンガバナンスの最初のイテレ�
 
 **申請**
 
-1.     _申請形式：_コミュニティリーダーとグループは2023年5月1日までにイベント申請を行います 
+1.     \_申請形式：\_コミュニティリーダーとグループは2023年5月1日までにイベント申請を行います 
 
-2.     _イベントの審査と場所：_すべての応募申請は審査され、Cardanoエコシステムの最も広い範囲をカバーする場所と仮想イベントが選択されます 
+2.     \_イベントの審査と場所：\_すべての応募申請は審査され、Cardanoエコシステムの最も広い範囲をカバーする場所と仮想イベントが選択されます 
 
-3.     _最終確認：_承認されたイベント、参加方法が、5月5日までに全応募者とより広範なコミュニティに通知されます
+3.     \_最終確認：\_承認されたイベント、参加方法が、5月5日までに全応募者とより広範なコミュニティに通知されます
 
-4.     _オンライン説明会：5月8日から始まる週に、_承認された主催者と各チームに対して、2回のオンライン説明会（2つのタイムゾーンにまたがって）が開催されます。また、業務時間内にはさらなるサポートが利用できます。
+4.     \_オンライン説明会：5月8日から始まる週に、\_承認された主催者と各チームに対して、2回のオンライン説明会（2つのタイムゾーンにまたがって）が開催されます。また、業務時間内にはさらなるサポートが利用できます。
 
 **今すぐ応募を**
 
