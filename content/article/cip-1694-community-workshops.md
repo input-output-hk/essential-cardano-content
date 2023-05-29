@@ -15,6 +15,7 @@ image_text: CIP-1694 Workshops
 ### Plus:
 
 **- Tokyo, Japan – June, 2023**
+
 **- Edinburgh, Scotland – July, 2023**
 
 CIP-1694 marks the first iteration of Cardano’s on-chain governance. Given its importance, achieving broad consensus is vital as Cardano looks to the future. To make that happen, it’s equally important the community conducts its own governance discussions and events. 
