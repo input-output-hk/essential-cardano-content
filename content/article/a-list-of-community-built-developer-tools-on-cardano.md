@@ -177,7 +177,7 @@ Here is a list of available tools and resources according to categories:
     
 *   [Guild Operators Suite](https://cardano-community.github.io/guild-operators/): a set of tools and scripts for setting up, managing, and monitoring Cardano stake pools, and also managing tokens and keys.
     
-*   [StakePool Operator Scripts (SPOS)](https://github.com/gitmachtl/scripts): learn how to create and manage your stake pool with these simple scripts. 
+*   [StakePool Operator Scripts (SPOS)](https://github.com/gitmachtl/scripts): learn how to create and manage your stake pool with these simple scripts.
     
 
 ## Plutus-specific tools
@@ -196,7 +196,7 @@ Here is a list of available tools and resources according to categories:
     
 *   [Plutus fee estimator](https://docs.cardano.org/cardano-testnet/tools/plutus-fee-estimator): a tool to estimate transaction fees (eg, to determine the fees that will be charged if the network parameters change), and also to estimate fees for individual script transactions or complete DApps before or during development.
     
-*   [UPLC (Untyped Plutus Language Core)](https://github.com/imperatorlang/uplc): a basic library to support creating and manipulating programs written in Untyped Plutus Core. It can parse, reformat, evaluate or build contract artifacts from Untyped Plutus Core code. 
+*   [UPLC (Untyped Plutus Language Core)](https://github.com/imperatorlang/uplc): a basic library to support creating and manipulating programs written in Untyped Plutus Core. It can parse, reformat, evaluate or build contract artifacts from Untyped Plutus Core code.
     
 
 ## Domain-specific languages
@@ -225,4 +225,4 @@ Here is a list of available tools and resources according to categories:
 *   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
     
 
-_This list of tools was compiled thanks to the work done by_ [Anita Jovic](https://iohk.io/en/team/anita-jovic) _and_ [Fernando Sanchez](https://iohk.io/en/team/fernando-sanchez)_. The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
+_This list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, _and_ Fernando Sanchez_. The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
