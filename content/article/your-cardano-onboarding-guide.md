@@ -193,7 +193,7 @@ Atala PRISM is a decentralized identity solution on Cardano. It enables people t
 
 To conclude we should state that this is just the beginning. You have probably chosen the topics that interest you most about Cardano. Here’s a handy list of resources to keep going:
 
-*   [Essential Cardano](http://essentialcardano.io)
+*   [Essential Cardano](https://essentialcardano.io)
     
 *   [Cardano 101](https://www.essentialcardano.io/article/what-is-cardano-cardano-101)
     
