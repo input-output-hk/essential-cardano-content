@@ -227,4 +227,6 @@ Here is a list of available tools and resources according to categories:
 *   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
     
 
-_This list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, _and_ Fernando Sanchez\_. The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement.\_
+_The original list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, _and_ Fernando Sanchez. _The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
+
+_Essential Cardano is your site! If you would like to add tools to this list, please do so by suggesting an edit._
