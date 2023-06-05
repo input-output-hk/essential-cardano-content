@@ -56,6 +56,8 @@ Here is a list of available tools and resources according to categories:
     
 *   [Plu-ts](https://pluts.harmoniclabs.tech/docs/intro): Typescript-embedded smart contract programming language and transaction creation library.
     
+*   [Scalus](https://github.com/nau/scalus): Scala 3 implementation of Cardano Plutus Platform. Scala to Plutus compiler and a library to construct and evaluate Untyped Plutus Core programs. Works on JVM and JavaScript platforms.
+    
 
 ## Software libraries, APIs, interfaces, SDKs, digital product platforms
 
@@ -225,4 +227,4 @@ Here is a list of available tools and resources according to categories:
 *   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
     
 
-_This list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, _and_ Fernando Sanchez_. The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
+_This list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, _and_ Fernando Sanchez\_. The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement.\_
