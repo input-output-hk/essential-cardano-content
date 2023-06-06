@@ -7,8 +7,9 @@ tags:
   - Blockchain
   - Building on Cardano
 url: ""
-image: ""
-image_text: null
+image: https://ucarecdn.com/2a09c3bc-f95d-411a-b831-627507936e8f/
+image_text: "A banner image with the title: A list of community-built developer
+  tools on Cardano"
 ---
 
 Cardano’s community of developers is one of the strongest in blockchain. Many developers build and provide access to the tools and applications needed to improve Cardano.
