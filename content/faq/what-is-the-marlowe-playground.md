@@ -10,4 +10,4 @@ image: ""
 image_text: ""
 ---
 
-[Marlowe Playground](https://marlowe-playground-staging.plutus.aws.iohkdev.io/#/) is a testing platform where you can experiment with Marlowe contracts, including their development, simulation, and testing. Marlowe contracts can be written in Javascript or Haskell.
+The [Marlowe Playground](https://play.marlowe.iohk.io/#/) is a testing platform where developers can experiment with [Marlowe](https://www.essentialcardano.io/glossary/marlowe)  contracts, including development, simulation, and testing. Marlowe contracts can be written in [JavaScript](https://docs.marlowe.iohk.io/docs/developer-tools/playground#javascript-editor) or [Haskell](https://docs.marlowe.iohk.io/docs/developer-tools/playground#haskell-editor). The Playground also offers [Blockly](https://docs.marlowe.iohk.io/docs/developer-tools/playground#blockly-editor), a visual drag-and-drop programming tool.
