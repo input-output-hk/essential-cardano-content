@@ -1,11 +1,13 @@
 ---
 title: Cardano advances with Valentine upgrade and zippier P2P nodes
 tags:
-  - "Cardano"
+  - Cardano
 url: ""
 image: https://ucarecdn.com/94c3136b-c082-4cd1-877f-1f53721b28ce/
 image_text: Cardano logo with network artwork
 ---
+
+日本語版はこちら
 
 Cardano is gradually and securely becoming a blockchain capable of hosting a new decentralized financial system. The biggest upgrades of recent years – implemented using ‘hard forks’ – have added stake delegation, native assets and NFTs, and the Plutus and Marlowe smart contract platforms. 
 
@@ -29,7 +31,7 @@ The Valentine signature changes mean that transactions generated on a sidechain 
 
 Another core concept where there has been recent progress is scalability. Here, Hydra technology, which sits on top of Cardano as a layer 2 protocol, is important. Hydra gives developers the potential to create their own mini-blockchains – heads – for functions that can be handled off the main blockchain. Hydra heads speed up processing time for an application and also free up the main chain from doing that work. The technology also cuts transaction costs. Input Output Global (IOG) and MLabs are working on an [auction using Hydra](https://iohk.io/en/blog/posts/2023/01/20/implementing-auction-projects-using-hydra-1/) to demonstrate the power of the technology. Another project, this time with Obsidian Systems, is introducing [payments using Hydra](https://iohk.io/en/blog/posts/2022/11/10/hydra-for-payments-introducing-developer-tooling-to-unlock-micropayments-on-cardano/). 
 
-## Dynamic P2P improves the whole network 
+## Dynamic P2P improves the whole network
 
 The third concept is sustainability. For a blockchain to carry on working in the long term, it has to be decentralized, so that no single party or small group is in control. Peer-to-peer (P2P) communication ensures that network connectivity remains decentralized by allowing relay nodes – the thousands of computers kept running round-the-clock by Cardano’s stake pool operators – to interact directly with each other. 
 
