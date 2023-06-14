@@ -10,6 +10,8 @@ image: https://ucarecdn.com/dc7e95f3-5fa2-4acb-b480-cc583d6ed99e/
 image_text: An image of two people working on their laptops
 ---
 
+日本語版は[こちら](https://iohk.io/jp/blog/posts/2023/02/03/cardano-working-groups-how-to-get-involved/)
+
 The Cardano ecosystem has seen tremendous growth in the past year. With this growth, there have been areas of development that have needed to expand in parallel. One way to tackle these usability and interoperability domains through community collaboration is the assembly of a number of informal developer Working Groups (WG). Read on to learn about what these are, and how you can get involved.
 
 ## What is a Working Group?
