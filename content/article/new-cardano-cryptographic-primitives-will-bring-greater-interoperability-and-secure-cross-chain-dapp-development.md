@@ -10,6 +10,8 @@ image: https://ucarecdn.com/7b1b14a9-0d3e-4c6e-8c67-a2a9fe53953b/
 image_text: ""
 ---
 
+日本語版は[こちら](https://iohk.io/jp/blog/posts/2023/01/19/new-cardano-cryptographic-primitives-to-bring-greater-interoperability-and-secure-cross-chain-dapp-development/)
+
 ### To make it easier for developers to build cross-chain applications, Input Output Global (IOG) is adding new built-in functions to Plutus to support ECDSA and Schnorr signatures
 
 Cryptography ensures trust and security in blockchain settings and different blockchains use different cryptographic signature methods. Elliptic Curve Digital Signature Algorithm (ECDSA) and Schnorr signatures are two popular signature schemes used in blockchain platforms. Bitcoin and Ethereum, among other cryptographic systems, use ECDSA. Schnorr signatures, originally proposed as an alternative to ECDSA, are also used in several blockchain networks, such as Polkadot.
