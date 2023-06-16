@@ -5,7 +5,7 @@ tags:
   - Weekly development updates
   - Statistics
 url: ""
-image: https://ucarecdn.com/069ba966-1268-4626-9dba-649f5f4b019d/
+image: https://ucarecdn.com/280e856b-8ec1-4136-80f2-422a2b61e3df/
 image_text: ""
 ---
 
@@ -27,7 +27,7 @@ In terms of support activities, the team released fs-sim-0.2.0.0 and is in the p
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team implemented [Brave support](https://twitter.com/lace_io/status/1668605376273498117) in Lace v.1.1.1. Work is ongoing on cardano-js-sdk, the team updated TxBuilder to add support for multi-delegation and a new input selection algorithm for partitioning UTXOs according to users’ staking preferences. They are also finalizing the HD wallet import feature. 
 
@@ -129,7 +129,7 @@ The team also published [lesson 14](https://www.youtube.com/watch?v=AvpMOMSSZHs)
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは、Lace v.1.1.1に[Braveサポート](https://twitter.com/lace_io/status/1668605376273498117)を実装しました。cardano-js-sdkの作業は進行中で、TxBuilderを更新してマルチ委任のサポートと、ユーザーのステーキング設定に従ってUTXOを分割するための新しいインプット選択アルゴリズムを追加しました。HDウォレットのインポート機能を仕上げました。 
 
