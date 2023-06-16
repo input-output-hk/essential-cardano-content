@@ -109,7 +109,7 @@ This week, the **Education** team delivered a very successful _Cardano Days_ wor
 
 The team also published [lesson 14](https://www.youtube.com/watch?v=AvpMOMSSZHs) of the Haskell Bootcamp and continued making progress with content for _Mastering Cardano_.
 
-![](https://ucarecdn.com/27804670-e96f-40ea-b1a2-eed9376b9af8/)
+![](https://ucarecdn.com/2c0446eb-7625-4285-8188-bbcc3c52131d/)
 
 ### コアテクノロジー
 
