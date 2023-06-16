@@ -109,6 +109,8 @@ This week, the **Education** team delivered a very successful _Cardano Days_ wor
 
 The team also published [lesson 14](https://www.youtube.com/watch?v=AvpMOMSSZHs) of the Haskell Bootcamp and continued making progress with content for _Mastering Cardano_.
 
+![](https://ucarecdn.com/27804670-e96f-40ea-b1a2-eed9376b9af8/)
+
 ### コアテクノロジー
 
 この数週間、**ネットワーキング**チームは新しい[ライトピア共有機能](https://github.com/input-output-hk/ouroboros-network/issues/3596)の実装に取り組んできました。これは、インバウンドピアをアウトバウンドガバナーの既知のピアに含めることを可能にする機能です。
