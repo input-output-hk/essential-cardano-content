@@ -7,7 +7,7 @@ image: https://ucarecdn.com/94c3136b-c082-4cd1-877f-1f53721b28ce/
 image_text: Cardano logo with network artwork
 ---
 
-日本語版はこちら
+日本語版は[こちら](https://iohk.io/jp/blog/posts/2023/05/02/cardano-advances-with-valentine-upgrade-and-zippier-p2p-nodes/)
 
 Cardano is gradually and securely becoming a blockchain capable of hosting a new decentralized financial system. The biggest upgrades of recent years – implemented using ‘hard forks’ – have added stake delegation, native assets and NFTs, and the Plutus and Marlowe smart contract platforms. 
 
