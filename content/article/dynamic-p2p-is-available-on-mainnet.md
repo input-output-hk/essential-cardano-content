@@ -9,6 +9,8 @@ image: https://ucarecdn.com/e81a33cd-996e-40c4-b53c-045113f43a5f/-/resize/800/-/
 image_text: ""
 ---
 
+日本語版は[こちら](https://iohk.io/jp/blog/posts/2023/03/16/dynamic-p2p-is-coming-to-cardano/)
+
 ### Dynamic peer-to-peer (P2P) networking comes with the release of node v.1.35.6. Network participants can now test automatic node communication without a need for static configurations.
 
 Dynamic P2P networking is an important evolution for Cardano and a further boost to the network's performance, resilience, and decentralization. By automating the peer selection process, Dynamic P2P enables enhanced communication between distributed nodes and simplifies the process of running a relay or a block-producing node. This eliminates the need for static configurations and manual stake pool operators’ (SPO) input.
@@ -27,6 +29,7 @@ There are two ways to configure a Cardano node:
     
 2.  As a **relay node**, responsible for communicating with other relays in the network and broadcasting blocks from block-producing nodes. Relay nodes also act as a ‘defense layer’ for block producers to ensure that block producers are not directly exposed to the whole internet.
     
+
 ## Ensuring minimum communication delays and maximum resilience
 
 The network’s design aims to minimize communication delays and maximize network resilience against failures, capacity constraints, or malicious behavior.
