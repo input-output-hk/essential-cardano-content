@@ -9,7 +9,7 @@ image: https://ucarecdn.com/e81a33cd-996e-40c4-b53c-045113f43a5f/-/resize/800/-/
 image_text: ""
 ---
 
-日本語版はこちら
+日本語版は[こちら](https://iohk.io/jp/blog/posts/2023/03/16/dynamic-p2p-is-coming-to-cardano/)
 
 ### Dynamic peer-to-peer (P2P) networking comes with the release of node v.1.35.6. Network participants can now test automatic node communication without a need for static configurations.
 
