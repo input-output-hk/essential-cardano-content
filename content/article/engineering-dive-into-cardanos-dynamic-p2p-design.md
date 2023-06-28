@@ -2,6 +2,8 @@
 title: Engineering dive into Cardano's Dynamic P2P design
 tags:
   - P2P
+  - Networking
+  - Development
 url: ""
 image: https://ucarecdn.com/64232c15-53ee-4127-80bd-28b843383ce2/
 image_text: Banner
@@ -54,7 +56,7 @@ Ensuring Ouroboros’ performance and security is crucial, and one critical aspe
 
 However, achieving this goal presents a complex challenge, with limited prior work available that is applicable in a trustless setting. Effectively addressing this problem necessitated the development of innovative solutions that could strike a balance between swift communication and maintaining the integrity and security of the decentralized network.
 
-### Problem statement 
+### Problem statement
 
 An effective solution for optimizing performance involves minimizing the number of ‘hops’ a block needs to traverse across the network. In graph terms, this translates to reducing the average number of edges a block traverses. Moreover, the length of each hop or edge is crucial. Local links exhibit lower latency compared to intercontinental links, although some intercontinental links _are_ necessary for global block relay. For example, a sub-optimal solution would involve excessive intercontinental links, such as routing from Europe to Asia and back.
 
@@ -75,7 +77,6 @@ In tackling this question, together with the researchers we pursued two primary 
 2.  The second approach involves dynamically adjusting the overlay. In this approach, nodes initially establish connections with random nodes in the network and continuously monitor the performance statistics of their neighbors. Periodically, each node adjusts its set of neighbors based on these statistics, deciding which neighbors to retain and which ones to replace.
     
 
-  
 ![Close-Random policy comparison](https://ucarecdn.com/f354197d-1b47-4a01-8bdf-3460133f4a90/)Figure 1. Close-Random policy comparison
 
 The plot demonstrates the rapid dissemination of a block throughout the network, reaching all nodes eventually. In this experiment, all nodes use the exact same Close-Random policy – e.g. _C6R4_ means nodes connect to six close peers and four random peers. Initially, all nodes are uninformed, meaning they have not yet received the specific block. However, they become informed at some point during the experiment. The dotted line represents the theoretical optimal solution, assuming all informed nodes possess complete knowledge of which peers are most advantageous, enabling such connections (god's view policy).
@@ -84,16 +85,14 @@ It is important to clarify that the Close-Random policy was not implemented dire
 
 This analysis demonstrates how close it is possible to get to an ideal solution using primarily local information. What's intriguing is that this approach surpasses expectations. Achieving a result within a factor of two of perfection would have been commendable, but the team discovered that it is possible to surpass even that.
 
-  
 ![Close-Random policy vs two groups calibration](https://ucarecdn.com/d38eeaa8-b0ee-4aa1-9208-c25aed9bf61d/)Figure 2. Close-Random policy vs two groups calibration
 
 Figure 2 compares the outcomes from the two approaches described earlier. The simulation involved each node maintaining six _close_ neighbors (based on Round Trip Time (RTT)), and four _random_ nodes. These links were kept static throughout the entire experiment (hence the constant blue lines). In the ‘two groups (<=100ms and >100ms)’ policy, each node maintains a fixed number of close links and remote links: ‘close’ signifies that the RTT to that neighbor is less or equal to 100 ms, while ‘remote’ implies that the RTT is more than 100 ms. Nodes start with all random links and periodically calibrate. During this calibration, they retain up to a fixed number of neighbors that have an RTT of less than 100 ms, and they replace some of the remaining neighbors with newly picked random nodes.
 
 This _two groups_ policy serves as a straightforward, effective approximation for evaluating scoring policy behavior. It's worth noting, however, that this policy isn't the one currently employed.
 
-  
-![Close-Random policy vs Peer Score](https://ucarecdn.com/a9880690-2611-4a63-ae71-22903381705c/)Figure 3. Close-Random policy vs Peer Score  
-  
+![Close-Random policy vs Peer Score](https://ucarecdn.com/a9880690-2611-4a63-ae71-22903381705c/)Figure 3. Close-Random policy vs Peer Score
+
 In Figure 3, a comparative analysis is presented between the outcomes resulting from the previously discussed Close-Random policy and a different peer scoring policy. This alternative policy evaluates peers based on the frequency with which they supply a new block header to the node before others. In this experimental setup, nodes start with random links and periodically undergo calibration. During these calibration intervals, the bottom-performing 20% or 40% of peers are replaced with new, randomly selected nodes.
 
 The blue line in the graph represents the policy currently being used (further details about this can be found in the subsequent section). The green line illustrates the theoretical optimum.
@@ -119,7 +118,6 @@ Each node maintains three sets of known peer nodes:
 
 As previously mentioned, nodes maintain limited information about these peers, based on previous direct interactions. For cold nodes, this information may often be absent due to the lack of prior direct interactions. This information resembles ‘reputation’ in other systems, but it is essential to emphasize that it is purely local and not shared with any other node.
 
-  
 ![Peer discovery on Cardano](https://ucarecdn.com/dc9ceaf1-8b23-45cd-a860-f2b03349e8f0/)Figure 4. Peer discovery on Cardano
 
 Figure 4 illustrates the promotion/demotion cycle, managed by the peer selection governor (PSG). This component is responsible for achieving specific targets, such as maintaining a designated number of known and active peers.
@@ -147,6 +145,6 @@ While the Close-Random or Score-based policies explored in the research are not 
 
 ## Development approach
 
-Cardano's P2P implementation is built upon Haskell, a functional programming language widely recognized for its correctness, safety, and maintainability. Haskell's robust type system aids in the detection of potential issues during development, resulting in more robust and reliable code. Additionally, the networking team have developed and now employ [io-sim](https://github.com/input-output-hk/io-sim), a time-based discrete event simulation library that offers precise control over entropy and timing in simulations. This tool faithfully replicates Haskell's runtime system, including features such as Software Transactional Memory (STM), _MVar_s, and more. This level of control allows for reproducibility, regression testing, and examination of worst-case scenarios. The combination of Haskell and `io-sim` allows rigorous testing of the same code used in the P2P production system under a wide range of conditions, ensuring its readiness to tackle real-world challenges.
+Cardano's P2P implementation is built upon Haskell, a functional programming language widely recognized for its correctness, safety, and maintainability. Haskell's robust type system aids in the detection of potential issues during development, resulting in more robust and reliable code. Additionally, the networking team have developed and now employ [io-sim](https://github.com/input-output-hk/io-sim), a time-based discrete event simulation library that offers precise control over entropy and timing in simulations. This tool faithfully replicates Haskell's runtime system, including features such as Software Transactional Memory (STM), \_MVar\_s, and more. This level of control allows for reproducibility, regression testing, and examination of worst-case scenarios. The combination of Haskell and `io-sim` allows rigorous testing of the same code used in the P2P production system under a wide range of conditions, ensuring its readiness to tackle real-world challenges.
 
 In the commitment to building a reliable system, the networking team employed extensive property-based testing. These tests were specifically designed to uncover complex bugs and corner cases that might go unnoticed in traditional testing approaches like unit testing. One distinctive aspect of the testing process is the inclusion of simulations that replicate years of system operation. This comprehensive approach allows mimicking years' worth of activity, uncovering rare bugs that may only surface under specific or prolonged conditions. However, it is important to note that the quality of these tests ultimately depends on the quality of the generators employed. Generators play a critical role in producing diverse and representative inputs for thorough evaluation.
