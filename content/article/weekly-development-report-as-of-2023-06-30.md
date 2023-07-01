@@ -20,7 +20,7 @@ Regarding our support activities, we integrated the latest Ledger changes into C
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** teams made progress on a tool to simulate a multi delegation wallet by testing different coin-selection algorithms.
 
@@ -64,7 +64,7 @@ This week, the **Hydra** team shared progress updates during the monthly review 
 
 This week, the **Mithril** team completed the design of the [signer deployment models](https://github.com/input-output-hk/mithril/issues/961) for the SPOs to run Mithril on their Cardano `mainnet` infrastructure, and implemented the associated [Mithril Relay](https://github.com/input-output-hk/mithril/issues/1018) in the Mithril networks. They kept working on the design and implementation of a simple [stress test tool](https://github.com/input-output-hk/mithril/issues/991) for benchmarking the aggregator. They also worked on implementing a new “tool” command in the aggregator, and its first [sub-command](https://github.com/input-output-hk/mithril/issues/1001) that helps avoiding the need for re-genesis of the certificate chain when the structure of the certificate is upgraded. Additionally, they worked on implementing some [monitoring](https://github.com/input-output-hk/mithril/issues/987) for the Mithril infrastructure, and worked on a [retry mechanism](https://github.com/input-output-hk/mithril/issues/984) for the artifacts creation of the aggregator.
 
-Finally, the team fixed a bug related to the [computation of the master certificate](https://github.com/input-output-hk/mithril/issues/1006) of an epoch that prevented the aggregator from resuming signing certificates when a re-genesis occurred during an already certified epoch.  
+Finally, the team fixed a bug related to the [computation of the master certificate](https://github.com/input-output-hk/mithril/issues/1006) of an epoch that prevented the aggregator from resuming signing certificates when a re-genesis occurred during an already certified epoch.
 
 ### VOLTAIRE
 
@@ -78,17 +78,15 @@ The following workshops, hosted this week, yielded some valuable feedback:
     
 *   London, England by Chris \[UPSTR\]#5848 (7/1)
     
-*   Sao Paulo, Brazil by Otávio - [](http://cardanofeed.com/#5640)[CardanoFeed.com#5640](//CardanoFeed.com#5640) (7/1)
+*   Sao Paulo, Brazil by Otávio - [CardanoFeed.com#5640](//CardanoFeed.com#5640) (7/1)
     
 *   Virtual by Seo4u#6254
     
 *   Virtual by jerrybnj#9863 (7/1)
     
 
-  
 [Check out workshops](https://www.essentialcardano.io/article/cip-1694-community-workshops-the-line-up) happening near you and join the conversations.
 
-  
 [CIP-30](https://cips.cardano.org/cips/cip30/) and [CIP-95](https://github.com/cardano-foundation/CIPs/pull/509) are mechanisms proposed in [Cardano Improvement Proposals (CIPs)](https://cips.cardano.org/) to empower ada holders with voting capabilities. These proposals, once implemented by wallet providers, will enable community members to express their democratic consent for governance actions.
 
 It's essential for community members to actively participate in providing feedback for [CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380) and [CIP-95](https://github.com/cardano-foundation/CIPs/pull/509). By voicing opinions and suggestions, you can help shape the future of governance within Cardano. This collaborative approach ensures that the governance mechanisms implemented best represent the community's needs. 
@@ -148,25 +146,20 @@ This week, the **Education** team began planning the next Cardano Days event at 
 
 コアテクノロジーチームは、ノード、ネットワーク、コンセンサス、台帳コンポーネントへの取り組みを続けました。
 
-  
 Genesisの実装に取り組んでいるコンセンサスチームは、引き続き研究者と協力し、Genesisの履歴ウィンドウの正当性議論をさまざまに単純化しました。同期しているノードが（もはや）追いついていないと判断するためのアプローチも決定しました。この機能は、ネットワーキングチームからリクエストされました。
 
-  
 UTXO-HDの実装に取り組んでいるチームはアドホックのベンチマークを実行しました。これはパフォーマンスの不具合を示したため、現在調査しています。UTXO-HDの初回リリースに必要な複数の改良をマージし、他のダウンストリームコンポーネントとの統合を容易にするパッケージを追加しました。
 
-  
 サポート関連では、ノード8.2リリースの準備としてLedgerの最新の変更をコンセンサスに統合しました。
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは、さまざまなコイン選定アルゴリズムをテストすることによって、マルチ委任ウォレットをシミュレーションするツールの開発を進めました。
 
-  
 新しいcardano-js-sdkを統合し、これをブラウザーでサポートするために必要な互換性に関する変更をすべて実装しました。マルチ委任フローのための新しいUIコンポーネントの作成に取り組み、HDウォレットに関するバグを修正しました。
 
-  
 DApp接続の改良に取り組み、分析イベント用Posthogの統合に着手しました。
 
 Catalyst Fund10用に更新された有権者登録をサポートする次回Daedalusリリースを準備しており、Laceブラウザー拡張機能のサイズが変更されたときの応答性の次善策はほぼ終了しました。
@@ -197,7 +190,7 @@ Marlowe Runtimeチームは、統合テストとセーフティチェックの�
 
 Marloweエクスプローラーチームは、Marloweエクスプローラーのトランザクション詳細にスキンを追加し（PLT-6159、PR：#[49](https://github.com/input-output-hk/marlowe-explorer/pull/49)）、Marloweエクスプローラーのコントラクトビューにもスキンを追加しました（PLT-6156、PR：[#47](https://github.com/input-output-hk/marlowe-explorer/pull/47)）。
 
-トランザクションページを2つに分割し、Marloweエクスプローラーのトランザクションインデックスにスキンを追加しました（PLT-6158およびPLT-6157、PR：[#48](https://github.com/input-output-hk/marlowe-explorer/pull/48))。  
+トランザクションページを2つに分割し、Marloweエクスプローラーのトランザクションインデックスにスキンを追加しました（PLT-6158およびPLT-6157、PR：[#48](https://github.com/input-output-hk/marlowe-explorer/pull/48))。
 
 ### Basho( スケーリング)
 
@@ -205,14 +198,12 @@ Marloweエクスプローラーチームは、Marloweエクスプローラーの
 
 **Mithril**チームは、SPOが自分のCardano mainnetインフラでMithrilを稼働させるための[署名者デプロイモデル](https://github.com/input-output-hk/mithril/issues/961)の設計を終え、関連する[Mithril Relay](https://github.com/input-output-hk/mithril/issues/1018)をMithrilネットワークに実装しました。ベンチマーキングとアグリゲーター用の単純な[ストレステストツール](https://github.com/input-output-hk/mithril/issues/991)の設計と実装への取り組みを続けました。アグリゲーターに新しいtoolコマンドと、証明書の構造がアップグレードされた場合に証明書チェーンの再生成の必要性を回避するのに役立つ最初の[サブコマンド](https://github.com/input-output-hk/mithril/issues/1001)を実装する作業にも取り組みました。Mithrilインフラの[監視](https://github.com/input-output-hk/mithril/issues/987)の実装、アグリゲーターのアーティファクト作成のための[再試行メカニズム](https://github.com/input-output-hk/mithril/issues/984)に取り組みました。
 
-  
 すでに証明されたエポック中に再生成が生じた際、アグリゲーターが証明書へ署名するのを妨げていた、エポックの[マスター証明書の計算](https://github.com/input-output-hk/mithril/issues/1006)に関連するバグを修正しました。
 
 ### VOLTAIRE
 
 **Valtaire**に関しては、初期MVG（最小実行可能ガバナンス）フレームワークを確立するための[CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380)に関する話し合いを続けました。このフレームワークは、Cardanoエコシステムの参加型ガバナンスを進めるうえで不可欠です。コミュニティメンバーからフィードバックを収集することで、多様な視点を取り入れ、コミュニティのニーズと要望に沿ったガバナンスシステムを構築することができます。 
 
-  
 今週は以下のワークショップが開催され、貴重なフィードバックが得られました。
 
 *   米国ニューヨーク州ウィリアムズバーグ - quantumplation#3141主催
@@ -221,20 +212,16 @@ Marloweエクスプローラーチームは、Marloweエクスプローラーの
     
 *   英国ロンドン - Chris \[UPSTR\]#5848主催
     
-*   ブラジル、サンパウロ - Otávio - [](http://cardanofeed.com/#5640)[CardanoFeed.com#5640](//CardanoFeed.com#5640)主催（7月1日）
+*   ブラジル、サンパウロ - Otávio - [CardanoFeed.com#5640](//CardanoFeed.com#5640)主催（7月1日）
     
 *   仮想ワークショップ - Seo4u#6254主催
     
 *   仮想ワークショップ - jerrybnj#9863主催（7月１日）
     
 
-  
 近くで開催される[ワークショップをチェック](https://www.essentialcardano.io/article/cip-1694-community-workshops-the-line-up)して、話し合いに参加してください。
 
-  
 [CIP-30](https://cips.cardano.org/cips/cip30/)および[CIP-95](https://github.com/cardano-foundation/CIPs/pull/509)は、[CIP（Cardano改善提案）](https://cips.cardano.org/)でADA保有者に投票権を与えるべく提案されたメカニズムです。この提案がウォレットプロバイダーにより実装されると、コミュニティメンバーはガバナンスアクションについて民主的に同意を表明することができるようになります。
-
-  
 
 コミュニティメンバーが、[CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380)や[CIP-95](https://github.com/cardano-foundation/CIPs/pull/509)に積極的にフィードバックを提供することは極めて重要です。意見や提案を表明することは、Cardanoのガバナンスの未来を形作るのに役立ちます。この協調的なアプローチにより、実装されたガバナンスメカニズムがコミュニティのニーズを代表するようになります。  
 
@@ -288,3 +275,141 @@ Project Catalystの最新情報を入手するには、Catalyst Telegram案内�
 ### 教育
 
 **教育**チームは、メキシコの[ITESOグアダラハラ大学](https://www.iteso.mx/)で開催される次回Cardano Daysイベントの企画を始めました。社内トライブと開発者のニーズやツールについて話し合い、Plutus Pioneer Playgookをまとめました。
+
+[https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/a/e/aefc810c1899555190b9287c5bde5c338a4760dc.png](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/a/e/aefc810c1899555190b9287c5bde5c338a4760dc.png)
+
+# TECNOLOGÍA DE NODOS
+
+Enlace a la Infografía traducida al español.
+
+Durante esta semana, los equipos de tecnología de nodos siguieron trabajando en los componentes de nodos, redes, consenso y ledger.
+
+Los responsables del equipo de consenso que trabaja en la implementación de Génesis siguieron dialogando con los investigadores, lo que dio lugar a varias simplificaciones del argumento de corrección de la ventana histórica de Génesis. Asimismo, decidieron un enfoque para que un nodo de sincronización decida que (ya) no está al día. Esta funcionalidad fue solicitada por el equipo de redes.
+
+Gracias al equipo que trabaja en la implementación de UTXO-HD, se realizaron pruebas de rendimiento ad hoc que mostraron problemas de rendimiento, que se están investigando. Por otra parte, fusionaron varias mejoras necesarias para la primera versión de UTXO-HD y añadieron un paquete para facilitar la integración con otros componentes posteriores.
+
+En cuanto a nuestras actividades de soporte, integramos los últimos cambios del ledger en Consensus como preparación para el lanzamiento del nodo 8.2.
+
+Vea, al igual que siempre, [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
+
+# LAS WALLETS Y OTROS SERVICIOS
+
+Los equipos de **Lace** avanzaron esta semana en una herramienta para simular una wallets multi delegación probando diferentes algoritmos de selección de criptomonedas.
+
+También se ha integrado un nuevo cardano-js-sdk y se han implementado todos los cambios de compatibilidad necesarios para soportarlo en el navegador. Además, están trabajando en la creación de nuevos componentes de interfaz de usuario para el flujo de multidelegación, y han corregido algunos errores relacionados con Las wallets HD.
+
+Adicionalmente, el equipo está trabajando en mejoras de la conexión DApp, y también han empezado a integrar Posthog para los eventos de análisis.
+
+Por último, están preparando la próxima versión de Daedalus para que admita el registro actualizado de votantes para el Fondo 10 de Catalyst, y casi han terminado una solución para la capacidad de respuesta cuando se cambia el tamaño de la extensión del navegador Lace.
+
+El equipo de **Adrestia** se centró en la actualización de cardano-wallets para soportar node v.8.1.1 y en la actualización de GHC a 9.2.8, al tiempo que avanzaba en las mejoras de la capa DB.
+
+#CONTRATOS INTELIGENTES
+
+A lo largo de esta semana, el equipo de **Plutus Tools** ha trabajado principalmente en Marconi para sidechains. Arreglaron algunas discrepancias entre las respuestas JSON de Marconi y la especificación ([PR-79](https://github.com/input-output-hk/marconi/pull/79)), añadieron algunos campos solicitados recientemente ([PR-78](https://github.com/input-output-hk/marconi/pull/78)), limpiaron el registro ([PR-81](https://github.com/input-output-hk/marconi/pull/81)) y arreglaron algunos errores ([PR-76](https://github.com/input-output-hk/marconi/pull/76), [PR-81](https://github.com/input-output-hk/marconi/pull/81)).
+
+Por el lado de plutus-apps, continuaron con la refactorización para reducir las dependencias del nodo-emulador ([PR-1091](https://github.com/input-output-hk/plutus-apps/pull/1091)), y revisaron y fusionaron la primera contribución externa en unos meses ([PR-1092](https://github.com/input-output-hk/plutus-apps/pull/1092)).
+
+El equipo de **Plutus Core** trabajó en la finalización de los cambios en los builtins de la metateoría iniciados la semana pasada (un requisito previo para que la maquinaria de builtins de Plutus sea más rápida y sencilla): [PR](https://github.com/input-output-hk/plutus/pull/5397). También trabajaron para terminar una optimización que acelera la decodificación en cadena de variables: [PR](https://github.com/input-output-hk/plutus/pull/5401).
+
+Adicionalmente, trabajaron en la mejora de la precisión de los puntos de referencia: [PR](https://github.com/input-output-hk/plutus/pull/5409), en la adición de constantes útiles relacionadas con BLS builtins a la biblioteca estándar de Plutus Tx: [PR](https://github.com/input-output-hk/plutus/pull/5404), resolviendo problemas con la integración continua: [PR](https://github.com/input-output-hk/plutus/pull/5400), y añadiendo BLS builtins a la especificación: [PR](https://github.com/input-output-hk/plutus/pull/5405).
+
+Los equipos de Marlowe tuvieron una semana ajetreada. Añadieron el servidor HTTP SSE para las transacciones Marlowe (PLT-6224; PR: [#610](https://github.com/input-output-hk/marlowe-cardano/pull/610)) y también añadieron la lección starter-kit sobre CIP-30 (PLT-6336; PR: [#21](https://github.com/input-output-hk/marlowe-starter-kit/pull/21)). También implementaron el procesamiento por lotes de respuestas de transacciones Marlowe (PLT-6327; Commits: [1](https://github.com/input-output-hk/marlowe-cardano/commit/6a185fc6e)) y un generador de contratos aleatorios para demostración (PLT-6302; PR: [#617](https://github.com/input-output-hk/marlowe-cardano/pull/617)).
+
+# Marlowe Runtime
+
+El equipo de Marlowe Runtime ha solucionado una incompatibilidad entre las pruebas de integración y las comprobaciones de seguridad (PLT-5817; Commits: [1](https://github.com/input-output-hk/marlowe-cardano/commit/2ed972558), [2](https://github.com/input-output-hk/marlowe-cardano/commit/854bf1fa0), [3](https://github.com/input-output-hk/marlowe-cardano/commit/dbf8e67c6), [4](https://github.com/input-output-hk/marlowe-cardano/commit/0ab9f5f1a), [5](https://github.com/input-output-hk/marlowe-cardano/commit/10451d25e), [6](https://github.com/input-output-hk/marlowe-cardano/commit/379c53fe3)). Además, ahora las etiquetas permiten metadatos de más de 64 caracteres. (PLT-6076; PR: [#627](https://github.com/input-output-hk/marlowe-cardano/pull/627)).
+
+También añadieron una API de estado a Marlowe Runtime (PLT-5378; PR: [#621](https://github.com/input-output-hk/marlowe-cardano/pull/621)), crearon el ejecutable todo en uno de Marlowe Runtime (PLT-6179; PR: [#609](https://github.com/input-output-hk/marlowe-cardano/pull/609)), añadieron las funciones de análisis marlowe-cli dentro de Marlowe Runtime / servidor web (PLT-3564; PR: [#622](https://github.com/input-output-hk/marlowe-cardano/pull/622)), añadieron el parámetro de tiempo de espera de análisis a marlowe-tx (PLT-6073; Commits: [1](https://github.com/input-output-hk/marlowe-cardano/commit/208159256)), y también se añadió información sobre el informe de seguridad al comando de creación CLI en tiempo de ejecución (PLT-6072; Commits: [1](https://github.com/input-output-hk/marlowe-cardano/commit/e8b3b9745)).
+
+Por último, integraron la información del informe de seguridad en la API REST (PLT-6071; Commits: [1](https://github.com/input-output-hk/marlowe-cardano/commit/5170f210c)) y añadieron un informe de seguridad al comando Crear (PLT-6070; Commits: [1](https://github.com/input-output-hk/marlowe-cardano/commit/48eaf5791), [2](https://github.com/input-output-hk/marlowe-cardano/commit/fefcbfda3), [3](https://github.com/input-output-hk/marlowe-cardano/commit/6a3aa6765), [4](https://github.com/input-output-hk/marlowe-cardano/commit/ca3da93d9))
+
+# Marlowe Explorer
+
+El equipo de Marlowe Explorer ha añadido un skin al detalle de transacciones en Marlowe Explorer (PLT-6159; PR: [#49](https://github.com/input-output-hk/marlowe-explorer/pull/49)) y también a la vista de contratos en Marlowe Explorer (PLT-6156; PR: [#47](https://github.com/input-output-hk/marlowe-explorer/pull/47)).
+
+Dividen también la página de transacciones en dos y añaden skin al índice de transacciones en Marlowe Explorer (PLT-6158 y PLT-6157; PR: [#48](https://github.com/input-output-hk/marlowe-explorer/pull/48)).
+
+# BASHO (ESCALADO)
+
+Los miembros del equipo **Hydra** han compartido los avances realizados durante la reunión de revisión mensual y han comenzado a experimentar en una red preliminar con la nueva función de confirmación desde wallets externos.
+
+Durante esta semana, el equipo **Mithril** completó el diseño de los [modelos de despliegue de firmantes](https://github.com/input-output-hk/mithril/issues/961) para que los SPO ejecuten Mithril en su infraestructura `mainnet` de Cardano, e implementó el [Relevo Mithril](https://github.com/input-output-hk/mithril/issues/1018) asociado en las redes Mithril. Asimismo, siguieron trabajando en el diseño y la implementación de una sencilla [herramienta de prueba de estrés](https://github.com/input-output-hk/mithril/issues/991) para la evaluación comparativa del agregador. Trabajaron también en la implementación de un nuevo comando “herramienta” en el agregador, y su primer [subcomando](https://github.com/input-output-hk/mithril/issues/1001) que ayuda a evitar la necesidad de volver a generar la cadena de certificados cuando se actualiza la estructura del certificado. Adicionalmente, trabajaron en la implementación de algún [monitoreo](https://github.com/input-output-hk/mithril/issues/987) para la infraestructura Mithril, y trabajaron en un [mecanismo de reintento](https://github.com/input-output-hk/mithril/issues/984) para la creación de artefactos del agregador.
+
+Por último, el equipo corrigió un error relacionado con el [cálculo del certificado maestro](https://github.com/input-output-hk/mithril/issues/1006) de una época que impedía al agregador reanudar la firma de certificados cuando se producía una re-génesis durante una época ya certificada.
+
+# VOLTAIRE
+
+Esta semana en **Voltaire**, continuaron las conversaciones sobre [CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380) para establecer un marco inicial de Gobernanza Mínima Viable (MVG). Se trata de un marco esencial para el avance de la gobernanza participativa dentro del ecosistema de Cardano. Al recoger las opiniones de los miembros de la comunidad, se pueden incorporar diversos puntos de vista para garantizar que el sistema de gobernanza se ajuste a las necesidades y deseos de la comunidad.
+
+En los siguientes talleres, celebrados esta semana, se obtuvieron valiosos comentarios:
+
+*   Williamsburg, Nueva York, EE.UU. por quantumplation#3141
+    
+*   Lagos, Nigeria por Ubiodee#9502
+    
+*   Londres, Inglaterra por Chris \[UPSTR\]#5848 (7/1)
+    
+*   Sao Paulo, Brasil by Otávio - [CardanoFeed.com#5640](//CardanoFeed.com#5640) (7/1)
+    
+*   Virtual por Seo4u#6254
+    
+*   Virtual por jerrybnj#9863 (7/1)
+    
+
+[Consulte los talleres](https://www.essentialcardano.io/article/cip-1694-community-workshops-the-line-up) que se celebran cerca de usted y únase a las conversaciones.
+
+[CIP-30](https://cips.cardano.org/cips/cip30/) y [CIP-95](https://github.com/cardano-foundation/CIPs/pull/509) son mecanismos propuestos en [Propuestas de mejora de Cardano (CIP)](https://cips.cardano.org/) para dotar a los titulares de ada de capacidad de voto. Estas propuestas, una vez implementadas por los proveedores de wallets, permitirán a los miembros de la comunidad expresar su consentimiento democrático para las acciones de gobierno.
+
+Resulta imprescindible que los miembros de la comunidad participen activamente ofreciendo su opinión sobre [CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380) y [CIP-95](https://github.com/cardano-foundation/CIPs/pull/509). Al expresar sus opiniones y sugerencias, pueden ayudar a dar forma al futuro de la gobernanza dentro de Cardano. Este planteamiento colaborativo garantiza que los mecanismos de gobernanza implementados representen de la mejor manera posible las necesidades de la comunidad.
+
+# CATALYST
+
+En esta semana del **Proyecto Catalyst,** el equipo ha presentado los procesos de registro de votantes y de revisión de la comunidad en [el ayuntamiento de esta semana](https://youtu.be/1R2_K1AQcfw). Las guías de ambos procesos pueden encontrarse en el [gitbook de Catalyst](https://projectcatalyst.gitbook.io/sve-documentation/how-to-participate-in-the-special-voting-event/wallet-registration-guide). Por último, algunos de los proyectos Catalyst presentaron parte del gran trabajo que han estado realizando para repercutir en la comunidad. Si aún no lo está, asegúrese de estar al tanto y registre su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
+
+En cuanto al aspecto técnico de Catalyst, la semana pasada:
+
+*   Impulsó la publicación del registro de la aplicación móvil en las tiendas apple y android; apple en revisión, android aprobada
+    
+*   Seguimos añadiendo a la documentación de la versión, incluidos los ajustes del backend, el eslogan de la tienda de aplicaciones, el registro de cambios y las notas de la versión
+    
+*   Probadas las hardware wallets para comprobar su compatibilidad con los cambios más recientes en el registro
+    
+*   Finalizada la documentación para las wallets compatibles con el Fondo 10, incluida la elegibilidad para las recompensas
+    
+*   Iniciado el trabajo para añadir pruebas de regresión a la herramienta de importación de instantáneas
+    
+*   Completada la construcción inicial para la instantánea fusionada; preparando los datos para las pruebas
+    
+*   Completada la primera iteración del módulo de instantáneas (comprobar mi poder de voto) e identificado el trabajo que queda por hacer
+    
+*   Añadido un nuevo campo al punto final de registro para exponer la elegibilidad de las recompensas
+    
+*   Discutido el enfoque para actualizar CIP15/CIP36 para abordar la ambigüedad en el registro/delegación tx existente necesario para GVC; revisiones CIP redactadas
+    
+*   Continuación de la realización de pruebas para los servicios de datos Catalyst
+    
+*   Continuaron los progresos en los planes para poner fin a vit-ss después del Fondo 10, incluida la adición de puntos finales para la compatibilidad con el nuevo servicio para los clientes antiguos
+    
+*   Realizado el trabajo de habilitación para las pruebas de GVC, incluidos los métodos para extraer los planes de votación del Fondo9 (es decir, los datos históricos de las propuestas) e insertarlos en las bases de datos devnet
+    
+*   Finalizada la investigación inicial de las herramientas de recuento y recuperación
+    
+*   Inició el trabajo para permitir a los usuarios técnicos reproducir toda la ronda de votaciones del Fondo 10 en su máquina local, utilizando las secuencias de comandos auditables y empaquetadas ordenadamente con earthly
+    
+*   Resolución de problemas de bifurcación de funciones para permitir la prueba de carga del ledger de votación en la próxima ronda seca
+    
+*   Identificado el caso de prueba para el próximo simulacro relacionado con el reinicio de los nodos líderes y el impacto en el recuento
+    
+*   Finalizada la PoC para el panel de administración que permite a los usuarios iniciar sesión y ver los detalles clave de todos los fondos activos y planificados en la eventDB
+    
+*   Se terminó la beta de la entrega continua y se está probando.
+    
+
+Permanezca a la espera de más información sobre cómo puede participar, ¡que compartiremos en las próximas semanas!
+
+Finalmente, si desea mantenerse al día de todo lo que ocurre en el Proyecto Catalyst, únase al canal de anuncios de Telegram de Catalyst. [Compruébelo aquí.](https://t.me/cardanocatalyst)
+
+# EDUCACIÓN
+
+El equipo de **Educación** empezó esta semana a planificar el próximo evento Cardano Days en el [ITESO Universidad de Guadalajara](https://www.iteso.mx/). También trabajaron con algunas tribus internas para discutir las necesidades y herramientas de los desarrolladores, y terminaron el Plutus Pioneer Playbook.
