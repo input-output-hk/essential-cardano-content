@@ -14,9 +14,9 @@ This week, the core technology teams continued working on node, networking, cons
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
-This week, the **Lace** team released the wallet’s latest version, [Lace v.1.2](https://www.lace.io/blog/lace-1-2-release), which brings new browser support, new ways to organize your NFTs, a new privacy feature, increased speed, and more. The Lace product design team also published a [blog post](https://docs.google.com/document/d/1Au8v9SMC_YIY_c_aHHxxaHxZYTbRnDkKMUG9hQtxJNE/edit) on the design differences between Web3 and the traditional web.
+This week, the **Lace** team released the wallet’s latest version, [Lace v.1.2](https://www.lace.io/blog/lace-1-2-release), which brings new browser support, new ways to organize your NFTs, a new privacy feature, increased speed, and more. The Lace product design team also published a [blog post](https://www.lace.io/blog/the-difference-between-web3-design-and-traditional-web-design) on the design differences between Web3 and the traditional web.
 
 The **Adrestia** team focused on updating cardano-wallet to support node v.8.1.1, enhancing the database layer, and multi-signature wallet delegation functionality.
 
@@ -124,7 +124,6 @@ Lastly if you’re trying to stay up to date with everything happening in Projec
 
 This week, the **Education** team reflected on the recent delivery of a successful _Cardano Days_ event, which received very positive feedback. They also worked on updates to the Haskell Bootcamp and made progress with planning for an in-person Haskell course later this year. Additionally, they focused on certification for the Plutus Pioneer Program.
 
-  
 ![Weekly development report on Cardano as of 2023-06-23, in Japanese](https://ucarecdn.com/6cc166f4-d62c-497c-a181-809f5e3fe623/)
 
 ### コアテクノロジー
@@ -133,7 +132,7 @@ This week, the **Education** team reflected on the recent delivery of a successf
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは最新バージョン[Lace v.1.2](https://www.lace.io/blog/lace-1-2-release)をリリースしました。これは、新しいブラウザーサポート、NFTの新しい整理機能、新プライバシー機能、速度の向上などをもたらします。Lace製品設計チームはWeb3とWeb2の設計上の違いに関するブログ記事を公開しました。
 
