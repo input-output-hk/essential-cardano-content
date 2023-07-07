@@ -99,6 +99,8 @@ Finally, to stay up to date with everything happening in Project Catalyst, join 
 
 This week, the **Education** team focused on planning the Haskell Course and some members of the team attended the Marlowe launch event. Additionally, the team prepared to deliver a webinar on Blockchain Fundamentals to alumni of the Milken Institute.
 
+![](https://ucarecdn.com/8180aea2-0d00-4eaf-8760-0f5f68552b0b/)
+
 ### コアテクノロジー
 
 DB SyncチームはConwayとdb-syncとの統合の設計を改良し、検証しました。UTXO-HD機能ブランチの初期統合を改良し、現在テストを行っています。また、ノードv.8.1.1をサポートするv.13.1.1.3リリースの準備を行いました。 
