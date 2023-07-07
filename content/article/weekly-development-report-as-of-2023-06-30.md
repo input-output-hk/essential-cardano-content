@@ -282,21 +282,21 @@ Project Catalystの最新情報を入手するには、Catalyst Telegram案内�
 
 Enlace a la Infografía traducida al español.
 
-Durante esta semana, los equipos de tecnología de nodos siguieron trabajando en los componentes de nodos, redes, consenso y ledger.
+Durante esta semana, los equipos de tecnología siguieron trabajando en los componentes de nodos, redes, consenso, y ledger.
 
-Los responsables del equipo de consenso que trabaja en la implementación de Génesis siguieron dialogando con los investigadores, lo que dio lugar a varias simplificaciones del argumento de corrección de la ventana histórica de Génesis. Asimismo, decidieron un enfoque para que un nodo de sincronización decida que (ya) no está al día. Esta funcionalidad fue solicitada por el equipo de redes.
+El equipo de consenso que trabaja en la implementación de Génesis continuó dialogando con los investigadores, lo que dio lugar a varias simplificaciones del argumento de corrección de la ventana histórica de Génesis. Asimismo, decidieron un enfoque para que un nodo en estado de sincronización decida que (ya) no está actualizado. Esta funcionalidad fue solicitada por el equipo de redes.
 
-Gracias al equipo que trabaja en la implementación de UTXO-HD, se realizaron pruebas de rendimiento ad hoc que mostraron problemas de rendimiento, que se están investigando. Por otra parte, fusionaron varias mejoras necesarias para la primera versión de UTXO-HD y añadieron un paquete para facilitar la integración con otros componentes posteriores.
+El equipo que trabaja en la implementación de UTXO-HD realizó pruebas de referencia ad hoc, las cuales mostraron problemas de rendimiento, y que se están investigando. Por otra parte, fusionaron varias mejoras necesarias para la primera versión de UTXO-HD y añadieron un paquete para facilitar la integración con componentes posteriores.
 
 En cuanto a nuestras actividades de soporte, integramos los últimos cambios del ledger en Consensus como preparación para el lanzamiento del nodo 8.2.
 
 Vea, al igual que siempre, [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
 
-# LAS WALLETS Y OTROS SERVICIOS
+# WALLETS Y OTROS SERVICIOS
 
-Los equipos de **Lace** avanzaron esta semana en una herramienta para simular una wallets multi delegación probando diferentes algoritmos de selección de criptomonedas.
+Los equipos de **Lace** avanzaron esta semana en una herramienta para simular wallets multi delegación probando diferentes algoritmos de selección de criptomonedas.
 
-También se ha integrado un nuevo cardano-js-sdk y se han implementado todos los cambios de compatibilidad necesarios para soportarlo en el navegador. Además, están trabajando en la creación de nuevos componentes de interfaz de usuario para el flujo de multidelegación, y han corregido algunos errores relacionados con Las wallets HD.
+También se ha integrado un nuevo cardano-js-sdk y se han implementado todos los cambios de compatibilidad necesarios para soportarlo en el navegador. Además, están trabajando en la creación de nuevos componentes de interfaz de usuario para el flujo de multidelegación, y han corregido algunos errores relacionados con wallets HD.
 
 Adicionalmente, el equipo está trabajando en mejoras de la conexión DApp, y también han empezado a integrar Posthog para los eventos de análisis.
 
@@ -328,13 +328,13 @@ Por último, integraron la información del informe de seguridad en la API REST 
 
 El equipo de Marlowe Explorer ha añadido un skin al detalle de transacciones en Marlowe Explorer (PLT-6159; PR: [#49](https://github.com/input-output-hk/marlowe-explorer/pull/49)) y también a la vista de contratos en Marlowe Explorer (PLT-6156; PR: [#47](https://github.com/input-output-hk/marlowe-explorer/pull/47)).
 
-Dividen también la página de transacciones en dos y añaden skin al índice de transacciones en Marlowe Explorer (PLT-6158 y PLT-6157; PR: [#48](https://github.com/input-output-hk/marlowe-explorer/pull/48)).
+Dividieron también la página de transacciones en dos y añadieron skin al índice de transacciones en Marlowe Explorer (PLT-6158 y PLT-6157; PR: [#48](https://github.com/input-output-hk/marlowe-explorer/pull/48)).
 
-# BASHO (ESCALADO)
+# BASHO (AMPLIACIÓN)
 
 Los miembros del equipo **Hydra** han compartido los avances realizados durante la reunión de revisión mensual y han comenzado a experimentar en una red preliminar con la nueva función de confirmación desde wallets externos.
 
-Durante esta semana, el equipo **Mithril** completó el diseño de los [modelos de despliegue de firmantes](https://github.com/input-output-hk/mithril/issues/961) para que los SPO ejecuten Mithril en su infraestructura `mainnet` de Cardano, e implementó el [Relevo Mithril](https://github.com/input-output-hk/mithril/issues/1018) asociado en las redes Mithril. Asimismo, siguieron trabajando en el diseño y la implementación de una sencilla [herramienta de prueba de estrés](https://github.com/input-output-hk/mithril/issues/991) para la evaluación comparativa del agregador. Trabajaron también en la implementación de un nuevo comando “herramienta” en el agregador, y su primer [subcomando](https://github.com/input-output-hk/mithril/issues/1001) que ayuda a evitar la necesidad de volver a generar la cadena de certificados cuando se actualiza la estructura del certificado. Adicionalmente, trabajaron en la implementación de algún [monitoreo](https://github.com/input-output-hk/mithril/issues/987) para la infraestructura Mithril, y trabajaron en un [mecanismo de reintento](https://github.com/input-output-hk/mithril/issues/984) para la creación de artefactos del agregador.
+Durante esta semana, el equipo **Mithril** completó el diseño de los [modelos de despliegue de firmantes](https://github.com/input-output-hk/mithril/issues/961) para que los SPO ejecuten Mithril en su infraestructura `mainnet` de Cardano, e implementó el [Transmisor Mithril](https://github.com/input-output-hk/mithril/issues/1018) asociado en las redes Mithril. Asimismo, siguieron trabajando en el diseño y la implementación de una sencilla [herramienta de prueba de estrés](https://github.com/input-output-hk/mithril/issues/991) para la evaluación comparativa del agregador. Trabajaron también en la implementación de un nuevo comando “herramienta” en el agregador, y su primer [subcomando](https://github.com/input-output-hk/mithril/issues/1001) que ayuda a evitar la necesidad de volver a generar la cadena de certificados cuando se actualiza la estructura del certificado. Adicionalmente, trabajaron en la implementación de algún [monitoreo](https://github.com/input-output-hk/mithril/issues/987) para la infraestructura Mithril, y trabajaron en un [mecanismo de reintento](https://github.com/input-output-hk/mithril/issues/984) para la creación de artefactos del agregador.
 
 Por último, el equipo corrigió un error relacionado con el [cálculo del certificado maestro](https://github.com/input-output-hk/mithril/issues/1006) de una época que impedía al agregador reanudar la firma de certificados cuando se producía una re-génesis durante una época ya certificada.
 
@@ -365,13 +365,13 @@ Resulta imprescindible que los miembros de la comunidad participen activamente o
 
 # CATALYST
 
-En esta semana del **Proyecto Catalyst,** el equipo ha presentado los procesos de registro de votantes y de revisión de la comunidad en [el ayuntamiento de esta semana](https://youtu.be/1R2_K1AQcfw). Las guías de ambos procesos pueden encontrarse en el [gitbook de Catalyst](https://projectcatalyst.gitbook.io/sve-documentation/how-to-participate-in-the-special-voting-event/wallet-registration-guide). Por último, algunos de los proyectos Catalyst presentaron parte del gran trabajo que han estado realizando para repercutir en la comunidad. Si aún no lo está, asegúrese de estar al tanto y registre su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
+En esta semana del **Proyecto Catalyst,** el equipo ha presentado los procesos de registro de votantes y de revisión de la comunidad en [la junta general de esta semana](https://youtu.be/1R2_K1AQcfw). Las guías de ambos procesos pueden encontrarse en el [gitbook de Catalyst](https://projectcatalyst.gitbook.io/sve-documentation/how-to-participate-in-the-special-voting-event/wallet-registration-guide). Por último, algunos de los proyectos Catalyst presentaron parte del gran trabajo que han estado realizando para repercutir en la comunidad. Si aún no lo está, asegúrese de estar al tanto y registre su asistencia a la [próxima junta general](http://bit.ly/catalyst-townhall).
 
 En cuanto al aspecto técnico de Catalyst, la semana pasada:
 
-*   Impulsó la publicación del registro de la aplicación móvil en las tiendas apple y android; apple en revisión, android aprobada
+*   Impulsó la publicación del registro de la aplicación móvil en las tiendas Apple y Android; Apple en revisión, Android aprobada
     
-*   Seguimos añadiendo a la documentación de la versión, incluidos los ajustes del backend, el eslogan de la tienda de aplicaciones, el registro de cambios y las notas de la versión
+*   Seguimos añadiendo a la documentación de lanzamiento, incluidos los ajustes del backend, el eslogan de la tienda de aplicaciones, el registro de cambios, y las notas de la versión
     
 *   Probadas las hardware wallets para comprobar su compatibilidad con los cambios más recientes en el registro
     
@@ -383,7 +383,7 @@ En cuanto al aspecto técnico de Catalyst, la semana pasada:
     
 *   Completada la primera iteración del módulo de instantáneas (comprobar mi poder de voto) e identificado el trabajo que queda por hacer
     
-*   Añadido un nuevo campo al punto final de registro para exponer la elegibilidad de las recompensas
+*   Añadido un nuevo campo al final del registro para exponer la elegibilidad de las recompensas
     
 *   Discutido el enfoque para actualizar CIP15/CIP36 para abordar la ambigüedad en el registro/delegación tx existente necesario para GVC; revisiones CIP redactadas
     
