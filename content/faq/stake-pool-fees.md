@@ -1,6 +1,6 @@
 ---
-title: "Stake Pool Fees: What is the 340 ada fee and the percentage fee? Will I
-  be charged this to stake my ada?"
+title: "Stake Pool Fees: What are the 340 ada fee and the percentage fee? Will I
+  be charged for staking my ada?"
 tags:
   - Staking
   - Fees
