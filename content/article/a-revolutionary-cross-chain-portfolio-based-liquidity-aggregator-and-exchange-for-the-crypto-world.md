@@ -16,7 +16,7 @@ Blueshift is a cross-chain portfolio-based liquidity aggregator and exchange tha
 
 ## Crypto Mass Adoption
 
-The widespread adoption of cryptocurrencies relies on the seamless ability to hold, stake, and trade tokens in a convenient, reliable, and efficient manner. While centralised exchanges (CEXs) offer such user experiences, they often compromise the ownership of tokens, leaving users dependent on third parties and vulnerable to various risks. On the other hand, decentralised finance (DeFi) provides true ownership and full utility of tokens through non-custodial wallets and smart contract-based applications (dApps). However, the need for interoperability among different blockchains hinders the broader adoption of DeFi. The crypto industry increasingly focuses on interoperability, enabling blockchain networks to communicate and exchange data, messages, and tokens seamlessly.
+The widespread adoption of cryptocurrencies relies on the seamless ability to hold, stake, and trade tokens in a convenient, reliable, and efficient manner. While centralized exchanges (CEXs) offer such user experiences, they often compromise the ownership of tokens, leaving users dependent on third parties and vulnerable to various risks. On the other hand, decentralized finance (DeFi) provides true ownership and full utility of tokens through non-custodial wallets and smart contract-based applications (dApps). However, the need for interoperability among different blockchains hinders the broader adoption of DeFi. The crypto industry increasingly focuses on interoperability, enabling blockchain networks to communicate and exchange data, messages, and tokens seamlessly.
 
 ## Fragmentation and Siloed Ecosystems 
 
@@ -26,15 +26,15 @@ The DeFi landscape is currently fragmented and isolated, with separate ecosystem
 
 In addition to fragmentation, the need for interoperability presents liquidity-related challenges. Liquidity is dispersed, meaning only a fraction of assets is accessible to users. Availability depends on the affiliation with specific ecosystems and the preferences of the respective communities. This limitation restricts users' choices to tokens native to a particular blockchain and stablecoins. Moreover, liquidity needs to be more cohesive across different ecosystems, resulting in inefficiencies and obstacles in performing transactions. High fees and processing times further hinder the user experience in DeFi operations.
 
-Financial risks arise from the dependency on DEXs, lending protocols, and other projects on the success of their ecosystems. The aggregated liquidity and overall ecosystem support determine the liquidity projects can secure. Technological risks emerge when adopting cross-chain approaches, as they must make decisions regarding the underlying system and the extent of their cross-chain development. Security risks are prevalent due to intermediaries, multiple interfaces, and potential breaches, jeopardising the safety of funds and sensitive information.
+Financial risks arise from the dependency on DEXs, lending protocols, and other projects on the success of their ecosystems. The aggregated liquidity and overall ecosystem support determine the liquidity projects can secure. Technological risks emerge when adopting cross-chain approaches, as they must make decisions regarding the underlying system and the extent of their cross-chain development. Security risks are prevalent due to intermediaries, multiple interfaces, and potential breaches, jeopardizing the safety of funds and sensitive information.
 
 ## The Trilemma of Interoperability 
 
-Solving the challenges of interoperability requires careful trade-offs in terms of generalisability, extensibility, and trustlessness. Generalisability refers to the depth of interoperability, allowing various data transfers between chains beyond just tokens. It enables projects to function and communicate seamlessly, synchronising data, tokens, smart contracts, and governance models across chains. Extensibility, on the other hand, focuses on the breadth of interoperability, enabling the seamless addition of new chains to an interoperable network. Each chain has its unique architecture and set of players, including bridges, wallets, and protocols. Lastly, trustlessness minimises intermediaries' involvement in blockchain communication, ensuring users' control over their assets and actions. Reducing intermediaries and interfaces mitigates the risk of breaches and intrusive interferences.
+Solving the challenges of interoperability requires careful trade-offs in terms of generalisability, extensibility, and trustlessness. Generalisability refers to the depth of interoperability, allowing various data transfers between chains beyond just tokens. It enables projects to function and communicate seamlessly, synchronizing data, tokens, smart contracts, and governance models across chains. Extensibility, on the other hand, focuses on the breadth of interoperability, enabling the seamless addition of new chains to an interoperable network. Each chain has its unique architecture and set of players, including bridges, wallets, and protocols. Lastly, trustlessness minimizes intermediaries' involvement in blockchain communication, ensuring users' control over their assets and actions. Reducing intermediaries and interfaces mitigates the risk of breaches and intrusive interferences.
 
 ## Blueshift Brings an Answer for Interoperability to the DeFi Space
 
-Blueshift, a cutting-edge decentralised exchange (DEX), empowers users to trade cryptocurrencies seamlessly across multiple blockchain networks. Built on the well-established Milkomeda platform and connected with its newly developed layer-0 protocol BluesChain built on the Cosmos SDK, Blueshift boasts cross-chain capabilities that facilitate efficient liquidity movement, streamlined swaps, and single-token liquidity provisioning.
+Blueshift, a cutting-edge decentralized exchange (DEX), empowers users to trade cryptocurrencies seamlessly across multiple blockchain networks. Built on the well-established Milkomeda platform and connected with its newly developed layer-0 protocol BluesChain built on the Cosmos SDK, Blueshift boasts cross-chain capabilities that facilitate efficient liquidity movement, streamlined swaps, and single-token liquidity provisioning.
 
 ## Blueshift’s Innovations
 
@@ -44,9 +44,9 @@ Blueshift has always been at the forefront of technological developments in the 
 
 ### ![Cross-chain swap between Polygon and Milkomeda Cardano C1](https://ucarecdn.com/ef8a9052-ea7a-4792-aa28-4d9a20c3b451/)
 
-Blueshift takes the world of decentralised exchanges to new heights with its remarkable cross-chain capabilities, made possible through the development of BluesChain using the Cosmos SDK. The Cosmos SDK, a highly regarded framework for building application-specific blockchains, empowers Blueshift to create a robust and versatile infrastructure that enables seamless interaction between multiple blockchain networks.
+Blueshift takes the world of decentralized exchanges to new heights with its remarkable cross-chain capabilities, made possible through the development of BluesChain using the Cosmos SDK. The Cosmos SDK, a highly regarded framework for building application-specific blockchains, empowers Blueshift to create a robust and versatile infrastructure that enables seamless interaction between multiple blockchain networks.
 
-By harnessing the power of the Cosmos SDK and BluesChain, Blueshift can offer its users a streamlined and interconnected experience that transcends the limitations of traditional decentralised exchanges. Users can now effortlessly engage with various blockchain networks and take advantage of their unique features and opportunities, all within the Blueshift ecosystem. Users can perform cross-chain swaps in 10 seconds via possible routes on connected chains.
+By harnessing the power of the Cosmos SDK and BluesChain, Blueshift can offer its users a streamlined and interconnected experience that transcends the limitations of traditional decentralized exchanges. Users can now effortlessly engage with various blockchain networks and take advantage of their unique features and opportunities, all within the Blueshift ecosystem. Users can perform cross-chain swaps in 10 seconds via possible routes on connected chains.
 
 ## Ecosystems/Roadmap
 
@@ -66,11 +66,11 @@ An exemplification of this concept can be found in indices like the Cardano Inde
 
 ### The Cardano Index
 
-The Blueshift Cardano Index presents an exceptional opportunity for those looking to capitalise on the growth potential of the Cardano ecosystem. This innovative index is designed to expose participants to a diverse range of projects built on the Cardano blockchain, capturing the value of established and emerging tokens.
+The Blueshift Cardano Index presents an exceptional opportunity for those looking to capitalize on the growth potential of the Cardano ecosystem. This innovative index is designed to expose participants to a diverse range of projects built on the Cardano blockchain, capturing the value of established and emerging tokens.
 
 By constructing a carefully curated portfolio, the Blueshift Cardano Index allows participants to benefit from the combined performance of various Cardano-based projects without the need to research extensively or individually manage each asset. This approach simplifies the decision-making process and ensures participants maintain a balanced exposure to the dynamic and rapidly evolving Cardano ecosystem.
 
-Moreover, the Blueshift Cardano Index utilises an adaptive rebalancing strategy to keep the portfolio optimised in response to market fluctuations and the evolving landscape of the Cardano network. Regularly adjusting the portfolio's composition, Blueshift ensures that participants remain well-positioned to capitalise on the most promising projects and trends within the Cardano ecosystem.
+Moreover, the Blueshift Cardano Index utilizes an adaptive rebalancing strategy to keep the portfolio optimized in response to market fluctuations and the evolving landscape of the Cardano network. Regularly adjusting the portfolio's composition, Blueshift ensures that participants remain well-positioned to capitalize on the most promising projects and trends within the Cardano ecosystem.
 
 ### Index Tracking
 
@@ -100,10 +100,10 @@ The Interoperability Index will provide seamless pathways for executing cross-ch
 
 ## Conclusion
 
-Blueshift, a state-of-the-art cross-chain portfolio-based liquidity aggregator and exchange, is revolutionising cryptocurrency trading across multiple blockchain networks. Leveraging the Milkomeda platform and its layer-0 protocol, BluesChain, it offers efficient cross-chain liquidity transfers, streamlined swaps, and single-token liquidity provisioning. With innovations like single-sided token liquidity provision, internal pricing oracles, virtual pairs, and controllable minting schedules, Blueshift offers users an improved trading experience with lower impermanent loss, lower price slippage, and simplified cross-chain applications.
+Blueshift, a state-of-the-art cross-chain portfolio-based liquidity aggregator and exchange, is revolutionizing cryptocurrency trading across multiple blockchain networks. Leveraging the Milkomeda platform and its layer-0 protocol, BluesChain, it offers efficient cross-chain liquidity transfers, streamlined swaps, and single-token liquidity provisioning. With innovations like single-sided token liquidity provision, internal pricing oracles, virtual pairs, and controllable minting schedules, Blueshift offers users an improved trading experience with lower impermanent loss, lower price slippage, and simplified cross-chain applications.
 
-Blueshift's cross-chain capabilities, enabled by the Cosmos SDK and BluesChain, allow for seamless interaction between various blockchain networks, transforming the decentralised exchange landscape. It plans to expand its ecosystem by incorporating more chains, enhancing available liquidity, and fostering partnerships with ecosystem projects to curate portfolios of top-tier tokens. It's also introducing a secondary market for LP tokens, enabling direct trading, staking, or use in liquidity token pairs on various DEXes within the Cardano ecosystem.
+Blueshift's cross-chain capabilities, enabled by the Cosmos SDK and BluesChain, allow for seamless interaction between various blockchain networks, transforming the decentralized exchange landscape. It plans to expand its ecosystem by incorporating more chains, enhancing available liquidity, and fostering partnerships with ecosystem projects to curate portfolios of top-tier tokens. It's also introducing a secondary market for LP tokens, enabling direct trading, staking, or use in liquidity token pairs on various DEXes within the Cardano ecosystem.
 
-The Cardano Index provides exposure to projects built on the Cardano blockchain. An Interoperability Index is under development to facilitate cross-chain swaps and liquidity transfers. The platform also features an analytics dashboard. Blueshift is a game changer in decentralised exchanges and DeFi.
+The Cardano Index provides exposure to projects built on the Cardano blockchain. An Interoperability Index is under development to facilitate cross-chain swaps and liquidity transfers. The platform also features an analytics dashboard. Blueshift is a game changer in decentralized exchanges and DeFi.
 
-If you want to find out more or join our community, please visit our website at https://blueshift.fi.
+If you want to find out more or join our community, please visit [our website](https://blueshift.fi).
