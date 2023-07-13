@@ -32,7 +32,7 @@ As Cardano grows, so does its reach, its community, value, and adoption. This pa
 
 ## Founding and IOG organization
 
-The project to create Cardano was initiated by a group of cryptocurrency enthusiasts, investors, and entrepreneurs concentrated in Asia at the end of 2014. Charles Hoskinson and Jeremy Wood founded Input Output (initially, IOHK) to design and implement Cardano. In addition, the Cardano Foundation was set up to oversee and supervise the development of Cardano and to act as an advocate for its users. The foundation is based in Switzerland. A third entity, Emurgo, was created to pursue commercial activities on behalf of the ecosystem and community. The three entities have separate ownerships and leadership.
+The project to create Cardano was initiated by a group of cryptocurrency enthusiasts, investors, and entrepreneurs concentrated in Asia at the end of 2014. Charles Hoskinson and Jeremy Wood founded Input Output (initially, IOHK) to design and implement Cardano. In addition, the Cardano Foundation was set up to oversee and supervise the development of Cardano and to act as an advocate for its users. The foundation is based in Switzerland. A third entity, Emurgo, was created to pursue commercial activities on behalf of the ecosystem and community. The three entities have separate ownership and leadership.
 
 The Cardano blockchain and ada, its founding native cryptocurrency, was launched in 2017 and established itself as one of the leading blockchains.
 
@@ -46,13 +46,13 @@ With over 600 staff (as of May 2022), IOG is an ever-expanding constellation for
 
 ## The Cardano blockchain
 
-Cardano is a third-generation, open source, proof-of-stake blockchain platform. Its name derives from [Gerolamo Cardano](https://www.britannica.com/biography/Girolamo-Cardano), a mid-16th century Italian physician and mathematician. Third-generation blockchain platforms are designed to resolve the issues that the first two generations (Bitcoin and Ethereum) suffer from, including _scalability_ and _interoperability,_ while fulfilling an ambitious agenda of _decentralization._
+Cardano is a third-generation, open-source, proof-of-stake blockchain platform. Its name derives from [Gerolamo Cardano](https://www.britannica.com/biography/Girolamo-Cardano), a mid-16th-century Italian physician and mathematician. Third-generation blockchain platforms are designed to resolve the issues that the first two generations (Bitcoin and Ethereum) suffer from, including _scalability_ and _interoperability_ while fulfilling an ambitious agenda of _decentralization._
 
 The Cardano platform combines pioneering technologies based on peer-reviewed research to provide unparalleled security and sustainability to decentralized applications, systems, and communities worldwide. Cardano is about openness, fairness, and inclusivity. 
 
 The blockchain's proof-of-stake protocol, Ouroboros, offers a scalable and energy-efficient solution to accommodate millions – and ultimately, billions – of users worldwide.
 
-Cardano's development is led by a deliberate approach to construct a robust and reliable enterprise-grade infrastructure.
+Cardano's development is led by a deliberate approach to constructing a robust and reliable enterprise-grade infrastructure.
 
 ### Commitment to decentralization
 
@@ -65,7 +65,7 @@ Decentralization is one of Cardano's main drivers, built around three central pi
 *   Governance
     
 
-These three elements combined form a fully decentralized environment where power shifts from monopolistic entities to the individual. Decentralization dissolves the concentration of power by enabling peers to make choices and decisions, and returning ownership of personal information where it belongs - with the users.
+These three elements combined form a fully decentralized environment where power shifts from monopolistic entities to the individual. Decentralization dissolves the concentration of power by enabling peers to make choices and decisions and returning ownership of personal information where it belongs - to the users.
 
 On March 31, 2021, Cardano's block production became fully decentralized. On that day, [the stake pool operator (SPO) community began producing 100% of new blocks](https://iog.io/en/blog/posts/2021/03/31/decentralization-to-d-0-day-and-beyond/). This was an important milestone on the way to Cardano's ultimate destination; the creation of a platform wholly and democratically operated and controlled through a global community of SPOs, developers, and ada holders.  
 Technology
@@ -105,7 +105,7 @@ The consensus layer does not need to know the exact nature of the ledger state, 
 
 **Network layer**
 
-This layer maintains the connections between all the distributed nodes in the Cardano network, obtains new blocks from the network as they are produced by block producing nodes, builds newly minted transactions into blocks, and transmits blocks between nodes.
+This layer maintains the connections between all the distributed nodes in the Cardano network, obtains new blocks from the network as they are produced by block-producing nodes, builds newly minted transactions into blocks, and transmits blocks between nodes.
 
 ### Cryptography
 
@@ -126,7 +126,7 @@ Key pairs include a public and a private key. By using their private key, users 
 
 Cryptography also provides security for the consensus protocol. The two main mechanisms are:
 
-*   Node keys, which are used to register and operate stake pools, and are sub-divided into Operator/operational key, Key Evolving Signature (KES) key pairs, and Verifiable Random Function (VRF) keys; and
+*   Node keys, which are used to register and operate stake pools, and are sub-divided into Operator/operational key, Key Evolving Signature (KES) key pairs, Verifiable Random Function (VRF) keys; and
     
 *   Payment and stake credentials, which are used to authorize fund transfers or to delegate stake to stake pools. These may be either key hashes or script hashes.
     
@@ -137,7 +137,7 @@ Cryptography also provides security for the consensus protocol. The two main mec
 
 Peer-to-peer (P2P) communication enables nodes to self-organize into a globally distributed network of Cardano block producers and relays, and also self-optimize, choosing the best and more performant connected nodes and disconnecting from less performant ones. 
 
-Information is exchanged between nodes to enable a flexible network topology that automatically adapts to dynamically changing network conditions. This further boosts network decentralization, resilience and robustness.
+Information is exchanged between nodes to enable a flexible network topology that automatically adapts to dynamically changing network conditions. This further boosts network decentralization, resilience, and robustness.
 
 The network's P2P architecture includes four elements:
 
@@ -164,13 +164,13 @@ As a symbol, Ouroboros represents the infinity of time flowing back unto itself,
 
 So why was this mythical creature chosen to represent the proof-of-stake consensus protocol that underlies Cardano? In this context, Ouroboros represents the possibility of infinite and ethical growth and scalability of the blockchain, and also, the protocol feeds itself from previous epochs for the randomness used in the current epoch. This is known as ‘eating its own tail’, as the pictorial representation of Ouroboros does.
 
-Ouroboros' central message is the delivery of greater opportunities for the world, and its preservation through much-reduced energy consumption.
+Ouroboros' central message is the delivery of greater opportunities for the world and its preservation through much-reduced energy consumption.
 
 ### What makes Ouroboros unique?
 
 Ouroboros is the first provably secure proof-of-stake blockchain protocol. In other words, Ouroboros offers _mathematically verifiable_ security against attackers. The protocol is guaranteed to be secure, as long as 51% of the stake is held by honest participants.
 
-Ouroboros realizes what is known as ‘Nakamoto-style consensus’ based on proof-of-stake. This provides the robustness of Bitcoin but ensures significant energy efficiency, higher speed and a fair reward mechanism. Also, the protocol ensures security against network attacks and has a rigorous game-theoretic mechanism designed to discourage monopolization.
+Ouroboros realizes what is known as ‘Nakamoto-style consensus’ based on proof-of-stake. This provides the robustness of Bitcoin but ensures significant energy efficiency, higher speed, and a fair reward mechanism. Also, the protocol ensures security against network attacks and has a rigorous game-theoretic mechanism designed to discourage monopolization.
 
 Ouroboros upgrades are smooth due to hard-fork combinator technology, which does not cause disruptions for users. There have been several [‘flavors’ of Ouroboros](https://docs.cardano.org/core-concepts/ouroboros-overview), released in stages.
 
@@ -190,7 +190,7 @@ EUTXO offers unique advantages over other accounting models. The success or fail
 
 Interoperability is about two or more blockchains interacting to move assets and data back and forth. This is usually achieved by two-way mechanisms called _bridges_. 
 
-Interoperating chains can be in a symmetric or an asymmetric relationship. Two main chains that interoperate (Ethereum and Cardano, for instance) form the symmetric case. A mainchain and a sidechain that interoperate form the asymmetric case.
+Interoperating chains can be in a symmetric or asymmetric relationship. Two main chains that interoperate (Ethereum and Cardano, for instance) form the symmetric case. A mainchain and a sidechain that interoperate form the asymmetric case.
 
 In the symmetric case, if one chain dies, the other one is not affected. The situation is different with the asymmetric case, because the sidechain depends on the mainchain, but not the other way around. If the sidechain dies or is compromised, a firewall property typically protects the mainchain from harm. However, if the mainchain is compromised, the sidechain will usually no longer be able to function securely. However, the precise consequences depend on the nature of the sidechain's dependency on the mainchain.
 
@@ -209,7 +209,7 @@ Sidechains give two immediate advantages to a network:
 
 The addition of sidechains enables blockchain developers to add new features to a network without introducing additional security risks. These added features open up the possibility for developers building on top of the network to explore new use cases.
 
-Also, sidechains can inherit some (or all) features (ledger model, consensus mechanism, etc.) from their parent chain, and pair them with features that might not exist on the main chain. For example, a sidechain can combine different security models, consensus protocols, or governance models to create a brand new blockchain that can interoperate with other blockchain networks.
+Also, sidechains can inherit some (or all) features (ledger model, consensus mechanism, etc.) from their parent chain, and pair them with features that might not exist on the main chain. For example, a sidechain can combine different security models, consensus protocols, or governance models to create a brand-new blockchain that can interoperate with other blockchain networks.
 
 The EVM sidechain is a Cardano sidechain -which is currently underway- this sidechain will enable Solidity DApps and EVM developers to build on the Cardano platform. In this way, developers can easily expand their community's reach into Cardano and benefit from the blockchain's existing capabilities.
 
@@ -237,9 +237,9 @@ Data synchronization and state bootstrapping are integral to ensuring the accura
 
 For the base case, we go from a linear number of participants (without Mithril) to a logarithmic one (with Mithril), which is more efficient. This means that the higher the number of participants who need to agree on operations, the more complex it becomes to efficiently aggregate their signatures. In a base scenario, to presume a signature that talks for the majority of stakeholders, every stakeholder needs to sign the appropriate individual message. This results in delays in terms of scalability and speed.
 
-Mithril has been designed to address these issues and to ensure efficient data and state synchronization while preserving rigorous security settings. Simply put, Mithril allows a variety of applications to work faster on the blockchain. Mithril's aggregation does not require signers to coordinate with other signers to produce signatures: they can sign independently and anyone can perform the aggregation, even at a later time. The signature scheme also lets different stakeholders validate only a given checkpoint of the chain (where 'checkpoint' is a state of the chain at some point in time, plus Mithril proofs to support that) without going through the whole transaction history of the given state. This results in fast chain state bootstrapping, 
+Mithril has been designed to address these issues and to ensure efficient data and state synchronization while preserving rigorous security settings. Simply put, Mithril allows a variety of applications to work faster on the blockchain. Mithril's aggregation does not require signers to coordinate with other signers to produce signatures: they can sign independently and anyone can perform the aggregation, even at a later time. The signature scheme also lets different stakeholders validate only a given checkpoint of the chain (where 'checkpoint' is a state of the chain at some point in time, plus Mithril proofs to support that) without going through the whole transaction history of the given state. This results in fast-chain state bootstrapping, 
 
-Overall, the protocol is also beneficial for light client applications like light wallets that need to work fast without a full chain synchronization. Mithril signatures can be also useful for lightweight tally verification, or cryptocurrency governance decision making. ​​When applied to full node clients like Daedalus, Mithril can boost full node data synchronization ensuring speed and decreasing resource consumption.
+Overall, the protocol is also beneficial for light client applications like light wallets that need to work fast without a full chain synchronization. Mithril signatures can be also useful for lightweight tally verification, or cryptocurrency governance decision-making. ​​When applied to full-node clients like Daedalus, Mithril can boost full-node data synchronization ensuring speed and decreasing resource consumption.
 
 ## DApp Store
 
@@ -247,13 +247,13 @@ Since the Alonzo hard fork in September 2021, Cardano offers a blockchain enviro
 
 For developers, the [DApp Store](https://iohk.io/en/blog/posts/2021/09/22/bringing-certified-dapps-to-cardano/) will provide a path to building product awareness and driving user adoption, plus a way to establish their DApps' legitimacy and build reputation. 
 
-For end users, the dAppStore will be an on-ramp, the main touch point to a wide range of blockchain products, and a path to the discovery of new use cases and capabilities offered by DApps. The DApp Store will provide frictionless access to the ecosystem through an easy to use interface. End users will be equipped with all the information about DApp offerings, including the security assurance level of certified DApps, and usage statistics to help them make the right choices.
+For end users, the dAppStore will be an on-ramp, the main touch point to a wide range of blockchain products, and a path to the discovery of new use cases and capabilities offered by DApps. The DApp Store will provide frictionless access to the ecosystem through an easy-to-use interface. End users will be equipped with all the information about DApp offerings, including the security assurance level of certified DApps, and usage statistics to help them make the right choices.
 
 ## Hard fork combinator
 
 Hard forks tend to be 'traumatic' events where a blockchain splits ('forks'), rendering the 'old' blockchain invalid, along with its transaction history, protocol, etc.
 
-The hard fork combinator is an IOG engineered, open-source technology that, rather than discarding the old data, combines two protocols into a single protocol. We call this a sequential combination of the two protocols because it runs the first protocol for a while and at some point, it switches over to the second. The current Cardano chain combines blocks of the following development phases: Byron, Shelley, Allegra, Mary, and Alonzo. After future transitions, it will also combine Goguen, Basho, and Voltaire blocks - all as a single property.
+The hard fork combinator is an IOG-engineered, open-source technology that, rather than discarding the old data, combines two protocols into a single protocol. We call this a sequential combination of the two protocols because it runs the first protocol for a while and at some point, it switches over to the second. The current Cardano chain combines blocks of the following development phases: Byron, Shelley, Allegra, Mary, and Alonzo. After future transitions, it will also combine Goguen, Basho, and Voltaire blocks - all as a single property.
 
 We have successfully used this technology for all the hard forks that Cardano has undergone (except for the first one, where Cardano switched from Ouroboros Classic to Ouroboros BFT.)
 
@@ -265,7 +265,7 @@ Cardano is written in Haskell, a functional language that emphasizes 'pure' func
 
 Haskell is particularly well suited to Cardano's high-assurance code, and the need for greater formal verification in the blockchain. Cardano aims to become a global social and financial system, which requires a very high degree of reliability and verification. 
 
-Many other companies use Haskell, both because of its security properties and pure functional nature. Well-known firms like Oracle and Facebook use Haskell for blockchain research and advertising, respectively, while lesser known companies such as Atos IT and Jotron use it for building applications for the aerospace industry.
+Many other companies use Haskell, both because of its security properties and pure functional nature. Well-known firms like Oracle and Facebook use Haskell for blockchain research and advertising, respectively, while lesser-known companies such as Atos IT and Jotron use it for building applications for the aerospace industry.
 
 ### Plutus
 
@@ -293,7 +293,7 @@ Cardano and Bitcoin bear some fundamental differences in terms of design, purpos
 
 Cardano uses a proof-of-stake consensus mechanism, while Bitcoin relies on proof of work to mine new coins and add blocks to the chain. Functionally, Bitcoin is designed to transfer digital currency in a decentralized, peer-to-peer fashion. Cardano, on the other hand, supports a much broader range of functions. Cardano can handle smart contracts, custom tokens, and decentralized applications (DApps).
 
-Another key difference between Cardano and Bitcoin is the energy utilization. Bitcoin's proof-of-work design [consumes huge amounts of energy](https://digiconomist.net/bitcoin-energy-consumption/), to the tune of 204.50 terawatt-hours. Cardano is far more environmentally sustainable. Charles Hoskinson estimates that Cardano’s electricity consumption is [about 0.01% of Bitcoin’s](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html).
+Another key difference between Cardano and Bitcoin is energy utilization. Bitcoin's proof-of-work design [consumes huge amounts of energy](https://digiconomist.net/bitcoin-energy-consumption/), to the tune of 204.50 terawatt-hours. Cardano is far more environmentally sustainable. Charles Hoskinson estimates that Cardano’s electricity consumption is [about 0.01% of Bitcoin’s](https://www.independent.co.uk/life-style/gadgets-and-tech/cardano-crypto-bitcoin-elon-musk-b1849021.html).
 
 ### How does Cardano differ from Ethereum?
 
@@ -303,9 +303,9 @@ Cardano is designed as a [proof-of-stake blockchain](https://www.essentialcardan
 
 Cardano and Ethereum feature different staking systems. Cardano users [delegate](https://www.essentialcardano.io/glossary/delegation) their ada to stake pools run by SPOs, while Ethereum does not natively support delegation.
 
-Ethereum users can either run their own validating node, stake through a third-party operator as a service, or stake through pooled staking. Solo home staking on Ethereum requires a minimum of 32 ETH and a dedicated computer connected to the internet 24/7, while staking as a service and pooled staking also have their own constraints. Ethereum penalizes a validator that acts against the network through [slashing](https://www.essentialcardano.io/glossary/slashing).
+Ethereum users can either run their own validating node, stake through a third-party operator as a service, or stake through pooled staking. Solo home staking on Ethereum requires a minimum of 32 ETH and a dedicated computer connected to the internet 24/7 while staking as a service and pooled staking also have their own constraints. Ethereum penalizes a validator that acts against the network through [slashing](https://www.essentialcardano.io/glossary/slashing).
 
-On Cardano, Ouroboros provides incentives for good behavior instead. Each SPO pledges funds to their pool to make it more attractive and earn a higher percentage of rewards. Dishonest behavior will result in loss of rewards. Leading-edge game theory techniques have contributed to this strategy too.
+On Cardano, Ouroboros provides incentives for good behavior instead. Each SPO pledges funds to its pool to make it more attractive and earn a higher percentage of rewards. Dishonest behavior will result in loss of rewards. Leading-edge game theory techniques have contributed to this strategy too.
 
 Finally, staking on Cardano is more convenient than on Ethereum as there is no locking (users can withdraw ada at any time), there is no minimum stake requirement, rewards get automatically assigned, and the custody always remains with an ada holder.
 
@@ -378,7 +378,7 @@ As a fully decentralized blockchain, a large network of Cardano stake pools crea
 
 Every 5 days (a Cardano [epoch](https://docs.cardano.org/glossary#epoch)), Ouroboros chooses certain pools to add blocks to the chain, in proportion to the ada that is held by each pool. At the end of the epoch, block creation rewards are given to the pools that have been selected and that have successfully created their assigned blocks. These rewards are distributed among those ada holders who staked their ada as well as the pool operator, and contribute to the pool's maintenance, growth, and sustainability.
 
-Since the chance of a stake pool being selected for block creation increases based upon the amount of ada delegated to it, it's important for the pool to attract as many delegators as possible, up to the point when the pool becomes '[saturated](https://docs.cardano.org/glossary#saturation)'. When the pool is saturated, it has reached the peak return-on-investment (ROI) for its delegators. Any more ada delegated to a saturated pool will dilute the rewards for other delegators, reducing the ROI. The saturation property is designed to avoid a single pool dominating block creation, encouraging staked ada to be distributed among many stake, non-saturated pools. 
+Since the chance of a stake pool being selected for block creation increases based upon the amount of ada delegated to it, it's important for the pool to attract as many delegators as possible, up to the point when the pool becomes '[saturated](https://docs.cardano.org/glossary#saturation)'. When the pool is saturated, it has reached the peak return on investment (ROI) for its delegators. Any more ada delegated to a saturated pool will dilute the rewards for other delegators, reducing the ROI. The saturation property is designed to avoid a single pool dominating block creation, encouraging staked ada to be distributed among many stakes, non-saturated pools. 
 
 ### Check out this [staking tutorial](https://forum.cardano.org/t/staking-and-delegating-for-beginners-a-step-by-step-guide/36681) for more information.
 
@@ -388,7 +388,7 @@ Identity stands at the center of everything a blockchain can do. Blockchain iden
 
 Cardano integrates decentralized identity to open up a brand new range of opportunities and inclusivity that confluence in [RealFi](https://iohk.io/en/blog/posts/2021/11/25/welcome-to-the-age-of-realfi/) – Real finance targeted at the people who really need new ways to access finance, creating that real value often missing from DeFi. 
 
-RealFi is an ecosystem of products that remove the frictions between real world economic activities to offer greater access and cheaper credit/financial products for real people.
+RealFi is an ecosystem of products that remove the frictions between real-world economic activities to offer greater access and cheaper credit/financial products for real people.
 
 ## Wallets
 
@@ -396,7 +396,7 @@ RealFi is an ecosystem of products that remove the frictions between real world 
 
 Daedalus is a full-node hierarchical deterministic (HD) desktop wallet for ada.
 
-Daedalus comes bundled with a full Cardano node, so requires a relatively high specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation.
+Daedalus comes bundled with a full Cardano node, so requires a relatively high-specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation. Daedalus is ideal for those who want accurate blockchain data, but should not be the go-to wallet for everyday, minor transactions.
 
 ### Yoroi
 
@@ -440,31 +440,31 @@ Cardano boasts of a thriving and very active developer community that has develo
 
 ### Liquid Democracy
 
-One of the key pillars for Cardano's viability is active community engagement and participation. This necessitates an effective governance mechanism. Using an iterative, anti-fragile approach and setting high standards for effective decision making, IOG provides the Cardano community with the mechanisms and human processes required to help decide & build the future of Cardano.
+One of the key pillars for Cardano's viability is active community engagement and participation. This necessitates an effective governance mechanism. Using an iterative, anti-fragile approach and setting high standards for effective decision-making, IOG provides the Cardano community with the mechanisms and human processes required to help decide & build the future of Cardano.
 
 IOG plans to deliver this through **absolute Liquid democracy** - collective decision-making through direct participation and dynamic representation.
 
-Liquid democracy is a concept of hybrid governance system that stands somewhere between representative and direct democracy. Ada holders can choose to vote directly, or delegate their votes to domain experts called Delegate Representatives (dReps\_)\_. This democratic culture plays a key role in Cardano's long-term sustainability as a public blockchain system.
+Liquid democracy is a concept of a hybrid governance system that stands somewhere between representative and direct democracy. Ada holders can choose to vote directly, or delegate their votes to domain experts called Delegate Representatives (dReps\_)\_. This democratic culture plays a key role in Cardano's long-term sustainability as a public blockchain system.
 
 Liquid democracy is also about the staking benefits. Cardano’s delegation mechanism is based on a liquid democracy, meaning that staked ada are never locked and can be utilized at any time. Other platforms use a third-party protocol to make staked tokens liquid, which has the potential to introduce security problems.
 
 ### Project Catalyst
 
-Project Catalyst is a program that allows ada holders to directly vote on and allocate funds from the Cardano Treasury to start-up projects building applications, tools and products for Cardano.
+Project Catalyst is a program that allows ada holders to directly vote on and allocate funds from the Cardano Treasury to start-up projects building applications, tools, and products for Cardano.
 
 Catalyst brings governance to Cardano by allowing the community to self-determine priorities for growth.
 
-To do this, Project Catalyst is divided into a series of funds, which are deployed approximately every twelve weeks. These funds are used to elicit ideas in the form of proposals from participants. Each proposal is focused on a challenge issued by the Project Catalyst team or the Project Catalyst community. The proposals then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized community advisors. Once the proposals have been finalized, they are voted on by the community and ada funds are distributed to the successful projects.
+To do this, Project Catalyst is divided into a series of funds, which are deployed approximately every twelve weeks. These funds are used to elicit ideas in the form of proposals from participants. Each proposal is focused on a challenge issued by the Project Catalyst team or the Project Catalyst community. The proposals then go through a community refinement process where they are vetted for feasibility, auditability, and impact by a group of incentivized community advisors. Once the proposals have been finalized, they are voted on by the community, and ada funds are distributed to the successful projects.
 
-Catalyst enables people to realize great ideas and implement them, but funding is only part of the journey towards success. Other factors, such as education, mentorship, collaborations, and product roadmap development are also needed to nurture projects and help them formalize a business plan and effective go-to-market strategy.
+Catalyst enables people to realize great ideas and implement them, but funding is only part of the journey toward success. Other factors, such as education, mentorship, collaborations, and product roadmap development are also needed to nurture projects and help them formalize a business plan and effective go-to-market strategy.
 
 ### Catalyst Circle and Community Participation
 
-The Catalyst Circle is a “human sensor array” acting as the representative body for all the different groups participating in Project Catalyst. The Circle monitors the current state and future plans regarding governance in Catalyst. It detects and discusses concerns, objections and opportunities arising within the Catalyst ecosystem. The Circle might discuss, for example, the definition of amounts allocated to challenges Fund over Fund; changes or conditions to incentive parameters; the Catalyst API, etc.
+The Catalyst Circle is a “human sensor array” acting as the representative body for all the different groups participating in Project Catalyst. The Circle monitors the current state and future plans regarding governance in Catalyst. It detects and discusses concerns, objections, and opportunities arising within the Catalyst ecosystem. The Circle might discuss, for example, the definition of amounts allocated to challenges Fund over Fund; changes or conditions to incentive parameters; the Catalyst API, etc.
 
 By recording meetings and capturing actions in a backlog accessible to all, this activity provides a view into the hopes, wants, needs, and concerns of the community within Project Catalyst. The Circle is also responsible for determining its own future shape and defining the election processes for Circle v3.
 
-The Circle exists to fulfil four key goals:
+The Circle exists to fulfill four key goals:
 
 *   To facilitate communication between the different functional groups
     
@@ -499,11 +499,11 @@ Visit [this page](https://cardano.org/stake-pool-operation#stake-pool) for more 
 
 ## Educational initiatives
 
-Education is central to the Cardano mission. That’s why IOG, the Cardano Foundation, Emurgo and other Cadano participants are all committed to upskilling developers to build on Cardano blockchain. 
+Education is central to the Cardano mission. That’s why IOG, the Cardano Foundation, Emurgo and other Cadano participants are all committed to upskilling developers to build on the Cardano blockchain. 
 
-Through this education outreach, the Cardano community is being equipped with the essential skills they need to build on Cardano. An empowered community means a stronger ecosystem.
+Through this education outreach, members of the Cardano community gain the essential skills they need to build on Cardano. An empowered community means a stronger ecosystem.
 
-During 2021, IOG launched the [Plutus Pioneer](https://testnets.cardano.org/en/plutus-pioneer-program/) and [Atala Pioneer](https://atalaprism.io/pioneers/) programs. Together, these programs saw over 3,500 participants trained on Plutus and Atala and were very well received amongst the community. A Marlowe Pioneer Program will launch mid 2022.
+In 2021, IOG launched the [Plutus Pioneer](https://testnets.cardano.org/en/plutus-pioneer-program/) and [Atala Pioneer](https://atalaprism.io/pioneers/) programs. Together, these programs saw over 3,500 participants trained on Plutus and Atala and were very well received by the community. A Marlowe Pioneer Program will launch in mid-2022.
 
 Earlier in 2022, IOG launched the [IOG Academy](https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw), a library of educational videos and materials covering Haskell, Plutus, and Marlowe.
 
@@ -519,7 +519,7 @@ The native tokens feature extends the existing accounting infrastructure defined
 
 Native support offers distinct advantages for developers: there is no need to create smart contracts to handle custom tokens, for example, which removes a layer of added complexity and potential for manual errors since the ledger handles all token-related functionality.
 
-Due in part to the ease of creation and low minting costs, the NFT space has rapidly grown to be one of the most vibrant and creative elements of the early Cardano ecosystem, with over 400 projects and NFT marketplaces launched and live by early 2022. As of late March, 2022, over [4 million NFTs have minted on Cardano](https://twitter.com/mtschofield/status/1506575854217928706).
+Due in part to the ease of creation and low minting costs, the NFT space has rapidly grown to be one of the most vibrant and creative elements of the early Cardano ecosystem, with over 400 projects and NFT marketplaces launched and live by early 2022. As of late March 2022, over [4 million NFTs have minted on Cardano](https://twitter.com/mtschofield/status/1506575854217928706).
 
 ### Cardano non-fungible tokens (CNFT) marketplace
 
