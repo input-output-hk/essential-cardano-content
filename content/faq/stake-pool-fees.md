@@ -9,7 +9,7 @@ tags:
   - Delegator
 url: ""
 image: ""
-image_text: ""
+image_text: null
 ---
 
 You are not charged this fee to stake your ada. The only fees you are charged to stake your ada are:
@@ -28,6 +28,8 @@ The lowest fees that an SPO can currently set for their stake pool is a 340 fixe
 
 You may also find these FAQs of interest:
 
-• (Is my ada safe when staking?)[https://www.essentialcardano.io/faq/is-my-ada-safe-when-staking](https://www.essentialcardano.io/faq/is-my-ada-safe-when-staking)
-• (What happens when I move to a new stake pool? Will I lose rewards?)[https://www.essentialcardano.io/faq/what-happens-when-i-move-to-a-new-stake-pool-will-i-loose-rewards](https://www.essentialcardano.io/faq/what-happens-when-i-move-to-a-new-stake-pool-will-i-loose-rewards)
-• (Should I get a hardware wallet?)[https://www.essentialcardano.io/faq/should-i-get-a-hardware-wallet](https://www.essentialcardano.io/faq/should-i-get-a-hardware-wallet)
+• [Is my ada safe when staking?](https://www.essentialcardano.io/faq/is-my-ada-safe-when-staking)
+
+• [What happens when I move to a new stake pool? Will I lose rewards?](https://www.essentialcardano.io/faq/what-happens-when-i-move-to-a-new-stake-pool-will-i-loose-rewards)
+
+• [Should I get a hardware wallet?](https://www.essentialcardano.io/faq/should-i-get-a-hardware-wallet)
