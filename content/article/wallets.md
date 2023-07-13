@@ -19,13 +19,13 @@ image_text: ""
 
 Daedalus is a full-node hierarchical deterministic (HD) desktop wallet for ada. 
 
-Daedalus comes bundled with a full Cardano node, so requires a relatively high specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation.
+Daedalus comes bundled with a full Cardano node, so requires a relatively high-specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation. Daedalus is ideal for those who want accurate blockchain data, but should not be the go-to wallet for everyday, minor transactions.
 
 ## Lace
 
 IOG's new light wallet, currently in development.
 
-The first version of [Lace](https://www.youtube.com/watch?v=Q4Z83TSdEfg) will provide a friendly an intuitive experience to:
+The first version of [Lace](https://www.youtube.com/watch?v=Q4Z83TSdEfg) will provide a friendly and intuitive experience to:
 
 *   securely store your funds
     
@@ -61,7 +61,7 @@ Cardano boasts of a thriving and very active developer community that has develo
 
 ## Eternl
 
-Eternl is a Cardano light wallet which is available as a website/PWA, Chrome browser extension, and mobile app on iOS and Android. Here are a few of their key features:
+Eternl is a Cardano light wallet that is available as a website/PWA, Chrome browser extension, and mobile app on iOS and Android. Here are a few of their key features:
 
 *   Ledger and Trezor Hardware Wallet support
     
