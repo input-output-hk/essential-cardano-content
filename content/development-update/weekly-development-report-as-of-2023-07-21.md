@@ -15,7 +15,7 @@ This week, the core technology teams continued working on node, networking, cons
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Daedalus** team [released Daedalus v.5.3.0](https://twitter.com/InputOutputHK/status/1680995951568093184), which brings support for the new Project Catalyst registration process, improves the stability of the exchange rate conversion feature, and more.
 
@@ -82,7 +82,6 @@ Finally, to stay up to date with everything happening in Project Catalyst, join 
 
 This week, the **Education** team planned the curriculum for the Haskell Course that will be delivered next month. They also worked on internal Plutus training content.
 
-  
 ![](https://ucarecdn.com/77636d4c-2886-4d2b-b4cb-268eea1c1420/)
 
 ### コアテクノロジー
@@ -91,7 +90,7 @@ This week, the **Education** team planned the curriculum for the Haskell Course 
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Daedalus**チームは[Daedalus v.5.3.0をリリース](https://twitter.com/InputOutputHK/status/1680995951568093184)しました。ここでは新しいProject Catalyst登録プロセスのサポートが搭載され、為替レート換算機能の安定性が向上しました。
 
@@ -157,3 +156,78 @@ Catalystの技術面は以下の通りです。
 ### 教育
 
 **教育**チームは、来月提供されるHaskellコースのカリキュラムの企画を行いました。Plutus社内トレーニングのコンテンツにも取り組みました。
+
+![ES - Weekly development report as of 2023-07-21](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/b/3/b3da032d6903c525dda5782a84be49d35523f229.jpeg)ES - Weekly development report as of 2023-07-21**100%**75%50%
+
+# TECNOLOGÍA CENTRAL
+
+Durante esta semana, los equipos de tecnología central han seguido trabajando en los componentes de nodo, red, consenso y ledger.
+
+Consulte, [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
+
+# WALLETS Y SERVICIOS
+
+El equipo de **Daedalus** [publicó esta semana Daedalus v.5.3.0](https://twitter.com/InputOutputHK/status/1680995951568093184), que ofrece compatibilidad con el nuevo proceso de registro del Proyecto Catalyst, mejora la estabilidad de la función de conversión del tipo de cambio y mucho más.
+
+Por su parte, el equipo de **Lace** trabajó en una configuración semiautomática de garantías para el CIP-30, rediseñó áreas complejas de código, aumentó la cobertura de la automatización de pruebas de extremo a extremo y comenzó a estudiar más de cerca el CIP-95 antes del trabajo relacionado con Voltaire. Trabajaron también en el flujo de la interfaz de usuario para la multidelegación y realizaron pruebas de carga en el backend utilizando wallets HD.
+
+# SMART CONTRACTS
+
+El equipo de herramientas de **Plutus** siguió trabajando esta semana en la configuración de la supervisión en tiempo de ejecución para la sidechains Marconi, añadiendo campos de respuesta a los indexadores e investigando la funcionalidad del emulador autónomo. Por último, se centraron en la planificación y el establecimiento de prioridades para los próximos meses.
+
+El equipo de **Marlowe** añadió [API GET](https://github.com/input-output-hk/marlowe-cardano/pull/658) a las fuentes de contratos, un punto final [POST fuentes de contratos](https://github.com/input-output-hk/marlowe-cardano/pull/657) para importar paquetes de contratos al Runtime, y [API de importación y exportación](https://github.com/input-output-hk/marlowe-cardano/pull/654)s de contratos para trabajar con archivos de objetos. También filtraron contratos por dirección en [Marlowe Run Lite](https://github.com/input-output-hk/marlowe-run-lite/pull/4) y se centraron en la planificación y priorización para los próximos meses.
+
+# BASHO (“ESCALADO”)
+
+El equipo **Hydra** se concentró esta semana en explorar la [persistencia basada en eventos](https://github.com/input-output-hk/hydra/pull/963) para mejorar el rendimiento de los nodos hydra. Esto provocó la necesidad de refactorizar la emisión de instantáneas en la lógica del protocolo y también de actualizar la especificación con los nuevos detalles. El equipo también revisó sus objetivos y planes de producto para el próximo trimestre y llevó a cabo algunas [correcciones de seguridad](https://github.com/input-output-hk/hydra/security/advisories/GHSA-c8qp-cv4h-vcc4) relacionadas con las multifirmas.
+
+El equipo de **Mithril** completó el [despliegue](https://github.com/input-output-hk/mithril/issues/988) de la infraestructura de la red principal para el lanzamiento de la versión beta. También siguieron trabajando en la implementación de una sencilla herramienta de prueba de estrés para [evaluación comparativa](https://github.com/input-output-hk/mithril/issues/991) del agregador. Además, el equipo comenzó a trabajar en la refactorización de la [serialización/deserialización](https://github.com/input-output-hk/mithril/issues/668) de las entidades de la biblioteca criptográfica.
+
+También trabajaron en la mejora de la [documentación](https://github.com/input-output-hk/mithril/issues/1055), empezaron a trabajar en la limpieza de los [adaptadores de tienda heredados](https://github.com/input-output-hk/mithril/issues/1053) en el agregador y publicaron un [artículo en el blog recapitulando qué es Mithril](https://iohk.io/en/blog/posts/2023/07/20/mithril-nears-mainnet-release/) como preparación para el lanzamiento de la red principal.
+
+# VOLTAIRE
+
+A lo largo de esta semana, en **Voltaire** se están revisando e integrando los comentarios recogidos en el taller [CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380). En breve se publicará una actualización. A medida que [CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380) avance hacia su forma final, la comunidad tendrá la oportunidad de votar sobre si este MVG es una forma aceptable de avanzar juntos. Esto representa una opción poderosa para el avance crucial de la gobernanza participativa dentro del ecosistema Cardano.
+
+[Intersect](https://intersectmbo.org/) fue anunciada la semana pasada, como una institución clave para el ecosistema, que reúne a empresas, desarrolladores, individuos y otros participantes del ecosistema para dar forma e impulsar el futuro desarrollo de Cardano. Como tal, será un administrador de los procesos que rigen la hoja de ruta y el desarrollo continuos de la plataforma y el protocolo Cardano.
+
+Invitamos a todos los participantes del ecosistema Cardano a convertirse en miembros de Intersect. Formado por un grupo distribuido de participantes, entre los que se encuentran los principales expertos en Cardano y los actuales colaboradores del ecosistema, Intersect facilitará debates sanos y la toma de decisiones acertadas entre sus miembros, y la comunidad en general, para descubrir los puntos débiles, al tiempo que defiende los éxitos. Para unirse como miembro fundador, [pulse aquí](http://intersectmbo.org/).
+
+# CATALYST
+
+En el **Proyecto Catalyst**, han comenzado las fases de revisión comunitaria de nivel 0 y 1. Los evaluadores comunitarios de nivel 0 y 1 leerán las propuestas y les asignarán una puntuación entre uno y cinco para cada uno de los tres criterios (impacto, viabilidad y relación calidad-precio). La duración de esta primera etapa de revisión comunitaria se extenderá hasta el 1 de agosto de 2023. Tras la finalización de la primera fase de revisión comunitaria, comenzará la segunda fase de revisión con revisores de nivel 2. El proceso que deberán seguir los revisores comunitarios de LV0 y LV1 se discutió durante [el ayuntamiento de esta semana](https://www.youtube.com/watch?v=cKzsxHPBWF8). Si aún no lo ha hecho, asegúrese de registrar su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
+
+En el aspecto técnico de Catalyst, el equipo:
+
+*   Finalizó el desarrollo para alinear la aplicación de votación con los cambios en el proceso, incluidas las opciones de votación para las operaciones de fondos, las denominaciones en ada y el ordenamiento de los desafíos.
+    
+*   Completó el desarrollo para implementar la nueva solución de análisis de usuarios para comprender mejor las oportunidades de mejorar la experiencia
+    
+*   Comenzó la revisión del servicio de búsqueda backend para identificar y documentar las necesidades pendientes de implementar en la app de votación
+    
+*   Actualizadas las wallets soportadas en Gitbook para reflejar las recientes actualizaciones de Yoroi
+    
+*   Comenzó el trabajo para extraer y compartir las métricas de registro semanalmente
+    
+*   Trabajó en el despliegue de la herramienta de instantáneas fusionadas en el entorno de desarrollo para realizar pruebas
+    
+*   Descubiertos los problemas de acceso necesarios para empezar a probar el módulo de moderación
+    
+*   Refactorizados los servicios de datos EventDB y Catalyst para mejorar la estructura de datos
+    
+*   Continuó el desarrollo de la automatización de pruebas para los servicios de datos de Catalyst
+    
+*   Empezó a crear documentación y guías para utilizar las nuevas herramientas de auditabilidad
+    
+*   Comenzó a trabajar para permitir a los usuarios obtener el historial de votaciones (solo propuestas, no elecciones) dada una clave de votación
+    
+*   Comenzó la prueba interna de extremo a extremo del Centro de Votación
+    
+*   Comenzó el trabajo para permitir el acceso de creación/actualización/eliminación para los datos de eventos.
+    
+
+Finalmente, para estar al día de todo lo que ocurre en el Proyecto Catalyst, únase al canal de anuncios de [Catalyst Telegram](https://t.me/cardanocatalyst).
+
+# EDUCACIÓN
+
+Esta semana, el equipo de **Educación** planificó el plan de estudios para el curso de Haskell que se impartirá el mes que viene. También trabajaron en el contenido de formación interna de Plutus.
