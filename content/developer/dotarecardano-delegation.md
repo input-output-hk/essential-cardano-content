@@ -1,5 +1,5 @@
 ---
-title: "@dotare/cardano-delegation"
+title: Cardano Delegation by Dotare
 tags:
   - Delegation
   - Adoption
@@ -10,21 +10,12 @@ tags:
   - Staking
   - Stake Pool
 url: https://www.npmjs.com/package/@dotare/cardano-delegation
-image: https://ucarecdn.com/75799544-17c7-4968-ac0a-d2c87b21d6ac/
-image_text: npm site
+image: https://ucarecdn.com/effc873c-353b-4c0e-8689-ee528a338961/
+image_text: Cardano Delegation by Dotare
 ---
 
-### This is a delegation method that uses CIP-30 to improve the quality of life for developers and delegators
+### Cardano Delegation by Dotare
 
-The tool provided below enables any browser-based decentralized application (DApp) to feature a delegation button for any stake pool. It includes batteries via API to fetch only the necessary parameters of the Cardano blockchain, allowing the transaction to be written on the client-side. This provides the user with enhanced trust and security, as they can sign and submit the transaction using their preferred browser wallet. The tool eliminates the need to send a transaction hex back and forth over the internet.
+The open source Dotare Cardano Delegation Method leverages the Cardano Improvement Proposal (CIP) 30 - Cardano dApp-Wallet Web Bridge to allow delegators to stake their ADA directly from any web application with a CIP 30 compatible wallet (web or mobile).
 
-Our code is public and there are no hidden fees or transactions.
-
-Stake pools deserve to have a delegate button on their website.
-
-Learn more about the package at:  
-[https://www.npmjs.com/package/@dotare/cardano-delegation](https://www.npmjs.com/package/@dotare/cardano-delegation)
-
-Learn more about us at:  
-[https://www.dotare.io/](https://www.dotare.io/)  
-(works on WordPress)
+Learn more about about this project and/or jump right into the code at: [https://www.dotare.io/portfolio/cardano-delegation/](https://www.dotare.io/portfolio/cardano-delegation/)
