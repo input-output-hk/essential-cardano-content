@@ -17,6 +17,6 @@ image_text: Cardano Delegation by Dotare
 
 ### Cardano Delegation by Dotare
 
-The open source Dotare Cardano Delegation Method leverages the Cardano Improvement Proposal (CIP) 30 - Cardano dApp-Wallet Web Bridge to allow delegators to stake their ADA directly from any web application with a CIP 30 compatible wallet (web or mobile).
+The open-source Dotare Cardano Delegation Method leverages Cardano Improvement Proposal (CIP) 30 - Cardano dApp-Wallet Web Bridge, enabling delegators to stake their ADA directly from any web application with a CIP 30 compatible wallet (web or mobile).
 
-Learn more about about this project and/or jump right into the code at: [https://www.dotare.io/portfolio/cardano-delegation/](https://www.dotare.io/portfolio/cardano-delegation/)
+Learn more about this project and/or jump right into the code at: [https://www.dotare.io/portfolio/cardano-delegation/](https://www.dotare.io/portfolio/cardano-delegation/)
