@@ -4,12 +4,9 @@ tags:
   - Weekly development updates
   - cardano
 url: ""
-image: ""
-image_text: ""
+image: https://ucarecdn.com/706290d5-27aa-4226-9b33-0b408c6a19ae/
+image_text: null
 ---
-
-  
-![](https://ucarecdn.com/22cb1255-0ecb-41f0-bc1e-e8daa238f622/)
 
 ### CORE TECHNOLOGY
 
@@ -27,7 +24,7 @@ Finally, the consensus team investigated an issue on the Sanchonet (the Conway l
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team worked on some fixes to support hardware wallet use within the DApp connector, refactored complex parts of the codebase, and ran a semi-automatic collateral setup to simplify DApp interactions. They also improved test automation, made some local development improvements, and continued working on Trezor support.
 
@@ -43,7 +40,6 @@ The **Marlowe** team created a [developer Docker](https://github.com/input-outpu
 
 This week, the **Hydra** team updated the specification to align with recent off-chain protocol changes and completed the refactoring of the snapshot emission in preparation for event-sourced protocol logic. They also updated to GHC 9.2.7, which resulted in improved compiling times and slightly smaller Plutus scripts.
 
-  
 This week, the **Mithril** team released a new distribution [2329.0](https://github.com/input-output-hk/mithril/releases/tag/2329.0). The team launched [Mithril protocol’s mainnet beta](https://mithril.network/doc/dev-blog/2023/07/21/mainnet-beta-launch): the `release-mainnet` network is now open for signer registrations, and its genesis certificate has been created. The team is monitoring the network, and expects it to start producing certificates during the next Cardano epoch. They also kept working on the implementation of the [stress test tool](https://github.com/input-output-hk/mithril/issues/991) for benchmarking the aggregator. Additionally, the team kept working on the refactoring of the [serialization/deserialization](https://github.com/input-output-hk/mithril/issues/668) of the entities of the cryptographic library.
 
 Finally, they have worked on fixing installation bugs of the [binary artifacts](https://github.com/input-output-hk/mithril/issues/1073) produced in the CI, and on enhancing the [documentation](https://github.com/input-output-hk/mithril/issues/1080) for onboarding SPOs and setting up a Mithril signer.
@@ -89,7 +85,6 @@ Finally, to stay up to date with everything happening in Project Catalyst, join 
 
 This week, the **Education** team prepared the content for the in-person Haskell training course happening in early August in Nairobi, Kenya in conjunction with the [Africa Blockchain Center](https://theafricablockchaincenter.com/). They also published [lesson 15](https://www.youtube.com/watch?v=QkUCHFG1hK8&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=18) of the Haskell Bootcamp which focuses on error handling.
 
-  
 ![](https://ucarecdn.com/ebb1ddb5-31e5-4fb0-a431-90136858a233/)
 
 ### コアテクノロジー
@@ -108,7 +103,7 @@ Genesisの設計は進行中で、エポック構造にGenesisを発端とする
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは、DAppコネクター内でハードウェアウォレットの使用をサポートするための修正に取り組み、コードベースの複雑な部分をリファクタリングし、DAppとのインタラクションを簡素化するための半自動の担保設定を実行しました。テストの自動化を改良し、ローカル開発を改善し、Trezorサポートへの取り組みを続けました。 
 
@@ -167,4 +162,4 @@ Catalystの技術面は以下の通りです。
 
 ### 教育
 
-**教育**チームは、[アフリカブロックチェーンセンター](https://www.youtube.com/watch?v=QkUCHFG1hK8&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=18)と協力して、ケニアのナイロビで8月上旬に開催される対面式のHaskellトレーニングコースのコンテンツを準備しました。エラー処理に焦点を当てたHaskellブートキャンプの[レッスン15](https://www.youtube.com/watch?v=QkUCHFG1hK8&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=18)を公開しました。
+**教育**チームは、[アフリカブロックチェーンセンター](https://www.youtube.com/watch?v=QkUCHFG1hK8&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=18)と協力して、ケニアのナイロビで8月上旬に開催される対面式のHaskellトレーニングコースのコンテンツを準備しました。エラー処理に焦点を当てたHaskellブートキャンプの[レッスン15](https://www.youtube.com/watch?v=QkUCHFG1hK8&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=18)を公開しまし
