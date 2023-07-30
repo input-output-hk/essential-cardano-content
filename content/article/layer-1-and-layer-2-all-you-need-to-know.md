@@ -143,7 +143,7 @@ And two, by using sidechains, which will take some of the computational load off
 
 # Layer 2: addressing the scalability dilemma
 
-Broadly speaking, layer 2 solutions address the scalability issue inherent to layer 1 chains. Built on top of an existing blockchain (just as adding a new tier to a wedding cake), layer 2 protocols perform a great deal of processing work that would otherwise happen on the main chain. This increases the main chain's throughput. An added bonus is that, while the layer 2 solution does the hard work, the layer 1 retains its security.
+Broadly speaking, layer 2 solutions extend the capabilities of an an existing layer 1 chain, often to address scalability issues. By being built on top of an existing blockchain (just as adding a new tier to a wedding cake), layer 2 protocols perform a great deal of processing work that would otherwise happen on the main chain while inheriting the security of the blockchain it is built on top of.
 
 ## Layer 2: definition
 
@@ -153,7 +153,7 @@ An additional, off-chain protocol that works on top of the layer 1 blockchain. P
 
 **Sidechains**
 
-A sidechain, defined as a way to enable multiple blockchains to communicate with each other and have one react to events in the other, is a separate blockchain connected to a main blockchain (the 'main' chain, also known as parent chain), through a two-way mechanism (the 'bridge') that enables tokens and other digital assets from one chain to be used in another and results returned to the original chain. Assets can be moved between chains as needed. One single parent chain can have multiple interoperable sidechains connected to it, which may operate in completely different ways. EVM sidechains on Cardano include [dcSpark’s Milkomeda](https://www.milkomeda.com/) and [IOG’s EVM sidechain project.](https://iohk.io/en/blog/posts/2022/07/06/introducing-the-cardano-evm-sidechain/)
+Although sidechains are not layer 2s, they are defined as a way to enable multiple blockchains to communicate with each other and have one react to events in the other, is a separate blockchain connected to a main blockchain (the 'main' chain, also known as parent chain), through a two-way mechanism (the 'bridge') that enables tokens and other digital assets from one chain to be used in another and results returned to the original chain. Assets can be moved between chains as needed. One single parent chain can have multiple interoperable sidechains connected to it, which may operate in completely different ways. EVM sidechains on Cardano include [dcSpark’s Milkomeda](https://www.milkomeda.com/) and [IOG’s EVM sidechain project.](https://iohk.io/en/blog/posts/2022/07/06/introducing-the-cardano-evm-sidechain/)
 
 **Hydra**
 
@@ -164,6 +164,12 @@ Hydra is the layer 2 scalability solution for Cardano, which aims to increase tr
 Furthermore, Hydra Head introduces the concept of [isomorphic state channels](https://eprint.iacr.org/2020/299.pdf): that is, to reuse the same ledger representation to yield uniform, off-chain ledger siblings, which we call Heads (hence the Hydra name). Specifically for Cardano, this means that native assets, non-fungible tokens (NFTs), and Plutus scripting are available inside _each_ Hydra Head. Isomorphism permits a natural extension of the system, rather than a bolted-on one.
 
 Hydra Heads excel in achieving near-instant finality within a Head. The process of setting up and closing a Head can take a few blocks, but once established, transactions can flow rapidly across collaborative participants. Since Hydra Heads are isomorphic and also use the EUTXO model, they can process non-conflicting transactions concurrently, which – coupled with good networking – allows for optimal use of the available resources. 
+
+**Rollups and Validiums**
+
+Rollups work by converting L1 execution cost (running a smart contract on the L1) into L1 data cost (storing the data on the L1). Since data is much cheaper than execution, L2 systems typically achieves much lower transaction costs while still inheriting the decentralization and safety of the underlying L1 as all data required to reconstruct the L2 state is embedded into the underlying chain. Rollups are often paired with a system to cheaply prove the current L2 state to the underlying L1, typically with fraud proofs ("optimistic rollups") or validity proofs ("zk rollups"). However, this is not a requirement, as "sovereign rollups" often contain no such proof. An example of a framework for creating rollups in the Cardano ecosystem is [Paima Engine](https://paimastudios.com/), which settles to [dcSpark’s Milkomeda](https://www.milkomeda.com/), as well as is capable of monitoring certain properties such as NFT ownership changes in the Cardano L1.
+
+Sometimes, instead of storing the entire data on the L1, only hashes of the L2 data are stored on the L1. These are called "Validiums". They are much cheaper, but often require being paired with another storage solution to retrieve the full data (the "pre-image") of the hash (such a storage solution is often called a "data availability layer").
 
 # Other scalability solutions
 
@@ -183,7 +189,7 @@ Not so layer 1 and layer 2, if you use the layer cake visualization expressed he
 
 *   Layer 1 (the cake stand) = the robust and secure base network upon which rest layer 2 solutions
     
-*   Layer 2 (the cake tiers) = solutions built on top of the base to address inherent scalability issues
+*   Layer 2 (the cake tiers) = solutions built on top of the base to address inherent limitations
     
 
 This is the simplest way to visualize and understand what layer 1 and layer 2 are.
@@ -192,7 +198,7 @@ This is the simplest way to visualize and understand what layer 1 and layer 2 ar
 
 *   Cardano is the layer 1 (the base network)
     
-*   A layer 2 solution is a structure built on top of a layer 1 chain to address the latter's scalability and transaction speed issues. Bitcoin's Lightning Network is an example of a layer 2 solution, as is Hydra for Cardano 
+*   A layer 2 solution is a structure built on top of a layer 1 chain to address the latter's limitations such as transaction speed issues. Bitcoin's Lightning Network is an example of a layer 2 solution, as is Hydra for Cardano 
     
 *   There are two scaling options: vertical and horizontal
     
