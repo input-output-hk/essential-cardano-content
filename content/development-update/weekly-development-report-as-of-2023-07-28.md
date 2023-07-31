@@ -5,7 +5,7 @@ tags:
   - cardano
 url: ""
 image: https://ucarecdn.com/706290d5-27aa-4226-9b33-0b408c6a19ae/
-image_text: null
+image_text: ""
 ---
 
 ### CORE TECHNOLOGY
@@ -163,3 +163,81 @@ Catalystの技術面は以下の通りです。
 ### 教育
 
 **教育**チームは、[アフリカブロックチェーンセンター](https://www.youtube.com/watch?v=QkUCHFG1hK8&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=18)と協力して、ケニアのナイロビで8月上旬に開催される対面式のHaskellトレーニングコースのコンテンツを準備しました。エラー処理に焦点を当てたHaskellブートキャンプの[レッスン15](https://www.youtube.com/watch?v=QkUCHFG1hK8&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=18)を公開しまし
+
+![ES 2023-07-28](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/6/0/60ef69ecc5d1067819b075e621b04387446aebf9.png)
+
+# TECNOLOGÍA CENTRAL
+
+Esta semana, los equipos de tecnología básica publicaron la versión 8.1.2 de; componente node, lo cual aporta actualizaciones al intérprete Plutus.
+
+El equipo responsable del ledger se centró en la implementación de las funciones de Conway. Los miembros del equipo participaron en el taller CIP-1694 y tuvieron una reunión en persona en la que se discutieron los pasos a seguir para la implementación de la era Conway. También investigaron algunos problemas de validación de transacciones en el entorno de pruebas previas relevantes para la nueva versión del nodo, realizaron algunos trabajos para definir los tipos necesarios para Plutus v3 y avanzaron en los generadores basados en restricciones, que ahora generan transacciones válidas y el estado del ledger.
+
+El equipo de DB Sync confirmó que el módulo adaptador ofrecido por el equipo de consenso para la integración UTXO-HD no muestra ninguna degradación del rendimiento. Otros clientes interesados en integrarse con UTXO-HD, sin utilizar el almacenamiento en disco, pueden utilizar actualmente el módulo adaptador mencionado.
+
+Por otra parte, el equipo se ha centrado en completar el soporte de trazado para UTXO-HD en el nodo de Cardano. Están trabajando en la documentación de UTXO-HD, destinada tanto a los consumidores posteriores como al público en general, y en una mayor generalización de la implementación.
+
+Se está trabajando en el diseño de Génesis; el equipo decidió realizar un cambio motivado por Génesis en la estructura de épocas. Colaboraron con investigadores para elaborar una descripción autocontenida del modelo estadístico para las ventanas históricas de Génesis y las duraciones de los eclipses. Un par de pequeñas mejoras ya se han incorporado al cliente ChainSync.
+
+Por último, el equipo de consenso investigó un problema en la Sanchonet (la red de pruebas del ledger de Conway), que provocaba largas pausas en la sincronización. Identificaron un fallo en el ledger y colaboraron rápidamente con el equipo del ledger para solucionarlo.
+
+Como siempre, consulte este informe de desarrollo técnico para obtener más detalles de los distintos equipos.
+
+# WALLETS Y SERVICIOS
+
+El equipo de Lace trabajó en algunas correcciones para soportar el uso de las hardware wallet dentro del conector DApp, refactorizó partes complejas de la base de código y ejecutó una configuración colateral semiautomática para simplificar las interacciones DApp. También mejoraron la automatización de las pruebas, realizaron algunas mejoras en el desarrollo local y siguieron trabajando en la compatibilidad con Trezor.
+
+# SMART CONTRACTS
+
+El equipo de herramientas de Plutus trabajó en la mejora de los informes de errores para Marconi, en la corrección de errores al almacenar LedgerStates en disco para la marconi-sidechains, y en la finalización de la demostración del cardano-nodo-emulador.
+
+El equipo del núcleo de Plutus añadió nuevos componentes para Keccak-256, que mejorarán la compatibilidad con Ethereum. Además, incluyeron Black2b-224 como un nuevo built-in, permitiendo el cómputo en cadena de PubKeyHash dentro de Plutus. Estas incorporaciones estarán disponibles en Plutus v3.
+
+El equipo de Marlowe creó una imagen Docker para desarrolladores con Runtime y cuadernos Jupyter, trabajó en las pruebas previas al lanzamiento de Marlowe Runtime para mainnet, filtró los contratos por tokens de rol en Marlowe Run Lite y añadió soporte de pago por rol al cliente de runtime.
+
+# BASHO (ESCALADO)
+
+Esta semana, el equipo de Hydra actualizó la especificación para alinearla con los recientes cambios de protocolo fuera de la cadena y completó la refactorización de la emisión de instantáneas en preparación para la lógica de protocolo basada en eventos. También actualizaron a GHC 9.2.7, lo que se tradujo en una mejora de los tiempos de compilación y en unas secuencias de comandos Plutus ligeramente más pequeñas.
+
+El equipo de Mithril lanzó una nueva distribución 2329.0. La beta de la mainnet del protocolo Mithril: la red release-mainnet ya está abierta para registros de firmantes, y se ha creado su certificado de génesis. El equipo está supervisando la red, y espera que empiece a producir certificados durante la próxima época de Cardano. También siguieron trabajando en la implementación de la herramienta de prueba de estrés para la evaluación comparativa del agregador. Además, el equipo siguió trabajando en la refactorización de la serialización/deserialización de las entidades de la biblioteca criptográfica.
+
+Por último, han trabajado en la corrección de errores de instalación de los artefactos binarios producidos en el CI, y en la mejora de la documentación para la incorporación de SPO y la configuración de un firmante Mithril.
+
+# VOLTAIRE
+
+En Voltaire, se están revisando y considerando los comentarios recogidos en el taller CIP-1694. En breve se publicará una actualización. A medida que el CIP-1694 avance hacia su forma final, la comunidad tendrá la oportunidad de votar si este MVG es una forma aceptable de avanzar juntos. Esto representa una opción poderosa para el avance crucial de la gobernanza participativa dentro del ecosistema Cardano.
+
+Intersect se anunció a principios de este mes, como una institución clave para el ecosistema, que reúne a empresas, desarrolladores, individuos y otros participantes del ecosistema para dar forma e impulsar el futuro desarrollo de Cardano. Como tal, será un administrador de los procesos que rigen la hoja de ruta y el desarrollo continuos de la plataforma y el protocolo Cardano.
+
+Todos los participantes del ecosistema Cardano son bienvenidos a convertirse en miembros de Intersect. Formado por un grupo distribuido de participantes, entre los que se encuentran los principales expertos en Cardano y los actuales colaboradores del ecosistema, Intersect facilitará debates sanos y la toma de decisiones acertadas entre sus miembros, y la comunidad en general, para descubrir los puntos débiles, al tiempo que defiende los éxitos. Para unirse como miembro fundador, haga clic aquí.
+
+# CATALYST
+
+Esta semana en el Proyecto Catalyst, la fase de revisión comunitaria de nivel 0 y nivel 1 está en curso hasta el próximo jueves 3 de agosto. A continuación, comenzará el proceso de revisión comunitaria de nivel 2. El [reciente ayuntamiento](https://www.youtube.com/watch?v=IK43DGMF7pM) contó con una charla informal dirigida por Kriss Baird, jefe de producto del grupo Catalyst, y Nigel Hemsley, vicepresidente de gobernanza. La charla tenía como objetivo responder a las preguntas de la comunidad sobre la propuesta de operaciones del Fondo Catalyst presentada por el equipo de Catalyst. Asegúrese de registrar su asistencia al [próximo ayuntamiento.](http://bit.ly/catalyst-townhall)
+
+En el aspecto técnico de Catalyst, el equipo
+
+*   Creó las secuencias de comandos para el informe semanal de registros del servicio de instantáneas.
+    
+*   Trabajó en la corrección de errores del nuevo importador de instantáneas
+    
+*   Actualizada la página de wallets soportados con la última información de Yoroi, Daedalus, y Typhon
+    
+*   Investigado el problema de registro de la cartera Flint
+    
+*   Implementación de una solución alternativa para añadir nuevos campos de datos a la estación de servicios vit sin modificar el esquema de la base de datos (se proporcionan los enlaces pertinentes y la bandera de código abierto).
+    
+*   Refactorizado el calculador de revisiones de la comunidad y considerado su integración con el importador de Ideascale
+    
+*   Siguió trabajando en la automatización de pruebas para las API del servicio de datos cat
+    
+*   Comenzó a probar el módulo de moderación
+    
+*   Finalizó el análisis de las herramientas de prueba de carga existentes y se alineó en un enfoque para las pruebas en Fondo 10, cuyo inicio está previsto para el próximo simulacro
+    
+*   Continuó trabajando en la documentación comunitaria para las nuevas herramientas de auditoría
+    
+*   Por último, para estar al día de todo lo que ocurre en el Proyecto Catalyst, únase al canal de anuncios de [Telegram de Catalyst](https://t.me/cardanocatalyst).
+    
+
+EDUCACIÓN  
+El equipo de Educación preparó el contenido para el curso presencial de formación en Haskell que tendrá lugar a principios de agosto en Nairobi, Kenia, junto con el [Africa Blockchain Center](https://theafricablockchaincenter.com/). También publicaron [la lección 15 del Haskell Bootcamp](https://www.youtube.com/watch?v=QkUCHFG1hK8&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=18), que se centra en la gestión de errores.
