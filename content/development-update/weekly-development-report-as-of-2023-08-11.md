@@ -21,7 +21,7 @@ The **consensus** team focused on integrating the latest node version into the U
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team [released Lace v.1.4](https://www.lace.io/blog/lace-1-4-release?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=general) introducing new features, ‘ADA Handle’ support enhancements, and bug fixes. Users can now conveniently view personalized handles alongside regular ones under the receive tab and NFT viewing areas. The update also includes handle ownership monitoring, alerting users when a linked handle is transferred. Notable bug fixes involve the removal of unnecessary address validations, improved recipient address display in the ‘Send’ pop-up, and the resolution of a screen reappearance issue after transactions.
 
@@ -98,7 +98,6 @@ Finally, to stay up to date with everything happening in Project Catalyst, join 
 
 This week, some members of the **Education** team are on the ground in Kenya to deliver the Haskell Course. They are also preparing for the ITESO Cardano Days event at the end of the month.
 
-  
 ![](https://ucarecdn.com/b9b7f01a-82d8-4b3d-858c-16e75b85040d/)
 
 ### コアテクノロジー
@@ -113,7 +112,7 @@ This week, some members of the **Education** team are on the ground in Kenya to 
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは、新機能を搭載し、ADA Handleのサポートを強化し、バグを修正した[Lace v.1.4をリリース](https://www.lace.io/blog/lace-1-4-release?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=general)しました。ユーザーは、受信タブとNFT表示エリアで、通常のハンドルとパーソナライズされたハンドルを便利に表示できるようになりました。更新には、ハンドル所有権の監視も含まれており、リンクされたハンドルが転送されたときにユーザーに警告します。注目すべきバグ修正には、不要なアドレス検証の削除、送信ポップアップ画面の受信者アドレス表示の改善、トランザクション後の画面再表示の問題の解決が挙げられます。
 
@@ -189,3 +188,96 @@ Catalystの技術的側面は以下の通りです。
 ### 教育
 
 **教育**チームの一部のメンバーは、Haskellコースを提供するためにケニア入りしました。月末に開催されるITESO Cardano Daysイベントの準備も進めています。
+
+[![F3P-x3mXUAEA8q1](https://global.discourse-cdn.com/business4/uploads/cardano/optimized/3X/b/7/b7f61f0fbc084611191646a4d08757a2d885ed47_2_1000x598.jpeg)F3P-x3mXUAEA8q11920×1149 164 KB](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/b/7/b7f61f0fbc084611191646a4d08757a2d885ed47.jpeg)
+
+# TECNOLOGÍA CENTRAL
+
+Durante esta semana, los equipos de tecnología **central** han etiquetado y prelanzado la v.8.2.1-pre del componente nodo para su uso en SanchoNet, una nueva red de desarrollo creada para dar a conocer las características de gobernanza del CIP-1694 a la comunidad de Cardano - y para construir y probar juntos en un entorno controlado, a través de una serie continua de lanzamientos regulares. Consulte [notas de la versión](https://github.com/input-output-hk/cardano-node/releases/tag/8.2.1-pre) para más detalles.
+
+Asimismo, el equipo de **redes** ha iniciado la implementación de de los pares de arranque \[bootstrap peers\]. Estos pares están diseñados estratégicamente para garantizar la seguridad de los nodos que se unen a la red, aprovechando las ventajas de la red distribuida para los nodos que ya están sincronizados. Esto marca una fase intermedia antes de Génesis, que permite una mayor distribución del sistema. IOG, la Fundación Cardano y EMURGO supervisarán inicialmente el funcionamiento de los pares de arranque. El objetivo principal de estos peers son los nodos externos, como las wallets de nodo completo, que participan con frecuencia en la sincronización y requieren acceso a la blockchain honesta. Para más información sobre el plan de implementación, consulte [ouroboros-network pull request](https://github.com/input-output-hk/ouroboros-network/issues/4615).
+
+El equipo del **ledger** se centró principalmente en la implementación de la era Conway. Su principal objetivo consistió en solidificar los tipos relacionados con las transacciones y su representación binaria. El equipo también dedicó recursos a ayudar al equipo de Plutus a desbloquear su integración de Plutus v3. Para más detalles sobre el progreso de Conway, consulte la [actualización técnica](https://input-output-hk.github.io/cardano-updates/2023-08-04-ledger/#conway-progress).
+
+El equipo **consensus** se dedicó a integrar la última versión del nodo en la rama HD de UTXO. Los puntos de referencia ad hoc, que implicaban sincronizar un nodo desde cero, revelaron que el backend LMDB utiliza aproximadamente 8 GB de memoria. Además, el equipo publicó versiones actualizadas de `fs-sim`, `fs-api` y `strict-checked-vars`.
+
+Como siempre, consulte [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
+
+# WALLETS Y SERVICIOS
+
+El equipo de **Lace** [ha publicado la versión 1.4 de Lace](https://www.lace.io/blog/lace-1-4-release?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=general) que introduce nuevas funciones, mejoras en la compatibilidad con `ADA Handle` y correcciones de errores. Ahora los usuarios pueden ver de forma conveniente los handles personalizados junto a los normales en la pestaña de recepción y en las áreas de visualización de NFT. La actualización también incluye la supervisión de la propiedad de los handles, que avisa a los usuarios cuando se transfiere una handle vinculada. Las correcciones de errores más destacadas incluyen la eliminación de validaciones de dirección innecesarias, la mejora de la visualización de la dirección del destinatario en la ventana emergente “Enviar”, y la resolución de un problema de reaparición de la pantalla tras las transacciones.
+
+El equipo también ha trabajado en la simplificación de la configuración de collaterales, la habilitación de las transacciones del ledger en el conector DApp, y examinando la carga de trabajo para el CIP-95.
+
+# SMART CONTRACTS
+
+El equipo de herramientas de **Plutus** trabajó en añadir los requisitos finales de sidechains a Marconi, reescribiendo los indexadores de Marconi utilizando una nueva API simplificada, escribiendo pruebas de integración, y actualizando la versión `cardano-api` en `plutus-apps`.
+
+El equipo de Plutus Core se centró en introducir una nueva característica en el compilador Plutus Tx, la cual permitirá codificar tipos de datos personalizados como datos, ofreciendo una alternativa a los términos Scott o sumas de productos. Esta mejora permitirá reducir los costes de las secuencias de comandos Plutus generadas en diversos escenarios.
+
+El equipo de **Marlowe** mejoró [Marlowe Runtime para ejecutar scripts arbitrarios de Plutus](https://github.com/input-output-hk/marlowe-cardano/discussions/671) junto con Marlowe, añadió un [ejemplo de uso](https://github.com/input-output-hk/real-world-marlowe/pull/4) del oráculo de Marlowe, actualizó algunas instrucciones, implementó [scripts de sorteo](https://github.com/input-output-hk/real-world-marlowe/pull/6), e investigó la posible eliminación de [dependencias de plutus-apps](https://github.com/input-output-hk/plutus/blob/173dce5ee85cb8038563dd39299abb550ea13b88/plutus-benchmark/plutus-benchmark.cabal#L487-L558). También solucionaron algunos problemas, cambiaron el nombre de Marlowe Explorer a MarloweScan, y escribieron una [especificación](https://github.com/input-output-hk/marlowe-cardano/discussions/639) para ‘Open Roles’ en marlowe-cardano. 
+
+Por último, implementaron el [MVP](https://github.com/input-output-hk/marlowe-cardano/tree/PLT-6793-Open-Roles) de ‘Open Roles’.
+
+# BASHO (AMPLIACIÓN)
+
+Esta semana, el equipo **Hydra** actualizó la sección de casos de uso para subastas en la [rama inestable](https://hydra.family/head-protocol/unstable/use-cases/) del sitio web, mejorando la claridad en torno a las aplicaciones prácticas de Hydra. El equipo también implementó la persistencia basada en eventos, que es una mejora clave en la arquitectura del proyecto que mejora el rendimiento del procesamiento de transacciones fuera de la cadena.
+
+Por último, introdujeron un nuevo punto final “submit-transaction” en la API y participaron en las revisiones comunitarias de varias propuestas Catalyst relacionadas con Hydra y Mithril. Consulte el [informe de julio](https://hydra.family/head-protocol/monthly/2023-07/) para obtener más detalles.
+
+El equipo de **Mithril** publicó una nueva distribución `2331.1`, que incluye algunas optimizaciones y correcciones de errores: se ha reducido significativamente el [tiempo de arranque](https://github.com/input-output-hk/mithril/issues/1131) de un nodo Cardano restaurado a partir de una instantánea de Mithril, y se ha corregido un error que hacía que el agregador produjera [archivos dañados](https://github.com/input-output-hk/mithril/issues/1137). Siguieron trabajando en la implementación de la herramienta de prueba de estrés para [benchmarking](https://github.com/input-output-hk/mithril/issues/991) del agregador: se ha implementado la primera fase, así como una función de monitorización. Además, siguieron implementando la refactorización de la [serialización/deserialización](https://github.com/input-output-hk/mithril/issues/668) de las entidades de la biblioteca criptográfica, y trabajando en el [post despliegue](https://github.com/input-output-hk/mithril/issues/1091) de la infraestructura `mainnet`.
+
+Por último, completaron la reescritura y las mejoras del sitio web de documentación y siguieron trabajando en el [runbook](https://github.com/input-output-hk/mithril/pull/1086) para operar una red Mithril en producción.
+
+# VOLTAIRE
+
+Esta semana, en **Voltaire**, se ha publicado una actualización de los comentarios recogidos en los talleres [CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380). A medida que [CIP-1694](https://github.com/cardano-foundation/CIPs/pull/380) avance hacia su forma definitiva, la comunidad tendrá la oportunidad de votar si este MVG es una forma aceptable de avanzar juntos. Esto representa una poderosa opción para el avance crucial de la gobernanza participativa dentro del ecosistema Cardano.
+
+[Intersect](https://intersectmbo.org/) es una institución para el ecosistema que reúne a empresas, desarrolladores, particulares y otros participantes del ecosistema para dar forma e impulsar el futuro desarrollo de Cardano. Como tal, será un administrador de los procesos que rigen la hoja de ruta y el desarrollo continuo de la plataforma y el protocolo Cardano.
+
+Invitamos a todos los participantes del ecosistema Cardano a convertirse en miembros de Intersect. Formado por un grupo distribuido de participantes, entre los que se encuentran los principales expertos en Cardano y los actuales colaboradores del ecosistema, Intersect facilitará debates sanos y la toma de decisiones acertadas entre sus miembros, y la comunidad en general, para descubrir los puntos débiles, al tiempo que defiende los éxitos. Para unirse como miembro fundador, [haga clic aquí](http://intersectmbo.org/).
+
+# CATALYST
+
+**La revisión comunitaria de nivel 2 del Proyecto Catalyst** se inició el 10 de agosto. Durante el ayuntamiento de esta semana, Steven Johnson y Mike McNulty presentaron la red de pruebas Continuous. La red de pruebas Continuous es ahora accesible al público e iniciará una fase de pruebas públicas. El objetivo de esta fase es recoger los comentarios de los primeros probadores y mejorar gradualmente la red de pruebas con el tiempo. Puede volver a ver el segmento del ayuntamiento principal [aquí](https://www.youtube.com/watch?v=svZ0PmKG3Og). Asegúrese de registrar su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
+
+En el aspecto técnico de Catalyst, el equipo:
+
+*   Realizó otro simulacro de control de calidad para la aplicación de votación.
+    
+*   Ejecutó actualizaciones relacionadas con la eliminación de la configuración del desafío, la eliminación de las puntuaciones de la vista de la lista de propuestas, la aplicación de los límites de longitud del título de la propuesta, y la inclusión de una bandera de código abierto a los detalles de la propuesta.
+    
+*   Entabló discusiones sobre el acceso a los datos de revisión no moderados para el próximo ensayo general.
+    
+*   Alcanzó un consenso sobre un enfoque novedoso para compartir los detalles pertinentes de la experiencia dentro de la aplicación.
+    
+*   Finalizó el modelo de la etiqueta blanca para Voltaire y acordó un calendario revisado.
+    
+*   Identificó e inició los esfuerzos para abordar los problemas en la caja de herramientas de Catalyst para permitir el manejo adecuado de las direcciones de recompensas en el nuevo formato de registro.
+    
+*   Avanzó en la integración de los datos instantáneos en el marco de despliegue continuo.
+    
+*   Abordó con éxito los requisitos relacionados con IdeaScale stageID; identificó e inició tareas complementarias para finalizar la red de pruebas, que abarcan integraciones con EventDB.
+    
+*   Participó en la resolución de errores en el nuevo importador de IdeaScale.
+    
+*   Continuó las pruebas de la nueva calculadora de revisiones de la comunidad e incorporó nuevos campos en vit-ss.
+    
+*   Realizó pruebas manuales continuas del módulo de moderación.
+    
+*   Concluyó el desarrollo y la documentación de las nuevas herramientas de auditoría.
+    
+*   Finalizó con éxito el eventdb en testnet.
+    
+*   El centro de votación de gobernanza (GVC) en testnet está operativo y accesible.
+    
+*   Garantizó que las instantáneas y la herramienta de verificación funcionan en la testnet.
+    
+*   Continuado aumentando la supervisión y el registro diariamente.
+    
+
+Por último, para estar al día de todo lo que ocurre en el Proyecto Catalyst, únase al canal de anuncios de Telegram de Catalyst.
+
+# EDUCACIÓN
+
+Esta semana, algunos miembros del equipo de **Educación** se encuentran en Kenia para impartir el curso Haskell. También se están preparando para el evento ITESO Cardano Days a finales de mes.
