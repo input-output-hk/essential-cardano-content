@@ -177,7 +177,7 @@ Catalystの技術的側面は以下の通りです。
 
 # TECNOLOGÍA CENTRAL
 
-Esta semana, el equipo de redes activó varias trazas predeterminadas para los protocolos nodo-a-cliente y nodo-a-nodo, que se publicarán en la versión 8.2.0 del nodo. Además, se aseguraron de que la biblioteca cardano-client-0.1.0.x (utilizada por el componente db-sync) no use el protocolo experimental nodo-a-cliente, mientras que cardano-client-0.2.0.0 no se ve sujeta a él. Se han fusionado la función de producción dinámica de bloques en ouroboros-consensus, la cual permite el intercambio en caliente de nodos P2P. Esto es importante para el despliegue de nodos productores de bloques.
+Esta semana, el equipo de redes activó varios rastreos predeterminadas para los protocolos nodo-a-cliente y nodo-a-nodo, que se publicarán en la versión 8.2.0 del nodo. Además, se aseguraron que la biblioteca cardano-client-0.1.0.x (utilizada por el componente db-sync) no use el protocolo experimental nodo-a-cliente, mientras que cardano-client-0.2.0.0 no está afectado. Se ha fusionado la función de producción dinámica de bloques en ouroboros-consensus, la cual permite el intercambio en caliente de nodos P2P. Esto es importante para el despliegue de nodos productores de bloques.
 
 Por último, se continuó revisando la implementación de pares de [big ledger](https://github.com/input-output-hk/ouroboros-network/pull/4462) para la evasión de eclipse.
 
@@ -185,19 +185,19 @@ Consulte este [informe de desarrollo técnico](https://input-output-hk.github.io
 
 # WALLETS Y SERVICIOS
 
-El equipo de **Lace** continuó con la implementación de los análisis de Posthog y dedicó esfuerzos a añadir compatibilidad con Trezor e implementar la función de delegación múltiple. También realizaron pruebas de extremo a extremo para la compatibilidad con Edge, refactorizaron funciones de utilidad muy utilizadas y se centraron en la configuración de garantías.
+El equipo de **Lace** continuó con la implementación de los análisis de Posthog y dedicó esfuerzos a añadir compatibilidad con Trezor e implementar la función de delegación múltiple. También realizaron pruebas de extremo a extremo para la compatibilidad con Edge, refactorizaron funciones de utilidad muy utilizadas, y se centraron en la configuración de garantías.
 
 Por último, el equipo se preparó para la implementación del CIP-95.
 
-#CONTRATOS INTELIGENTES
+# CONTRATOS INTELIGENTES
 
-Durante esta semana, el equipo del núcleo de **Plutus** ha trabajado para añadir a Plutus v3 el soporte de gobernanza descentralizada, tal y como se define en el CIP-1694.
+Durante esta semana, el equipo principal de **Plutus** ha trabajado para añadir soporte de gobernanza descentralizada a Plutus v3, tal y como se define en el CIP-1694.
 
-El equipo de **Marlowe** arregló el [límite de ranuras](https://github.com/input-output-hk/marlowe-cardano/pull/668) en la base de datos, [optimizó](https://github.com/input-output-hk/marlowe-cardano/pull/663) el protocolo de búsqueda de cadena y añadió una [opción de ID de origen del contrato](https://github.com/input-output-hk/marlowe-cardano/pull/660) a POST /contratos.
+El equipo de **Marlowe** arregló el [límite de intervalos](https://github.com/input-output-hk/marlowe-cardano/pull/668) en la base de datos, [optimizó](https://github.com/input-output-hk/marlowe-cardano/pull/663) el protocolo de búsqueda de cadena, y añadió una [opción de ID de origen del contrato](https://github.com/input-output-hk/marlowe-cardano/pull/660) a POST /contratos.
 
 Por último, actualizaron el logotipo de Marlowe en Marlowe Playground y Marlowe Explorer y arreglaron [algunos errores](https://github.com/input-output-hk/marlowe-cardano/pull/664) en Marlowe Runtime.
 
-# BASHO (ESCALADA)
+# BASHO (AMPLIACIÓN)
 
 Esta semana, el equipo de **Hydra** celebró su reunión de revisión mensual de julio, que es un esfuerzo continuo para garantizar una comunicación transparente y la evaluación del proyecto. Lograron migrar la lógica central del nodo a una arquitectura basada en eventos, lo que permite la escritura incremental de eventos a la persistencia. Esto mejoró significativamente el rendimiento y la mantenibilidad del proyecto. Para más detalles, consulte [este informe](https://hydra.family/head-protocol/monthly/2023-07).
 
@@ -213,25 +213,25 @@ En **Voltaire** se están revisando y considerando los comentarios recogidos en 
 
 [Intersect](https://intersectmbo.org/) se anunció a principios de este mes, como una institución clave para el ecosistema que reúne a empresas, desarrolladores, individuos y otros participantes del ecosistema para dar forma e impulsar el futuro desarrollo de Cardano. Como tal, será un administrador de los procesos que rigen la hoja de ruta y el desarrollo continuos de la plataforma y el protocolo Cardano.
 
-Invitamos a todos los participantes del ecosistema Cardano a convertirse en miembros de Intersect. Formado por un grupo distribuido de participantes, entre los que se encuentran los principales expertos en Cardano y los actuales colaboradores del ecosistema, Intersect facilitará debates sanos y la toma de decisiones acertadas entre sus miembros, y la comunidad en general, para descubrir los puntos débiles, al tiempo que defiende los éxitos. Para unirse como miembro fundador, [haga clic aquí](http://intersectmbo.org/).
+Invitamos a todos los participantes del ecosistema Cardano a convertirse en miembros de Intersect. Formado por un grupo distribuido de participantes, entre los que se encuentran los principales expertos en Cardano y los actuales colaboradores del ecosistema, Intersect facilitará debates provechosos y la toma de decisiones acertadas entre sus miembros, y la comunidad en general, para descubrir los puntos débiles, al tiempo que promociona los éxitos. Para unirse como miembro fundador, [haga clic aquí](http://intersectmbo.org/).
 
-# CATALIZADOR
+# CATALYST
 
-**Las etapas de revisión comunitaria de nivel 0 y nivel 1 del Proyecto Catalyst** llegaron a su fin el 3 de agosto. La etapa de moderación comunitaria de nivel 2 comenzará el próximo jueves 10 de agosto. En el ayuntamiento de esta semana, la comunidad Catalyst de LATAM hizo una presentación sobre el próximo Ideafest, Lidonation habló sobre Catalyst Explorer y pudimos escuchar a otro proyecto cerrado con éxito, Grow East Asia. Puede volver a ver el segmento del ayuntamiento principal [aquí](https://www.youtube.com/watch?v=WMYGN1aOys8). Steven Johnson celebró un AMA para la propuesta Catalyst Voices durante el after-town hall.
+**Las etapas de revisión comunitaria de nivel 0 y nivel 1 del Proyecto Catalyst** llegaron a su fin el 3 de agosto. La etapa de moderación comunitaria de nivel 2 comenzará el próximo jueves 10 de agosto. En el town hall de esta semana, la comunidad Catalyst de LATAM hizo una presentación sobre el próximo Ideafest, Lidonation habló sobre Catalyst Explorer, y pudimos escuchar a otro proyecto cerrado con éxito, Grow East Asia. Puede volver a ver el segmento del town hall [aquí](https://www.youtube.com/watch?v=WMYGN1aOys8). Steven Johnson celebró un AMA para la propuesta Catalyst Voices durante el after-town hall.
 
 En el aspecto técnico de Catalyst, el equipo:
 
 *   Completó otro simulacro de control de calidad para la aplicación de votación
     
-*   Siguió perfeccionando los cambios en la alineación de procesos y probó con éxito el limitador de velocidad de la API
+*   Siguió perfeccionando los cambios en la alineación de procesos y probó con éxito el limitador de índice de la API
     
 *   Debatió cómo mejorar la gestión de errores en la aplicación
     
 *   Preparó los datos iniciales del Fondo 10 para el siguiente simulacro interno
     
-*   Desplegado el nuevo módulo de instantáneas en el entorno de desarrollo y estamos trabajando en correcciones del servicio continuo de instantáneas y del comprobador de elegibilidad de recompensas antes de lanzarlo a la comunidad.
+*   Desplegado el nuevo módulo de instantáneas en el entorno de desarrollo, y están trabajando en correcciones del servicio continuo de instantáneas y del comprobador de elegibilidad de recompensas antes de lanzarlo a la comunidad.
     
-*   Se han refactorizado las secuencias de comandos \[scripts\] que se utilizan para extraer las métricas de registro del servicio de instantáneas a fin de incluir marcas de tiempo para facilitar la elaboración de informes sobre los cambios a lo largo del tiempo.
+*   Se han refactorizado las secuencias de comandos \[scripts\], que se utilizan para extraer las métricas de registro del servicio de instantáneas a fin de incluir marcas de tiempo para facilitar la elaboración de informes sobre los cambios a lo largo del tiempo.
     
 *   Trabajó en la integración de los datos de las instantáneas en el marco de despliegue continuo
     
