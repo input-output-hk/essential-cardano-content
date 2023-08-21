@@ -165,47 +165,47 @@ Catalystの技術面は以下の通りです。
 
 # TECNOLOGÍA PRINCIPAL
 
-Durante esta semana, el equipo de **rendimiento y rastreo** ha puesto a punto el nodo de benchmarking v.8.2.0. Además, optimizaron el nuevo sistema de rastreo y actualmente trabajan en la documentación de la configuración de rastreo.
+Durante esta semana, el equipo de **rendimiento y rastreo** finalizó los puntos de referencia comparativos pare el nodo v.8.2.0. Además, optimizaron el nuevo sistema de rastreo, y están ahora trabajando en documentar la configuración de rastreo.
 
 Así mismo, mejoraron el backend Nomad para aprovechar la flexibilidad añadida del nuevo clúster de hardware.
 
-Consulte, [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
+Consulte [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
 
 # WALLETS Y SERVICIOS
 
-En esta semana, el equipo de **Lace** ha trabajado en el perfeccionamiento y la corrección de errores de la versión beta \[de la función de\] multidelegación. También siguieron trabajando en la biblioteca de serialización en cardano-js-sdk para sustituir a la biblioteca CML, el ajuste de garantías y la transición a la nueva y más rápida gestión de paquetes.
+Esta semana, el equipo de **Lace** ha trabajado en el perfeccionamiento y la corrección de errores de la versión beta \[de la función de\] multidelegación. También siguieron trabajando en la biblioteca de serialización en cardano-js-sdk para sustituir la biblioteca CML, el ajuste de garantías, y la transición a la nueva y más rápida gestión de paquetes.
 
 Además, arreglaron algunos problemas para permitir que el ledger y las DApps funcionen con Lace e hicieron actualizaciones de la interfaz de usuario para cambiar de red en la wallet.
 
 # SMART CONTRACTS
 
-El equipo de **Plutus** trabajó en la reescritura de los indexadores marconi utilizando una nueva API simplificada, escribiendo pruebas de integración para marconi-sidechain y actualizando la versión cardano-api en plutus-apps.
+El equipo de **Plutus** trabajó en la reescritura de los indexadores Marconi utilizando una nueva API simplificada, escribiendo pruebas de integración para marconi-sidechain, y actualizando la versión cardano-api en plutus-apps.
 
-En la presente semana, el equipo **Marlowe** ha añadido una [herramienta](https://github.com/input-output-hk/marlowe-ts-sdk/pull/11) para autogenerar documentación a partir del código TS en GitHub, ha ofrecido algún soporte ad hoc a CNC para ejecutar rifas utilizando Marlowe, ha ejecutado [comprobaciones de seguridad](https://github.com/input-output-hk/marlowe-cardano/pull/686) que informan de fallos en transacciones temporizadas, y [análisis de costes de ejecución fijos](https://github.com/input-output-hk/marlowe-cardano/pull/685) de contratos merkleizados. También trabajaron en añadir la versión inicial de [espacios de trabajo](https://github.com/input-output-hk/marlowe-ts-sdk/pull/10), documentaron un [requisito](https://github.com/input-output-hk/marlowe-cardano/pull/684) de codificación de URL para los identificadores de contrato, y [ejecutaron el](https://github.com/input-output-hk/marlowe-cardano/pull/682) \[contrato\] `Future`([PLT-6756: Running](https://github.com/input-output-hk/marlowe-cardano/pull/682) `Future` [contract on-chain by yveshauser · Pull Request #682 · input-output-hk/marlowe-cardano · GitHub](https://github.com/input-output-hk/marlowe-cardano/pull/682)) en cadena.
+Esta semana, el equipo **Marlowe** ha añadido una [herramienta](https://github.com/input-output-hk/marlowe-ts-sdk/pull/11) para autogenerar documentación a partir del código TS en GitHub, ha ofrecido soporte ad hoc a CNC para ejecutar rifas utilizando Marlowe, ha ejecutado [comprobaciones de seguridad](https://github.com/input-output-hk/marlowe-cardano/pull/686) que informan de fallos en transacciones temporizadas, y [análisis de costes de ejecución fijos](https://github.com/input-output-hk/marlowe-cardano/pull/685) de contratos merkleizados. También trabajaron en añadir la versión inicial de [espacios de trabajo](https://github.com/input-output-hk/marlowe-ts-sdk/pull/10), documentaron un [requisito](https://github.com/input-output-hk/marlowe-cardano/pull/684) de codificación de URL para los identificadores de contrato, y [ejecutaron el](https://github.com/input-output-hk/marlowe-cardano/pull/682) \[contrato\] `Future`([PLT-6756: Running](https://github.com/input-output-hk/marlowe-cardano/pull/682) `Future` [contract on-chain by yveshauser · Pull Request #682 · input-output-hk/marlowe-cardano · GitHub](https://github.com/input-output-hk/marlowe-cardano/pull/682)) en cadena.
 
 Asimismo, trabajaron en [modificar el flujo de trabajo de Docker Compose](https://github.com/input-output-hk/marlowe-starter-kit/pull/26).
 
-# BASHO (ESCALADO)
+# BASHO (AMPLIACTIÓN)
 
-El equipo **Hydra** actualizó el nodo Hydra para que fuera compatible con el nodo Cardano v.8.1.2, garantizando así la compatibilidad con la última versión de la mainnet. El equipo también participó en los debates sobre un esquema JSON “cardanónico” y lo añadió como submódulo al proyecto, lo que contribuye a mejorar el modelado de datos y la interoperabilidad.
+El equipo **Hydra** actualizó el nodo Hydra para que fuera compatible con el nodo Cardano v.8.1.2, garantizando así la compatibilidad con la última versión deL nodo desplegada en mainnet. El equipo también participó en los debates sobre un esquema JSON “cardanónico” y lo añadió como submódulo al proyecto, lo que contribuye a mejorar el modelado de datos y la interoperabilidad.
 
-En lo que respecta al compromiso con la comunidad, el equipo incorporó a un nuevo colaborador, participó en un espacio de RareEvo en Twitter y continuó con los preparativos de la clase magistral de Hydra.
+En lo que respecta al compromiso con la comunidad, el equipo incorporó a un nuevo colaborador, participó en un espacio de RareEvo en Twitter, y continuó con los preparativos de la clase magistral de Hydra.
 
-E equipo de **Mithril** creó una página [explorer](https://mithril.network/explorer/registrations?aggregator=https%3A%2F%2Faggregator.release-mainnet.api.mithril.network%2Faggregator&epoch=430) con los firmantes registrados para dar reconocimiento a los SPO que ya funcionan en mainnet. El equipo también se centró en la refactorización de errores para estandarizarlos con la regla de despliegue automático (ADR).
+El equipo de **Mithril** creó una página [explorer](https://mithril.network/explorer/registrations?aggregator=https%3A%2F%2Faggregator.release-mainnet.api.mithril.network%2Faggregator&epoch=430) con los firmantes registrados para dar reconocimiento a los SPO que ya funcionan en mainnet. El equipo también se centró en la refactorización de errores para estandarizarlos con la regla de despliegue automático (ADR).
 
 # VOLTAIRE
 
 En **Voltaire**, la gobernanza participativa avanza con el lanzamiento de la primera iteración de SanchoNet, un laboratorio técnico en evolución para las acciones de gobernanza on-chain del CIP-1694. Se trata de un nuevo terreno de pruebas para que la comunidad de Cardano experimente con el CIP-1694 en un entorno de red de pruebas controlado. Los nuevos roles de gobernanza, como los futuros representantes delegados (DReps), estarán a disposición de la comunidad para experimentar y opinar sobre el avance de la gobernanza participativa. Visite [SanchoNet](https://sancho.network/) para obtener más información y únase a la conversación en [Discord](https://sancho.network/get-started/discord).
 
-[Intersect](https://intersectmbo.org/) es una institución clave para el ecosistema que reúne a empresas, desarrolladores, particulares y otros participantes del ecosistema para dar forma e impulsar el futuro desarrollo de Cardano. Como tal, será un administrador de los procesos que rigen la hoja de ruta y el desarrollo continuos de la plataforma y el protocolo Cardano. [Únase hoy a Intersect](http://intersectmbo.org/) como miembro fundador para recibir un boletín exclusivo con un primer vistazo a las últimas novedades. Además, se ha lanzado un Boletín CIP-1694 en la pestaña de noticias de Intersect para ofrecer información técnica vital sobre todo lo relacionado con Voltaire.
+[Intersect](https://intersectmbo.org/) es una institución clave para el ecosistema que reúne a empresas, desarrolladores, particulares, y otros participantes del ecosistema para dar forma e impulsar el futuro desarrollo de Cardano. Como tal, será un administrador de los procesos que rigen la hoja de ruta y el desarrollo continuos de la plataforma y el protocolo Cardano. [Únase hoy a Intersect](http://intersectmbo.org/) como miembro fundador para recibir un boletín exclusivo con un primer vistazo a las últimas novedades. Además, se ha lanzado un Boletín CIP-1694 en la pestaña de noticias de Intersect para ofrecer información técnica vital sobre todo lo relacionado con Voltaire.
 
 # CATALYST
 
-En el **Proyecto Catalyst,** la fase de revisión comunitaria de nivel 2 llegó a su fin. Hubo una impresionante cantidad de participación en la etapa de revisión comunitaria con un total de 841 revisores participantes y 200 moderadores elegibles. Fue un placer contar con Steven Johnson y Mike McNulty en el after town hall de esta semana para debatir la propuesta “Catalyst Ecosystem Accelerator” junto a la comunidad. Durante el Ayuntamiento, el equipo mostró algunos vídeos de los proyectos cerrados recientemente, y puede encontrar la grabación [aquí](https://www.youtube.com/watch?v=oKjt63Kmehk). Si aún no lo ha hecho, asegúrese de registrar su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
+En el **Proyecto Catalyst,** la fase de revisión comunitaria de nivel 2 llegó a su fin. Hubo una impresionante cantidad de participación en la etapa de revisión comunitaria con un total de 841 revisores participantes y 200 moderadores elegibles. Fue un placer contar con Steven Johnson y Mike McNulty en el after town hall de esta semana para debatir la propuesta “Catalyst Ecosystem Accelerator” junto a la comunidad. Durante el town hall, el equipo mostró algunos vídeos de los proyectos completados recientemente, y puede encontrar la grabación [aquí](https://www.youtube.com/watch?v=oKjt63Kmehk). Si aún no lo ha hecho, asegúrese de registrar su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
 
 En el aspecto técnico de Catalyst, el equipo:
 
-*   Finalizó las pruebas de la aplicación móvil, incorporando ajustes para las operaciones del fondo, las revisiones de la comunidad y la experiencia del usuario en las votaciones.
+*   Finalizó las pruebas de la aplicación móvil, incorporando ajustes para las operaciones del fondo monetario, las revisiones de la comunidad, y la experiencia del usuario en las votaciones.
     
 *   Abordó los problemas con el importador de instantáneas en testnet.
     
@@ -236,4 +236,4 @@ Por último, para estar al día de todo lo que ocurre en el Proyecto Catalyst, �
 
 # EDUCACIÓN
 
-Esta semana, algunos miembros del equipo de **Educación** se encuentran sobre el terreno en Nairobi, Kenia, enseñando Haskell y smart contracts nativos en colaboración con el African Blockchain Center. El equipo también se está preparando para el evento Cardano Days en la [Universidad ITESO](https://www.iteso.mx/) en Guadalajara, México, la próxima semana.
+Esta semana, algunos miembros del equipo de **Educación** están en Nairobi, Kenia, enseñando Haskell y smart contracts nativos en colaboración con el African Blockchain Center. El equipo también se está preparando para el evento Cardano Days en la [Universidad ITESO](https://www.iteso.mx/) en Guadalajara, México, la próxima semana.
