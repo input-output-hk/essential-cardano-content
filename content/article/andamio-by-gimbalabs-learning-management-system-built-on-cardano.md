@@ -1,8 +1,8 @@
 ---
 title: "Andamio by Gimbalabs: Learning Management System built on Cardano"
 tags:
-  - "#cardano"
-  - "#ProjectCatalyst"
+  - Cardano
+  - Project Catalyst
   - Education
   - Gimbalabs
   - Andamio
@@ -11,7 +11,7 @@ image: https://ucarecdn.com/3d3972c7-746c-4aed-b528-9c6514c3b1f5/
 image_text: https://www.andamio.io/
 ---
 
-As the name suggests, Gimbalabs ([https://gimbalabs.com/](https://gimbalabs.com/gimbalgrid)) is essentially a lab. In the last three years, we have been experimenting with _Learning-By-Doing_ experiences and infrastructure that facilitates them.
+As the name suggests, [Gimbalabs](https://gimbalabs.com/gimbalgrid) is essentially a lab. In the last three years, we have been experimenting with _Learning-By-Doing_ experiences and infrastructure that facilitates them.
 
 ![https://gimbalabs.com/](https://ucarecdn.com/d2ee03dc-73c5-4d8b-bc05-e08c32ab67aa/)
 
@@ -63,7 +63,7 @@ Our main goal is to make it more and more user-friendly so that people will just
 
 > This all came out of our experience with Canvas. As a Lab, Zoom could be our next target.
 
-More about Andamio, here: [https://youtu.be/\_Rmuni3yvHI](https://youtu.be/_Rmuni3yvHI)
+More about Andamio, [here](https://youtu.be/_Rmuni3yvHI).
 
 Thank you.
 
