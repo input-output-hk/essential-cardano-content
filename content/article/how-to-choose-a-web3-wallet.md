@@ -129,12 +129,10 @@ Ultimately, it’s important to understand the pros and cons of each type of wal
 
 [Announced](https://iohk.io/en/blog/posts/2022/06/10/lace-speed-simplicity-and-seamless-flow/) in June 2022, Lace 1.0 is now available. The release follows a development process that involved research, code reviews, and usability tests via beta programs. Lace is easy to use and secure, having passed external audits performed by FYEO, a cybersecurity firm specializing in comprehensive blockchain security audits.
 
-Lace’s initial release supports the Cardano blockchain, and it is planned to become blockchain-agnostic, starting with EVM-compatible chains.
-
-Lace is a light wallet platform, meaning it doesn’t need to keep a copy of the whole blockchain to synchronize with the ledger. It is a non-custodial hot wallet, currently implemented as a Chrome browser extension. 
+Lace is a light wallet platform, meaning it doesn’t need to keep a copy of the whole blockchain to synchronize with the ledger. It is a non-custodial hot wallet, currently implemented for Chromium-based browsers. 
 
 More than storing keys, Lace has features that let you manage your digital assets, access NFTs, and easily stake your ada, all from one easy-to-use interface. Lace also supports [bundled transactions](https://www.lace.io/blog/why-transaction-bundles-are-amazing) – a bundle can have multiple assets and many addresses. It is processed as one transaction for one fee.
 
-Lace 1.0 is just the beginning of a journey towards an exciting Web3 future. IOG will continue to refine Lace with new features, and welcomes feedback from the community to help inform future product development. You can test drive it today, just visit [lace.io](https://www.lace.io/?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=content&utm_content=blog-post) and get it on your Chromium-based browser!
+Add [Lace](https://www.lace.io/?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=content&utm_content=blog-post) to your browser and enjoy the world of Web3. Additionally, the Lace team would love to hear feedback from its community. You can do so on their Discord channel [here](https://discord.com/invite/inputoutput).
 
 _Nothing in this article is intended to be professional advice, including, without limitation, financial, investment, legal, or tax advice. Input Output Global is not responsible for your use of or reliance on any information in this article._
