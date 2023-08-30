@@ -33,7 +33,7 @@ Hardware wallets can offer additional features, including biometrics, a physical
 
 When you create a wallet, you will often be given a recovery phrase of up to 24 seemingly random words. All your keys and wallet addresses can be rebuilt from that phrase. It needs to have the utmost security, just as if it were your private key. 
 
-## Custodial or non-custodial 
+## Custodial or non-custodial
 
 _Custodial_ wallets offer convenience because they are typically easier to set up and use than non-custodial wallets. However, with custodial wallets, the private key is held by a third party (the custodian), which means you do not have full control over your funds. Custodial wallets are typically offered by crypto exchanges.
 
