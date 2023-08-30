@@ -13,7 +13,6 @@ tags:
   - bitcoin
   - ada
   - Ethereum
-  - "101"
 url: ""
 image: https://ucarecdn.com/3e217671-6a56-4893-b9a8-5b6a7dbbeb81/
 image_text: How to choose a Web3 wallet
@@ -135,6 +134,6 @@ Lace is a light wallet platform, meaning it doesn’t need to keep a copy of the
 
 More than storing keys, Lace has features that let you manage your digital assets, access NFTs, and easily stake your ada, all from one easy-to-use interface. Lace also supports [bundled transactions](https://www.lace.io/blog/why-transaction-bundles-are-amazing) – a bundle can have multiple assets and many addresses. It is processed as one transaction for one fee.
 
-Lace 1.0 is just the beginning of a journey towards an exciting Web3 future. IOG will continue to refine Lace with new features, and welcomes feedback from the community to help inform future product development. You can test drive it today, just visit [lace.io](https://www.lace.io/?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=content&utm_content=blog-post) and get it on your Chromium-based browser!
+Lace 1.0 is just the beginning of a journey towards an exciting Web3 future. IOG will continue to refine Lace with new features, and welcomes feedback from the community to help inform future product development. You can test drive it today, just visit [lace.io](//lace.io) and get it on your Chromium-based browser!
 
 _Nothing in this article is intended to be professional advice, including, without limitation, financial, investment, legal, or tax advice. Input Output Global is not responsible for your use of or reliance on any information in this article._
