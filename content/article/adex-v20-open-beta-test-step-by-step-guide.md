@@ -1,7 +1,7 @@
 ---
-title: ADEX V2.0 Open Beta Test Step by Step Guide
+title: ADEX V2.0 Open Beta Test Step-by-Step Guide
 tags:
-  - "#cardano"
+  - Cardano
   - Emurgo
   - ASTARTER
   - ada
@@ -12,15 +12,13 @@ image: https://ucarecdn.com/e109125a-6413-4618-9c37-5d12dc436110/
 image_text: ""
 ---
 
-## **Intro**
-
 To facilitate your testing on ADEX V2.0 Open Beta, please review the following tutorial, and if you encounter any problems during the test, please feel free to join the [Telegram group](https://t.me/astartergroup) or [Discord channel](https://discord.gg/astarter) to contact our official admin.
 
-# **1\. Create a Cardano Wallet**
+# **Create a Cardano Wallet**
 
 First, you need to have installed a Cardano native wallet. Currently, we support Nami, Yoroi, NuFi, Eternl, Flint, Lace.
 
-## **\- Click to install wallet:**
+## **Click to install wallet**
 
 [Nami](https://namiwallet.io/) **|** [Yoroi](https://yoroi-wallet.com/) **|** [NuFi](https://nu.fi/) **|** [Eternl](https://eternl.io/app/mainnet/welcome) **|** [Flint](https://flint-wallet.com/) **|** [Lace](https://www.lace.io/)
 
@@ -30,13 +28,13 @@ Install Chrome, Brave, or Edge, add on for the Nami wallet. Then, create a new w
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*7p6fcgK2sToqMeK7QrwOhw.png)
 
-## **\- Switch the network to ‘Mainnet’ on your wallet**
+## **Switch the network to ‘Mainnet’ on your wallet**
 
 (On Nami wallet for example: click the profile–settings–Network–choose ‘Mainnet’)
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*lshe89HCk7rRk_ZVcPI3TA.png)
 
-# **2\. ADEX V2.0 Major Function Test**
+# **ADEX V2.0 Major Function Test**
 
 *   **Astarter DEX V2 Open Beta Link:** [https://dex.astarter.io/](https://dex.astarter.io/)
     
