@@ -28,9 +28,7 @@ As always, see [this technical development report](https://input-output-hk.githu
 
 ### WALLETS AND SERVICES 
 
-This week, the **Lace** team continued working on Posthog analytics implementation
-
-and basic support for Trezor model T devices. They also kept working on improving hardware wallet transactions with the DApp connector, setting up the collateral in a round-trip action, extending CIP-30 to clear the path for enabling additional extensions, and adding more automation tests.
+This week, the **Lace** team continued working on basic support for Trezor model T devices, improving hardware wallet transactions with the DApp connector, setting up the collateral in a round-trip action, extending CIP-30 to clear the path for enabling additional extensions, and adding more automation tests.
 
 Finally, they started working on extending the SDK for Voltaire functionality and implementing CIP-95 features. 
 
