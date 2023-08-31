@@ -1,9 +1,9 @@
 ---
 title: How to Participate in ADEX V2.0 Open Beta Campaign
 tags:
-  - "#cardano"
+  - Cardano
   - Emurgo
-  - "#EMURGOAcademy"
+  - EMURGO Academy
   - ada
   - DEX
   - DeFi
@@ -12,8 +12,6 @@ url: ""
 image: https://ucarecdn.com/243d7e5a-8267-45d2-a2af-506c7ded8566/
 image_text: ""
 ---
-
-Intro
 
 We are thrilled to announce that Astarter has reached an exciting milestone in our journey. Since the successful completion of the ADEX V1 Closed Beta, we have been diligently working to bring you the most advanced version yet — **ADEX V2.0!**
 
@@ -44,7 +42,7 @@ The tasks for both phases are largely similar:
 
 Only complete all tasks above can be considered as the qualified testers.
 
-# **Rewards Await!**
+**Rewards Await!**
 
 *   The prize pool for this event is valued at a **six-figure amount or more**!
     
