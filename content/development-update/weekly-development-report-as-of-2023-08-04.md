@@ -19,7 +19,7 @@ As always, see [this technical development report](https://input-output-hk.githu
 
 ### WALLETS AND SERVICES
 
-This week, the **Lace** team continued the implementation of Posthog analytics and dedicated efforts to add Trezor support and implement the multi-delegation feature. Additionally, they conducted end-to-end testing for Edge support, refactored heavily used utility functions, and focused on the setup of collateral. 
+This week, the **Lace** team dedicated efforts to adding Trezor support and implementing the multi-delegation feature. Additionally, they conducted end-to-end testing for Edge support, refactored heavily used utility functions, and focused on the setup of collateral. 
 
 Finally, the team prepared for the implementation of CIP-95. 
 
