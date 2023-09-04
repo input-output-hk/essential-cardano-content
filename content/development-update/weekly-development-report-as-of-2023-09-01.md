@@ -102,7 +102,7 @@ Plutus Coreチームはplutus-ledger-api-1.11.0.0を公開しました。これ�
 
 **Marlowe**チームは、CryptoPolワークショップのプレゼンテーションに取り組みました。[調査コントラクト](https://github.com/input-output-hk/marlowe-starter-kit/pull/34)の演習をレッスンフォルダーに追加したほか、ニーモニックフレーズから[鍵を生成するスクリプト](https://github.com/input-output-hk/marlowe-starter-kit/pull/30)、[トークンメタデータを取得するメカニズム](https://github.com/input-output-hk/marlowe-ts-sdk/pull/19)を追加しました。
 
-Demeter Runバージョン0.0.4で新しいスクリプトおよび環境との[セットアップの問題](https://github.com/input-output-hk/marlowe-starter-kit/commit/d9d9a4b)を解決しました。ロールトークンによる選択的支払い請求を、トランザクション制限を気にせず簡単に行えるようにする、引き出しウィジェットにも取り組みました。これは他のDApp内でも使用できるように設計されており、支払管理のための汎用的なツールになっています。
+Demeter Runバージョン0.0.4で新しいスクリプトおよび環境とのセットアップの問題を解決しました。引き出しウィジェットにも焦点を当てました。これは、Marloweコントラクトでロールへの支払いの引き出しを容易にしつつトランザクション制限にも対応できるよう設計したものです。このウィジェットは、他のDAppでの再利用を念頭に置き、DAppユーザーが便利に引き出しを行えるように、簡単でフレキシブルなソリューションを提供しています。
 
 marlowe-ts-sdkリポジトリに[README.mdのドラフト](https://github.com/input-output-hk/marlowe-ts-sdk/pull/18/commits/9b5ab855b22ab7c3cf5fdfa6103c5c5bbe849f8b)を追加し、引き出しウィジェットの仕様とユーザーフローを作成しました。 
 
