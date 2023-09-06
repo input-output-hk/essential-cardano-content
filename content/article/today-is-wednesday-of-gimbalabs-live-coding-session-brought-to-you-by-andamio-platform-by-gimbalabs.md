@@ -9,6 +9,8 @@ tags:
   - Education
   - Adoption
   - Building on Cardano
+  - "#ProjectCatalyst"
+  - fund10
 url: ""
 image: https://ucarecdn.com/1c2cbad4-97a7-4e62-a323-ea29500964b1/
 image_text: https://gimbalabs.com/
