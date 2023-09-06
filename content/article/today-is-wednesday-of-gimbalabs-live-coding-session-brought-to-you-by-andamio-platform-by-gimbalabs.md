@@ -6,9 +6,8 @@ tags:
   - andamio.io
   - gimbalabs
   - gimbalabs.com
-  - education
+  - Education
   - Adoption
-  - Development
   - Building on Cardano
 url: ""
 image: https://ucarecdn.com/1c2cbad4-97a7-4e62-a323-ea29500964b1/
