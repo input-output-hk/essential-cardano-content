@@ -4,6 +4,8 @@ tags:
   - "101"
   - ada
   - Cardano
+  - Smart Contracts
+  - Programming
 url: ""
 image: https://ucarecdn.com/c11efb45-dd05-4003-adac-8f4b8fd09998/
 image_text: ""
@@ -25,8 +27,7 @@ Plutus draws from modern language research to provide a safe, full-stack program
 
 Watch the latest [Plutus update](https://youtu.be/zUerLu_GOQs) video. 
 
-##   
-Marlowe
+## Marlowe
 
 Marlowe is a domain-specific language (DSL) for writing and executing financial contracts. 
 
