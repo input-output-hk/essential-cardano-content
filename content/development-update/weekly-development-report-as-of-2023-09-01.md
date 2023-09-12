@@ -17,7 +17,7 @@ Finally, the team worked on the Nomad backend, conducting and analyzing various 
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team continued working on Metadex integration, the filtering of user-owned and trading tokens, and some bug fixing. Additionally, the team worked on testing native token minting and the creation of custom liquidity pools for decentralized exchanges, created an end-to-end test for swapping native tokens, and performed some load/performance testing. 
 
@@ -88,7 +88,7 @@ Nomadバックエンドに取り組み、新しく導入されたハードウェ
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは、Metadexの統合、ユーザー所有トークンや取引トークンのフィルタリング、バグ修正に取り組みました。ネイティブトークンのミントのテストと分散型取引所用のカスタム流動性プールの作成に取り組み、ネイティブトークンをスワップするエンドツーエンドテストを作成し、負荷/パフォーマンステストを実行しました。 
 
@@ -126,7 +126,7 @@ Cardanoの将来の開発を形作り、推進するエコシステムのため�
 
 ### CATALYST
 
-**Project Catalyst**では**、** Catalystチームが火曜日に特別ゲストを招いてFund10 Twitterスペースを開催しました。参加したのはCharles Hoskinsonで、Catalystのロードマップと、Catalystが今後どのように進むのかについてチームと話し合いました。AMAの録音は[ここ](https://twitter.com/i/spaces/1mnxeRgElLqKX)でチェックできます。ウィークリータウンホールでは、Mike McNultyとSteven Johnsonが、Fund10の投票アプリの新機能をプレビューしました。録画はここで視聴できます。[今後のタウンホール](http://bit.ly/catalyst-townhall)への参加登録をお忘れなく。
+**Project Catalyst**では\*\*、\*\* Catalystチームが火曜日に特別ゲストを招いてFund10 Twitterスペースを開催しました。参加したのはCharles Hoskinsonで、Catalystのロードマップと、Catalystが今後どのように進むのかについてチームと話し合いました。AMAの録音は[ここ](https://twitter.com/i/spaces/1mnxeRgElLqKX)でチェックできます。ウィークリータウンホールでは、Mike McNultyとSteven Johnsonが、Fund10の投票アプリの新機能をプレビューしました。録画はここで視聴できます。[今後のタウンホール](http://bit.ly/catalyst-townhall)への参加登録をお忘れなく。
 
 Catalystの技術的更新情報は以下の通りです。
 
@@ -150,3 +150,64 @@ Catalystの技術的更新情報は以下の通りです。
 ### 教育
 
 **教育**チームはMarloweチームと協力してユーザーの学習過程を定義しました。今月後半にマルタで開催されるCardano Daysイベントを企画している他、Mastering Cardanoの作業も進めました。
+
+# TECNOLOGÍA CENTRAL
+
+El equipo de **redes** prosiguió su trabajo sobre [pares de arranque \[bootstrapping peers\]](https://github.com/input-output-hk/ouroboros-network/pull/4661), y refactorizó [conjuntos de pruebas de red](https://github.com/input-output-hk/ouroboros-network/issues/4653). Específicamente, las dividieron en `io-tests` \[pruebas de entrada/salida\], que deben ejecutarse de forma nativa en todas las plataformas (estas pruebas contienen principalmente pruebas que requieren llamadas al sistema de entrada/salida), y `sim-tests` \[pruebas de simulación\], que son independientes de la plataforma. Además, han comenzado a volver a basar las ramas de refactorización `typed-protocols`, han solucionado algunos problemas menores relacionados con la compartición entre iguales y han avanzado en la adopción de P2P. Para más detalles, consulte este [informe técnico](https://input-output-hk.github.io/cardano-updates/2023-09-01-network/).
+
+El equipo de **consenso** logró un hito importante al realizar con éxito los primeros puntos de referencia a nivel de sistema para la implementación de UTXO-HD. No obstante, encontraron una importante regresión en el rendimiento de la forja de bloques, que requiere atención antes del lanzamiento de UTXO-HD. Además, el equipo revisó la implementación de la lógica de procesamiento de consultas, necesaria para abordar la regresión de rendimiento identificada en el comando de consulta por dirección. Los resultados preliminares de rendimiento indican que el rendimiento de esta consulta se alinea con la versión de referencia de Cardano, pero necesita una mayor confirmación.
+
+Respecto al desarrollo de Genesis, el equipo presentó a los investigadores de IOG el argumento de seguridad consciente de la necesidad de rectificar en relación con las ventanas históricas propuestas de Cardano Genesis.
+
+Por último, el nodo Cardano [v.8.3.0-pre](https://github.com/input-output-hk/cardano-node/releases/tag/8.3.0-pre) se publicó el 5 de septiembre de 2023.
+
+Consulte, [este informe técnico de desarrollo](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los diferentes equipos.
+
+# WALLETS Y SERVICIOS
+
+Durante esta semana, el equipo de **Lace** ha seguido trabajando en la funcionalidad CIP-95 en SDK y Lace, estableciendo la “collateral”, centrándose en las mejoras y en la revisión de la funcionalidad de SanchoNet. También siguieron trabajando en la implementación de la compatibilidad con Trezor, finalizaron el flujo de “firma de transacciones” y trabajaron en la implementación de la conversión fiat y la renderización de transacciones pasadas en la pestaña “Actividad”.
+
+# CONTRATOS INTELIGENTES
+
+Asimismo, el equipo de herramientas de **Plutus** se ha centrado en reescribir los indexadores Marconi EpochState utilizando la nueva API simplificada, implementando y probando la nueva estrategia de reanudación de indexadores para esta API actualizada, y asegurando la compatibilidad actualizando la versión `cardano-api` en `plutus-apps`.
+
+Por su parte, el equipo de Plutus Core introdujo una importante mejora en Plutus Tx, al permitir el uso de la extensión del lenguaje Haskell `Strict` para que los enlaces y patrones de los programas Plutus Tx sean estrictos por defecto. Esta adaptación ofrece varias ventajas, que puede explorar más a fondo en la [documentación de Plutus Tx](https://plutus.readthedocs.io/en/latest/extensions-flags-pragmas.html).
+
+El equipo de **Marlowe** probó el widget de retirada en mainnet, creó una [lección del kit de iniciación](https://github.com/input-output-hk/marlowe-starter-kit/pull/39) sobre el uso del análisis de seguridad de las transacciones, añadió un [ejemplo](https://github.com/input-output-hk/marlowe-starter-kit/pull/40) de uso de Marlowe Runtime con una wallet CIP-30, y añadió [un conjunto de API REST](https://github.com/input-output-hk/marlowe-cardano/pull/697) para los pagos, con soporte para el filtrado por ID de contrato o por tokens de función. También se implementó el soporte para [retiradas](https://github.com/input-output-hk/marlowe-cardano/pull/694) por pagos en lugar de por token de rol, se revisó y probó la documentación del kit de inicio de Marlowe, y se añadió soporte a [ts-sdk](https://github.com/input-output-hk/marlowe-ts-sdk/pull/22) para conectar con el registro de metadatos de tokens.
+
+# BASHO (ESCALADO)
+
+El equipo de **Hydra** se dedicó esta semana principalmente a implementar los cambios necesarios en la capa de red y elaboró el borrador inicial del documento en el que se esbozan los ajustes de diseño necesarios. Adicionalmente, reforzaron la experiencia del usuario habilitando los commits mediante datums en línea, entablaron discusiones con los investigadores sobre la gobernanza fuera de la cadena e introdujeron mejoras en las pruebas internas del modelo.
+
+El equipo de **Mithril** publicó una nueva distribución `2335.0`, que incluye algunas optimizaciones y correcciones de errores. También completaron la implementación de la compresión [zstandard](https://github.com/input-output-hk/mithril/issues/876) para los archivos de instantáneas y siguieron trabajando para añadir la [versión del nodo Cardano](https://github.com/input-output-hk/mithril/issues/948) a los artefactos de instantáneas. El equipo también completó la implementación de la segunda fase de la [herramienta de prueba](https://github.com/input-output-hk/mithril/issues/1155) de estrés para la evaluación comparativa del agregador y comenzó a identificar los cuellos de botella relacionados. Avanzaron bastante en la implementación de la [protección de Cloudflare](https://github.com/input-output-hk/mithril/issues/986) para la infraestructura del agregador.
+
+También empezaron a trabajar en la [refactorización de errores](https://github.com/input-output-hk/mithril/issues/798) de los nodos y solucionaron un error relacionado con la [restauración de instantáneas](https://github.com/input-output-hk/mithril/issues/1160) en el cliente.
+
+# VOLTAIRE
+
+SanchoNet, un banco de pruebas técnico en evolución para las acciones de gobernanza en cadena del CIP-1694 completa la segunda fase de su hoja de ruta. Esta fase pone en línea el registro, la delegación y la votación del DRep en la red de pruebas de SanchoNet. El DRep desempeña un papel fundamental en la gobernanza dentro del CIP-1694. Visite [SanchoNet](https://sancho.network/) para obtener más información y únase a la conversación en [Discord](https://sancho.network/get-started/discord).
+
+[Intersect](https://intersectmbo.org/), una institución clave para que el ecosistema dé forma e impulse el futuro desarrollo de Cardano, celebró su primer ayuntamiento esta semana. Sus miembros recibieron las últimas novedades sobre los comités que se están formando y aprendieron más sobre SanchoNet con una demostración en directo. Para asistir al ayuntamiento del próximo mes y recibir antes que nadie las últimas noticias, [únase hoy a Intersect](http://intersectmbo.org/).
+
+# CATALYST
+
+En el Proyecto Catalyst, la atención se centra en la votación del Fondo 10, que superó los 155.000 votos individuales hasta este miércoles. Durante el ayuntamiento, el equipo profundizó en los resultados de la puesta en marcha del Módulo de Hitos de los proyectos financiados por el 9no Fondo y abordó nuevas actualizaciones relativas a la auditabilidad del sistema Catalyst. Si se lo perdió, puede ver la grabación del ayuntamiento de Catalyst [aquí](https://www.youtube.com/watch?v=zLbiBRZzxKc). Asegúrese de registrar su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
+
+En el aspecto técnico de Catalyst, la semana pasada, el equipo:
+
+*   Finalizó la instantánea y extrajo las métricas finales, revelando un aumento del +17% en la ada registrada en comparación con el Fondo9, con un total de 4.480 millones.
+    
+*   Preparó y completó todos los datos del Fondo 10
+    
+*   Implementó una versión inicial del importador de reseñas para descargar reseñas de IdeaScale
+    
+*   Abordó los problemas con el nuevo importador de IdeaScale posterior al Fondo 10 arreglando las pruebas
+    
+*   Mejoró el tablero de instrumentos, añadiendo nuevos eventos, editando eventos existentes y eliminando eventos.
+    
+
+Si desea mantenerse al día de todo lo que ocurre en el Proyecto Catalyst, considere la posibilidad de unirse al canal de anuncios [Catalyst Telegram](https://t.me/cardanocatalyst).
+
+# EDUCACIÓN
+
+El equipo de **Educación** ha lanzado su curso interno de formación sobre Plutus y ha trabajado en las inscripciones y el calendario para el evento _Cardano Days_ en la Universidad de Malta los días 19 y 20 de septiembre. Además, siguen impartiendo el curso de Haskell con el African Blockchain Center.
