@@ -53,7 +53,7 @@ You can also join the bi-weekly Sancho-Wallet technical discussion around [CIP-9
 
 ### CATALYST
 
-#### **Project Catalyst** Fund10 voting results were released. You can review the stats and download a full copy of the results [here](https://projectcatalyst.io/funds/10). For more information on validating the results, please check this [guide](https://docs.projectcatalyst.io/catalyst-basics/voting/how-to-audit-the-vote). Congratulations to the selected projects, which are now onboarding!  
+**Project Catalyst** Fund10 voting results were released. You can review the stats and download a full copy of the results [here](https://projectcatalyst.io/funds/10). For more information on validating the results, please check this [guide](https://docs.projectcatalyst.io/catalyst-basics/voting/how-to-audit-the-vote). Congratulations to the selected projects, which are now onboarding!  
   
 As always, a funding cycle consists of many hands within fund operations and especially within the community, and as such, we’d like to thank all those who took part for their hard work, dedication, and support. We’d also like to thank those who submitted proposals but did not secure funding this time. We encourage them to review the feedback received and try again in the next fund.  
   
@@ -73,10 +73,8 @@ On the technical side of Catalyst last week, the team:
     
 *   continued development on fragments generator to improve testing capabilities 
     
-
 *   set up new Jira and GitHub projects to execute funded F10 system improvement proposals – Voices/Hermes.
     
-
 Finally, to stay updated with everything happening in Project Catalyst, join the [Catalyst Telegram announcement channel](https://t.me/cardanocatalyst). 
 
 ### EDUCATION
@@ -129,7 +127,7 @@ CIP-1694のオンチェーンガバナンスアクションのための進化す
 
 ### CATALYST
 
-#### **Project Catalyst** Fund10の投票結果がリリースされました。[ここ](https://projectcatalyst.io/funds/10)で統計を確認し、結果のフルコピーをダウンロードできます。結果の検証の詳細については、この[ガイド](https://docs.projectcatalyst.io/catalyst-basics/voting/how-to-audit-the-vote)を参照してください。選ばれたプロジェクトは、現在オンボーディング中です。おめでとうございます。  
+**Project Catalyst** Fund10の投票結果がリリースされました。[ここ](https://projectcatalyst.io/funds/10)で統計を確認し、結果のフルコピーをダウンロードできます。結果の検証の詳細については、この[ガイド](https://docs.projectcatalyst.io/catalyst-basics/voting/how-to-audit-the-vote)を参照してください。選ばれたプロジェクトは、現在オンボーディング中です。おめでとうございます。  
   
 いつものように、ファンドサイクルは、ファンド運営陣、特にコミュニティ内の多くの人々によって構成されています。ご尽力、献身、ご支援いただいたすべての方々に感謝申し上げます。また、今回資金調達に至らなかった提案を提出いただいた方々にも感謝申し上げます。受け取ったフィードバックを確認し、次のファンドでぜひもう一度挑戦してみてください。  
   
@@ -149,7 +147,6 @@ Catalystの技術的更新情報は以下の通りです。
     
 *   テスト機能を向上させるためのフラグメントジェネレーターの開発を継続 
     
-
 *   資金提供されたF10システム改善提案Voices/Hermesを実行するために、新しいJiraプロジェクトとGitHubプロジェクトを立ち上げ
     
 
