@@ -15,7 +15,7 @@ This week in **core technology**, the performance and tracing team performed low
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team worked on the features related to choosing the delegation ratio between different stake pools, integrated portfolio persistence, and fixed several UI issues. They also worked on updating the DApp connector to allow it to be enabled with selected extensions such as those listed on [CIP-95](https://cips.cardano.org/cips/cip95/), worked on updating Lace to respond to these changes, and started adding more updates to the Lace UI to reflect the different types of governance actions.
 
@@ -53,10 +53,10 @@ You can also join the bi-weekly Sancho-Wallet technical discussion around [CIP-9
 
 ### CATALYST
 
-**Project Catalyst** Fund10 voting results were released. You can review the stats and download a full copy of the results [here](https://projectcatalyst.io/funds/10). For more information on validating the results, please check this [guide](https://docs.projectcatalyst.io/catalyst-basics/voting/how-to-audit-the-vote). Congratulations to the selected projects, which are now onboarding!  
-  
-As always, a funding cycle consists of many hands within fund operations and especially within the community, and as such, we’d like to thank all those who took part for their hard work, dedication, and support. We’d also like to thank those who submitted proposals but did not secure funding this time. We encourage them to review the feedback received and try again in the next fund.  
-  
+**Project Catalyst** Fund10 voting results were released. You can review the stats and download a full copy of the results [here](https://projectcatalyst.io/funds/10). For more information on validating the results, please check this [guide](https://docs.projectcatalyst.io/catalyst-basics/voting/how-to-audit-the-vote). Congratulations to the selected projects, which are now onboarding!
+
+As always, a funding cycle consists of many hands within fund operations and especially within the community, and as such, we’d like to thank all those who took part for their hard work, dedication, and support. We’d also like to thank those who submitted proposals but did not secure funding this time. We encourage them to review the feedback received and try again in the next fund.
+
 Over the next few weeks, Project Catalyst will enter a scheduled cooldown period before entering the next funding cycle. More updates will be shared soon, so stay tuned for news. If you haven’t already, register your wish to attend the next [town hall](http://bit.ly/catalyst-townhall).
 
 On the technical side of Catalyst last week, the team:
@@ -75,6 +75,7 @@ On the technical side of Catalyst last week, the team:
     
 *   set up new Jira and GitHub projects to execute funded F10 system improvement proposals – Voices/Hermes.
     
+
 Finally, to stay updated with everything happening in Project Catalyst, join the [Catalyst Telegram announcement channel](https://t.me/cardanocatalyst). 
 
 ### EDUCATION
@@ -89,7 +90,7 @@ This week, the **Education** team are reflecting on a very successful _Cardano D
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは、異なるステークプール間の委任比率の選択、統合されたポートフォリオの永続性に関する機能に取り組み、UIの不具合を修正しました。[CIP-95](https://cips.cardano.org/cips/cip95/)にリストされているような特定の拡張機能で有効にできるようにDAppコネクターを更新する作業、これらの変更に対応させるためのLaceの更新作業、さまざまなタイプのガバナンスアクションを反映させるためのLace UIの更新追加作業にも取り組みました。
 
@@ -119,7 +120,7 @@ Mithrilノードのエラーのリファクタリングと標準化を完了し�
 
 ### VOLTAIRE
 
-**Voltaire**に関しては、[Intersect](https://intersectmbo.org)がタウンホールを主催しましたが、技術的な問題によって予定していたGovToolのデモができなくなりました。Voltaire GovToolを使用すると、ADA保有者は、DRep（デリゲーター代表）になるための登録、他の代表への投票権の委任、ガバナンスアクションのレビューおよび投票を行うことができます。これらの機能は、Voltaire期におけるオンチェーンガバナンス参加に不可欠です。レビュー用に[デモの録画](https://www.loom.com/share/d92ff7ee4fb140f48643019e3dcdd5a9?sid=b991f8a6-450f-430f-8806-bcd48a716ffd)が公開されています。[今すぐIntersectに参加してください](http://intersectmbo.org/)。
+**Voltaire**に関しては、ADA保有者が、DRep（デリゲーター代表）になるための登録、他の代表への投票権の委任、ガバナンスアクションのレビューおよび投票を行うことができるようになるツール、Voltaire GovToolが公開されました。これらの機能は、Voltaire期におけるオンチェーンガバナンス参加に不可欠です。レビュー用に[デモの録画](https://www.loom.com/share/d92ff7ee4fb140f48643019e3dcdd5a9?sid=b991f8a6-450f-430f-8806-bcd48a716ffd)が公開されています。[今すぐIntersectに参加してください](http://intersectmbo.org/)。
 
 CIP-1694のオンチェーンガバナンスアクションのための進化する技術テストベッドSanchoNetは、開発フェーズ4を開始して、引き続き機能ロードマップを進捗させています。詳細は[SanchoNet](https://sancho.network)サイトで、また、[Discord](https://sancho.network/get-started/discord)の議論にも参加してください。 
 
@@ -127,11 +128,11 @@ CIP-1694のオンチェーンガバナンスアクションのための進化す
 
 ### CATALYST
 
-**Project Catalyst** Fund10の投票結果がリリースされました。[ここ](https://projectcatalyst.io/funds/10)で統計を確認し、結果のフルコピーをダウンロードできます。結果の検証の詳細については、この[ガイド](https://docs.projectcatalyst.io/catalyst-basics/voting/how-to-audit-the-vote)を参照してください。選ばれたプロジェクトは、現在オンボーディング中です。おめでとうございます。  
-  
-いつものように、ファンドサイクルは、ファンド運営陣、特にコミュニティ内の多くの人々によって構成されています。ご尽力、献身、ご支援いただいたすべての方々に感謝申し上げます。また、今回資金調達に至らなかった提案を提出いただいた方々にも感謝申し上げます。受け取ったフィードバックを確認し、次のファンドでぜひもう一度挑戦してみてください。  
-  
-今後数週間、Project Catalystは次の資金調達サイクルに入る前に、既定のクールダウン期間に入ります。その他の更新情報は近日中に公開される予定ですのでお見逃しなく。最新のCatalystタウンホールを見逃した方は、ここで確認できます。次回[タウンホール](http://bit.ly/catalyst-townhall)への参加が未登録の場合には、ぜひ登録してください。
+**Project Catalyst** Fund10の投票結果がリリースされました。[ここ](https://projectcatalyst.io/funds/10)で統計を確認し、結果のフルコピーをダウンロードできます。結果の検証の詳細については、この[ガイド](https://docs.projectcatalyst.io/catalyst-basics/voting/how-to-audit-the-vote)を参照してください。選ばれたプロジェクトは、現在オンボーディング中です。おめでとうございます。
+
+いつものように、ファンドサイクルは、ファンド運営陣、特にコミュニティ内の多くの人々によって構成されています。ご尽力、献身、ご支援いただいたすべての方々に感謝申し上げます。また、今回資金調達に至らなかった提案を提出いただいた方々にも感謝申し上げます。受け取ったフィードバックを確認し、次のファンドでぜひもう一度挑戦してみてください。
+
+今後数週間、Project Catalystは次の資金調達サイクルに入る前に、既定のクールダウン期間に入ります。その他の更新情報は近日中に公開される予定ですのでお見逃しなく。次回[タウンホール](http://bit.ly/catalyst-townhall)への参加が未登録の場合には、ぜひ登録してください。
 
 Catalystの技術的更新情報は以下の通りです。
 
