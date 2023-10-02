@@ -129,11 +129,11 @@ CIP-95に関する隔週のSancho-Walletテクニカルディスカッション�
 
 # TECNOLOGÍA CENTRAL
 
-Esta semana en tecnología central, el equipo de **networking** se centró en el desarrollo de [bootstrap peers](https://github.com/input-output-hk/ouroboros-network/issues/4675), [trabajó](https://github.com/input-output-hk/cardano-node/pull/5467) en la versión previa de node v.8.4.0, y publicó las nuevas versiones de ouroboros-consensus, cardano-api y cardano-cli. Se sigue trabajando en los protocolos tipados; el equipo actualizó el futuro typed-protocols-0.2.0.0 y su integración con cardano-node.
+Esta semana en tecnología central, el equipo de **networking** se centró en el desarrollo de [bootstrap peers](https://github.com/input-output-hk/ouroboros-network/issues/4675), [trabajó](https://github.com/input-output-hk/cardano-node/pull/5467) en la versión de pre-lanzamiento del nodo v.8.4.0, y publicó las nuevas versiones de ouroboros-consensus, cardano-api, y cardano-cli. Se sigue trabajando en los protocolos tipados; el equipo actualizó el futuro typed-protocols-0.2.0.0 y su integración con cardano-node.
 
-El equipo de **ledger** siguió centrado en la implementación de las características de la era Conway. Añadieron la capacidad de especificar el comité constitucional inicial, introdujeron la versión inicial de la constitución y alinearon la prioridad de las acciones de gobierno con la especificación. Además, se garantizó la correcta contabilización de los depósitos de los DReps.
+El equipo de **ledger** siguió centrado en la implementación de las características de la era Conway. Añadieron la capacidad de especificar el comité constitucional inicial, introdujeron la versión inicial de la constitución, y alinearon la prioridad de las acciones de gobierno con la especificación. Además, se garantizó la correcta contabilización de los depósitos de los DReps.
 
-Por último, se abordaron varios problemas de CDDL, se realizaron numerosas pruebas nuevas de serialización de ida y vuelta y se introdujeron mejoras significativas en el marco de pruebas basado en restricciones.
+Por último, se abordaron varios problemas de CDDL, se realizaron numerosas pruebas nuevas de serialización de ida y vuelta, y se introdujeron mejoras significativas en el marco de pruebas basado en restricciones.
 
 El equipo de **consenso** sugirió una solución para el problema de falsificación de la mempool observado en la rama UTXO-HD, pendiente de confirmación mediante pruebas comparativas a nivel de sistema. También siguieron desarrollando un mecanismo de reserva para mantener el rendimiento básico del nodo Cardano en caso de que el rendimiento de UTXO-HD no sea suficiente.
 
@@ -143,33 +143,33 @@ Como siempre, consulte [este informe de desarrollo técnico](https://input-outpu
 
 # WALLETS Y SERVICIOS
 
-El equipo de **Lace** avanzó en los ajustes de la cartera multidelegación, solucionó algunos problemas relacionados con la anulación del registro de un pool, trabajó en la cobertura de pruebas para la compatibilidad con Trezor y en el flujo de trabajo UI/UX para la DApp Store. Siguieron trabajando también en la funcionalidad CIP-95, centrándose en la firma de transacciones y en los datos.
+El equipo de **Lace** avanzó en los ajustes de la cartera de multidelegación, solucionó algunos problemas relacionados con la anulación del registro de un pool, trabajó en la cobertura de pruebas para la compatibilidad con Trezor, y en el flujo de trabajo UI/UX para la DApp Store. Siguieron trabajando también en la funcionalidad CIP-95, centrándose en la firma de transacciones y en los datos.
 
-#CONTRATOS INTELIGENTES
+# CONTRATOS INTELIGENTES
 
 El equipo de herramientas de **Plutus** siguió reescribiendo los indexadores Marconi EpochState con una API simplificada, exponiendo las consultas de la nueva API Marconi a través de un servidor JSON-RPC. También actualizaron el paquete cardano-emulator para utilizar cardano-api v.8.8 y trabajaron en la optimización de la nueva API Marconi para un mejor rendimiento.
 
 El equipo de Plutus Core añadió una nueva bandera de línea de comandos, `--builtin-semantics-variant` (o `-B`) a los binarios `uplc` y `plc`, que permite elegir qué variante de la semántica builtin utilizar al evaluar un programa. Puede ejecutar `uplc evaluate --help` para obtener más información.
 
-El equipo **Marlowe** ha trabajado en los ejemplos `ts-sdk`, ha creado una [DApp CIP-45](https://github.com/input-output-hk/marlowe-starter-kit/pull/41) para generar pagos, ha determinado la versión más compatible de cardano-api con cardano-node v. 8.1.2, ha resuelto algunos [problemas del validador Marlowe](https://github.com/input-output-hk/marlowe-cardano/pull/710) y ha ejecutado pruebas comparativas adicionales del validador. El equipo también añadió [soporte](https://github.com/input-output-hk/marlowe-cardano/pull/699) para la consulta de contratos por direcciones de las partes, eliminó [todas las dependencias](https://github.com/input-output-hk/marlowe-cardano/pull/702) del repositorio plutus-apps, y separó la dependencia directa del plugin PlutusTx en marlowe-cardano-packages. Además, [subieron](https://github.com/input-output-hk/marlowe-runner/commit/0d5cd9d) un contrato JSON para su creación en Marlowe Runner, ampliaron [las pruebas](https://github.com/input-output-hk/marlowe-cardano/pull/669) del consumo de recursos del validador de roles abierto, realizaron [simulaciones](https://github.com/input-output-hk/marlowe-cardano/pull/669) de pruebas DSL, integraron una [herramienta de análisis](https://github.com/input-output-hk/marlowe-cardano/pull/669) en Marlowe CLI DSL y [filtraron los contratos](https://github.com/input-output-hk/marlowe-runner/pull/8) por tokens de dirección/rol.
+El equipo **Marlowe** ha trabajado en los ejemplos `ts-sdk`, ha creado una [DApp CIP-45](https://github.com/input-output-hk/marlowe-starter-kit/pull/41) para generar pagos, ha determinado la versión más compatible de cardano-api con cardano-node v.8.1.2, ha resuelto algunos [problemas del validador Marlowe](https://github.com/input-output-hk/marlowe-cardano/pull/710), y ha ejecutado pruebas comparativas adicionales del validador. El equipo también añadió [soporte](https://github.com/input-output-hk/marlowe-cardano/pull/699) para la consulta de contratos por direcciones de las partes, eliminó [todas las dependencias](https://github.com/input-output-hk/marlowe-cardano/pull/702) del repositorio plutus-apps, y separó la dependencia directa del plugin PlutusTx en marlowe-cardano-packages. Además, [subieron](https://github.com/input-output-hk/marlowe-runner/commit/0d5cd9d) un contrato JSON para su creación en Marlowe Runner, ampliaron [las pruebas](https://github.com/input-output-hk/marlowe-cardano/pull/669) del consumo de recursos del validador de roles abierto, realizaron [simulaciones](https://github.com/input-output-hk/marlowe-cardano/pull/669) de pruebas DSL, integraron una [herramienta de análisis](https://github.com/input-output-hk/marlowe-cardano/pull/669) en Marlowe CLI DSL, y [filtraron los contratos](https://github.com/input-output-hk/marlowe-runner/pull/8) por tokens de dirección/rol.
 
 Finalmente, crearon distintos repositorios para las bibliotecas extraídas y generaron una [guía de sintaxis del lenguaje Marlowe](https://github.com/input-output-hk/marlowe/pull/195).
 
 \---
 
-# BASHO ( ESCALADO)
+# BASHO (AMPLIACIÓN)
 
-La mayoría de los equipos **Hydra** y **Mithril** participaron en un taller de escalado de Cardano en Nantes, Francia. Durante este evento, identificaron sinergias, pasaron tiempo codificando juntos y discutieron los logros pasados y los planes futuros de ambos proyectos.
+La mayoría de los equipos **Hydra** y **Mithril** participaron en un taller de ampliación de Cardano en Nantes, Francia. Durante este evento, identificaron sinergias, pasaron tiempo codificando juntos, y discutieron los logros pasados y los planes futuros de ambos proyectos.
 
 Además, el equipo **Hydra** [resolvió un error](https://github.com/input-output-hk/hydra/pull/1053) que provocaba el bloqueo del nodo hydra al consultar la capa 1, trabajó en una nueva [proof-of-work](https://github.com/input-output-hk/hydra/pull/1074) para la resiliencia de la red y aceptó una nueva ADR relacionada con la observación de transacciones sin estado.
 
-Por su parte, el equipo **Mithril** completó la refactorización de los flujos de trabajo de despliegue de terraformación en acciones GitHub, y la implementación de [parámetros de compresión de instantáneas](https://github.com/input-output-hk/mithril/issues/1200) en los despliegues. Siguieron trabajando en la refactorización y estandarización de los errores en los nodos Mithril. El equipo también completó la implementación de [protección Cloudflare](https://github.com/input-output-hk/mithril/issues/986) para la infraestructura del agregador y comenzó a trabajar en su despliegue y activación en las redes Mithril. Además, trabajaron en el [registro de estadísticas de descarga](https://github.com/input-output-hk/mithril/issues/1127) en el agregador, que se utilizará para elaborar informes de uso.
+Por su parte, el equipo **Mithril** completó la refactorización de los flujos de trabajo de despliegue de terraformación en acciones GitHub, y la implementación de [parámetros de compresión de instantáneas](https://github.com/input-output-hk/mithril/issues/1200) en los despliegues. Siguieron trabajando en la refactorización y estandarización de los errores en los nodos Mithril. El equipo también completó la implementación de [protección Cloudflare](https://github.com/input-output-hk/mithril/issues/986) para la infraestructura del agregador, y comenzó a trabajar en su despliegue y activación en las redes Mithril. Además, trabajaron en el [registro de estadísticas de descarga](https://github.com/input-output-hk/mithril/issues/1127) en el agregador, que se utilizará para elaborar informes de uso.
 
-Por último, el equipo avanzó trabajando en el cuello de botella de rendimiento del agregador que se produce con un alto tráfico de clientes y comenzó a crear una [nueva distribución](https://github.com/input-output-hk/mithril/issues/1219).
+Por último, el equipo avanzó trabajando en los obstáculos al rendimiento del agregador que se produce con un alto tráfico de clientes y comenzó a crear una [nueva distribución](https://github.com/input-output-hk/mithril/issues/1219).
 
 # VOLTAIRE
 
-Esta semana, en **Voltaire**, [Intersect](https://intersectmbo.org/) organizó un ayuntamiento, que se enfrentó a algunos problemas técnicos que impidieron realizar la demostración prevista de GovTool. El GovTool de Voltaire permite a los titulares de ada registrarse para convertirse en representantes delegados (DRep), delegar el poder de voto en otros DRep y revisar y votar las acciones de gobernanza. Estas capacidades son una parte fundamental de la participación en la gobernanza de la cadena en la era de Voltaire. [Se ha compartido una demostración grabada](https://www.loom.com/share/d92ff7ee4fb140f48643019e3dcdd5a9?sid=b991f8a6-450f-430f-8806-bcd48a716ffd) para su revisión. [Únase a Intersect hoy mismo](http://intersectmbo.org/).
+Esta semana, en **Voltaire**, [Intersect](https://intersectmbo.org/) organizó una reunión general, la cual experimentó algunos problemas técnicos que impidieron realizar la demostración prevista de GovTool. El GovTool de Voltaire permite a los titulares de ada registrarse para convertirse en representantes delegados (DRep), delegar el poder de voto en otros DRep. y revisar y votar las acciones de gobernanza. Estas capacidades son una parte fundamental de la participación en la gobernanza de la cadena en la era de Voltaire. [Se ha compartido una demostración grabada](https://www.loom.com/share/d92ff7ee4fb140f48643019e3dcdd5a9?sid=b991f8a6-450f-430f-8806-bcd48a716ffd) para su revisión. [Únase a Intersect hoy mismo](http://intersectmbo.org/).
 
 SanchoNet, un banco de pruebas técnicas en evolución para las acciones de gobernanza en la cadena del CIP-1694, continúa avanzando en la hoja de ruta de las características al iniciar el desarrollo de la fase 4. Visite [SanchoNet](https://sancho.network/) para obtener más información y únase a la conversación en [Discord](https://sancho.network/get-started/discord).
 
@@ -179,10 +179,10 @@ También puede sumarse a la discusión técnica quincenal de Sancho-Wallet en to
 
 El jueves se anunciaron los resultados de la votación del **Proyecto Catalyst** Fondo 10. Durante el ayuntamiento de esta semana, el equipo presentó algunos de los vídeos recientes de los proyectos cerrados.
 
-Puede volver a ver el segmento del ayuntamiento principal [aquí](https://www.youtube.com/watch?v=dvCute40GNw&t=2s). Si aún no lo ha hecho, asegúrese de registrar su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
+Puede volver a ver el segmento de la reunión general [aquí](https://www.youtube.com/watch?v=dvCute40GNw&t=2s). Si aún no lo ha hecho, asegúrese de registrar su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
 
 Por último, para mantenerse al día de todo lo que ocurre en el Proyecto Catalyst, marque los números anteriores del boletín semanal [aquí](https://us20.campaign-archive.com/home/?u=26d3b656ecc43aa6f3063eaed&id=2451b43b07).
 
 # EDUCACIÓN
 
-Esta semana, el equipo de **Educación** se encuentra en Malta impartiendo el evento _Cardano Days_ en el Centro de Tecnologías de Ledger Distribuido de la [Universidad de Malta](https://www.um.edu.mt/dlt/). El Dr.Lars Brünjes y el equipo también están invitados a hablar en el evento [Crypto Hub Malta](https://cryptohubmalta.org/).
+Esta semana, el equipo de **Educación** se encuentra en Malta impartiendo el evento _Cardano Days_ en el Centro de Tecnologías de Ledger Distribuido de la [Universidad de Malta](https://www.um.edu.mt/dlt/). El Dr. Lars Brünjes y el equipo también están invitados a hablar en el evento [Crypto Hub Malta](https://cryptohubmalta.org/).
