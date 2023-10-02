@@ -135,17 +135,17 @@ Catalystの技術的更新情報は以下の通りです。
 
 # TECNOLOGÍA PRINCIPAL
 
-Durante esta semana en tecnología principal, el **equipo de rendimiento y rastreo** ha realizado y analizado pruebas comparativas de características para UTXO-HD y la pila P2P actual, ha realizado varias mejoras en la canalización de análisis y ha implementado comprobaciones de coherencia del espacio de nombres de rastreo junto con una configuración curada para las pruebas comparativas.
+Durante esta semana en tecnología principal, el **equipo de rendimiento y rastreo** ha realizado y analizado pruebas comparativas de características para UTXO-HD y la pila P2P actual, ha realizado varias mejoras en los análisis en desarollo y ha implementado comprobaciones de coherencia del espacio de nombres de rastreo junto con una configuración curada para las pruebas comparativas.
 
-Se está trabajando en mejoras de nodos, redes y consenso.
+Se está trabajando en mejoras de nodos, redes, y consenso.
 
 Como siempre, consulte [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
 
 # WALLETS Y SERVICIOS
 
-El equipo de **Lace** ha lanzado la versión 1.5, que introduce una función de delegación múltiple que permite a los usuarios delegar ada a un máximo de cinco stake pools. Esta versión también añade más compatibilidad con Ledger para que las hardware wallet puedan interactuar con DApps y smart contracts. Consulte este [artículo del blog](https://www.lace.io/blog/lace-1-5-release?utm_source=twitter&utm_medium=social&utm_campaign=new%20release&utm_content=blog-post) para obtener más detalles.
+El equipo de **Lace** ha lanzado la versión 1.5, que introduce una función de delegación múltiple permitiendo a los usuarios delegar ada a un máximo de cinco stake pools. Esta versión también añade más compatibilidad con Ledger para que los hardware wallets puedan interactuar con DApps y contratos inteligentes. Consulte este [artículo](https://www.lace.io/blog/lace-1-5-release?utm_source=twitter&utm_medium=social&utm_campaign=new%20release&utm_content=blog-post) para obtener más detalles.
 
-Se está trabajando en la cobertura de pruebas para el soporte de Trezor en Lace, la configuración de _collateral_, la implementación de las características CIP-95 y las mejoras de la versión.
+Se está trabajando en la cobertura de pruebas para el soporte de Trezor en Lace, la configuración de _collateral_, la implementación de las características CIP-95, y las mejoras de la versión lanzada.
 
 # CONTRATOS INTELIGENTES
 
@@ -155,39 +155,38 @@ El equipo de Plutus Core fusionó un cambio que hace mucho más fácil utilizar 
 
 El equipo **Marlowe** trabajó en la configuración de [pruebas unitarias](https://github.com/input-output-hk/marlowe-ts-sdk/pull/24/files) para el paquete wallet en `ts-sdk`, añadió un método para instalar [extensiones de wallet](https://github.com/input-output-hk/marlowe-ts-sdk/commit/516dc9d) a `ts-sdk`, y también mejoró el [formateo de pre-commits](https://github.com/input-output-hk/marlowe-ts-sdk/commit/66fe2ba). Además, trabajaron en la [impresión de la lista de comandos](https://github.com/input-output-hk/marlowe-cardano/pull/700) cuando se invoca la CLI de Marlowe sin un comando, mejoraron la [notificación de errores de la API REST](https://github.com/input-output-hk/marlowe-cardano/pull/698), y añadieron el [listado](https://github.com/input-output-hk/marlowe-ts-sdk/pull/25/commits/516dc9d8d5183d1ce3c79ea7be10ccd72be5ad38#diff-5b5366ab42f1604dd09519400d2f0c6e3c77519acd8961abcb7e875b223f8d95R47-R57) dinámico de las extensiones de wallet instaladas.
 
-# BASHO (ESCALADO)
+# BASHO (AMPLIACIÓN)
 
-El equipo **Hydra** mejoró el proceso de confirmación con soporte para [datos en línea](https://github.com/input-output-hk/hydra/issues/1043) y simplificó la capa de cadena refactorizando la [persistencia del estado de la cadena](https://github.com/input-output-hk/hydra/pull/1049). También actualizaron el [tutorial de Hydra](https://github.com/input-output-hk/hydra/issues/997) añadiendo la comprobación del flujo de trabajo de CI para mantenerlo al día. Se entabló conversaciones con investigadores sobre commits y decommits incrementales, y redactó un registro de decisiones arquitectónicas para una API basada en recursos. Por último, exploraron soluciones más sencillas para la próxima función de resistencia de red.
+El equipo **Hydra** mejoró el proceso de confirmación con soporte para [inline datums](https://github.com/input-output-hk/hydra/issues/1043) y simplificó la capa de cadena refactorizando la [persistencia del estado de la cadena](https://github.com/input-output-hk/hydra/pull/1049). También actualizaron el [tutorial de Hydra](https://github.com/input-output-hk/hydra/issues/997) añadiendo la comprobación del flujo de trabajo de CI para mantenerlo al día. Se entablaron conversaciones con investigadores sobre commits y decommits incrementales, y se redactó un registro de decisiones arquitectónicas para una API basada en recursos. Por último, exploraron soluciones más sencillas para la próxima función de resistencia de red.
 
 Esta semana, el equipo **Mithril** siguió trabajando en la [refactorización y normalización](https://github.com/input-output-hk/mithril/issues/798) de los errores en los nodos Mithril. También trabajaron en una refactorización de los flujos de trabajo de los despliegues de terraformación en las acciones de GitHub, y en la implementación de parámetros de compresión de instantáneas en [despliegues](https://github.com/input-output-hk/mithril/issues/1200). Además, siguieron trabajando en la implementación de la protección de [Cloudflare](https://github.com/input-output-hk/mithril/issues/1207) para la infraestructura del agregador.
 
-Se empezaron a identificar e investigar los [cuellos de botella de rendimiento](https://github.com/input-output-hk/mithril/issues/1207) del agregador.
+Se empezaron a identificar e investigar los [obstáculos al rendimiento](https://github.com/input-output-hk/mithril/issues/1207) del agregador.
 
 # VOLTAIRE
 
-En **Voltaire**, [Intersect](https://intersectmbo.org/) es una institución clave para que el ecosistema dé forma e impulse el futuro desarrollo de Cardano. Los miembros reciben las últimas novedades en el ayuntamiento mensual y un boletín quincenal. [Únase hoy a Intersect](http://intersectmbo.org/) para asistir al próximo ayuntamiento la semana que viene.
+En **Voltaire**, [Intersect](https://intersectmbo.org/) es una institución clave para que el ecosistema dé forma e impulse el futuro desarrollo de Cardano. Los miembros reciben las últimas novedades en el ayuntamiento mensual y un boletín quincenal. [Únase hoy a Intersect](http://intersectmbo.org/) para asistir a la próxima reunión general la semana que viene.
 
 SanchoNet, un banco de pruebas técnico en evolución para las acciones de gobierno en la cadena del CIP-1694, sigue avanzando en la hoja de ruta de las características. Blockfrost, un proveedor de API de Cardano, ofrece ahora también acceso a SanchoNet. Es un momento emocionante para probar las acciones de gobernanza y los roles dentro del marco MVG en CIP-1694. Visite [SanchoNet](https://sancho.network/) para obtener más información y únase a la conversación en [Discord](https://sancho.network/get-started/discord).
 
 # CATALYST
 
-En el **Proyecto Catalyst,** la votación del Fondo 10 llegó a su fin. El equipo de Catalyst participó en un espacio en Twitter junto con los demás proponentes de operaciones del fondo para debatir sus propuestas. Puede escuchar la grabación [aquí](https://twitter.com/unpopularel/status/1701612053012922497?s=46&t=dwwd3s971mANXwcNrW)). Durante el ayuntamiento de esta semana, otros grandes proyectos presentaron el trabajo que han realizado hasta el momento y el equipo ofreció una actualización a la comunidad sobre el estado de las votaciones. En caso de que se lo haya perdido, puede consultar la grabación del ayuntamiento de Catalyst [aquí](https://www.youtube.com/watch?v=M68LnM7FLps). Si aún no lo ha hecho, asegúrese de registrar su asistencia al [próximo ayuntamiento](http://bit.ly/catalyst-townhall).
+En el **Proyecto Catalyst,** la votación del Fondo 10 llegó a su fin. El equipo de Catalyst participó en un espacio en Twitter junto con los demás proponentes de operaciones del fondo para debatir sus propuestas. Puede escuchar la grabación [aquí](https://twitter.com/unpopularel/status/1701612053012922497?s=46&t=dwwd3s971mANXwcNrW)). Durante la reunión general de esta semana, otros grandes proyectos presentaron el trabajo que han realizado hasta el momento y el equipo ofreció una actualización a la comunidad sobre el estado de las votaciones. En caso de que se lo haya perdido, puede consultar la grabación  [aquí](https://www.youtube.com/watch?v=M68LnM7FLps). Si aún no lo ha hecho, asegúrese de registrar su asistencia para la [próxima reunión general](http://bit.ly/catalyst-townhall).
 
-En el aspecto técnico de Catalyst, la semana pasada el equipo
+En el aspecto técnico de Catalyst, la semana pasada el equipo:
 
 *   Trabajó en la reproducción comunitaria y el análisis de la instantánea del Fondo 10.
     
-*   Avanzó en la revisión de la automatización del importador, incluidas las asignaciones
+*   Avanzó en la revisión de la automatización del importador, incluidas las asignaciones.
     
-*   Prosiguió las pruebas del nuevo importador IdeaScale
+*   Prosiguió las pruebas del nuevo importador IdeaScale.
     
-*   Las votaciones ya están en marcha; el volumen es similar al del fondo anterior hasta el momento
+*   Las votaciones ya están en marcha; el volumen es similar al del fondo anterior hasta el momento.
     
-*   Se está mostrando el recuento de votos en directo en el sitio de la comunidad, utilizando el archivador Catalyst
+*   Se está mostrando el recuento de votos en directo en el sitio de la comunidad, utilizando el archivador Catalyst.
     
-*   Se ha trabajado en la automatización de la construcción del bloque 0 a partir de los datos de la instantánea
+*   Se ha trabajado en la automatización de la construcción del bloque 0 a partir de los datos de la instantánea.
     
-
 Por último, para estar al día de todo lo que ocurre en el Proyecto Catalyst, únase al [canal de anuncios de Telegram de Catalyst](https://t.me/cardanocatalyst).
 
 # EDUCACIÓN
