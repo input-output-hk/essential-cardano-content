@@ -6,6 +6,7 @@ tags:
   - plutusPBL
   - Japanese
   - Japan Community
+  - Cardano Japan
 url: ""
 image: https://ucarecdn.com/c3bf0e81-7acf-48f5-848b-f27998990a93/
 image_text: Gimbalabs Plutus PBL - Japanese version
@@ -15,7 +16,6 @@ image_text: Gimbalabs Plutus PBL - Japanese version
 
 Cardanoの日本の開発者数を増やすという共通の目的を代表して、Gimbalabs Plutus PBL - 日本語版のモジュール201の日本語訳を既にリリースしました。これは以前に翻訳されたモジュールに加わります：[https://ja.plutuspbl.io/modules/201/slts](https://ja.plutuspbl.io/modules/201/slts)
 
-  
 ![](https://ucarecdn.com/411a3877-5bb3-4768-9114-4b9b1449d6ac/)
 
 このモジュールでは、無料で自分のペースで、日本のCardanoコミュニティは以下のことを学ぶことができます：
@@ -34,7 +34,7 @@ Cardanoの日本の開発者数を増やすという共通の目的を代表し�
 
 また、Gimbalabsのサポートへのアクセス方法は以下の通りです：
 
-\- GimbalabsのDiscord: https://discord.gg/YskNWjGfH5
+\- GimbalabsのDiscord: [https://discord.gg/YskNWjGfH5](https://discord.gg/YskNWjGfH5)
 
 \- Gimbalabsライブコーディングセッション（毎週水曜日と木曜日、14:30 UTC）。Zoomのリンクはこちら: [https://gimbalabs.com/calendar](https://gimbalabs.com/calendar)
 
