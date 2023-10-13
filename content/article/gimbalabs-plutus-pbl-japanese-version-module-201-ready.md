@@ -1,7 +1,7 @@
 ---
 title: "Gimbalabs Plutus PBL - Japanese version: module 201 ready!"
 tags:
-  - "#cardano"
+  - Cardano
   - gimbalabs
   - plutusPBL
   - Japanese
