@@ -15,7 +15,7 @@ image_text: Gimbalabs Playground - Season 3. All Tuesdays, 1800 UTC
 
 Hello everyone! Tomorrow, 18:00 UTC, at Playground:
 
-Andamio by Gimbalabs Showcase!
+**Andamio Platform Showcase!**
 
 Andamio ([https://www.andamio.io/](https://www.andamio.io/)) is a platform for organizational development built on #Cardano. It provides a modular toolkit for learning management, contributor onboarding, emergent credentials, and treasury governance.
 
