@@ -7,6 +7,8 @@ tags:
   - gimbalabs
   - Andamio
   - mesh pbl
+  - developertools
+  - contributors
 url: ""
 image: https://ucarecdn.com/f27e6134-1c63-4928-b7c6-54e52ec04ca9/
 image_text: ""
@@ -28,6 +30,6 @@ Zoom link in our calendar: [https://gimbalabs.com/calendar](https://gimbalabs.co
 
 🌱 And remember: start taking the Gimbalabs Plutus PBL right now (free, at your own pace): [https://plutuspbl.io](https://plutuspbl.io)
 
-![](https://ucarecdn.com/203589ef-bb60-4bf1-9745-aedfe42e9f78/-/preview/-/format/auto/-/quality/smart/)  
+![](https://ucarecdn.com/203589ef-bb60-4bf1-9745-aedfe42e9f78/-/preview/-/format/auto/-/quality/smart/)
 
 Best regards + see you soon.
