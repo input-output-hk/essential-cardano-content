@@ -16,6 +16,8 @@ image_text: ""
 
 Live Coding takes place all weds and thus, 14:30 UTC
 
+![](https://ucarecdn.com/772e71a4-9812-4e31-bed4-99842153da30/-/preview/-/format/auto/-/quality/smart/)
+
 3 clients have joined to Andamio ([https://www.andamio.io/](https://www.andamio.io/)): Cardano Community, Mesh, SingularityNET.
 
 Zoom link here: [https://gimbalabs.com/calendar](https://gimbalabs.com/calendar)
