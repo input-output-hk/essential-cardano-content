@@ -1,8 +1,8 @@
 ---
-title: "Today is Wednesday of Gimbalabs Live Coding session, brought to you by:
+title: "Wednesday of Gimbalabs Live Coding session, brought to you by:
   Gimbalabs"
 tags:
-  - "#cardano"
+  - Cardano
   - Gimbalabs
   - LiveCodingSession
   - Education
@@ -11,11 +11,11 @@ image: https://ucarecdn.com/2196d277-8a09-467b-ac16-e06b6b90d9f4/
 image_text: ""
 ---
 
-Live Coding takes place all weds and thrus, 14:30 UTC
+Live Coding takes place every Wednesday and Thursday, from 14:30 UTC.
 
 ![](https://ucarecdn.com/4f24ae76-eeaf-479b-8857-8fbac19a4372/)
 
-Demystifying Cardano technology and making it accessible to people's minds is our purpose.
+Demystifying Cardano technology and making it easily understandable is our purpose.
 
 Come to Live Coding and be yourself!
 
