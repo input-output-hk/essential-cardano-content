@@ -13,7 +13,10 @@ image_text: ""
 
 Live Coding takes place all weds and thrus, 14:30 UTC
 
-Demystifying Cardano technology and making it accessible to people's minds is our purpose.  
+  
+![](https://ucarecdn.com/4f24ae76-eeaf-479b-8857-8fbac19a4372/)
+
+Demystifying Cardano technology and making it accessible to people's minds is our purpose.
 
 Come to Live Coding and be yourself!
 
