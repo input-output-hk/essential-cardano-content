@@ -9,4 +9,4 @@ image: ""
 image_text: ""
 ---
 
-refer to the names of native tokens or assets created and managed on the Cardano blockchain. They can be common words, and users can choose arbitrary names. Please note that assets with the same asset name do not necessarily mean they can be fungible; it also depends on whether they have the same PolicyID
+refers to the names of native tokens created and managed on the Cardano blockchain. They can be common words, and creators can choose arbitrary names. Please note that assets with the same asset name are not necessarily fungible; fungibility depends on whether they have the same Policy ID.
