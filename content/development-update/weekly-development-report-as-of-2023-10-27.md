@@ -61,7 +61,7 @@ This week, the **Education** team is wrapping up the last week of teaching the H
 
 ### コアテクノロジー
 
-コアテクノロジー**チームは、ノード、ネットワーク、コンセンサス改良への取り組みを続けました。
+コアテクノロジー\*\*チームは、ノード、ネットワーク、コンセンサス改良への取り組みを続けました。
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
@@ -106,3 +106,51 @@ Catalystチームは、11月に予定されているFund11の開始を皮切り�
 ### 教育
 
 **教育**チームに関しては、ABCとの提携によるHaskellバーチャルコースが最終週を迎えました。IOG数学アカデミーを立ち上げたほか、来週のCardanoサミットに向けて準備を進めています。
+
+# TECNOLOGÍA DEL NÚCLEO
+
+Esta semana, los equipos de **tecnología de núcleo** han seguido trabajando en mejoras de nodos, redes y consenso.
+
+Como siempre, consulte [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
+
+# CONTRATOS INTELIGENTES
+
+El equipo de herramientas de **Plutus** siguió trabajando en las consultas a la API de Marconi, en el emulador del nodo Cardano para las pruebas de integración, y siguió experimentando con la transición de Marconi para convertirse en el nodo Cardano. Asimismo, trabajaron en la actualización de la documentación de usuario.
+
+El equipo de **Marlowe** introdujo una versión plana de las funciones para enviar transacciones desde ts-sdk, implementó comprobaciones de salud para verificar la validez de las [URL en tiempo de ejecución](https://github.com/input-output-hk/marlowe-payouts/pull/17), y permitió a los consumidores acceder a sus contratos asociados a wallet, mejorando la comodidad y accesibilidad de los usuarios.
+
+Por otra parte, el equipo realizó extensas pruebas de usuario para el MVP del corredor, se centró en la creación de una [prueba de concepto](https://github.com/input-output-hk/marlowe-ts-sdk/pull/50) (POC) del contrato de encuesta en ts-sdk, y añadió varias funciones clave, como [getTransactionById](https://github.com/input-output-hk/marlowe-ts-sdk/pull/42) y [getTransactionsForContract](https://github.com/input-output-hk/marlowe-ts-sdk/pull/40). También publicaron el [TS-SDK explainer](https://github.com/input-output-hk/marlowe-doc/pull/177/files), [integraron](https://github.com/input-output-hk/marlowe-ts-sdk/pull/51) ts-sdk con el contrato de adquisición de derechos, y añadieron el \[conjunto de pruebas\] `ts-sdk`([PLT-6937: run test suite in CI by bjornkihlberg · Pull Request #45 · input-output-hk/marlowe-ts-sdk · GitHub](https://github.com/input-output-hk/marlowe-ts-sdk/pull/45)).
+
+Por último, se trabajó en \[mejoras\] de la documentación\]([PLT-3312 More help text by jhbertra · Pull Request #733 · input-output-hk/marlowe-cardano · GitHub](https://github.com/input-output-hk/marlowe-cardano/pull/733)), realizó [ajustes de protocolo](https://github.com/input-output-hk/marlowe-cardano/pull/730) en el Runtime propagando los errores remotos a los peers, e introdujo una funcionalidad para desconectar wallets en el Runner, mejorando la experiencia general del usuario.
+
+# ESCALADO
+
+El equipo **Hydra** se centró en preparar una clase magistral y un taller para la Cumbre Cardano 2023. También trabajaron en la mejora del flujo de trabajo de envío de transacciones de la API del nodo Hydra, para que acepte tres tipos de codificación diferentes (cadena CBOR codificada en Base16, tipo TextEnvelope y JSON). Además, continuaron actualizando el ladrillo TUI a la v.1.10.
+
+El equipo **Mithril** publicó una nueva distribución [2342.0](https://github.com/input-output-hk/mithril/releases/tag/2342.0). Esta versión incluye soporte para los tickers SPO mostrados en el [Explorador Mithril](https://mithril.network/explorer/?aggregator=https%3A%2F%2Faggregator.release-mainnet.api.mithril.network%2Faggregator) y la capacidad de producir imágenes Docker delgadas para los nodos Mithril.
+
+Se trabajó también en la descentralización de las redes Mithril con la [prueba de concepto de red peer-to-peer (P2P)](https://github.com/input-output-hk/mithril/issues/1300), se avanzó en la adaptación del [cliente Mithril como biblioteca](https://github.com/input-output-hk/mithril/issues/1141), y se trabajó en el \[cálculo\] determinista([Light Wallet: Compute deterministic Cardano UTxO/transactions set PoC · Issue #1283 · input-output-hk/mithril · GitHub](https://github.com/input-output-hk/mithril/issues/1283)) del conjunto UTXO a partir de los archivos inmutables.
+
+Además, arreglaron el [cuello de botella](https://github.com/input-output-hk/mithril/issues/1187) del registro de claves en el agregador, investigaron algunas inalcanzabilidades en el agregador release-mainnet, y mejoraron la interfaz de usuario del explorador Mithril.
+
+# VOLTAIRE
+
+La colaboración y la toma de decisiones de forma democrática serán pronto un proceso simplificado del que podrá disfrutar toda la comunidad. La GovTool de Voltaire sirve como un valioso recurso para avanzar en la construcción de la comunidad en Cardano. Ofrece una interfaz fácil de usar que permite a los titulares de ada interactuar directamente con el CIP-1694, registrarse fácilmente como representantes delegados (DReps), delegar el poder de voto a los DReps y revisar las acciones de gobierno. Regístrese [aquí](https://forms.gle/Sw4vZaga68b2Ps8p7) si está interesado en probar el Voltaire GovTool.
+
+El trabajo sobre la quinta fase de gobernanza de SanchoNet sigue iterándose tras la última versión v.8.5.0-pre del nodo. Cuenta con elementos clave que contribuyen a la adaptabilidad y resistencia de la red de Cardano a medida que sigue evolucionando. Visite el sitio web de [SanchoNet](https://sancho.network/) y únase a las conversaciones en [Discord](https://sancho.network/get-started/discord). Contribuya hoy mismo a SanchoNet probando los procesos de gobernanza del CIP-1694.
+
+Para participar en la configuración del futuro de Cardano, asegúrese de [unirse a Intersect](http://intersectmbo.org/).
+
+# CATALYST
+
+176 de los 192 (92%) proyectos financiados, aprobados en el Fondo 10 allá por septiembre, tienen ya su declaración de hitos (SoM) firmada por los miembros de la comunidad, lo que significa que esos equipos están empezando a recibir sus distribuciones iniciales de financiación. Seis proyectos ya han presentado su primera prueba de logros (PdA) de hitos para que la comunidad verifique públicamente que se han cumplido los entregables y el proyecto pueda pasar a recibir fondos para el siguiente hito. Se trata de un gran logro, dado que es la primera vez que la rendición de cuentas basada en hitos está siendo verificada por un número significativo de miembros de la comunidad.
+
+La configuración de código abierto de los proyectos financiados por Catalyst Voices y Catalyst Ecosystem Accelerator está en marcha, los repos públicos se encuentran en un estado avanzado de preparación y el equipo prevé que la prueba de logros se habrá verificado para la próxima actualización de desarrollo.
+
+Esta semana comienzan las pruebas en seco de la aplicación de votación Fund11, con nuevas actualizaciones de la interfaz de usuario que incluyen nuevos filtros para ayudar a los votantes a llegar más rápidamente a las propuestas que les interesan.
+
+El equipo de Catalyst también está ultimando los preparativos para los talleres de la Cumbre Cardano, en los que se profundizará en los planes para los próximos 12 meses, empezando por el inminente lanzamiento de Fund11 durante el mes de noviembre, el primer anuncio del equipo desde que IOG recibió el mandato de la comunidad para continuar como operadores de fondos del Proyecto Catalyst. Pase por el stand e inscríbase en los talleres para obtener más información.
+
+# EDUCACIÓN
+
+Esta semana, el equipo de **Educación** está terminando la última semana de impartición del curso de Haskell con ABC. También han lanzado la Academia de Matemáticas interna del IOG y se están preparando para la Cumbre Cardano de la semana que viene.
