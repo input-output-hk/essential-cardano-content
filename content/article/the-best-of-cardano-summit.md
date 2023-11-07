@@ -1,15 +1,15 @@
 ---
-title: " The Best of Cardano Summit "
+title: "The Best of Cardano Summit"
 tags:
   - summit
   - Community
-  - dubai
+  - Dubai
 url: ""
 image: https://ucarecdn.com/5faf7813-3a0d-4d80-a8c6-52ee4b63b1bc/
 image_text: ""
 ---
 
-he Cardano Summit took place in Dubai at the weekend. Let's take a look at some news and interesting things that caught our attention.
+The Cardano Summit took place in Dubai at the weekend. Let's take a look at some news and interesting things that caught our attention.
 
 ## New Modular Framework and Midnight
 
