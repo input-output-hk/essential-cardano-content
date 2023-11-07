@@ -1,7 +1,7 @@
 ---
 title: Gimbalabs Plutus PBLのモジュール202と203のリリース - 日本語版。
 tags:
-  - "#cardano"
+  - cardano
   - gimbalabs
   - plutusPBL
   - plutuspbl.io
