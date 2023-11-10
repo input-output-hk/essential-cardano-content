@@ -42,14 +42,10 @@ Last week, the **Voltaire** team worked hard alongside several team members pres
 Highlights from the Cardano Summit include:  
 
 *   A tech demo of GovTool
-    
 *   A tech demo of SanchoNet
-    
 *   The announcement of the Cardano ballot for CIP-1694
-    
 *   Panel discussions on the importance of community governance, and the importance of Intersect in Cardano governance
     
-
 Over 150 community members signed up to join Intersect. The Cardano Summit 2023 was an excellent opportunity to exhibit the ongoing progress towards the age of Voltaire to the broader community.
 
 ### CATALYST
@@ -105,14 +101,10 @@ Voltaireチームは、Cardanoサミットに出席した複数のチームメ�
 Cardanoサミットのハイライトは以下のとおりです。
 
 *   GovToolの技術デモ
-    
 *   SanchoNetの技術デモ
-    
 *   CIP-1694 Cardano Ballotの発表
-    
 *   コミュニティガバナンスの重要性およびCardanoガバナンスにおけるIntersectの重要性に関するパネルディスカッション
     
-
 150を超えるコミュニティメンバーがIntersectに参加しています。Cardanoサミット2023は、Voltaire期へ向けた進捗をより広範なコミュニティに示す絶好の機会となりました。
 
 ### CATALYST
