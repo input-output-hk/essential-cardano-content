@@ -1,7 +1,7 @@
 ---
 title: Gimbalabs featured in Messari's "State of Cardano Q3 2023" report
 tags:
-  - "#cardano"
+  - Cardano
   - gimbalabs
   - Developer Tools
   - Education
