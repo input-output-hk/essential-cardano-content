@@ -37,7 +37,7 @@ Finally, they resolved the naming issue of the [Docker package](https://github.c
 
 ### VOLTAIRE
 
-Last week, the **Voltaire** team worked hard alongside several team members present at the Cardano Summit (while others supported remotely) to showcase the progress made toward Cardano’s off-chain governance.
+Last week, the **Voltaire** team worked hard alongside several team members present at the Cardano Summit (while others supported remotely) to showcase the progress made toward Cardano’s on-chain governance.
 
 Highlights from the Cardano Summit include:  
 
