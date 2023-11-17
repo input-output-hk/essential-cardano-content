@@ -1,8 +1,8 @@
 ---
-title: "🎢 Gimbalabs Playground🎡 - Season 3.  All Tuesdays 1800 UTC. In this
+title: "🎢 Gimbalabs Playground🎡 - Season 3.  Every Tuesday from 1800 UTC. In this
   session: Gimbalabs launches a new platform! "
 tags:
-  - "#cardano"
+  - Cardano
   - gimbalabs playground
   - gimbalabs
   - Andamio
@@ -13,7 +13,7 @@ image_text: Gimbalabs, on of the most notable labs in the Cardano ecosystem,
   launches a new platform!
 ---
 
-Tomorrow at 🎢 Gimbalabs Playground🎡: Andamio platform Showcase
+Tuesday 2023-11-14 at 1800 UTC at 🎢 Gimbalabs Playground🎡: Andamio platform Showcase
 
 [![r/cardano - 🎢 Gimbalabs Playground🎡 - Season 3. All Tuesdays, 1800 UTC](https://preview.redd.it/4mshxdlii70c1.jpg?width=1366&format=pjpg&auto=webp&s=35ceb672b7f55addfe40ec5fae6c4a2fd89b166d)](https://preview.redd.it/4mshxdlii70c1.jpg?width=1366&format=pjpg&auto=webp&s=35ceb672b7f55addfe40ec5fae6c4a2fd89b166d)
 
@@ -22,9 +22,7 @@ One of the biggest challenges companies and organizations have to deal with is t
 
 [![r/cardano - 🎢 Gimbalabs Playground🎡 - Season 3. All Tuesdays, 1800 UTC](https://preview.redd.it/re7lzbski70c1.jpg?width=1366&format=pjpg&auto=webp&s=5c83e05fc92007cf6c5164a3a1865a2a414ed4e2)](https://preview.redd.it/re7lzbski70c1.jpg?width=1366&format=pjpg&auto=webp&s=5c83e05fc92007cf6c5164a3a1865a2a414ed4e2)
 
-When: Tuesday 2023-11-14 at 1800 UTC
-
 ⛳️Where: Register At: [https://us06web.zoom.us/meeting/register/tZYoduuqpjsqGtdzMHXoRVVnJqcQGOtpQRQv](https://us06web.zoom.us/meeting/register/tZYoduuqpjsqGtdzMHXoRVVnJqcQGOtpQRQv)
 
-All best + see you soon!  
+All the best + see you soon!  
 Sebastian from the [Gimbalabs](https://gimbalabs.com/) team.
