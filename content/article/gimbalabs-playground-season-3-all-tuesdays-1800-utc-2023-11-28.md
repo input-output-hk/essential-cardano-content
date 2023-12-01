@@ -1,7 +1,7 @@
 ---
-title: 🎡Gimbalabs Playground🎢 - Season 3. All Tuesdays, 1800 UTC - 2023-11-28
+title: 🎡Gimbalabs Playground🎢 - Season 3. Every Tuesdays, from 1800 UTC - 2023-11-28
 tags:
-  - "#cardano"
+  - Cardano
   - Gimbalabs
   - gimbalabs playground
   - Andamio
