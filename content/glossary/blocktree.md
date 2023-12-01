@@ -1,7 +1,7 @@
 ---
 title: BlockTree
 tags:
-  - "#blocktree"
+  - Blocktree
   - NFT
   - Formal verification
   - Tool
@@ -11,4 +11,4 @@ image: ""
 image_text: ""
 ---
 
-[BlockTree](https://blocktree.asia/en/) is the pioneer in Asia to apply verification technology in reforestation by using NFT (minted in Blockchain Cardano) to ensure trust, transparency, and trackability between Sponsors and Planters.
+[BlockTree](https://blocktree.asia/en/) is the pioneer in applying verification technology to reforestation efforts in Asia by using NFT minted on Cardano, ensuring trust, transparency, and traceability between Sponsors and Planters.
