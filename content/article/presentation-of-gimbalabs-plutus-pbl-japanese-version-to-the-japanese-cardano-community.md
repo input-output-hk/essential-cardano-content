@@ -2,7 +2,7 @@
 title: Presentation of Gimbalabs Plutus PBL- Japanese version, to the Japanese
   Cardano Community
 tags:
-  - "#cardano"
+  - cardano
   - gimbalabs
   - Plutus Japanese
   - plutusPBL
