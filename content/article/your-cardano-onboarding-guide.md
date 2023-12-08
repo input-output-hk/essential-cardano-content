@@ -169,6 +169,8 @@ NFTs have been booming recently. You can create, buy, and sell digital represent
     
 *   [Cardano cube: NFT projects](https://www.cardanocube.io/collections/nft)
     
+*   [TapTools](https://www.taptools.io/?currency=ADA)
+    
 
 ### What do you need to know about smart contracts?
 
