@@ -1,5 +1,5 @@
 ---
-title: Gimbalabs 🏕 Live Coding session, 06-12-2023.
+title: Gimbalabs 🏕 live coding session, 06-12-2023.
 tags:
   - gimbalabs
   - LiveCodingSession
