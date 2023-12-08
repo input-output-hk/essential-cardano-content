@@ -1,5 +1,5 @@
 ---
-title: Your Cardano onboarding guide
+title: Your Cardano Onboarding Guide
 tags:
   - Cardano
   - NFT
@@ -74,7 +74,9 @@ Let’s start with some simple payments. You will first need to choose and creat
     
     *   Here is an article on the various types of cryptocurrency wallets and examples of wallet products/providers for Cardano to choose from: [Types of Wallets](https://docs.cardano.org/new-to-cardano/types-of-wallets).
         
-    *   Nami and [Eternl](https://eternl.io/app/mainnet/welcome) are two most recommended wallets by the community to start with, for desktop users. For mobile users, Eternl and [Flint Wallet](https://docs.cardano.org/new-to-cardano/types-of-wallets) are the go-to options that are largely adopted by the community.
+    *   **For Desktop**: [Nami](https://namiwallet.io/) and [Lace](https://www.lace.io/) are simplified desktop wallets that are perfect for first-time users. [Eternl](https://eternl.io/app/mainnet/welcome) and [Typhon](https://typhonwallet.io/) are more advanced desktop wallets that offer a number of interesting features.
+        
+    *   **For Mobile:** [Vespr](https://vespr.xyz/), [Eternl](https://linktr.ee/eternlwallet), [Gero](https://gerowallet.io/), and [Flint Wallet](https://docs.cardano.org/new-to-cardano/types-of-wallets) are some go-to options that are largely adopted by the community.
         
 2.  Explore and choose a cryptocurrency exchange (in your jurisdiction) to get some ada: [How to purchase ada?](https://docs.cardano.org/new-to-cardano/how-to-purchase-ada)
     
