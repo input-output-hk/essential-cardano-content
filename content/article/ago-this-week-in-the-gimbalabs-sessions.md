@@ -1,5 +1,5 @@
 ---
-title: "ago  🍿This week in the Gimbalabs sessions:"
+title: "🍿This week in the Gimbalabs sessions:"
 tags:
   - Gimbalabs
   - gimbalabs sessions
