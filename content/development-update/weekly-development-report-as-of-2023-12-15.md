@@ -15,11 +15,11 @@ Wishing you all joyful holidays and a fantastic New Year! 🎄🎉 May the comin
 
 ### CORE TECHNOLOGY
 
-This week, the **core technology** teams released [node v.8.7.2](https://github.com/input-output-hk/cardano-node/releases/tag/8.7.2) bringing CLI refactoring from [SanchoNet](https://sancho.network/get-started/) to mainnet to provide teams with time to update their components in preparation for v.9.0 release. Version 8.7.2 also brings P2P networking layer improvements. Additionally, the node team focused on [bug fixing and code optimizations](https://input-output-hk.github.io/cardano-updates/2023-12-08-node-cli-api/) in preparation for a mainnet-suitable release.
+This week, the **core technology** teams released [node v.8.7.2](https://github.com/input-output-hk/cardano-node/releases/tag/8.7.2) bringing CLI refactoring from [SanchoNet](https://sancho.network/get-started/) to mainnet to provide teams with time to update their components in preparation for v.9.0 release. Version 8.7.2 also brings P2P networking layer improvements. Additionally, the node team focused on [bug fixing and code optimizations](https://updates.cardano.intersectmbo.org/2023-12-08-node-cli-api/) in preparation for a mainnet-suitable release.
 
-The **networking** team [worked on](https://input-output-hk.github.io/cardano-updates/2023-12-08-network/) peer sharing, bootstrap peers, transaction submission application, and fixed a `PeerSelection` bug.
+The **networking** team [worked on](https://updates.cardano.intersectmbo.org/2023-12-08-network/) peer sharing, bootstrap peers, transaction submission application, and fixed a `PeerSelection` bug.
 
-As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
+As always, see [this technical development report](https://updates.cardano.intersectmbo.org/archive/) for more details from different teams.
 
 ### WALLETS AND SERVICES 
 
@@ -69,11 +69,11 @@ Happy building and holidays ahead!
 
 ### コアテクノロジー
 
-**コアテクノロジー**チームは[ノードv.8.7.2](https://github.com/input-output-hk/cardano-node/releases/tag/8.7.2)をリリースし、メインネットに[SanchoNet](https://sancho.network/get-started/)からCLIリファクタリングを導入しました。これにより、v.9.0リリースに向けてコンポーネントを更新する時間ができました。バージョン8.7.2では、P2Pネットワーキング層も改良されています。ノードチームは、メインネットリリース版の準備として[バグの修正とコードの最適化](https://input-output-hk.github.io/cardano-updates/2023-12-08-node-cli-api/)に焦点を当てました。
+**コアテクノロジー**チームは[ノードv.8.7.2](https://github.com/input-output-hk/cardano-node/releases/tag/8.7.2)をリリースし、メインネットに[SanchoNet](https://sancho.network/get-started/)からCLIリファクタリングを導入しました。これにより、v.9.0リリースに向けてコンポーネントを更新する時間ができました。バージョン8.7.2では、P2Pネットワーキング層も改良されています。ノードチームは、メインネットリリース版の準備として[バグの修正とコードの最適化](https://updates.cardano.intersectmbo.org/2023-12-08-node-cli-api/)に焦点を当てました。
 
-**ネットワーキング**チームは、ピア共有、ブートストラップピア、トランザクション送信アプリケーションに[取り組み](https://input-output-hk.github.io/cardano-updates/2023-12-08-network/)、PeerSelectionのバグを修正しました。
+**ネットワーキング**チームは、ピア共有、ブートストラップピア、トランザクション送信アプリケーションに[取り組み](https://updates.cardano.intersectmbo.org/2023-12-08-network/)、PeerSelectionのバグを修正しました。
 
-通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
+通常通り、チーム別の詳細は[こちらの技術開発レポート](https://updates.cardano.intersectmbo.org/archive/)をご覧ください。
 
 ### ウォレットとサービス 
 
