@@ -76,6 +76,8 @@ Here is a list of available tools and resources according to categories:
     
 *   [Cardano Client Library](https://github.com/bloxbean/cardano-client-lib): a Java client library for Cardano that simplifies the interaction with the Cardano blockchain from a Java application.
     
+*   CardanoCrocClub: Cross-Chain Exchange released. [#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click)'s own SimpleSwap. [https://uex.finance/en](https://t.co/BrCh8LKYpc) Utilize their Cross-Chain Token $C4 and Stablecoin $USDC4 (USDC Pegged).![🤯](https://abs-0.twimg.com/emoji/v2/svg/1f92f.svg "Exploding head") Their full service ecosystem and dev teams make it ideal for incoming business to build on Cardano utilizing their incubation services. Many layers to this project, but all work around their ecosystem token, $C4.
+    
 *   [Cardano Crystal SDK](https://github.com/blockfrost/blockfrost-crystal): a Crystal SDK for the [Blockfrost.io](//Blockfrost.io) API.
     
 *   [Cardano Multiplatform Lib](https://github.com/dcSpark/cardano-multiplatform-lib#cardano-multiplatform-lib): a collection of tools and codecs for encoding/decoding fundamental data structures, intended to replace 'cardano-serialization-lib'.
