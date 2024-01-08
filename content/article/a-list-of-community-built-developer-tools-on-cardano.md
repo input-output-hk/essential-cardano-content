@@ -84,9 +84,9 @@ Here is a list of available tools and resources according to categories:
     
 *   [Demeter.run](https://demeter.run/): a cloud-based platform equipped with all the necessary resources for constructing decentralized applications (DApps).
     
-*   [Kuber](https://dquadrant.com/blog/kuber-a-new-open-source-library-for-cardano/): an open-source library and developer-friendly API that abstracts the complexity of creating EUTXO transactions using components provided on Cardano.
+*   [Kuber](https://github.com/dQuadrant/kuber): an open-source library and developer-friendly API that abstracts the complexity of creating balanced EUTXO transactions on Cardano.
     
-*   [KuberIDE](https://kuberide.com/): a PreSetup Environment for developers to write and test out Plutus contracts and Cardano transactions.
+*   [KuberIDE](https://kuberide.com): a browser based Plutus/Haskell smart contract development and testing platform based on Kuber that comes with extensive set of sample contracts and documentation. Developers don't have to setup any infrastructure to start developing on Cardano.
     
 *   [Go-Cardano-Serialization](https://github.com/fivebinaries/go-cardano-serialization): Golang library for serialization & deserialization of Cardano data structures.
     
