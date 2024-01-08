@@ -21,7 +21,7 @@ Stake pools can be public or private. Any Cardano user can delegate ada to publi
 
 Visit [this page](https://cardano.org/stake-pool-operation#stake-pool) for more information about stake pools.
 
-## Educational initiatives
+## Educational Initiatives
 
 Education is central to the Cardano mission. That’s why IOG, the Cardano Foundation, Emurgo and other Cadano participants are all committed to upskilling developers to build on Cardano blockchain. 
 
@@ -31,9 +31,13 @@ During 2021, IOG launched the [Plutus Pioneer](https://docs.cardano.org/pioneer-
 
 Earlier in 2022, IOG launched the [IOG Academy](https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw), a library of educational videos and materials covering Haskell, Plutus, and Marlowe.
 
-IOG also recently established a partnership with the European Business University of Luxembourg (EBU), with the goal of making education accessible for everyone in developing countries. EBU has so far rolled out courses on Haskell and Plutus.  
+IOG also recently established a partnership with the European Business University of Luxembourg (EBU), with the goal of making education accessible for everyone in developing countries. EBU has so far rolled out courses on Haskell and Plutus.
 
 Also, IOG works [with a number of universities](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#education-institutions-and-blockchain-labs) worldwide.
+
+In 2023, the Cardano Foundation launched the [Cardano Academ](https://academy.cardanofoundation.org/)y. This free course requires no prior knowledge of, or experience in, blockchain, and successful completion leads to the **Cardano Blockchain Certified Associate (CBCA) certification**. 4 modules cover introductory to advanced blockchain topics, as well as a special focus on understanding how Cardano operates.
+
+Additionally, the Cardano Academy is a centerpiece of [the partnership between the Cardano Foundation and Petrobras](https://cardanofoundation.org/en/news/cardano-foundation-announces-education-partnership-with-petrobras-1/), Brazil’s state-owned energy company. In this partnership, the Cardano Foundation will lead blockchain education workshops for Petrobras employees, with Cardano Academy content delivered via the Petrobras University
 
 ## NFTs
 
@@ -43,10 +47,12 @@ The native tokens feature extends the existing accounting infrastructure defined
 
 Native support offers distinct advantages for developers: there is no need to create smart contracts to handle custom tokens, for example, which removes a layer of added complexity and potential for manual errors since the ledger handles all token-related functionality.
 
-Due in part to the ease of creation and low minting costs, the NFT space has rapidly grown to be one of the most vibrant and creative elements of the early Cardano ecosystem, with over 400 projects and NFT marketplaces launched and live by early 2022. As of late March, 2022, over [4 million NFTs have minted on Cardano](https://twitter.com/mtschofield/status/1506575854217928706).
+Due in part to the ease of creation and low minting costs, the NFT space has rapidly grown to be one of the most vibrant and creative elements of the early Cardano ecosystem, with over 400 projects and NFT marketplaces launched and live by early 2022. As of late December, 2023, [nearly 9 million NFTs](https://pool.pm/nfts) have been minted on Cardano.
 
-### Cardano non-fungible tokens (CNFT) marketplace
+### Cardano NFT Marketplaces
 
-The Cardano non-fungible tokens (CNFT) is a community created- and led- [marketplace](https://cnft.io/) for NFTs built on Cardano.
+Cardano is home to a wide range of NFT marketplaces, each offering unique experiences for creators and consumers. [jpg.store](https://www.jpg.store/) is, to date, the largest platform for NFT markets, while [Kreate](https://kreate.art/) is home for 1/1 artists and Edition minting, and [cSwap](https://app.cswap.fi/marketplace) showcases an innovative NFTfi approach utilizing liquidity pools for non-fungible assets.
 
-Launched in 2021 by a multi-national team of NFT creators, the site became the first marketplace for all Cardano NFTs.
+### Cardano Native Tokens (CNTs)
+
+The fungible token ecosystem on Cardano is vibrant, and [TapTools](https://www.taptools.io/) has become the leading destination for token-trading and market analytics. [DexHunter](https://www.dexhunter.io/) is Cardano's leading DEX aggregator, while platforms like Minswap, Wingriders, and Muesliswap stand out with the highest trading volumes.
