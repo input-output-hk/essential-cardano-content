@@ -84,9 +84,13 @@ Here is a list of available tools and resources according to categories:
     
 *   [Demeter.run](https://demeter.run/): a cloud-based platform equipped with all the necessary resources for constructing decentralized applications (DApps).
     
+*   [Kuber](https://dquadrant.com/blog/kuber-a-new-open-source-library-for-cardano/): an open-source library and developer-friendly API that abstracts the complexity of creating EUTXO transactions using components provided on Cardano.
+    
+*   [KuberIDE](https://kuberide.com/): a PreSetup Environment for developers to write and test out Plutus contracts and Cardano transactions.
+    
 *   [Go-Cardano-Serialization](https://github.com/fivebinaries/go-cardano-serialization): Golang library for serialization & deserialization of Cardano data structures.
     
-*   [IntelliJ IDE](https://intelliada.bloxbean.com/): an IntelliJ plugin for the Cardano blockchain that enables developers to interact with Cardano directly from their IDE.
+*   [IntelliAda](https://intelliada.bloxbean.com/): an IntelliJ plugin for the Cardano blockchain that enables developers to interact with Cardano directly from their IDE.
     
 *   [Kogmios](https://github.com/projectNEWM/kogmios): a Kotlin API library for interacting with Ogmios.
     
