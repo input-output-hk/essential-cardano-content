@@ -75,6 +75,8 @@ Here is a list of available tools and resources according to categories:
 *   [CardanoBI](https://cardanobi.io/): a fully open-source business intelligence API layer for Cardano.
     
 *   [Cardano Client Library](https://github.com/bloxbean/cardano-client-lib): a Java client library for Cardano that simplifies the interaction with the Cardano blockchain from a Java application.
+
+*   [CardanoCrocClub](https://twitter.com/CardanoCrocClub): Cross-Chain Exchange released. Cardano's own SimpleSwap. UEX.Finance utilizes their cross-chain token $C4 and stablecoin $USDC4 (USDC Pegged). Their full-service ecosystem and dev teams make it ideal for incoming businesses to build on Cardano utilizing CardanoCrocClub's incubation services. Many layers to this project, but all work around their ecosystem token, $C4.
     
 *   [Cardano Crystal SDK](https://github.com/blockfrost/blockfrost-crystal): a Crystal SDK for the [Blockfrost.io](//Blockfrost.io) API.
     
@@ -86,7 +88,7 @@ Here is a list of available tools and resources according to categories:
     
 *   [Kuber](https://github.com/dQuadrant/kuber): an open-source library and developer-friendly API that abstracts the complexity of creating balanced EUTXO transactions on Cardano.
     
-*   [KuberIDE](https://kuberide.com): a browser based Plutus/Haskell smart contract development and testing platform based on Kuber that comes with extensive set of sample contracts and documentation. Developers don't have to setup any infrastructure to start developing on Cardano.
+*   [KuberIDE](https://kuberide.com): a browser-based Plutus/Haskell smart contract development and testing platform based on Kuber that comes with an extensive set of sample contracts and documentation. Developers don't have to set up any infrastructure to start developing on Cardano.
     
 *   [Go-Cardano-Serialization](https://github.com/fivebinaries/go-cardano-serialization): Golang library for serialization & deserialization of Cardano data structures.
     
