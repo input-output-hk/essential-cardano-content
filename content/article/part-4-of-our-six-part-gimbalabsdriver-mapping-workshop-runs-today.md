@@ -1,5 +1,5 @@
 ---
-title: Part 4 of our six-part Gimbalabs🙋‍♀️Driver Mapping Workshop runs today
+title: Part 4 of our 6-part Gimbalabs🙋‍♀️Driver Mapping Workshop runs today
 tags:
   - Gimbalabs
   - gimbalabs governance
@@ -10,13 +10,13 @@ image: https://ucarecdn.com/680c19f7-8986-4098-99fe-14a8500f55a2/
 image_text: ""
 ---
 
-Part 4 of our six-part Gimbalabs🙋‍♀️Driver Mapping Workshop runs today from 1430-1600 UTC, via Zoom: [https://us06web.zoom.us/j/85669298711?pwd=FeVmtGabE5i73rsb6AN4K0GAhyiB7l.1](https://us06web.zoom.us/j/85669298711?pwd=FeVmtGabE5i73rsb6AN4K0GAhyiB7l.1)
+Part four of our six-part Gimbalabs🙋‍♀️Driver Mapping Workshop runs today from 1430-1600 UTC, via Zoom: [https://us06web.zoom.us/j/85669298711?pwd=FeVmtGabE5i73rsb6AN4K0GAhyiB7l.1](https://us06web.zoom.us/j/85669298711?pwd=FeVmtGabE5i73rsb6AN4K0GAhyiB7l.1)
 
 [![r/cardano - Part 4 of our six-part Gimbalabs🙋‍♀️Driver Mapping Workshop runs today](https://preview.redd.it/yz2p2bbvy6dc1.jpg?width=1587&format=pjpg&auto=webp&s=2d384f4e56c73a1e460d014ecc8045d8c1b339d5)](https://preview.redd.it/yz2p2bbvy6dc1.jpg?width=1587&format=pjpg&auto=webp&s=2d384f4e56c73a1e460d014ecc8045d8c1b339d5)
 
 Yesterday we drafted a shared "Why" statement for Gimbalabs in 2024. Here it is:
 
-> To provide open, replicable, safe spaces to learn, explore and empower individuals and organizations anywhere so that we can solve meaningful problems.
+> To provide open, replicable, safe spaces to learn, explore, and empower individuals and organizations anywhere so that we can solve meaningful problems.
 
 What do you think about it?
 
