@@ -20,10 +20,6 @@ Here is a list of available tools and resources according to categories:
 
 *   [Cardano Sounds](https://cardano-sounds.gitbook.io/cardanosounds/cardano-sounds-platform/introduction): a platform aiming to create a new economy inside NFTs where individual creators can use each other's work in a trustless manner. This could enable artists to focus only on their specialization and personal expression by earning royalties from their published pieces when other creators use them.
     
-*   [CNFT](https://cnft.io/): a marketplace for Cardano non-fungible tokens.
-    
-*   [Holograph (previously CXIP Labs)](https://cxip.io/): an NFT minting protocol for creators, by creators.
-    
 *   [Kreate Platform](https://kreate.community/home): a creator-first platform, making Web3 accessible to indie artists from all over! Focused on creating, this platform aims to get your art out there to new fans.
     
 *   [NFT-MACHINE](https://nft-machine.com): an NFT minting platform.
@@ -49,7 +45,7 @@ Here is a list of available tools and resources according to categories:
     
 *   [CTL (cardano-transaction-lib)](https://github.com/Plutonomicon/cardano-transaction-lib): a Purescript library for building smart contract transactions on Cardano. CTL aims to port the functionality and interface of Plutus off-chain code to the browser environment and NodeJS.
     
-*   [Marlowe Playground](https://play.marlowe-finance.io/#/): an end-to-end financial smart contract development platform.
+*   [Marlowe Playground](https://marlowe.iohk.io/): an end-to-end financial smart contract development platform.
     
 *   [OpShin](https://github.com/ImperatorLang/eopsin): a simple Python programming language for smart contracts on Cardano.
     
@@ -70,15 +66,13 @@ Here is a list of available tools and resources according to categories:
     
 *   [BlockFrost](http://blockfrost.io): an API for Cardano providing abstraction between user and blockchain data.
     
-*   [Cardano-CLI](https://github.com/bloxbean/cardano-client-lib): the associated command-line interface for interacting with a Cardano node, managing addresses, or generating transactions.
+*   [Cardano-CLI](https://github.com/IntersectMBO/cardano-cli): the associated command-line interface for interacting with a Cardano node, managing addresses, or generating transactions.
     
 *   [CardanoBI](https://cardanobi.io/): a fully open-source business intelligence API layer for Cardano.
     
 *   [Cardano Client Library](https://github.com/bloxbean/cardano-client-lib): a Java client library for Cardano that simplifies the interaction with the Cardano blockchain from a Java application.
-
-*   [CardanoCrocClub](https://twitter.com/CardanoCrocClub): Cross-Chain Exchange released. Cardano's own SimpleSwap. UEX.Finance utilizes their cross-chain token $C4 and stablecoin $USDC4 (USDC Pegged). Their full-service ecosystem and dev teams make it ideal for incoming businesses to build on Cardano utilizing CardanoCrocClub's incubation services. Many layers to this project, but all work around their ecosystem token, $C4.
     
-*   CardanoCrocClub: Cross-Chain Exchange released. Cardano's own SimpleSwap. [UEX.Finance](https://t.co/BrCh8LKYpc) utilizes their cross-chain token $C4 and stablecoin $USDC4 (USDC Pegged). Their full-service ecosystem and dev teams make it ideal for incoming businesses to build on Cardano utilizing CardanoCrocClub's incubation services. Many layers to this project, but all work around their ecosystem token, $C4.
+*   [CardanoCrocClub](https://twitter.com/CardanoCrocClub): Cross-Chain Exchange released. Cardano's own SimpleSwap. UEX.Finance utilizes their cross-chain token $C4 and stablecoin $USDC4 (USDC Pegged). Their full-service ecosystem and dev teams make it ideal for incoming businesses to build on Cardano utilizing CardanoCrocClub's incubation services. Many layers to this project, but all work around their ecosystem token, $C4.
     
 *   [Cardano Crystal SDK](https://github.com/blockfrost/blockfrost-crystal): a Crystal SDK for the [Blockfrost.io](//Blockfrost.io) API.
     
