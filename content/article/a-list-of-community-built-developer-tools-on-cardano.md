@@ -45,7 +45,17 @@ Here is a list of available tools and resources according to categories:
     
 *   [CTL (cardano-transaction-lib)](https://github.com/Plutonomicon/cardano-transaction-lib): a Purescript library for building smart contract transactions on Cardano. CTL aims to port the functionality and interface of Plutus off-chain code to the browser environment and NodeJS.
     
+*   [Marlowe CLI](https://docs.marlowe.iohk.io/docs/developer-tools/marlowe-cli): a command-line tool that provides access to Marlowe capabilities.
+    
 *   [Marlowe Playground](https://marlowe.iohk.io/): an end-to-end financial smart contract development platform.
+    
+*   [Marlowe Runner](https://github.com/input-output-hk/marlowe-runner): a simple web app that allows you to deploy and progress through Marlowe contracts on Cardano easily from the browser.
+    
+*   [Marlowe Runtime](https://docs.marlowe.iohk.io/docs/developer-tools/runtime/marlowe-runtime): the application backend for managing Marlowe contracts on the Cardano blockchain
+    
+*   [Marlowe Scan](https://marlowescan.com/): a tool for visualizing Marlowe contracts on the Cardano blockchain.
+    
+*   [Marlowe TypeScript SDK](https://github.com/input-output-hk/marlowe-ts-sdk): a suite of TypeScript/JavaScript libraries for developing Web-Dapp in the Cardano Blockchain using Marlowe Technologies.
     
 *   [OpShin](https://github.com/ImperatorLang/eopsin): a simple Python programming language for smart contracts on Cardano.
     
@@ -104,8 +114,6 @@ Here is a list of available tools and resources according to categories:
     
 *   [Ogmios](https://ogmios.dev/): a lightweight bridge interface for cardano-node, which offers a WebSockets API enabling local clients to speak Ouroboros' mini-protocols via JSON/RPC.
     
-*   [Open CNFT Public Rest API](https://developers.opencnft.io): the OpenCNFT Cardano NFT REST-based API that allows access to a wealth of NFT metadata including ownership, activity, and transaction details in real-time. 
-    
 *   [Pallas](https://github.com/txpipe/pallas#readme): an expanding collection of modules that re-implements common Ouroboros / Cardano logic in native Rust. This packaging doesn't provide any particular application, it is meant to be used as a base layer to facilitate the development of higher-level use cases, such as explorers, wallets, etc.
     
 *   [PyCardano](https://pycardano.readthedocs.io/en/latest/): a Cardano library written in Python. It allows users to create and sign transactions without depending on third-party Cardano serialization tools, such as cardano-cli and cardano-serialization-lib, making it a lightweight library, which is simple and fast to set up in all types of environments.
@@ -123,8 +131,6 @@ Here is a list of available tools and resources according to categories:
     
 *   [Heidrun](https://github.com/adosia/Heidrun): an automation platform for Cardano that triggers various actions based upon the detection of a payment to a wallet address.
     
-*   [IntelliJ IDE](https://intelliada.bloxbean.com/): an IntelliJ plugin for the Cardano blockchain that enables developers to interact with Cardano directly from their IDE.
-    
 *   [Kupo](https://cardanosolutions.github.io/kupo/): a lightweight, configurable, chain-index for the Cardano blockchain.
     
 *   [Scrolls](https://github.com/txpipe/scrolls#readme): a tool to build and maintain read-optimized collections of Cardano's on-chain entities. The tool crawls the history of the chain and aggregates all data to reflect the current state of affairs. Once the whole history has been processed, Scrolls watches the tip of the chain to keep the collections up-to-date.
@@ -139,17 +145,13 @@ Here is a list of available tools and resources according to categories:
 
 ## Open source, developer tools, decentralized protocols, enterprise apps
 
-*   [AdaDAO](https://www.theadao.io/): open source tools to support DAO infrastructure and promote decentralization.
-    
 *   [Atlas](https://github.com/geniusyield/atlas): an application backend for Plutus smart contracts on Cardano.
     
 *   [Cardano-kit-crystal](https://github.com/wout/cardano-kit): a toolkit for Crystal to ease development for the Cardano blockchain.
     
-*   [Cardano e2e example](https://github.com/joinplank/cardano-e2e-example): a simple Cardano DApp example.
-    
 *   [Cardano stack Exchange](https://cardano.stackexchange.com/)**:** Cardano Stack Exchange is a question-and-answer site for users and developers of the Cardano cryptocurrency ecosystem.
     
-*   [Clarity Protocol](https://www.clearcontracts.io/): the Clarity Protocol provides a platform to create and manage DAOs with no code.
+*   [Clarity Protocol](https://clarity.community/): the Clarity Protocol provides a platform to create and manage DAOs with no code.
     
 *   [Dandelion APIs](https://gimbalabs.com/dandelion): a set of developer tools to help with fast integration into the Cardano chain.
     
@@ -163,7 +165,7 @@ Here is a list of available tools and resources according to categories:
     
 *   [Oura](https://github.com/txpipe/oura): a Rust-native implementation of a pipeline that connects to the tip of a Cardano node through a combination of Ouroboros mini-protocols (using either a UNIX socket or TCP bearer).
     
-*   [UTxO selection benchmark](https://github.com/dcSpark/utxo-selection-benchmarking): a library that can be used to compare the algorithms: how they behave, how they affect the fees, and what will be the final UTXO sets.
+*   [UTXO selection benchmark](https://github.com/dcSpark/utxo-selection-benchmarking): a library that can be used to compare the algorithms: how they behave, how they affect the fees, and what will be the final UTXO sets.
     
 *   [Wallet OneBox](https://github.com/txpipe/wob): provides a single cohesive tool that one can use to set up downstream indexers and RPC services required to support common endpoints needed to run a wallet.
     
@@ -187,7 +189,7 @@ Here is a list of available tools and resources according to categories:
 
 ## Plutus-specific tools
 
-*   [Fracada](https://github.com/dcSpark/fracada): a Plutus DApp that enables users to fractionalize their NFTs.
+*   [Fracada Il Primo](https://github.com/dcSpark/fracada-il-primo): a Plutus DApp that enables users to fractionalize their NFTs.
     
 *   [Pluthon](https://github.com/OpShin/pluthon): a Pluto-like programming language for Cardano smart contracts in Python
     
