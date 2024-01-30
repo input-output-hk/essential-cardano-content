@@ -17,7 +17,7 @@ More progress has been made on the enhancement of a specialized ‘Imp’ test l
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 Last week, the **Lace** team attended the Cardano Summit 2023, where team members met many project leaders interested in collaborating with IOG. They also worked on enhancing the multi-staking feature which will be released next week. 
 
@@ -39,13 +39,17 @@ Finally, they resolved the naming issue of the [Docker package](https://github.c
 
 Last week, the **Voltaire** team worked hard alongside several team members present at the Cardano Summit (while others supported remotely) to showcase the progress made toward Cardano’s on-chain governance.
 
-Highlights from the Cardano Summit include:  
+Highlights from the Cardano Summit include:
 
 *   A tech demo of GovTool
+    
 *   A tech demo of SanchoNet
+    
 *   The announcement of the Cardano ballot for CIP-1694
+    
 *   Panel discussions on the importance of community governance, and the importance of Intersect in Cardano governance
     
+
 Over 150 community members signed up to join Intersect. The Cardano Summit 2023 was an excellent opportunity to exhibit the ongoing progress towards the age of Voltaire to the broader community.
 
 ### CATALYST
@@ -76,7 +80,7 @@ Last week, several members of the **Education** team were present at the Cardano
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームはCardanoサミット2023に参加し、IOGとのコラボレーションに興味を持つ多くのプロジェクトリーダーたちと会いました。来週リリースされるマルチステーキング機能の強化にも取り組みました。 
 
@@ -101,10 +105,14 @@ Voltaireチームは、Cardanoサミットに出席した複数のチームメ�
 Cardanoサミットのハイライトは以下のとおりです。
 
 *   GovToolの技術デモ
+    
 *   SanchoNetの技術デモ
+    
 *   CIP-1694 Cardano Ballotの発表
+    
 *   コミュニティガバナンスの重要性およびCardanoガバナンスにおけるIntersectの重要性に関するパネルディスカッション
     
+
 150を超えるコミュニティメンバーがIntersectに参加しています。Cardanoサミット2023は、Voltaire期へ向けた進捗をより広範なコミュニティに示す絶好の機会となりました。
 
 ### CATALYST
@@ -117,8 +125,69 @@ Catalyst VoicesプロジェクトとHermesプロジェクト用のオープン�
 
 製品になる前にユーザーが新しい機能を試し、開発ライフサイクルの早い段階でコミュニティからのフィードバックが得られるようにする、コミュニティ向けの新しいテストフレームワークの開発が進行中です。Fund10で資金提供をされたVoicesプロジェクトとHermesプロジェクトのマイルストン1の達成証明として、数週間内に、オープンソースとコミュニティテストのイニシアチブが紹介されます。
 
-[Catalyst Telegram](https://t.me/cardanocatalyst)の案内チャネルに参加して、Project Catalystの最新情報を入手してください。  
+[Catalyst Telegram](https://t.me/cardanocatalyst)の案内チャネルに参加して、Project Catalystの最新情報を入手してください。
 
 ### 教育
 
 **教育**チームは、一部のメンバーがCardanoサミットに出席してプログラムとコースを宣伝し、コミュニティと交流しました。Africa Blockchain CenterとのCardanoトレーニングプログラムに関する[記事](https://www.linkedin.com/pulse/iog-concludes-cardano-training-program-africa-blockchain-trajc%3FtrackingId=wv%252FlEaO5SaSJSA9VedBuvg%253D%253D/?trackingId=wv%2FlEaO5SaSJSA9VedBuvg%3D%3D)を公開し、現在Marloweの教育コンテンツに取り組んでいます。
+
+\---
+
+En el transcurso de esta semana, los equipos de tecnología central han seguido trabajando en las mejoras de los nodos, las redes y el consenso.
+
+A lo largo de las últimas semanas, el equipo del **ledger** se centró en las mejoras de calidad de la implementación de la era Conway y en las herramientas utilizadas para las pruebas del ledger. Solucionaron varios errores relacionados con el uso correcto de los umbrales DRep para la ratificación, las retiradas de tesorería, la instantánea de la distribución de estacas DRep y las opciones de delegación. Asimismo, trabajaron en algunos añadidos relacionados con Conway, como los eventos del ledger de Conway, la prohibición de votar propuestas caducadas y el anclaje del comité constitucional. Además, se mejoró las interfaces reutilizables para un conjunto ordenado `OSet` y un mapa ordenado `OMap`, que permitían inhabilitar certificados y propuestas duplicados en una transacción. También reorganizó las funcionalidades de Plutus como preparación para la integración de Plutus v3.
+
+Se ha avanzado más en la mejora de una biblioteca de pruebas especializada `Imp` que permite escribir pruebas unitarias concisas y llenas de estado para verificar la lógica del ledger, y pruebas de conformidad, que permiten interactuar con código generado por Haskell a partir de la especificación Agda. Por último, ampliaron las pruebas de serialización para aumentar la cobertura de conformidad binaria.
+
+Consulte, como siempre, [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
+
+# WALLETS Y SERVICIOS
+
+El equipo **Lace** asistió la semana pasada a la Cumbre Cardano 2023, donde los miembros del equipo conocieron a muchos líderes de proyectos interesados en colaborar con IOG. Además trabajaron en la mejora de la función multi staking que se lanzará la próxima semana.
+
+# SMART CONTRACTS
+
+El equipo de herramientas de **Plutus** siguió trabajando en las consultas a la API de Marconi, en las pruebas del emulador de nodos cardano y en las mejoras de la documentación de usuario.
+
+La semana pasada, el equipo de **Marlowe** presentó dos talleres en la Cumbre Cardano 2023 en los que se exploró el conjunto de herramientas de Marlowe, las funciones de seguridad, la creación de DApp y los smart contracts para principiantes.
+
+Se revisó las [comprobaciones de seguridad](https://github.com/input-output-hk/marlowe-cardano/pull/741) para los roles abiertos en Runtime, añadió [pruebas de integración](https://github.com/input-output-hk/marlowe-cardano/pull/726) para los roles abiertos, trabajó en la [documentación](https://github.com/input-output-hk/marlowe-cardano/pull/726) relacionada y añadió una [lección](https://github.com/input-output-hk/marlowe-starter-kit/pull/46) sobre los roles abiertos al kit de inicio de Runtime. También revisaron y probaron la DApp de vesting, añadieron el [prototipo de plan de tokens de Marlowe](https://github.com/input-output-hk/marlowe-token-plans/pull/23/files#diff-789ba9dd14c60b18005402df87d89938f1a38bba8f92fbb5ed0fc87c045b1093), mejoraron el [rastreo](https://github.com/input-output-hk/marlowe-cardano/pull/735) para los protocolos de sincronización en cadena de Marlowe, probaron el Runner MVP y mejoraron el [widget de conexión](https://github.com/input-output-hk/marlowe-vesting/pull/19) en marlowe-tokens-plans.
+
+# ESCALADO
+
+El equipo de **Mithril** siguió trabajando en la adaptación del \[cliente como biblioteca\] de Mithril([Light Wallet: Release](https://github.com/input-output-hk/mithril/issues/1311) `mithril-client` [library · Issue #1311 · input-output-hk/mithril · GitHub](https://github.com/input-output-hk/mithril/issues/1311)), que está casi terminada. Avanzaron en la descentralización de las redes Mithril con la prueba de concepto de red [peer-to-peer](https://github.com/input-output-hk/mithril/issues/1300) (P2P), para la que han logrado la implementación de una demo de trabajo muy básica con un mecanismo de publicación-suscripción peer-to-peer (pub-sub). Se siguió trabajando en el [cálculo determinista](https://github.com/input-output-hk/mithril/issues/1283) del conjunto UTXO/transacciones a partir de los archivos inmutables.
+
+Por último, resolvieron el problema de denominación del [paquete Docker](https://github.com/input-output-hk/mithril/issues/1322) encargado de almacenar las imágenes de la nueva CLI cliente de Mithril y siguieron tratando un problema de rendimiento asociado al agregador ‘release-mainnet’.
+
+# VOLTAIRE
+
+El equipo **Voltaire** ha trabajado duro la semana pasada junto a varios miembros del equipo presentes en la Cumbre Cardano (mientras otros apoyaban a distancia) para mostrar los progresos realizados hacia la gobernanza en la cadena de Cardano.
+
+Entre los aspectos más destacados de la Cumbre Cardano se incluyen:
+
+*   Una demostración técnica de GovTool
+    
+*   Una demostración técnica de SanchoNet
+    
+*   El anuncio de la votación de Cardano para el CIP-1694
+    
+*   Paneles de debate sobre la importancia de la gobernanza comunitaria y la importancia de Intersect en la gobernanza de Cardano.
+    
+
+Más de 150 miembros de la comunidad se inscribieron para formar parte de Intersect. La Cumbre Cardano 2023 fue una excelente oportunidad para exponer a la comunidad en general los progresos en curso hacia la era de Voltaire.
+
+\*\*CATALYST
+
+Esta semana, el equipo de **Catalyst** se encuentra en las fases finales de perfeccionamiento de la aplicación móvil y del backend para Fund11. Se han concentrado en mejorar el rendimiento y la funcionalidad para garantizar una experiencia de usuario de primer nivel, incluyendo mejoras como tiempos de carga más rápidos y actualizaciones casi en tiempo real sobre el registro o el poder de voto.
+
+Al mismo tiempo, se está trabajando en la introducción de un sólido entorno de pruebas de carga para elevar las capacidades de comprobación. Este movimiento estratégico pretende fortificar la resistencia del sistema, garantizando un rendimiento óptimo bajo diversas cargas y ofreciendo una visión de cualquier problema.
+
+Los equipos están entusiasmados por ampliar las oportunidades de colaboración mediante el establecimiento de repositorios de código abierto para los proyectos Catalyst Voices y Hermes. Esta iniciativa se alinea con el compromiso de fomentar la innovación y el compromiso de la comunidad. Ya han iniciado el trabajo fundacional para el backend de Catalyst Voices, que está disponible en el repositorio de código abierto.
+
+Actualmente están creando un nuevo entorno de pruebas comunitarias para que los usuarios puedan probar las nuevas funciones antes de que lleguen a producción, lo que permitirá a la comunidad ofrecer sus comentarios en una fase más temprana del ciclo de vida del desarrollo. Las iniciativas de código abierto y de pruebas comunitarias se presentarán en las próximas semanas como prueba de los logros del hito 1 de los proyectos Voices y Hermes financiados en el Fondo 10.
+
+Únase al canal de anuncios de [Catalyst Telegram](https://t.me/cardanocatalyst) para estar al día de todo lo que ocurre en el Proyecto Catalyst.
+
+# EDUCACIÓN
+
+La semana pasada, varios miembros del equipo de **Educación** estuvieron presentes en la Cumbre Cardano para promocionar sus programas y cursos y conocer a la comunidad. Publicaron un [artículo](https://www.linkedin.com/pulse/iog-concludes-cardano-training-program-africa-blockchain-trajc%3FtrackingId=wv%252FlEaO5SaSJSA9VedBuvg%253D%253D/?trackingId=wv%2FlEaO5SaSJSA9VedBuvg%3D%3D) sobre el programa de formación de Cardano con el Africa Blockchain Center, y ahora están trabajando en el contenido educativo de Marlowe.
