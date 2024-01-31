@@ -1,5 +1,5 @@
 ---
-title: 🎢 Gimbalabs Playground 🎡 - Season 3. All Tuesdays, 1800 UTC - 31-01-2024
+title: 🎢 Gimbalabs Playground 🎡 - Season 3. Tuesdays from 1800 UTC - 31-01-2024
 tags:
   - Gimbalabs
   - gimbalabs playground
