@@ -19,7 +19,7 @@ Finally, they fixed the return of deposits for `ProposalProcedures`, improved te
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team focused on a quick update to version 1.7.1. This release addresses several issues, including those associated with the DApp connection to the Lace wallet. Additionally, the team implemented enhancements to optimize the interaction between Lace and ada handles by resolving challenges arising from slow network disruptions affecting the send flow, and fixing some issues with transaction bundles specific to wallets with ada handles. 
 
@@ -69,7 +69,7 @@ ProposalProceduresのデポジットの返還を修正し、テストツール�
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームはバージョン1.7.1へのクイックアップデートに焦点を当てました。このリリースでは、DAppのLaceウォレットへの接続に関連する問題など、いくつかの問題が解決されています。送信フローに影響を与えるネットワークの遅さから生じる問題を解決し、ADAハンドルを使用しているウォレットに生じるトランザクションバンドルの問題を修正した、LaceとADAハンドル間のインタラクションを最適化するための拡張を実装しました。 
 
@@ -104,3 +104,51 @@ Voltaireチームは、CIP-1694によるオンチェーンおよびオフチェ�
 ### 教育
 
 **教育**チームは、引き続き社内向けのMaths Academyコースを実施しました。Marlowe教育に関するタスクにも取り組みました。
+
+\---
+
+Esta semana, los equipos de **tecnología de núcleo** publicaron el [análisis inicial de seguridad y respuestas para el CIP-1694](https://input-output-hk.github.io/cardano-updates/2023-11-20-cip1694). En él se tratan diversos aspectos, como el comité constitucional, el tamaño del comité, los plazos, los DReps registrados, la ratificación, el contenido, los grupos de parámetros de protocolo, las votaciones, la separación entre el inicio de un hard fork y los cambios en los parámetros de protocolo estándar, y las actualizaciones posteriores al taller de Edimburgo. Incluye también debates sobre la reducción de depósitos para acciones de gobierno específicas.
+
+A lo largo de las últimas semanas, el equipo de **networking** ha seguido revisando [la implementación de los compañeros de bootstrap](https://github.com/input-output-hk/ouroboros-network/pull/4555), ha preparado diapositivas de presentación para un encuentro de Haskell en el que debatieron sobre IOSimPOR, y ha trabajado en la refactorización de la [base de código de IOSim](https://github.com/input-output-hk/io-sim/pull/117). También [publicaron io-sim-1.3.0.0](https://github.com/input-output-hk/io-sim/pull/119) en Hackage y abordaron la deuda técnica mediante la [refactorización del recurso](https://github.com/input-output-hk/ouroboros-network/pull/4707) utilizado por el subsistema DNS y la revisión de la [refactorización del módulo RootPeersDNS](https://github.com/input-output-hk/ouroboros-network/pull/4625).
+
+El equipo del **ledger** se centró en las pruebas, la corrección de errores y la mejora de la claridad de la especificación CDDL. Arreglaron el fallo de deserialización del predicado `ValueNotConservedUTxO`, asegurando la notificación precisa de ada cero, y abordaron la deserialización de `CostModels` en el `PParamsUpdate`, permitiendo solo `CostModels` válidos para versiones de Plutus no reconocidas a partir de Conway.
+
+Además, han corregido la devolución de depósitos para `ProposalProcedures`, han mejorado las herramientas de prueba y han implementado nuevas pruebas para la era Conway.
+
+Como siempre, consulte [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
+
+# WALLETS Y SERVICIOS
+
+El equipo de **Lace** se ha centrado esta semana en una rápida actualización a la versión 1.7.1. Esta versión soluciona varios problemas, incluidos los relacionados con la conexión de la DApp al wallet de Encaje. Además, el equipo implementó mejoras para optimizar la interacción entre Lace y los handles ada, resolviendo los problemas derivados de las interrupciones lentas de la red que afectan al flujo de envíos, y solucionando algunos problemas con los paquetes de transacciones específicos de los wallets con handles ada.
+
+# SMART CONTRACTS
+
+El equipo de **herramientas** de **Plutus** continuó trabajando en las consultas a la API de Marconi, el emulador de nodos cardánicos de Marconi y las mejoras en la documentación. El equipo de Plutus Core corrigió un error en Plutus Tx que provocaba que la compilación fallara con un error ‘Cannot case on a value’ cuando se utilizaban primitivas BLS.
+
+Esta semana, el equipo **Marlowe** [actualizó](https://github.com/input-output-hk/marlowe-plutus/pull/7/commits/0837bda9ea09530e89acb61dad21c5954ebf23e7#r1397610189) el repositorio marlowe-plutus, actualizó las [dependencias](https://github.com/input-output-hk/marlowe-cardano/pull/753) de `plutus` para `marlowe-plutus, y [actualizó](https://github.com/input-output-hk/marlowe/pull/198) el repositorio Marlowe a IOGX y GHC v.9.2.8. También [añadieron](https://github.com/input-output-hk/marlowe-ts-sdk/pull/89)` computeTransaction`al TS-SDK para permitir las pruebas unitarias de contratos, [cambiaron el tiempo inicial](https://github.com/input-output-hk/marlowe-playground/pull/57) para que los contraejemplos se muestren de forma legible en Marlowe Playground, y mejoraron la estructura del formulario en el flujo`Aplicar entradas\` en Marlowe Runner.
+
+Además, se aseguraron de que los contadores son positivos en [Agda semantics](https://github.com/input-output-hk/marlowe-agda/blob/fb075463d18462522d69bc4b55653c13418a8cad/src/Marlowe/Language/State.agda#L25).
+
+# ESCALADO
+
+El equipo **Hydra** abordó esta semana los errores engañosos relativos a las transacciones ‘collect com’, resolvió un problema de [aviso de seguridad](https://github.com/input-output-hk/hydra/security/advisories/GHSA-gr36-mc6v-72qq) y simplificó el protocolo Hydra Head [utilizando datos en línea](https://github.com/input-output-hk/hydra/pull/1162). El equipo también abordó [incoherencias](https://github.com/input-output-hk/hydra/issues/1104) menores en las especificaciones y la implementación, [documentó las razones](https://github.com/input-output-hk/hydra/issues/1039) de las transacciones `cerradas` potencialmente descartadas por el nodo Cardano, y colaboró con SundaeLabs en un modo fuera de línea para el nodo Hydra. Además, entablaron debates con los investigadores sobre las des/compromisos incrementales.
+
+El equipo **Mithril** avanzó esta semana en la descentralización de las redes Mithril con la prueba de concepto de red entre pares (P2P), [completando el primer prototipo](https://github.com/input-output-hk/mithril/issues/1326) de implementación del relé Mithril, que permite la difusión de firmas P2P. También avanzaron en la optimización del [rendimiento del agregador](https://github.com/input-output-hk/mithril/issues/1327). Además, el equipo completó algunas mejoras en el [CI/CD](https://github.com/input-output-hk/mithril/issues/1355) que ayudarán a [desplegar manualmente](https://github.com/input-output-hk/mithril/issues/1356) redes Mithril experimentales para SanchoNet, así como para la nueva capa de red P2P.
+
+Asimismo, investigaron problemas ocasionales de tiempo de ejecución que causaban retrasos en ciertos SPO y comenzaron a preparar la próxima versión de la distribución.
+
+# VOLTAIRE
+
+El equipo de **Voltaire** continuó esta semana la preparación de la votación especial de Cardano para evaluar los avances en la gobernanza dentro y fuera de la cadena con CIP-1694. La instantánea para los wallets participantes se tomó el 21 de noviembre, y la votación tendrá lugar del 1 al 11 de diciembre. Se anima a los titulares de Ada a que aprovechen esta oportunidad para expresar su postura sobre el progreso de la gobernanza del CIP-1694.
+
+# CATALYST
+
+El equipo del **Proyecto Catalyst** ha continuado esta semana su emisión regular con un ayuntamiento semanal los miércoles a las 17.00 UTC. Puede volver a ver [el segmento de esta semana aquí](https://www.youtube.com/watch?v=_5n7KaOAvWM) o inscribirse para el próximo [a través de esta página](https://projectcatalyst.io/news/town-hall).
+
+En otras noticias, ya se ha completado la integración del módulo de hitos con la [página web del Proyecto Catalyst](https://projectcatalyst.io/). Además, se ha ejecutado una actualización completa de los datos, que abarca los datos de la cohorte del Fondo 10. Esto permite a los usuarios realizar un seguimiento eficaz del progreso de cada proyecto financiado dentro de [el programa de hitos](https://docs.projectcatalyst.io/project-catalyst-funds/previous-funds/fund10/how-to-submit-project-milestones). Basta con buscar [su proyecto del Fondo 10 preferido](https://projectcatalyst.io/funds/10) y navegar hasta la página de resumen para encontrar la barra de progreso y el enlace a [hitos reales](https://milestones.projectcatalyst.io/). Esto supone otro logro significativo en la mejora de la responsabilidad general de los beneficiarios de los fondos.
+
+Y por último, esta semana se ha abierto el plazo de inscripción para la fase de revisión comunitaria. Si desea ayudar a evaluar los proyectos antes de que pasen a la fase de votación, visite [cardano.ideascale.com](//cardano.ideascale.com) y regístrese a través del formulario emergente justo después de iniciar sesión.
+
+# EDUCACIÓN
+
+Esta semana, el equipo de **Educación** continuó impartiendo el curso interno de la Academia de Matemáticas. También trabajaron en las tareas educativas de Marlowe.
