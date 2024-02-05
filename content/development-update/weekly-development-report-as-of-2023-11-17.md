@@ -21,7 +21,7 @@ They also continued improving the handling of blocks from the future and present
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team released [version 1.7](https://www.lace.io/blog/lace-1-7-0-release?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=weekly-dev-report&utm_content=link-blog), with updates for the multi-staking feature, such as new tools to reduce drift and better insights on staking pool retirement and saturation.
 
@@ -73,7 +73,7 @@ Genesisに関しては、Genesisテストのピアシミュレーターをレビ
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは[バージョン1.7](https://www.lace.io/blog/lace-1-7-0-release?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=weekly-dev-report&utm_content=link-blog)をリリースしました。これには、ドリフトを減らすための新しいツールや、ステーキングしているプールの廃止と飽和に関するより良い洞察など、マルチステーキング機能の更新が含まれます。
 
@@ -110,3 +110,55 @@ IOGの**Voltaire**チームは、Cardano財団、Intersect、EMURGOと協力し�
 ### 教育
 
 **教育**チームは、引き続き最近行われたABCとのHaskellコースの参加者からフィードバックを集めました。社内IOG Maths Academyの提供も継続しました。
+
+\---
+
+# TECNOLOGÍA DE NÚCLEO
+
+Durante las dos últimas semanas, el equipo **Consensus** ha sido capaz de hacer funcionar un nodo compatible con UTXO-HD en modo heredado, manteniendo el uso de memoria de referencia y conservando todo el estado del ledger en memoria (como hace el nodo actual). Esta modalidad heredada podría ofrecer una alternativa para lanzar un nodo capaz de UTXO-HD en el que los usuarios puedan elegir si almacenan o no la mayor parte del conjunto UTXO en disco. La implementación del modo heredado conlleva la duplicación del código y requiere varias semanas de integración y pruebas antes de lograr la preparación para la producción.
+
+Los equipos no lanzarán la función UTXO-HD antes que Conway a fin de evitar el riesgo de retrasar esta última. Por otro lado, para integrar el backend LSM-tree para UTXO-HD, es esencial rediseñar la capa de almacenamiento de consenso, y este nuevo diseño podría permitir la implementación de un almacén de respaldo en memoria alternativo que tendrá un rendimiento y unos requisitos de recursos muy similares a los del nodo Cardano actual. Por ello, durante los próximos meses, el equipo centrará sus esfuerzos en rediseñar la capa de almacenamiento y el backend LSM-tree.
+
+En el frente de Génesis, el equipo revisó el simulador de pares para las pruebas de Génesis, que fue implementado por Tweag y aprobado por el equipo de consenso.
+
+Asimismo, siguieron mejorando el manejo de los bloques del futuro y presentaron posibles enfoques en la reunión de científicos jefe en IOG, que fue muy bien recibida. En el debate con los científicos del IOG se abordó la relación de este enfoque con [Ouroboros Chronos](https://iohk.io/en/blog/posts/2021/10/27/ouroboros-chronos-provides-the-first-high-resilience-cryptographic-time-source-based-on-blockchain/).
+
+Consulte, como siempre, [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
+
+# WALLETS Y SERVICIOS
+
+El equipo de **Lace** lanzó la [versión 1.7](https://www.lace.io/blog/lace-1-7-0-release?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=weekly-dev-report&utm_content=link-blog), con actualizaciones para la función de múltiples stakes, como nuevas herramientas para reducir la deriva y mejores perspectivas sobre la jubilación y saturación de los staking pools.
+
+# SMART CONTRACTES
+
+El equipo de **Herramientas** de **Plutus** siguió trabajando en las consultas de la API de Marconi, el emulador de nodos cardánicos de Marconi y las mejoras de la documentación.
+
+El equipo de **Marlowe** mejoró el rendimiento de la \[operación\] `FindTxsFor`([PLT-8241 find txs for performance by jhbertra · Pull Request #744 · input-output-hk/marlowe-cardano · GitHub](https://github.com/input-output-hk/marlowe-cardano/pull/744)) y del [indexador de cadenas](https://github.com/input-output-hk/marlowe-cardano/pull/738). También probaron el prototipo de DApp de vesting, publicaron el plan de tokens [README](https://github.com/input-output-hk/marlowe-token-plans/pull/29), y probaron la funcionalidad del Marlowe Runner, añadiendo también enlaces relevantes al explorador y al Playground. Además, el equipo actualizó la descripción general de ‘Deploying Marlowe Runtime’ para que fuera coherente con el kit de inicio de Marlowe, revisó la documentación de usuario para TS-SDK y [definió](https://github.com/input-output-hk/marlowe-agda/pull/1) la semántica de pasos pequeños en Agda.
+
+# ESCALADO
+
+Durante las dos últimas semanas, el equipo **Hydra** publicó el [informe de octubre](https://hydra.family/head-protocol/monthly/2023-10) e hizo una presentación y un taller en la Cumbre Cardano, con lo que contribuyó al compromiso de la comunidad. También implementaron una solución ‘dirt road’ para la notificación ‘Ignored init tx’ y trasladaron el proyecto de ejemplo hydra-poll a un \[repositorio\] dedicado([GitHub - cardano-scaling/hydra-poll](https://github.com/cardano-scaling/hydra-poll)). Además, el equipo construyó una [herramienta hydra-chain-observer](https://github.com/input-output-hk/hydra/issues/1096) para los jefes de Hydra, actualizó la cadena de herramientas a GHC [v.9.6.3](https://github.com/input-output-hk/hydra/pull/1135) e introdujo diversas mejoras en las herramientas y el formato del código. Abordaron cuestiones específicas, como la corrección del [comando gen-hydra-keys](https://github.com/input-output-hk/hydra/issues/1136) y la resolución de problemas con el hydra-tui reescrito. El equipo también mejoró el conjunto de pruebas de humo de hydra-cluster mediante la [obtención dinámica de configuraciones de red](https://github.com/input-output-hk/hydra/pull/1156).
+
+Finalmente, revisaron múltiples pull requests y registros de decisiones arquitectónicas de la comunidad, incluyendo contribuciones de SundaeSwap. La Fundación Cardano completó y desplegó un experimento, el recuento Hydra, en la red principal.
+
+Esta semana, el equipo **Mithril** completó la adaptación del cliente Mithril como biblioteca. Progresaron en la descentralización de las redes Mithril con la prueba de concepto de red entre pares (P2P), logrando la implementación de la difusión de firmas P2P con el relé en las pruebas de extremo a extremo. Adicionalmente, el equipo completó la prueba de concepto para el cálculo determinista del conjunto UTXO/transacciones a partir de archivos inmutables.
+
+Siguieron abordando algunos problemas de rendimiento asociados al agregador “release-mainnet” y solucionaron un error de la herramienta utilizada para procesar el recálculo de hash de certificados por lotes.
+
+# VOLTAIRE
+
+Esta semana, el equipo de **Voltaire** de IOG, en colaboración con la Fundación Cardano, Intersect y EMURGO, trabajó en la preparación de la votación de Cardano. Tras 400 comentarios en GitHub, 50 talleres globales en 23 países y más de 1.000 participantes, el CIP-1694 se someterá a votación.
+
+Esta votación está diseñada como una “comprobación de temperatura”, ofreciendo la oportunidad a los titulares de adas de diversos orígenes de expresar sus opiniones sobre el futuro proceso de toma de decisiones para la blockchain Cardano. La votación tendrá lugar del 1 al 11 de diciembre de 2023. Los titulares de ada deben haber delegado su ada en un operador de stake pool (SPO) antes del 20 de noviembre de 2023, ya que los titulares deben stackear un mínimo de una lovelace para votar. Las votaciones están exentas de tarifas de transacción, y entre las carteras compatibles se encuentran la wallet Yoroi, Flint, Eternl, Nami, Typhon, Nufi, GeroWallet y Lace.
+
+Si desea participar y dar su opinión, diríjase a: [https://buff.ly/3QG7Y0t](https://buff.ly/3QG7Y0t)
+
+# CATALYST
+
+Esta semana, **Proyecto Catalyst** lanzó el Fondo11, con una ronda de financiación de 50 millones de ada para su redistribución con el fin de fomentar el crecimiento del ecosistema Cardano. Vea la [última grabación del ayuntamiento](https://bit.ly/40JXFgO) o explore la [guía de lanzamiento de Fund11](https://projectcatalyst.io/catalyst-fund-11-launch-guide.pdf). El Fondo11 incorpora cambios interesantes basados en los comentarios de la comunidad y en las lecciones aprendidas. Puede encontrar una visión general de alto nivel [aquí](https://docs.google.com/presentation/d/1uPx4-T1x8TbWOzozo-_G7megjeiYsLns7-2ciTWuYGw/edit#slide=id.g29b6a23edd7_0_87296).
+
+Ya están abiertas las presentaciones con nuevas categorías hasta el 30 de noviembre para los borradores públicos. El periodo de finalización de propuestas se amplía hasta el 7 de diciembre. ¿Está listo para presentar sus ideas y colaborar con la comunidad para obtener financiación? Visite [cardano.ideascale.com](//cardano.ideascale.com) hoy mismo y envíe sus borradores. Encuentre [más información aquí](https://projectcatalyst.io/funds/11).
+
+# EDUCACIÓN
+
+El equipo de **Educación** ha seguido recogiendo los comentarios de los participantes en el reciente curso de Haskell con ABC. También continuaron impartiendo la Academia de Matemáticas interna del IOG.
