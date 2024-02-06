@@ -18,9 +18,33 @@ Here is a list of available tools and resources according to categories:
 
 ## NFT creation tools
 
+*   [Anvil](https://ada-anvil.io/): a developer agency that provides advanced solutions for Web3 projects through various services.
+    
+*   [ArgusNFT](https://argusnft.com/): uses machine learning to analyze and distinguish original NFTs from similar NFTs and counterfeits across multiple blockchains – sharing insights with NFT marketplaces.
+    
+*   [Cardano Crocs Club](https://cardanocrocsclub.com/):  a Cardano-based NFT gaming ecosystem built around community and strong values.
+    
 *   [Cardano Sounds](https://cardano-sounds.gitbook.io/cardanosounds/cardano-sounds-platform/introduction): a platform aiming to create a new economy inside NFTs where individual creators can use each other's work in a trustless manner. This could enable artists to focus only on their specialization and personal expression by earning royalties from their published pieces when other creators use them.
     
+*   [Cardano Studio](https://www.cardano-studio.app/): create and mint NFTs on Cardano, no coding or trust in a third-party required.
+    
+*   [Cardano-Tools](https://cardano-tools.io/latest): a platform to mint, register, and explore Cardano NFTs on.
+    
+*   [CNFT Tools](https://cnft.tools/services): an NFT platform that provides minting, listing, stake pool setup, advertising, and community-building services.
+    
+*   [Creatious](https://creatious.io/): an incentivized tipping platform that enables community members to tip their favorite creators.
+    
+*   [Crossmint](https://blog.crossmint.com/): an enterprise-grade Web3 development platform to build NFT applications on without requiring any blockchain experience.
+    
+*   [DVOLD](https://dvold.com/#info): an asset tokenization platform for companies to authenticate their products and provide unbreakable security for their clients' purchases.
+    
 *   [Kreate Platform](https://kreate.community/home): a creator-first platform, making Web3 accessible to indie artists from all over! Focused on creating, this platform aims to get your art out there to new fans.
+    
+*   [MintMatrix](https://www.mintmatrix.io/): an asset tokenization platform leveraging simplified smart contracts.
+    
+*   [Mutant Labs](https://labs.mutant-nft.com/): a platform with a variety of utilities for NFT projects. We offer raffles, staking and whitelist management services for Cardano NFT projects. Our main goal is to bring fun to the NFT environment.
+    
+*   [NFT-GATR](https://gatr.netlify.app/): a codeless Web3 utility tool, currently in beta.
     
 *   [NFT-MACHINE](https://nft-machine.com): an NFT minting platform.
     
@@ -32,10 +56,26 @@ Here is a list of available tools and resources according to categories:
     
 *   [Pix](https://github.com/txpipe/pix): a CLI for managing NFT projects.
     
+*   [Saturn](https://saturnnft.io/): an NFT creation platform that leverages Multisig minting, in-app 10k file upload, customizable advanced whitelisting, and a 4k automated image generator to create NFT projects.
+    
 *   [Secret Goat Society](https://www.secretgoats.io/): an investment club and minting service for Cardano NFTs.
+    
+*   [Shrooms](https://www.shrooms.site/): provides knowledge and experience to guide projects through NFT creation with services such as vending machines, token faucets, staking, airdrops, and more.
     
 *   [Stampd.io](//Stampd.io): a set of tools for blockchain timestamping and NFT creation.
     
+*   [Starch Industries](https://www.abstractpotato.com/): using a mixture of on-chain and off-chain code Starch Industries provides mining software to users through Miner Token NFTs.
+    
+*   [Tekmirio](https://www.tekmirio.xyz/): a non-custodial NFT staking platform that tracks assets and develops reward programs.
+    
+*   [TheADA](https://theada.pro/): a decentralized and scalable NFT staking protocol, governed by the community.
+    
+*   [Uniscroll](https://www.uniscroll.io/): a platform that provides NFT creators with advisory, NFT development, reward program, and staking services.
+    
+*   [WenftDrops](https://wenftdrops.io/): a community-driven NFT calendar with pioneering utilities and insights.
+    
+
+[XForge](https://app.xforge.studio/): an NFT minting platform.
 
 ## Smart contract platforms
 
@@ -81,8 +121,6 @@ Here is a list of available tools and resources according to categories:
 *   [CardanoBI](https://cardanobi.io/): a fully open-source business intelligence API layer for Cardano.
     
 *   [Cardano Client Library](https://github.com/bloxbean/cardano-client-lib): a Java client library for Cardano that simplifies the interaction with the Cardano blockchain from a Java application.
-    
-*   [CardanoCrocClub](https://twitter.com/CardanoCrocClub): Cross-Chain Exchange released. Cardano's own SimpleSwap. UEX.Finance utilizes their cross-chain token $C4 and stablecoin $USDC4 (USDC Pegged). Their full-service ecosystem and dev teams make it ideal for incoming businesses to build on Cardano utilizing CardanoCrocClub's incubation services. Many layers to this project, but all work around their ecosystem token, $C4.
     
 *   [Cardano Crystal SDK](https://github.com/blockfrost/blockfrost-crystal): a Crystal SDK for the [Blockfrost.io](//Blockfrost.io) API.
     
