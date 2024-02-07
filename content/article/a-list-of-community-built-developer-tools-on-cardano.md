@@ -74,8 +74,8 @@ Here is a list of available tools and resources according to categories:
     
 *   [WenftDrops](https://wenftdrops.io/): a community-driven NFT calendar with pioneering utilities and insights.
     
-
-[XForge](https://app.xforge.studio/): an NFT minting platform.
+*   [XForge](https://app.xforge.studio/): an NFT minting platform.
+    
 
 ## Smart contract platforms
 
@@ -110,11 +110,11 @@ Here is a list of available tools and resources according to categories:
 
 *   [.NET SDK for Blockfrost API](https://github.com/blockfrost/blockfrost-dotnet#getting-started): an open-source SDK for .NET developers.
     
-*   [API3](https://api3.org/): API3 is leading the movement from legacy third-party oracle networks to first-party oracle solutions that deliver more security, efficiency, regulatory compliance, and simplicity.
-    
 *   [Automint](https://github.com/creativequotient/automint): a Python library for programmatic access to cardano-cli functions to facilitate transactions.
     
 *   [BlockFrost](http://blockfrost.io): an API for Cardano providing abstraction between user and blockchain data.
+    
+*   [blockrockZ](https://blockrockz.io/): a project that provides a powerful GraphQL and REST API for seamless integration between the Cardano Blockchain and various applications.
     
 *   [Cardano-CLI](https://github.com/IntersectMBO/cardano-cli): the associated command-line interface for interacting with a Cardano node, managing addresses, or generating transactions.
     
@@ -150,6 +150,8 @@ Here is a list of available tools and resources according to categories:
     
 *   [Mesh SDK](https://meshjs.dev/): an open-source library providing numerous tools to easily build powerful DApps on the Cardano blockchain.
     
+*   [Modulo-P](https://github.com/modulo-p): a development crew that focuses on bringing Zero-Knowledge tech to Cardano.
+    
 *   [Ogmios](https://ogmios.dev/): a lightweight bridge interface for cardano-node, which offers a WebSockets API enabling local clients to speak Ouroboros' mini-protocols via JSON/RPC.
     
 *   [Pallas](https://github.com/txpipe/pallas#readme): an expanding collection of modules that re-implements common Ouroboros / Cardano logic in native Rust. This packaging doesn't provide any particular application, it is meant to be used as a base layer to facilitate the development of higher-level use cases, such as explorers, wallets, etc.
@@ -160,20 +162,32 @@ Here is a list of available tools and resources according to categories:
     
 *   [Tango Crypto](https://www.tangocrypto.com/): a suite of high-availability APIs and developer tools that provides fast and reliable access to the Cardano network so you can focus on building and growing your products.
     
+*   [tx-submit-api](https://github.com/blinklabs-io/tx-submit-api): a simple HTTP API which accepts a CBOR encoded Cardano transaction as a payload body and submits it to a Cardano full node using the Ouroboros LocalTxSubmission Node-to-Client (NtC) protocol.
+    
 
 ## Data services, blockchain integration, automation
 
+*   [API3](https://api3.org/): API3 is leading the movement from legacy third-party oracle networks to first-party oracle solutions that deliver more security, efficiency, regulatory compliance, and simplicity.
+    
 *   [Cardano metadata oracle](https://github.com/fivebinaries/cardano-metadata-oracle): this repository contains the code and configuration files of the metadata oracle for Cardano.
+    
+*   [Chainlink](https://dev.chain.link/): enables smart contracts on any blockchain to leverage extensive off-chain resources, such as tamper-proof price data, verifiable randomness, keeper functions, external APIs, and much more.
     
 *   [Fluree](https://flur.ee/): the full spectrum of data management tooling for data-centric organizations – from the first step of integrating and migrating legacy system data infrastructure through to building modernized operational and analytical data infrastructure. 
     
-*   [Heidrun](https://github.com/adosia/Heidrun): an automation platform for Cardano that triggers various actions based upon the detection of a payment to a wallet address.
+*   [Heidrun](https://github.com/adosia/Heidrun): an automation platform for Cardano that triggers various actions based on the detection of a payment to a wallet address.
     
 *   [Kupo](https://cardanosolutions.github.io/kupo/): a lightweight, configurable, chain-index for the Cardano blockchain.
+    
+*   [Logosphere](https://www.logosphere.io/): Web3 protocol of interoperable metadata represented as a semantic knowledge graph, providing a framework for building interoperable decentralized applications.
+    
+*   [Orcfax](https://orcfax.io/): a decentralized Cardano oracle. Oracles publish data about the real world to blockchain smart contracts.
     
 *   [Scrolls](https://github.com/txpipe/scrolls#readme): a tool to build and maintain read-optimized collections of Cardano's on-chain entities. The tool crawls the history of the chain and aggregates all data to reflect the current state of affairs. Once the whole history has been processed, Scrolls watches the tip of the chain to keep the collections up-to-date.
     
 *   [TapTools](https://www.taptools.io/): a token, NFT, and wallet tracking platform.
+    
+*   [Wolfram Alpha](https://www.wolframalpha.com/): a major computational knowledge engine providing technology for major services. Wolfram Alpha acts as the so-called “answer-engine,” providing answers to factual queries directly by computing the answer from structured data. WBL integrates Cardano’s blockchain data into Wolfram Alpha, allowing developers to integrate external data into Cardano’s smart contracts.
     
 
 ## Native tokens
@@ -183,11 +197,19 @@ Here is a list of available tools and resources according to categories:
 
 ## Open source, developer tools, decentralized protocols, enterprise apps
 
+*   [Anastasia Labs](https://anastasialabs.com/): a Cardano smart contracts audit & development company, working on open-source infrastructure which makes developing on Cardano easier.
+    
 *   [Atlas](https://github.com/geniusyield/atlas): an application backend for Plutus smart contracts on Cardano.
+    
+*   [Blink Labs](https://blinklabs.io/projects-open-source): open-source software and custom solutions for the Cardano Blockchain.
+    
+*   [BlockMetro](http://io): helps launch projects on the Cardano with Web3 site design, app development, and web hosting services.
+    
+*   [BloxBean](https://www.bloxbean.com/): a list of open-source projects aimed at solving tooling issues and development challenges on blockchain protocols.
     
 *   [Cardano-kit-crystal](https://github.com/wout/cardano-kit): a toolkit for Crystal to ease development for the Cardano blockchain.
     
-*   [Cardano stack Exchange](https://cardano.stackexchange.com/)**:** Cardano Stack Exchange is a question-and-answer site for users and developers of the Cardano cryptocurrency ecosystem.
+*   [Cardano Stack Exchange](https://cardano.stackexchange.com/)**:** Cardano Stack Exchange is a question-and-answer site for users and developers of the Cardano cryptocurrency ecosystem.
     
 *   [Clarity Protocol](https://clarity.community/): the Clarity Protocol provides a platform to create and manage DAOs with no code.
     
@@ -203,11 +225,17 @@ Here is a list of available tools and resources according to categories:
     
 *   [Oura](https://github.com/txpipe/oura): a Rust-native implementation of a pipeline that connects to the tip of a Cardano node through a combination of Ouroboros mini-protocols (using either a UNIX socket or TCP bearer).
     
+*   [Sign with Wallet](https://signwithwallet.com/): an authentication tool for Web3 and Web2 apps that uses the oAuth2.0 protocol and secure message signing from a user's crypto wallet to allow them to log in with their wallet credentials instead of traditional social media accounts. Users can log in with a single set of credentials across multiple apps while also maintaining control over their data.
+    
+*   [TxPipe](https://txpipe.io/): open-source software for a decentralized world.
+    
 *   [UTXO selection benchmark](https://github.com/dcSpark/utxo-selection-benchmarking): a library that can be used to compare the algorithms: how they behave, how they affect the fees, and what will be the final UTXO sets.
     
 *   [Wallet OneBox](https://github.com/txpipe/wob): provides a single cohesive tool that one can use to set up downstream indexers and RPC services required to support common endpoints needed to run a wallet.
     
 *   [WingRiders/CAB Cardano Application Backend](https://github.com/WingRiders/cab): a library to help with the development of Cardano apps for browser and Node.js.
+    
+*   [zkFold](https://zkfold.io/): building a development framework for zero-knowledge smart contracts with short proving times and built-in automatic formal verification. This innovative solution allows for significantly faster and cheaper transactions while maintaining the high level of security and decentralization that Cardano is known for.
     
 
 ## Stake pool tooling
@@ -270,6 +298,6 @@ Here is a list of available tools and resources according to categories:
 *   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
     
 
-_The original list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, _and_ Fernando Sanchez. _The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
+_The original list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, Fernando Sanchez, and Rupert Whitehead. _The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
 
 _Essential Cardano is your site! If you would like to add tools to this list, please do so by suggesting an edit._
