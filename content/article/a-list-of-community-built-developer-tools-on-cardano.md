@@ -203,7 +203,7 @@ Here is a list of available tools and resources according to categories:
     
 *   [Blink Labs](https://blinklabs.io/projects-open-source): open-source software and custom solutions for the Cardano Blockchain.
     
-*   [BlockMetro](http://io): helps launch projects on the Cardano with Web3 site design, app development, and web hosting services.
+*   [BlockMetro](http://io): helps launch projects on the Cardano with Web3 site design, DApp development, and web hosting services.
     
 *   [BloxBean](https://www.bloxbean.com/): a list of open-source projects aimed at solving tooling issues and development challenges on blockchain protocols.
     
@@ -296,6 +296,31 @@ Here is a list of available tools and resources according to categories:
 *   [Carp (Cardano Postgres Indexer)](https://github.com/dcSpark/carp): a modular indexer that syncs Cardano blockchain information to a SQL Postgres database backend.
     
 *   [Testnet (tADA) faucet](https://docs.cardano.org/cardano-testnet/tools/faucet): the faucet is a web-based service that provides test ada to users of the testnet. While these tokens have no 'real world' value, they enable users to experiment with Cardano testnet features, without having to spend real ada on the mainnet.
+    
+
+## Governance tools
+
+*   [ADA Nordic SanchoNet Explorer](https://adanordic.com/): a platform with navigation links to explore different epochs, governance data, and pool information on SanchoNet.
+    
+*   [Agora](https://github.com/Liqwid-Labs/agora?tab=readme-ov-file#readme): a set of Plutus scripts that compose together to form a governance system, providing a one-size-fits-all governance library for projects on Cardano.
+    
+*   [Cardano Ballot](https://github.com/cardano-foundation/cf-cardano-ballot): a user-friendly, hybrid on- and off-chain voting system developed by [the Cardano Foundation](https://cardanofoundation.org/en/about-us/).
+    
+*   [Cardano Signer](https://github.com/gitmachtl/cardano-signer): an open-source multifunction tool that can sign and verify data. The tool can also be used for key generation, such as the creation of delegated representative (DRep) keys as well as constitutional committee (CC) cold and hot keys with mnemonic support.
+    
+*   [CIP-95 web/wallet interface](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0095/README.md): extends the existing [CIP-30](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0030/README.md) wallet-web bridge, to support the development of governance-related DApps.
+    
+*   [DripDropz Open Source On-Chain Voting](https://github.com/DripDropz/onchain-voting): an open-source solution powered by the Cardano blockchain that offers a framework for those looking to conduct governance or voting on the Cardano blockchain.
+    
+*   [Round Table](https://roundtable.adaodapp.xyz/): an open-source wallet that allows you to easily create a multi-signature wallet. This can support collective registration as a DRep.
+    
+*   [SanchoNet GovTool (Voltaire GovTool)](https://docs.sanchogov.tools/about/what-is-sanchonet-govtool): the SanchoNet GovTool allows ada holders to experience and test some of the governance features described in [CIP-1694](https://www.1694.io/) in a simple, guided experience. SanchoNet is the testnet version of the Voltaire GovTool, allowing ada holders to register to become DReps, delegate voting power, and review and vote on governance actions.
+    
+*   [Summon Platform](https://summonplatform.io/): allows ada holders to submit and vote on proposals for open and transparent decentralized autonomous organization (DAO) governance.
+    
+*   [Vote-supporting wallets](https://docs.sanchogov.tools/how-to-use-the-govtool/getting-started/get-a-compatible-wallet): not every Cardano wallet currently supports the ability to delegate a holder’s vote to a DRep or vote as a DRep on key governance issues. Current compatible wallets include [Lace](https://www.lace.io/), [Yoroi](https://yoroi-wallet.com/#/), [NuFi](https://nu.fi/), and [Demos](https://drive.google.com/file/d/1PegeogP3pEsASFsBiRNGjXSAEJ9T51xT/view) (a clone of the Nami wallet made for the beta, available on Chromium browsers with developer mode on and 'load unpacked').
+    
+*   [Voteaire](https://voteaire.io/): allows everyone in the ecosystem to create a poll. All results are weighted. All proposals and votes are stored publicly on-chain.
     
 
 _The original list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, Fernando Sanchez, and Rupert Whitehead. _The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
