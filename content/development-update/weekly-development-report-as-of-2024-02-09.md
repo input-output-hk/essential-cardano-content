@@ -32,6 +32,7 @@ The **Lace** team have been working on minor fixes, and are now preparing for th
 The **Plutus** team improved error reporting when scripts fail to decode, due to reasons such as using a built-in function unsupported by the Plutus language version of the script, or the current protocol version.
 
 ### SCALING  
+
 This week, the **Hydra** team published their [monthly report for January 2024](https://hydra.family/head-protocol/monthly/2024-01), enhanced user feedback for failed commands, updated `cardano-api` dependency and `GHC` to newer versions, reopened the persistent head in preparation for the hard fork, extended their model-based testing suite to cover the closing of heads, fixed a bug in `io-sim`, and actively contributed to the development of cardano-node.
 
 The **Mithril** team kept implementing a new data type for certifying Cardano transactions within Mithril networks. They completed the aggregator routes responsible for [generating proofs of membership](https://github.com/input-output-hk/mithril/issues/1467) for a list of Cardano transactions and for [listing produced artifacts](https://github.com/input-output-hk/mithril/issues/1478). Additionally, they worked on extending the Mithril client library to support the [verification of Cardano transactions](https://github.com/input-output-hk/mithril/issues/1468), and on the [creation of the new Mithril network running on SanchoNet.](https://github.com/input-output-hk/mithril/issues/1173)
@@ -74,7 +75,8 @@ Cardano財団と協力してtx-submission決定ロジックを改良し、SIGUSR
 
 **Plutus**チームは、スクリプトのPlutus言語バージョンや現在のプロトコルバージョンでサポートされていない組み込み関数を使用するなどの理由で、スクリプトがデコードに失敗した場合のエラーレポートを改良しました。
 
-スケーリング  
+### スケーリング  
+
 **Hydra**チームは[2024年1月の月次レポート](https://hydra.family/head-protocol/monthly/2024-01)を公開しました。失敗したコマンドに対するユーザーフィードバックを強化し、cardano-apiの依存関係とGHCを新しいバージョンに更新し、ハードフォークに備えて永続的なヘッドを再開しました。モデルベースのテストスイートを拡張してヘッドクローズをカバーし、io-simのバグを修正し、cardano-nodeの開発に積極的に貢献しました。
 
 **Mithril**チームは、Mithrilネットワーク内でのCardanoトランザクションを認証するための新しいデータ型の実装を継続しました。Cardanoトランザクションのリスト用の[メンバーシップ証明の生成](https://github.com/input-output-hk/mithril/issues/1467)と、[生成されたアーティファクトのリスト作成](https://github.com/input-output-hk/mithril/issues/1478)を担当するアグリゲータールートを完了しました。[Cardanoトランザクションの検証](https://github.com/input-output-hk/mithril/issues/1468)をサポートするためにMithrilクライアントライブラリを拡張し、[SanchoNetで動作する新しいMithrilネットワークの構築](https://github.com/input-output-hk/mithril/issues/1173)にも取り組みました。
@@ -89,6 +91,6 @@ SanchoNetは、CIP-1694の仕様に沿って、Cardanoブロックチェーン�
 
 今週の**Project Catalyst**では 、Fund11の投票が日本時間2月8日木曜日の午後8時に締め切られました。投票全体を通してエンゲージ、サポートしてくださったCardanoコミュニティに感謝します。今後の予定は集計と結果発表ですが、2月15日までに[Project CatalystのWebサイト](http://projectcatalyst.io)で公開される予定です。関連する結果は、[公式文書](http://docs.projectcatalyst.io)に準じて監査可能となります。
 
-教育
+### 教育
 
 **教育**チームは[African Blockchain Center](https://www.theafricablockchaincenter.com/)と協力して、来週オンラインで開催予定の第2回Cardano開発者コースを準備しています。現在、開発者の環境や講義の準備を進めています。
