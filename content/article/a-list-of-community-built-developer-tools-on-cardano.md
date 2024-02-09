@@ -310,6 +310,8 @@ Here is a list of available tools and resources according to categories:
     
 *   [CIP-95 web/wallet interface](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0095/README.md): extends the existing [CIP-30](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0030/README.md) wallet-web bridge, to support the development of governance-related DApps.
     
+*   [Clarity](https://www.clarity.community/): a platform that builds community governance and management tools for Cardano projects.
+    
 *   [DripDropz Open Source On-Chain Voting](https://github.com/DripDropz/onchain-voting): an open-source solution powered by the Cardano blockchain that offers a framework for those looking to conduct governance or voting on the Cardano blockchain.
     
 *   [Round Table](https://roundtable.adaodapp.xyz/): an open-source wallet that allows you to easily create a multi-signature wallet. This can support collective registration as a DRep.
