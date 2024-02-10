@@ -21,7 +21,7 @@ The **networking** team [worked on](https://updates.cardano.intersectmbo.org/202
 
 As always, see [this technical development report](https://updates.cardano.intersectmbo.org/archive/) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team released [Lace 1.8](https://www.lace.io/blog/lace-1-8-0-release?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=weekly-dev-report&utm_content=link-blog), bringing improved stake pool rewards performance in a graph, synchronization with other multi-address wallets, and several bug fixes.
 
@@ -75,7 +75,7 @@ Happy building and holidays ahead!
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://updates.cardano.intersectmbo.org/archive/)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace** チームはLace 1.8をリリースしました。ここでは、ステークプール報酬パフォーマンスのグラフ表示、他のマルチアドレスウォレットとの同期、バグ修正を行っています。
 
@@ -114,3 +114,57 @@ Voltaireチームは、CIP-1694のビジョンの実現に向けてコミュニ�
 [今年最後の第150回タウンホールが](https://www.youtube.com/watch?v=FgTiHQy5NK8)今週開催され、今年のイベント締めくくります。再開は、2023年1月10日です。現時点で、本プログラムでは[完了済みプロジェクトが700](https://docs.google.com/presentation/d/1kVPNaEpnDRAVXBkMxIIv7kZFRc4TSiCAV_HbXUq6nkM/edit#slide=id.g2a0501d164d_0_13)に上ります。 
 
 構築と休暇が楽しいものとなることをお祈りします。
+
+\---
+
+Apreciados miembros de la comunidad, tengan en cuenta que ésta es la última actualización de desarrollo de 2023. Reanudaremos la publicación el 12 de enero de 2024.
+
+¡Les deseamos a todos unas felices fiestas y un fantástico Año Nuevo! ![:christmas_tree:](https://emoji.discourse-cdn.com/apple/christmas_tree.png?v=12 ":christmas_tree:")![:tada:](https://emoji.discourse-cdn.com/apple/tada.png?v=12 ":tada:") Que el próximo año les traiga nuevos logros, desarrollos emocionantes y un éxito continuado.
+
+# TECNOLOGÍA CENTRAL
+
+Esta semana, los equipos de **tecnología central** lanzaron [node v.8.7.2](https://github.com/input-output-hk/cardano-node/releases/tag/8.7.2) trayendo la refactorización CLI de [SanchoNet](https://sancho.network/get-started/) a mainnet para ofrecer a los equipos tiempo para actualizar sus componentes en preparación para el lanzamiento de v.9.0. La versión 8.7.2 también aporta mejoras en la capa de red P2P. Además, el equipo de nodos se centró en la [corrección de errores y optimizaciones del código](https://updates.cardano.intersectmbo.org/2023-12-08-node-cli-api/) como preparación para una versión apta para mainnet.
+
+El equipo de **redes** [trabajó en](https://updates.cardano.intersectmbo.org/2023-12-08-network/) el intercambio de pares, los pares de arranque, la aplicación de envío de transacciones y corrigió un error de `PeerSelection`.
+
+Consulte, como siempre, [este informe de desarrollo técnico](https://updates.cardano.intersectmbo.org/archive/) para obtener más detalles de los distintos equipos.
+
+# WALLETS Y SERVICIOS
+
+El equipo de **Lace** ha publicado [Lace 1.8](https://www.lace.io/blog/lace-1-8-0-release?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=weekly-dev-report&utm_content=link-blog), que aporta mejoras en el rendimiento de las recompensas de stake pools en un gráfico, sincronización con otros wallets multidirección y varias correcciones de errores.
+
+# CONTRATOS SMART CONTRACT
+
+Esta semana, el equipo de **Plutus** Core implementó la eliminación de subexpresiones comunes (CSE) para Untyped Plutus Core, lo que se tradujo en mejoras moderadas -y a veces significativas- de los costes y tamaños de la mayoría de las secuencias de comandos.
+
+Esta semana, el equipo de **Marlowe** ha trabajado en la mejora de los [validadores de Marlowe](https://github.com/input-output-hk/marlowe-plutus/pull/12), ha actualizado la [lección 10 del kit de inicio](https://github.com/input-output-hk/marlowe-cardano/pull/766), se ha asegurado de que el esquema generado [se dirige a OpenAPI 3.1.0](https://github.com/input-output-hk/marlowe-cardano/pull/769) en marlowe-cardano, ha alineado la documentación actual con la última versión, [ha eliminado algunos filtros](https://github.com/input-output-hk/marlowe-order-book-swap/pull/79) de marlowe-order-book-swap, y [ha corregido fallos de CI](https://github.com/input-output-hk/marlowe-ts-sdk/pull/121). Además, el equipo creó [un documento de versión para TS-SDK](https://github.com/input-output-hk/marlowe-ts-sdk/pull/111), añadió [soporte](https://github.com/input-output-hk/marlowe-ts-sdk/pull/114) para Deno y NodeJS, y [reorganizó](https://github.com/input-output-hk/marlowe-doc/pull/196) y editó la nueva versión de la [visión general de TS-SDK](https://github.com/input-output-hk/marlowe-doc/pull/197).
+
+Además, el equipo automatizó [escenarios de prueba](https://github.com/input-output-hk/marlowe-runner/commit/69626f7) del Marlowe Runner y mejoró el manejo de múltiples wallets, y creó un [proyecto Cabal](https://github.com/input-output-hk/marlowe-agda/commit/774e1bd) para el repositorio marlowe-agda.
+
+# ESCALADO
+
+El equipo **Hydra** publicó la versión [0.14.0](https://github.com/input-output-hk/hydra/releases/tag/0.14.0), que hace que la red Hydra sea más resistente, simplifica el protocolo de capa 1 utilizando datos en línea e incluye un ejecutable hydra-chain-observer. También [actualizaron las dependencias](https://github.com/input-output-hk/hydra/issues/1114) en preparación para la compatibilidad con Conway y completaron una refactorización sustancial en hydra-node utilizando [observación sin estado](https://github.com/input-output-hk/hydra/issues/1096), con el objetivo de mejorar la eficacia y el rendimiento del sistema. Por último, investigaron las regresiones relacionadas con las transacciones serializadas JSON y se plantearon abandonarlas en favor de la presentación solo de CBOR.
+
+El equipo **Mithril** completó la adaptación de la [biblioteca cliente Mithril](https://github.com/input-output-hk/mithril/issues/1336) para la compilación WASM ofreciendo una API JavaScript. También completaron la [prueba de concepto](https://github.com/input-output-hk/mithril/issues/1393) para demostrar que un subconjunto de transacciones de Cardano forma parte de todo el conjunto de transacciones. También finalizaron la refactorización de la [CLI de cliente Mithril](https://github.com/input-output-hk/mithril/issues/1335) con la biblioteca de cliente Mithril. Además, el equipo siguió trabajando en el [modelado de amenazas y análisis de riesgos para redes P2P](https://github.com/input-output-hk/mithril/issues/1350), junto con los avances en la implementación de una [red Mithril de pruebas para SanchoNet](https://github.com/input-output-hk/mithril/issues/1173). Por último, comenzaron a implementar un mecanismo de caducidad para los mensajes abiertos en el agregador y completaron la actualización de las dependencias de Rust con cambios de ruptura.
+
+# VOLTAIRE
+
+Estamos llegando al final del año, y vaya año que ha sido para el equipo Voltaire. Este año, la construcción y la colaboración de la comunidad acercaron a Cardano a su fase final de desarrollo: Voltaire. Diseñado como la infraestructura para que la comunidad Cardano colabore en torno a él, Intersect sigue sirviendo de andamiaje para la construcción de la comunidad distribuida. Este año ha sido testigo del lanzamiento de la organización basada en los miembros de Intersect, del lanzamiento beta de [GovTool](https://docs.sanchogov.tools/about/what-is-sanchonet-govtool) en [SanchoNet](https://sancho.network/), de la versión de prueba de Lace ([Lace SanchoNet](https://t.co/aGSnn7tnWu)), de varios talleres comunitarios y de comités, de la Cumbre Cardano, de ayuntamientos, votaciones y mucho más.
+
+En definitiva, el futuro de la gobernanza en Cardano es lo que sus miembros quieran que sea. La comunidad de Cardano tiene la oportunidad de definir sus funciones y ayudar a dar forma a la evolución continua de Cardano y cómo apoya el desarrollo del protocolo.
+
+2023 fue un año intenso para Cardano, y 2024 será aún más agitado. A principios de 2024, el periodo de consulta para la constitución comenzará a acelerarse. El periodo de consulta inicial, liderado por el comité cívico de Cardano (CCC) en Intersect, durará 12 meses e incluirá numerosos talleres, lo que permitirá a la comunidad global de Cardano hacer oír su voz y registrar sus aportaciones.
+
+El año que viene se iniciará el hard fork de Chang, que marcará un hito importante en la hoja de ruta de Cardano y concluirá la hoja de ruta inicial. La implementación de [CIP-1694](https://www.1694.io/) avanza la gobernanza mínima viable e instituye el consenso comunitario en la cadena.
+
+El equipo Voltaire desea expresar su mayor agradecimiento por todo el duro trabajo que la comunidad ha dedicado a los progresos realizados para hacer realidad la visión del CIP-1694.
+
+# CATALYST
+
+El **Proyecto Catalyst** entra en la fase de revisión comunitaria del Fondo11, en la que los miembros de la comunidad ayudan a revisar y ofrecer sus comentarios sobre las propuestas presentadas en función de tres criterios principales: impacto, viabilidad/capacidad y, por último, relación calidad-precio.
+
+Más de 2.500 personas han expresado su interés por participar en esta fase. El calendario para el resto del fondo se mantiene sin cambios, con la votación prevista para la segunda quincena de enero.
+
+Además, el [último ayuntamiento número 150](https://www.youtube.com/watch?v=FgTiHQy5NK8) ha tenido lugar esta semana poniendo fin a los actos del año y se reanudará el 10 de enero de 2023. ¿Sabía que ya hay más de [700 proyectos finalizados](https://docs.google.com/presentation/d/1kVPNaEpnDRAVXBkMxIIv7kZFRc4TSiCAV_HbXUq6nkM/edit#slide=id.g2a0501d164d_0_13) en el programa?
+
+¡Feliz construcción y próximas vacaciones!
