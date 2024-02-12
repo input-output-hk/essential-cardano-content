@@ -10,7 +10,7 @@ image: https://ucarecdn.com/4ac8aab5-b968-4397-86b7-b298d8349454/
 image_text: Unlocking more opportunities with Plutus V3
 ---
 
-### **Plutus V3 will elevate the developer experience by improving smart contract adoption, bringing support for governance and voting features, and fostering interoperability between blockchains**
+### Plutus V3 will elevate the developer experience by improving smart contract adoption, bringing support for governance and voting features, and fostering interoperability between blockchains
 
 Plutus V3, now available for testing on SanchoNet, introduces advanced Plutus primitives and so provides more tools for developers and unlocks more possibilities for writing smart contracts.
 
@@ -42,7 +42,6 @@ In the Plutus language, built-in functions are those not explicitly defined with
     
 *   **Keccak-256** – a cryptographic hash function that produces a 256-bit (32-byte) hash value, commonly used for secure data verification. Keccak-256 supports Ethereum signature verification within scripts. This is crucial for cross-chain solutions and facilitates community projects by expanding use cases on Cardano.
     
-
 ## Empowering developers with bitwise primitives
 
 The introduction of [CIP-58](https://cips.cardano.org/cip/CIP-0058) bitwise primitives will provide developers with robust capabilities for low-level bit manipulations. This addition offers developers profound benefits in both performance optimization and cryptographic functionality. With their incremental deployment plan, bitwise primitives ensure a seamless integration process and foster a robust environment for developers to build powerful and efficient solutions on Cardano.
@@ -57,7 +56,6 @@ Bitwise primitives provide the following features:
     
 *   **Efficient algorithms and data structures**. CIP-58 adds a class of low-level functions for highly efficient algorithms and data structures. The ability to build efficient hash tables, a common key-value mapping data structure, showcases the practical impact of these low-level functions in building performant solutions.
     
-
 The Plutus upgrade will add two bitwise primitives: `integerToByteString` and `byteStringToInteger`. The remaining primitives will be added to Plutus V3 gradually. Going forward, such upgrades won’t require a new language version. This incremental deployment approach ensures a systematic integration of these powerful features into the Plutus language.
 
 Starting with the release of Cardano [node v.8.8.0-pre](https://github.com/IntersectMBO/cardano-node/releases/tag/8.8.0-pre), Plutus V3 is now available on [SanchoNet](https://sancho.network/), introducing the Cardano community to governance features from CIP-1694 in a controlled testnet environment.
