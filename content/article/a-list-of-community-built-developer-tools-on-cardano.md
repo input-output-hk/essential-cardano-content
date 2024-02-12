@@ -312,6 +312,8 @@ Here is a list of available tools and resources according to categories:
     
 *   [Clarity](https://www.clarity.community/): a platform that builds community governance and management tools for Cardano projects.
     
+*   [Consenz for Organisations and DAOs](https://consenz.io/): enables organizations to focus discussion on one clearly structured document that has been edited by all users in a democratic way. Consenz drives public participation and consensus allowing the community to shape policy and listen without being overwhelmed by the noise.
+    
 *   [DripDropz Open Source On-Chain Voting](https://github.com/DripDropz/onchain-voting): an open-source solution powered by the Cardano blockchain that offers a framework for those looking to conduct governance or voting on the Cardano blockchain.
     
 *   [Round Table](https://roundtable.adaodapp.xyz/): an open-source wallet that allows you to easily create a multi-signature wallet. This can support collective registration as a DRep.
@@ -319,6 +321,8 @@ Here is a list of available tools and resources according to categories:
 *   [SanchoNet GovTool (Voltaire GovTool)](https://docs.sanchogov.tools/about/what-is-sanchonet-govtool): the SanchoNet GovTool allows ada holders to experience and test some of the governance features described in [CIP-1694](https://www.1694.io/) in a simple, guided experience. SanchoNet is the testnet version of the Voltaire GovTool, allowing ada holders to register to become DReps, delegate voting power, and review and vote on governance actions.
     
 *   [Summon Platform](https://summonplatform.io/): allows ada holders to submit and vote on proposals for open and transparent decentralized autonomous organization (DAO) governance.
+    
+*   [VibrantNet](https://www.vibrantnet.io/): a community integration system with Cardano Discord Bot, Hazelnet.
     
 *   [Vote-supporting wallets](https://docs.sanchogov.tools/how-to-use-the-govtool/getting-started/get-a-compatible-wallet): not every Cardano wallet currently supports the ability to delegate a holder’s vote to a DRep or vote as a DRep on key governance issues. Current compatible wallets include [Lace](https://www.lace.io/), [Yoroi](https://yoroi-wallet.com/#/), [NuFi](https://nu.fi/), and [Demos](https://drive.google.com/file/d/1PegeogP3pEsASFsBiRNGjXSAEJ9T51xT/view) (a clone of the Nami wallet made for the beta, available on Chromium browsers with developer mode on and 'load unpacked').
     
