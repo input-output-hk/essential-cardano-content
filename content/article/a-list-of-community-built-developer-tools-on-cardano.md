@@ -171,8 +171,6 @@ Here is a list of available tools and resources according to categories:
     
 *   [Cardano metadata oracle](https://github.com/fivebinaries/cardano-metadata-oracle): this repository contains the code and configuration files of the metadata oracle for Cardano.
     
-*   [Chainlink](https://dev.chain.link/): enables smart contracts on any blockchain to leverage extensive off-chain resources, such as tamper-proof price data, verifiable randomness, keeper functions, external APIs, and much more.
-    
 *   [Fluree](https://flur.ee/): the full spectrum of data management tooling for data-centric organizations – from the first step of integrating and migrating legacy system data infrastructure through to building modernized operational and analytical data infrastructure. 
     
 *   [Heidrun](https://github.com/adosia/Heidrun): an automation platform for Cardano that triggers various actions based on the detection of a payment to a wallet address.
