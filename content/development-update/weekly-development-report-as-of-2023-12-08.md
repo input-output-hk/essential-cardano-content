@@ -19,7 +19,7 @@ They also fixed several Conway bugs, implemented a few new predicate checks, com
 
 As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team were busy preparing for the Lace 1.8 release, planned for next week, featuring some exciting updates for multi-staking.
 
@@ -55,7 +55,7 @@ This week, submissions for **Project Catalyst** Fund11 closed, and proposers wit
 
 Additionally, Catalyst town halls are back this week and are expected to resume on a regular basis. If you’re interested in hosting a meeting, [make sure to register it](https://mail.iogservices.io/e3t/Ctc/2M+113/d12bk-04/VX0Nh_5qBMjFW7Nvb-C1pG_BmW35KrPN56G7klN35KTBR3lYMRW69sMD-6lZ3kVN2VLXMJr6vt9W30dyd87nxHZzW43C_Zb1cfQvMW2mTyTw1HBsW2W4qh0qD2DpF-fW3rJ11p8mwYBgW2ZKHq06MFpM9W51ZLbK5h5h8CW3h_8Rf4gD-fvW5Cfpb26NT8Z9W3C4PbT4DPqR1W7XYfwr2CTt3gW5RdWFP1zLhMsVhlBzg4K-xQfW1SgzMJ8l73kvW8CRXW04rPPL3W1W2LWw1GXWnrW7sJ7Q12L4zKFW49c-_L1sYLPxW7MF7Y77VZCzgf46pnLz04) before every Tuesday to plan accordingly. 
 
-### EDUCATION 
+### EDUCATION
 
 This week, the **education** team worked on planning activities for the next Haskell course in 2024. They also continued work on Mastering Cardano content and Marlowe education tasks.
 
@@ -71,7 +71,7 @@ Conwayのバグを複数修正し、新しい述語チェックを実装し、�
 
 通常通り、チーム別の詳細は[こちらの技術開発レポート](https://input-output-hk.github.io/cardano-updates/archive)をご覧ください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは、来週に予定されているマルチステーキングのためのエキサイティングな更新を備えたLace 1.8のリリース準備に追われました。
 
@@ -107,6 +107,56 @@ Conwayのバグを複数修正し、新しい述語チェックを実装し、�
 
  Catalystタウンホールは今週再開され、定期開催となることが期待されています。会議を主催することに興味がある場合は、計画を立てるために毎週火曜日までに[必ず登録](https://mail.iogservices.io/e3t/Ctc/2M+113/d12bk-04/VX0Nh_5qBMjFW7Nvb-C1pG_BmW35KrPN56G7klN35KTBR3lYMRW69sMD-6lZ3kVN2VLXMJr6vt9W30dyd87nxHZzW43C_Zb1cfQvMW2mTyTw1HBsW2W4qh0qD2DpF-fW3rJ11p8mwYBgW2ZKHq06MFpM9W51ZLbK5h5h8CW3h_8Rf4gD-fvW5Cfpb26NT8Z9W3C4PbT4DPqR1W7XYfwr2CTt3gW5RdWFP1zLhMsVhlBzg4K-xQfW1SgzMJ8l73kvW8CRXW04rPPL3W1W2LWw1GXWnrW7sJ7Q12L4zKFW49c-_L1sYLPxW7MF7Y77VZCzgf46pnLz04)してください。
 
-### 教育 
+### 教育
 
 **教育**チームは2024年の次回Haskellコースの企画に取り組みました。Mastering CardanoのコンテンツとMarloweの教育課題への取り組みも続けました。
+
+# TECNOLOGÍA DE NÚCLEO
+
+Esta semana, el equipo de **performance** ha publicado las pruebas comparativas para el nodo v.8.7.0 y ha realizado las primeras pruebas comparativas Conway. Además, trabajaron en la mejora de la calidad de la salida de rastreo y añadieron un nuevo conjunto de pruebas, entre otras iniciativas.
+
+En las dos últimas semanas, el equipo de **ledger** puso en marcha la versión inicial de las pruebas de conformidad de Conway. Ello posibilita generar datos aleatorios válidos con la ayuda del entorno de pruebas basado en restricciones, aplicar esos datos a las reglas del ledger Conway y verificar que la salida coincide con la producida por la versión ejecutable de la especificación formal del ledger, cuando se aplica a los mismos datos aleatorios.
+
+Asimismo, corrigieron varios errores de Conway, implementaron algunas comprobaciones de predicados nuevas, completaron y probaron la consulta para obtener el comité constitucional e introdujeron varias mejoras en las herramientas de comprobación.
+
+Como siempre, consulte [este informe de desarrollo técnico](https://input-output-hk.github.io/cardano-updates/archive) para obtener más detalles de los distintos equipos.
+
+# WALLETS Y SERVICIOS
+
+Durante esta semana, el equipo de **Lace** se ha dedicado a preparar el lanzamiento de Lace 1.8, previsto para la próxima semana, que incluye algunas actualizaciones interesantes para el staking múltiple.
+
+# SMART CONTRACTS
+
+El equipo de herramientas de **Plutus** ha seguido trabajando para probar la conformidad de la indexación de Marconi frente a DB Sync. Esto implica ofrecer un método para transmitir partes de la cadena a Marconi sin ejecutar un nodo. Además, procedieron a incrustar Marconi en un nodo Cardano para acceder a los eventos del ledger sin volver a calcular el estado del ledger.
+
+En cuanto al emulador de nodos, el equipo evaluó la versatilidad del emulador de nodos, utilizándolo para facilitar las pruebas de extremo a extremo de Marconi.
+
+El equipo **Marlowe** publicó [Marlowe TS-SDK beta](https://twitter.com/marlowe_io/status/1732445238851960986), que permite incrustar contratos Marlowe en su proyecto utilizando un entorno familiar. También ejecutaron un [espacio de Twitter](https://twitter.com/i/spaces/1yoKMwQmdnwJQ?s=20) con LaPetiteAda, optimizaron [los últimos validadores de Plutus](https://github.com/input-output-hk/marlowe-cardano/pull/764), mejoraron [los mapas de importación en Marlowe TS-SDK](https://github.com/input-output-hk/marlowe-ts-sdk/pull/103), y solucionaron algunos problemas relacionados con [las salidas de tokens de rol](https://github.com/input-output-hk/marlowe-cardano/pull/767) y [la aplicación de entrada de rol abierto](https://github.com/input-output-hk/marlowe-cardano/pull/765). El equipo añadió compatibilidad con [propiedades adicionales](https://github.com/input-output-hk/marlowe-cardano/pull/762) en los metadatos de tokens y mejoró algunos mensajes de error junto con correcciones en la interfaz de usuario de Marlowe Runner.
+
+Por último, publicaron el [resumen del prototipo de DApp de pagos](https://docs.marlowe.iohk.io/docs/developer-tools/ts-sdk/payouts-dapp-prototype) y trabajaron en las mejoras de funcionalidad del Runner y Agda.
+
+# ESCALADO
+
+Esta semana se celebró la [reunión de revisión mensual](https://drive.google.com/file/d/1-iv8IveUzA2KrJV_Kqrgx4ts05Ow0zjM/edit), con demostraciones de Hydra, Mithril y proyectos relacionados en torno al escalado de Cardano. Asegúrese de consultar la grabación o el [informe mensual](https://hydra.family/head-protocol/monthly/2023-11) relacionado para obtener más detalles.
+
+El equipo de **Hydra** abordó la flaqueza en las pruebas y mejoró el esquema JSON de los registros, mejorando la fiabilidad general de las pruebas. Además, el equipo construyó \[binarios en CI\] para MacOS ARM64 (aarch64-darwin)([Build aarch64-darwin binaries by ch1bo · Pull Request #1182 · input-output-hk/hydra · GitHub](https://github.com/input-output-hk/hydra/pull/1182)) y mejoró la [configuración de red](https://github.com/input-output-hk/hydra/issues/1174) detectando estados persistentes incompatibles, lo que contribuyó a la robustez general del sistema. Por último, el equipo publicó la [versión 0.14.0](https://github.com/input-output-hk/hydra/releases/tag/0.14.0), destacando su compromiso de ofrecer actualizaciones y mejoras periódicas.
+
+El equipo **Mithril** avanzó en la adaptación de la biblioteca cliente Mithril para la [compilación WASM](https://github.com/input-output-hk/mithril/issues/1336) y ofreció una API JavaScript para la misma. También completaron la optimización del [rendimiento del agregador](https://github.com/input-output-hk/mithril/issues/1327). Además, el equipo inició la implementación de una [red Mithril de pruebas para SanchoNet](https://github.com/input-output-hk/mithril/issues/1173) y llevó a cabo un [modelado de amenazas y análisis de riesgos](https://github.com/input-output-hk/mithril/issues/1350) para la red P2P. Por último, mejoraron la experiencia del desarrollador de la biblioteca cliente Mithril ofreciendo ejemplos listos para ejecutar en el repositorio e implementaron un [flujo de trabajo para publicar manualmente bibliotecas](https://github.com/input-output-hk/mithril/issues/1380) en [crates.io](//crates.io).
+
+# VOLTAIRE
+
+Los miembros de Intersect continúan forjando un ecosistema seguro y colaborativo para garantizar el crecimiento sostenido y la evolución de Cardano en un espacio seguro.
+
+A lo largo de las últimas semanas, ha habido diferentes actualizaciones de los comités cívicos, de miembros y comunidad (MCC), de parámetros y de código abierto. El comité cívico se centró en garantizar una gobernanza de Cardano accesible, justa y transparente. Ofreció una recomendación relacionada con la gobernanza de Cardano y está priorizando sus áreas de interés para 2024. El comité MCC continuó fomentando la inclusión de la comunidad dentro de Cardano. Con 10 reuniones desde su creación provisional, una de ellas pública, se ha programado una segunda reunión pública para el 12 de diciembre. El comité de parámetros ofreció asesoramiento técnico y recomendaciones para actualizar los parámetros del protocolo. Su primera recomendación, PCP-001, se publicó en el Foro Cardano, y los grupos asesores están trabajando activamente en recomendaciones adicionales. Puede seguir las [notas de la reunión aquí](https://forum.cardano.org/c/governance/parameters-committee-updates/220).
+
+Por último, el comité de código abierto formuló una hoja de ruta exhaustiva para las iniciativas de código abierto, haciendo hincapié en la transparencia, la accesibilidad y el desarrollo impulsado por la comunidad. Dos grupos de trabajo técnicos -política y estrategia- participan activamente en esta labor.
+
+# CATÁLOGO
+
+Esta semana se han cerrado las inscripciones para el **Proyecto Catalyst** Fund11, y los proponentes con inscripciones activas tendrán la oportunidad de perfeccionar y finalizar sus propuestas antes de la revisión por parte de la comunidad. También está abierta la inscripción para los revisores de la comunidad. Para ello, puede navegar hasta [IdeaScale](http://cardano.ideascale.com/) y responder a un mensaje emergente si está interesado en participar. Asegúrese de responder antes de que finalice el día 10 de diciembre.
+
+Además, los ayuntamientos Catalyst vuelven esta semana y se espera que se reanuden con regularidad. Si está interesado en organizar una reunión, [asegúrese de registrarla](https://mail.iogservices.io/e3t/Ctc/2M+113/d12bk-04/VX0Nh_5qBMjFW7Nvb-C1pG_BmW35KrPN56G7klN35KTBR3lYMRW69sMD-6lZ3kVN2VLXMJr6vt9W30dyd87nxHZzW43C_Zb1cfQvMW2mTyTw1HBsW2W4qh0qD2DpF-fW3rJ11p8mwYBgW2ZKHq06MFpM9W51ZLbK5h5h8CW3h_8Rf4gD-fvW5Cfpb26NT8Z9W3C4PbT4DPqR1W7XYfwr2CTt3gW5RdWFP1zLhMsVhlBzg4K-xQfW1SgzMJ8l73kvW8CRXW04rPPL3W1W2LWw1GXWnrW7sJ7Q12L4zKFW49c-_L1sYLPxW7MF7Y77VZCzgf46pnLz04) antes de cada martes para planificarse adecuadamente.
+
+# EDUCACIÓN
+
+El equipo de **educación** trabajó en la planificación de actividades para el próximo curso de Haskell en 2024. También siguieron trabajando en el contenido de Mastering Cardano y en las tareas educativas de Marlowe.
