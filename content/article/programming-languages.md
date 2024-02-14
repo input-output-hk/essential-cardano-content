@@ -36,3 +36,13 @@ Marlowe contracts are optimized for financial transactions, development platform
 Marlowe provides a suite of products for the community that will foster the adoption of Cardano in finance. Marlowe creates a blockchain-specific way to replicate key processes within financial services by making smart contract development easier for developers in this industry.
 
 Marlowe also aims to facilitate new possibilities of financial innovation and aims to become the technology powering a host of smart contract based-financial services.
+
+## Aiken
+
+Aiken is a new programming language and toolchain for developing smart contracts on the Cardano blockchain. It draws inspiration from various modern languages, like Gleam, Rust, and Elm, renowned for their friendly error messages and an overall excellent developer experience.
+
+As a language, Aiken is purely functional with static typing and type inference. This means most of the time, the compiler is smart enough to determine the type of something without requiring user annotation. It also allows the creation of custom types resembling records and enums. Aiken does not include higher-kinded types or type classes because it aims for simplicity.
+
+Learn more on the [Aiken website](https://aiken-lang.org/).
+
+Also, see a list of [developer tools on Essential Cardano](https://www.essentialcardano.io/article/a-list-of-community-built-developer-tools-on-cardano) or check out some of the most popular [builder tools](https://www.essentialcardano.io/article/a-list-of-community-built-developer-tools-on-cardanohttps://developers.cardano.org/tools) on the Developer Portal.
