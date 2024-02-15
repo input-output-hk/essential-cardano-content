@@ -1,5 +1,6 @@
 ---
-title: Create, Deploy, and Manage your own Plutus contracts effectively - Part 1
+title: "Gimbalabs series: Create, Deploy, and Manage your own Plutus contracts
+  effectively - Part 1"
 tags:
   - gimbalabs
   - plutusPBL
@@ -32,7 +33,6 @@ In this first part of this series, we will focus on the first **SLT**:
 
 ## **_I can plan and implement my own Plutus contracts_**
 
-  
 ![Gimbalabs Plutus PBL - Module 302 (https://plutuspbl.io/modules/302/3021)](https://ucarecdn.com/cc3f531e-c8e3-4157-8597-b9388eb9b9f2/)
 
 `Fig 1. Gimbalabs Plutus PBL module 302:` [https://plutuspbl.io/modules/302/3021](https://plutuspbl.io/modules/302/3021)
@@ -108,14 +108,13 @@ Follow [Gimbalabs](https://twitter.com/gimbalabs) for further announcements.
     
 *   私はPlutusプロジェクトを作成し、更新し、メンテナンスすることができます。
     
-*   以下のシナリオで時間がどのように機能するかを理解しています：Plutus（'POSIXTime'）、'Ledger'（'Slot Number'）。  
+*   以下のシナリオで時間がどのように機能するかを理解しています：Plutus（'POSIXTime'）、'Ledger'（'Slot Number'）。
     
 
 このシリーズの最初の部分では、最初の **SLT** に焦点を当てます。
 
 ## **_私は自分自身のPlutus契約を計画し、実装することができます。_**
 
-  
 ![Fig 1. Gimbalabs Plutus PBL japanese version, module 302: https://ja.plutuspbl.io/modules/302/3021](https://ucarecdn.com/d3fe8b17-a94d-4752-925f-f4f88ab0207a/)
 
 Fig 1. Gimbalabs Plutus PBL japanese version, module 302: [https://ja.plutuspbl.io/modules/302/3021](https://ja.plutuspbl.io/modules/302/3021)
@@ -149,7 +148,7 @@ token vesting契約内のトークンの解放に関連するすべての計算�
 
 ### **入力パラメータ**
 
-token vesting契約において、重要なパラメータには、投資家のアドレス、"ベスティング"期間の開始日、トークンの総割り当て、およびリリーススケジュールが含まれます。これらのパラメータは明確かつ決定論的に定義される必要があります。たとえば、開始日を`POSIXTime`として指定することで、契約の振る舞いが決定論的なブロックチェーンのイベントに直接関連付けられ、すべての関係者にとって予測可能になります。  
+token vesting契約において、重要なパラメータには、投資家のアドレス、"ベスティング"期間の開始日、トークンの総割り当て、およびリリーススケジュールが含まれます。これらのパラメータは明確かつ決定論的に定義される必要があります。たとえば、開始日を`POSIXTime`として指定することで、契約の振る舞いが決定論的なブロックチェーンのイベントに直接関連付けられ、すべての関係者にとって予測可能になります。
 
 ### **ロジックの設計**
 
