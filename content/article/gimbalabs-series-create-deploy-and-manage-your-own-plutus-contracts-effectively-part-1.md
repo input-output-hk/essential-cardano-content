@@ -29,7 +29,7 @@ image_text: ""
 *   I understand how time works on Plutus (POSIXTime) and Ledger (Slot Number).
     
 
-In this first part of this series, we will focus on the first **SLT**:
+In this first part of the series, we will focus on the first **SLT**:
 
 ## **_I can plan and implement my own Plutus contracts_**
 
