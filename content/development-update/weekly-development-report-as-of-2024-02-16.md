@@ -17,8 +17,6 @@ This week, the **core** technology teams released [Cardano node v.8.8.0-pre](htt
   
 The **ledger** team focused on implementing fixes, writing tests, and improving testing frameworks. Critical bug fixes included retaining Anchor for proposal procedures in the ledger state, ensuring JSON [serialization](https://github.com/IntersectMBO/cardano-ledger/pull/4040) of rational numbers in protocol parameters and governance procedures. Additionally, the team achieved a significant milestone by developing the [cuddle](https://github.com/input-output-hk/cuddle) Haskell package, aimed at transitioning to specifying CDDL in Haskell for all eras. This transition will streamline CDDL specification compilation and offer benefits such as reduced duplication, reuse of specifications, and enhanced safety and correctness of specifications and decoders.
 
-As always, see [this technical development report](https://input-output-hk.github.io/cardano-updates/archive) for more details from different teams.
-
 ### WALLETS & SERVICES
 
 This week, the **Lace** team addressed core API usage issues, ensuring readiness for a forthcoming small patch in v.1.8.2.
@@ -62,8 +60,6 @@ They are also finalizing the Marlowe Curriculum for Educators, a new open educat
 **DB-Sync**とCardanoノード最新バージョンとの統合を開始しました。  
   
 **台帳**チームは修正の実装、テストの作成、テストフレームワークの改良に焦点を当てました。重要なバグ修正には、台帳ステータスで提案手続きのためのAnchorを保持し、プロトコルパラメーターとガバナンス手続きで有理数のJSON[シリアル化](https://github.com/IntersectMBO/cardano-ledger/pull/4040)を確実にすることが含まれます。全開発期用にHaskellでのCDDL仕様へ移行することを目的とした[cuddle](https://github.com/input-output-hk/cuddle)Haskellパッケージを開発して、重要なマイルストンを達成しました。この移行により、CDDL仕様のコンパイルが合理化され、重複の削減、仕様の再利用、仕様とデコーダーの安全性と正確性の向上などのメリットが得られます。
-
-通常通り、チーム別の詳細は[こちらの技術開発レポート](https://updates.cardano.intersectmbo.org/archive)をご覧ください。
 
 ### ウォレット&サービス
 
