@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/bd57d326-a5ba-4e12-b4e5-60273cbfacf6/
+image: https://ucarecdn.com/500945ed-7892-4609-9f86-f68867668453/
 image_text: Weekly development report as of 2024-02-23
 ---
 
@@ -35,9 +35,8 @@ In other developments, [300 projects voted in Fund11](https://projectcatalyst.io
 
 ### EDUCATION
 
-This week, the **education** team is delivering the second week of their online Cardano Developer course and also working on updates to the Haskell Bootcamp course.  
-  
-  
+This week, the **education** team is delivering the second week of their online Cardano Developer course and also working on updates to the Haskell Bootcamp course.
+
 ![](https://ucarecdn.com/c55d8dc0-74f8-48d9-b35b-a38aea87b383/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
