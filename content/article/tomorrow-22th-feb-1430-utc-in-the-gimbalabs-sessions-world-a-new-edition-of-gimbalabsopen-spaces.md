@@ -1,5 +1,5 @@
 ---
-title: 'Tomorrow, 22th feb, 1430 utc, in the "Gimbalabs sessions" world: a new
+title: '22th Feb, 1430 UTC, in the "Gimbalabs sessions" world: a new
   edition of Gimbalabs👩‍🍳Open Spaces!'
 tags:
   - Gimbalabs
