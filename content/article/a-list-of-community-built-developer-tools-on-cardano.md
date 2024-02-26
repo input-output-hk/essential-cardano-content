@@ -332,6 +332,8 @@ Here is a list of available tools and resources according to categories:
     
 *   [Cardano Ballot](https://github.com/cardano-foundation/cf-cardano-ballot): a user-friendly, hybrid on- and off-chain voting system developed by [the Cardano Foundation](https://cardanofoundation.org/en/about-us/).
     
+*   [Cardano Explorer](https://sancho.cexplorer.io/governance/activity): a platform built by [AdaPools](https://adapools.org/) that offers a great on-chain tool to explore governance activities. The explorer includes a dashboard, views of the constitution, voting, activity, DReps, delegations, committees, and stats.
+    
 *   [Cardano Signer](https://github.com/gitmachtl/cardano-signer): an open-source multifunction tool that can sign and verify data. The tool can also be used for key generation, such as the creation of delegated representative (DRep) keys as well as constitutional committee (CC) cold and hot keys with mnemonic support.
     
 *   [CIP-95 web/wallet interface](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0095/README.md): extends the existing [CIP-30](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0030/README.md) wallet-web bridge, to support the development of governance-related DApps.
