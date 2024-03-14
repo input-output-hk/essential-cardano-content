@@ -11,6 +11,9 @@ image: https://ucarecdn.com/9f251bd8-74ce-4451-9da8-9b80716dfdbe/
 image_text: Approaching full P2P node operations
 ---
 
+日本語版はスクロールダウンしてください。  
+  
+  
 Author: Marcin Szamotulski
 
 ### Learn more about preparations for full P2P networking, an interim bootstrap network, and plans ahead
@@ -42,3 +45,35 @@ IOG is now upgrading Daedalus, Lace, Nami, and other tools that it supports to c
 If you are an SPO, infrastructure provider, or Cardano builder and want to learn more about what you need to do to support these efforts, you can jump into the P2P operational channel [here](https://discord.gg/3GnfnZ3SsQ).
 
 Or if you haven't joined the Discord server yet, you can do that [here](https://discord.gg/gFjRCKkPCx).
+
+### フルP2Pノード稼働に向かって
+
+### 完全なP2Pネットワーキング、暫定ブートストラップネットワーク、および今後の計画の詳細
+
+ピアツーピア（P2P）ネットワーキングは、P2P通信、データ同期、および参加者間のコンセンサスを可能にすることで、ブロックチェーンの長期的な分散化、セキュリティ、および回復力に重要な貢献をします。
+
+2023年3月、[Dynamic P2P](https://iohk.io/jp/blog/posts/2023/03/16/dynamic-p2p-is-coming-to-cardano/)により、ピア選択プロセスが自動化されました。ノード[v.1.35.6](https://github.com/IntersectMBO/cardano-node/releases/tag/1.35.6)のリリースにより、分散されたノード間の通信が強化され、リレーノードとブロック生成ノードの操作が簡素化され、静的な設定とステークプールオペレーター（SPO）による手動入力が不要になりました。
+
+フルP2Pノード運用に向けた次の（そして最後の）ウェイポイントには、近々リリースされるOuroboros Genesisで到達する見込みです。Genesisは、今夏を目標に、Changアップグレードの一環としてデプロイが予定されています。これにより、ノードは稼働中のCardanoネットワークからセルフブートストラップできるようになります。
+
+## フルP2Pへの移行
+
+現在、ネットワークへの初回エントリーでは、安全で信頼できるバリデーター（通常は信頼できる仲間のSPOまたは別のエンティティ）から同期する必要があります。ノードが同期されると、[Ouroboros Praos](https://iohk.io/jp/research/library/papers/ouroboros-praos-an-adaptively-secure-semi-synchronous-proof-of-stake-protocol/)を使用して、分散化された形で動作します。[Ouroboros Genesis](https://iohk.io/jp/research/library/papers/ouroboros-genesis-composable-proof-of-stake-blockchains-with-dynamic-availability/)はこのプロセスをさらに簡素化します。cardano-nodeのP2P機能を利用すると、プロセスは完全に自律的になり、人間の介入は不要になります。
+
+現在のハイブリッドモデルからフルP2Pネットワーキングへの移行プロセスは段階的なものであり、移行はすでに始まっています。[PoolTool](https://pooltool.io/networkhealth)によれば、SPOの約65%が12月にリリースされたノードv.8.7.3にアップグレードしており、5%がP2P最新バージョンを搭載した[v.8.9.0](https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.0)にアップグレードしています。IOGとCardano財団のエンジニアは協力して、個々のSPOの特定、これへの連絡、通知、P2Pをサポートするのに十分なリレーを実行しているかの確認を続け、ウォレット、DApp、取引所、その他のノードユーザーと連絡を取って、必要に応じてノードをアップグレードしていることを確認します。
+
+## Ouroboros Genesisへの移行：一時的なブートストラップネットワークと「Genesis Lite」
+
+個々のノードのダウンタイムが長期化したり、ネットワークとの同期が失われたりした場合は、セルフブートストラッププロセスを実行する必要があります。これは、ネットワークに参加する新しいノードにも適用されます。Ouroboros Genesisのデプロイに先立つ暫定的な措置として、IOGとEMURGOは約20の信頼できるノードで構成される新しい専用ブートストラップネットワークGenesis Liteをユーザーに提供します。この信頼できるブートストラップリレーネットワークは、要求に応じてスケーリングし、Cardano Genesisのコンフィグからのノードブートストラップを提供します。新たにブートストラップされたノードは、最初は最新の信頼できるノードに従う必要があります。その後、現在のTIPに近づいたらP2Pに切り替えます。以前のバージョンでは、この移行はノード所有者が手動でトポロジーファイル内のスロットを指定して実行する必要がありました。
+
+## エコシステムのアップグレード
+
+ノード所有者によるタイムリーなアップグレードは、完全なP2Pをシームレスに展開し、Cardanoネットワークのサービスに必要な品質を維持するために不可欠です。完全なP2Pシステムに移行する際には、すべてのノード所有者が、P2Pメカニズムをフルサポートするバージョンにノードをアップグレードする必要があります。また、サービスプロバイダーもアップグレードを完了していることを確認する必要があります。これには、DAppプロバイダー、取引所、ウォレットプロバイダー、エクスプローラー、その他のツール、 ステークプールが含まれます。
+
+IOGは現在、Daedalus、Lace、Nami、その他のツールを、新しいP2Pツールへの適合をサポートするようアップグレードしています。Cardano財団のAdrestiaチームは、ウォレットバックエンドのアップグレードにも取り組んでいます。DB Syncは変更なしで引き続き機能します。IOGおよびCardano財団のエンジニアリングチームは、SPOコミュニティとともに、引き続きネットワークのパフォーマンスとサービスの品質を日々監視し、定期的にユーザーとコミュニケーションを取っていきます。
+
+**すべてのSPO、取引所、DApp開発者、インフラプロバイダー、その他のノードユーザーは、今週最新ノードv.8.7.3以降にアップグレードし、すべてのリレーノードをP2Pモードで実行することが推奨されています。**SPOのリレーノードのファイアウォールの背後にいるブロックプロデューサーは、useLedgerAfterSlotを-1に設定したブロック生成ノードでP2Pモードを使用することも、必要に応じてレガシーネットワークを使用してリレーノードと通信を継続することもできます。ツールプロバイダーには、トポロジーファイル内のローカルルートでピアディスカバリーを無効化するようuseLedgerAfterSlotを-1に設定し、独自のカスタムトポロジーを設定するオプションもあります。
+
+これらの取り組みをサポートするために必要なことについて詳しく知りたいSPO、インフラプロバイダー、またはCardanoビルダーは、[こちら](https://discord.gg/3GnfnZ3SsQ)のP2P運用チャネルにアクセスしてください。
+
+まだDiscordサーバーに参加していない場合は、[こちら](https://discord.gg/gFjRCKkPCx)をクリックしてください。
