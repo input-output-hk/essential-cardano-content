@@ -13,7 +13,7 @@ image_text: Weekly development report as of 2024-03-15
 
 This week, the **core technology** teams released node [v.8.9.0](https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.0), introducing [Genesis Lite bootstrap peers](https://github.com/input-output-hk/cardano-node-wiki/blob/main/docs/getting-started/understanding-config-files.md#genesis-lite-aka-bootstrap-peers). This version fixes a small bug in the dynamic block forging logic and also includes some overall improvements. Learn more about preparations for full P2P networking, an interim bootstrap network, and plans ahead in [this blog post](https://www.essentialcardano.io/article/approaching-full-p2p-node-operations). 
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 The **Lace** team initiated the closed beta phase of DApp discovery, a provisional name for the DApp Store, with DApp developers. The team is currently in the second week of testing.
 
@@ -41,16 +41,13 @@ Lastly, the onboarding of funded projects is nearing completion, and we would li
 
 ### EDUCATION
 
-This week, the **Education** team focused on writing content for Mastering Cardano and made updates to the Cardano Developer Course with ABC.  
-  
-  
-![](https://ucarecdn.com/d8fa60d6-513a-4c3a-80dd-347bca325404/-/preview/-/format/auto/-/quality/smart/)  
-  
-コアテクノロジー
+This week, the **Education** team focused on writing content for Mastering Cardano and made updates to the Cardano Developer Course with ABC.
+
+![](https://ucarecdn.com/318e8fd9-3768-4a84-b81c-995008a58eb3/-/preview/-/format/auto/-/quality/smart/)コアテクノロジー
 
 **コアテクノロジー**チームはノード[v.8.9.0](https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.0)をリリースし、[Genesis Liteブートストラップピア](https://github.com/input-output-hk/cardano-node-wiki/blob/main/docs/getting-started/understanding-config-files.md#genesis-lite-aka-bootstrap-peers)を導入しました。このバージョンには、ダイナミックブロックフォージングロジックの軽微なバグの修正、全体的な改善も含まれています。完全なP2Pネットワーキング、暫定ブートストラップネットワーク、および今後の計画の詳細は、[こちらのブログ記事](https://www.essentialcardano.io/article/approaching-full-p2p-node-operations)をご覧ください。 
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームはDAppの開発者と共に、DApp Storeの暫定名称であるDApp Discoveryのクローズドベータフェーズを開始しました。現在、テストの2週目に入っています。
 
