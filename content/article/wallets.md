@@ -23,9 +23,7 @@ Daedalus comes bundled with a full Cardano node, so requires a relatively high-s
 
 ## Lace
 
-IOG's new light wallet, currently in development.
-
-The first version of [Lace](https://www.youtube.com/watch?v=Q4Z83TSdEfg) will provide a friendly and intuitive experience to:
+Lace is a light wallet platform to explore Web3. With Lace, you can manage digital assets, access NFTs, DApps, and DeFi services. Discover and enjoy a new world of digital experiences.
 
 *   securely store your funds
     
