@@ -22,7 +22,7 @@ Writing in the language of finance, rather than the language of blockchain
 
 **Article**:
 
-_n our Developer Deep Dive series of occasional technical blogs, we invite IOHK’s researchers and engineers to discuss their latest work and insights._
+_In our Developer Deep Dive series of occasional technical blogs, we invite IOHK’s researchers and engineers to discuss their latest work and insights._
 
 Marlowe is a domain-specific language for secure financial smart contracts that is being developed by IOHK for the Goguen capabilities of the Cardano blockchain. Following my [introductory post on Marlowe](https://iohk.io/en/blog/posts/2020/10/06/marlowe-industry-scale-finance-contracts-for-cardano/), in this Deep Dive post, we'll look at the details of the language, and the various ways of writing Marlowe smart contracts as we move into the era of decentralized finance (DeFi). After explaining our approach to oracles, which import ‘real world’ information into a running contract, we look at the Algorithmic Contract Types Unified Standard ([Actus](https://www.actusfrf.org/)) for financial contracts and explain how we have implemented this innovation in Marlowe.
 
