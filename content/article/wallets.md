@@ -1,13 +1,10 @@
 ---
 title: Wallets
 tags:
-  - "101"
   - Cardano
   - light wallet
   - Wallet
   - ada
-  - Daedalus
-  - Yoroi
 url: ""
 image: https://ucarecdn.com/15f214f0-9918-4bf0-a50d-cff8b0980ef6/
 image_text: ""
@@ -17,24 +14,13 @@ image_text: ""
 
 ## Daedalus
 
-Daedalus is a full-node hierarchical deterministic (HD) desktop wallet for ada. 
+[Daedalus] is a full-node hierarchical deterministic (HD) desktop wallet for ada. 
 
 Daedalus comes bundled with a full Cardano node, so requires a relatively high-specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation. Daedalus is ideal for those who want accurate blockchain data, but should not be the go-to wallet for everyday, minor transactions.
 
 ## Lace
 
-Lace is a light wallet platform to explore Web3. With Lace, you can manage digital assets, access NFTs, DApps, and DeFi services. Discover and enjoy a new world of digital experiences.
-
-*   securely store your funds
-    
-*   transact and make payments
-    
-*   store and view your non-fungible tokens (NFTs)
-    
-*   delegate stake
-    
-*   interact with different DApps
-    
+[Lace](https://www.lace.io) is a light wallet platform to explore Web3. With Lace, you can manage digital assets, access NFTs, DApps, and DeFi services. Discover and enjoy a new world of digital experiences.    
 
 ## Yoroi
 
