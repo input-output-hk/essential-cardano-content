@@ -2,9 +2,10 @@
 title: Wallets
 tags:
   - Cardano
-  - light wallet
   - Wallet
   - ada
+  - Hardware wallet
+  - Light wallet
 url: ""
 image: https://ucarecdn.com/15f214f0-9918-4bf0-a50d-cff8b0980ef6/
 image_text: ""
@@ -12,7 +13,7 @@ image_text: ""
 
 ## Wallets
 
-Cardano boasts of a thriving and very active developer community that has developed numerous compatible wallets. These include:
+Cardano boasts of a thriving and very active developer community that has created numerous hot- and cold-compatible wallets. These include:
 
 ## **Hot wallets**
 
@@ -22,7 +23,7 @@ Hot wallets are always connected to the internet, allowing users to easily acces
 
 [Daedalus](https://daedaluswallet.io/) is a full-node hierarchical deterministic (HD) desktop wallet for ada. 
 
-Daedalus comes bundled with a full Cardano node, so requires a relatively high-specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation. Daedalus is ideal for those who want accurate blockchain data, but should not be the go-to wallet for everyday, minor transactions.
+Daedalus comes bundled with a full Cardano node, so it requires a relatively high-specification desktop machine for good performance. The wallet stores the entire history of the Cardano blockchain and validates all blocks and transactions for fully trustless and autonomous operation. Daedalus is ideal for those who want accurate blockchain data, but should not be the go-to wallet for everyday, minor transactions.
 
 ### **Lace**
 
@@ -36,13 +37,13 @@ Yoroi allows for instant initial setup, plus quick and easy operation with minim
 
 ### **Eternl**
 
-[Eternl](https://eternl.io) is a Cardano light wallet that is available as a website/PWA, Chrome browser extension, and mobile app on iOS and Android. Here are a few of its key features:
+[Eternl](https://eternl.io) is a Cardano light wallet available as a website/progressive web app (PWA), Chrome browser extension, and mobile app on iOS and Android. Here are some of its key features:
 
-*   Ledger and Trezor Hardware Wallet support
+*   Ledger and Trezor hardware wallet support
     
 *   DApp browser to connect to the Cardano ecosystem
     
-*   Smart UTxO management and token fragmentation
+*   Smart UTXO management and token fragmentation
     
 
 ### **Nami Wallet**
@@ -53,7 +54,7 @@ Nami [recently joined the IOG product family](https://iohk.io/en/blog/posts/2023
 
 ### **Flint**
 
-[Flint](https://flint-wallet.com/) makes it simple and convenient for you to handle your digital assets and explore the exciting world of DeFi. The wallet currently supports sending and receiving assets on Cardano, with support for Solana, Ethereum, and Urbit coming soon.
+[Flint](https://flint-wallet.com/) makes it simple and convenient for you to manage your digital assets and explore the exciting world of DeFi. The wallet currently supports sending and receiving assets on Cardano, with support for Solana, Ethereum, and Urbit coming soon.
 
 ### **GeroWallet**
 
@@ -61,7 +62,7 @@ Nami [recently joined the IOG product family](https://iohk.io/en/blog/posts/2023
 
 *   a built-in swap platform for ada and Cardano native assets,
     
-*   the ability to purchase ada quickly from the wallet with a credit or debit card,
+*   the ability to purchase ada in-wallet with a credit or debit card,
     
 *   an NFT media player,
     
@@ -80,7 +81,7 @@ Cardano Shield, a feature of GeroWallet, provides a safety net for users’ onli
 
 ### **Typhon**
 
-[Typhon](https://typhonwallet.io/) provides the features Cardano users need to explore the blockchain. Typhon is fully compatible with existing ada wallets. Typhon is currently available as a web extension with DApp support and a lightweight web wallet for convenient access.
+[Typhon](https://typhonwallet.io/) is fully compatible with existing ada wallets and provides the features Cardano users need to explore the blockchain. Typhon is currently available as a web extension with DApp support and a lightweight web wallet for convenient access.
 
 ### **NuFi**
 
