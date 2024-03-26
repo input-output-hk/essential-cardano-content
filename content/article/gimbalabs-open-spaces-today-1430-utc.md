@@ -1,5 +1,5 @@
 ---
-title: Gimbalabs Open Spaces. Today, 14:30 UTC.
+title: Gimbalabs Open Spaces. March, 20th, 2024 from 14:30 UTC.
 tags:
   - gimbalabs
   - gimbalabs open spaces
