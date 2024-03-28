@@ -1,5 +1,5 @@
 ---
-title: Gimbalabs 👥Open Spaces. Every Wednesday and Tuesday, 14:30 UTC.
+title: Gimbalabs 👥Open Spaces. Every Tuesday and Wednesday, 14:30 UTC.
 tags:
   - gimbalabs
   - gimbalabs sessions
