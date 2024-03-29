@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/aad665fd-b63f-4cbd-870d-9434d427201f/
+image: https://ucarecdn.com/9ed228c4-89f4-473e-a2c2-68b702621313/
 image_text: Weekly development report as of 2024-03-29
 ---
 
@@ -52,7 +52,7 @@ In other news, Project Catalyst introduced the first iteration of a formal cance
 This week, the **education** team continued teaching the Cardano Developer course. They also worked on Lesson 18 of the Haskell Bootcamp course.  
   
   
-![](https://ucarecdn.com/b9bcb61f-2034-4c23-a376-2785ad05897f/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/bc88ae04-9f62-404f-af59-fe1ef5d2b667/)
 
 ### コアテクノロジー
 
