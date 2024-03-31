@@ -86,3 +86,41 @@ Catalystチームは、日本時間今週土曜日、1月27午前1:30に、AMA T
 ### 教育
 
 **教育**チームは、今年のCardano Daysイベントを計画し、Mastering Cardanoのコンテンツに取り組んでいます。[Haskell Bootcamp](https://github.com/input-output-hk/haskell-course)のレッスン16、17にも取り組んでいます。
+
+# TECNOLOGÍA CENTRAL
+
+Esta semana, el equipo de **networking** trabajó en la integración de pares de arranque con el nodo Cardano en una [rama experimental](https://github.com/IntersectMBO/ouroboros-network/issues/4615) y continuó trabajando en la característica [tx-submission](https://github.com/IntersectMBO/ouroboros-network/issues/3311). También colaboraron con el FC en [mejoras para compartir pares](https://github.com/IntersectMBO/ouroboros-network/issues/4778), [compilaron](https://github.com/IntersectMBO/ouroboros-network/issues/4727) paquetes `ouroboros-network` con GHC-9.8, y modificaron el [mini-protocolo local-state-query](https://github.com/IntersectMBO/ouroboros-network/issues/4765) para permitir adquirir la punta inmutable para obtener información no sujeta a rollbacks.
+
+El equipo **consensus** continuó trabajando en Genesis y también en la segunda iteración de la API ledger DB para UTXO-HD. Incorporaron nuevas mejoras a la [documentación de onboarding](https://github.com/IntersectMBO/ouroboros-consensus/pull/879) y [escribieron un documento](https://github.com/IntersectMBO/ouroboros-consensus/pull/891) explicando las particularidades de los pedidos en cadena.
+
+Como siempre, consulta [este informe de desarrollo técnico](https://updates.cardano.intersectmbo.org/archive) para obtener más detalles de los distintos equipos.
+
+#CONTRATOS INTELIGENTES
+
+El equipo **Marlowe** continuó trabajando en `marlowe-cardano` añadiendo [el estado inicial](https://github.com/input-output-hk/marlowe-cardano/pull/800) para crear órdenes y arreglando algunas órdenes en [varios archivos](https://github.com/input-output-hk/marlowe-cardano/pull/799/files). También [resolvieron un problema de equilibrio](https://github.com/input-output-hk/marlowe-ts-sdk/pull/171) al crear un contrato abierto basado en roles en TS-SDK, [añadieron una comprobación de linter](https://github.com/input-output-hk/marlowe-playground/pull/64) para nombres de roles y símbolos de moneda en Marlowe Playground, y [publicaron](https://github.com/input-output-hk/marlowe-cardano/pull/802) validadores de Marlowe como scripts de referencia en mainnet.
+
+# ESCALADO
+
+El equipo de **Hydra** avanzó en el lanzamiento de la [versión 0.15.0](https://github.com/input-output-hk/hydra/releases/tag/0.15.0), [solucionó problemas](https://github.com/input-output-hk/hydra/pull/1246) en las pruebas de humo y los flujos de trabajo de publicación de sitios web, garantizó un entorno de desarrollo más robusto e incluyó más “comida para perros” mediante el uso de Mithril para sincronizar nodos en las [pruebas de humo](https://github.com/input-output-hk/hydra/pull/1252). Por último, el equipo trabajó en pulir `hydra-chess` v.0.1.0 - una aplicación de ejemplo que se ejecuta en Hydra, que demuestra las capacidades de la plataforma y puede servir como referencia para futuros desarrolladores de Hydra.
+
+El equipo **Mithril** ha publicado la versión inicial del paquete [Mithril client NPM package](https://www.npmjs.com/package/@mithril-dev/mithril-client-wasm), que permite a los desarrolladores integrar las características principales de Mithril en sus aplicaciones web ejecutadas en un navegador. También publicaron una nueva distribución [2403.1](https://github.com/input-output-hk/mithril/releases/tag/2403.1), que incluye soporte para el nodo Cardano v.8.7.3, un nuevo observador de cadenas basado en la [biblioteca Pallas](https://crates.io/crates/pallas), junto con correcciones de errores y mejoras de rendimiento.
+
+El equipo siguió implementando un nuevo tipo de entidad para certificar el conjunto de transacciones de Cardano en redes Mithril y avanzó bastante en la recuperación de transacciones y su combinación en un mensaje de protocolo Mithril. Además, terminaron de implementar un agregador simulado en WASM y de utilizarlo en las pruebas del navegador para el cliente Mithril, trabajaron en la mejora de las comunicaciones de nodos entre Mithril y Cardano, y siguieron trabajando en el modelado de amenazas y el análisis de riesgos para las redes P2P.
+
+Por último, los equipos de escalado celebraron la reunión mensual de revisión, que incluyó actualizaciones tanto de Mithril como de Hydra.
+
+# VOLTAIRE Y SANCHONET
+
+Se está trabajando en la implementación de las características de Conway. Esta semana, el equipo de **consensus** integró [DReps e inyección inicial de delegados](https://github.com/IntersectMBO/ouroboros-consensus/pull/894), lo que permitirá al equipo de rendimiento y rastreo ejecutar pruebas comparativas para esta era.
+
+# CATALYST
+
+Esta semana, **Project Catalyst** celebra todos los esfuerzos de los participantes del ecosistema con el inicio del periodo de votación. La votación del Fondo11 comenzó el 25 de enero al mediodía UTC y estará abierta hasta el 8 de febrero a las 11 AM UTC. Los resultados se esperan alrededor del 15 de febrero. Si no está seguro de cómo funciona la votación o necesita ayuda adicional, consulte la página de Catalyst [GitBook aquí](https://docs.projectcatalyst.io/current-fund-basics/voting).
+
+El equipo de Catalyst también organizará un espacio especial AMA Twitter (X) este viernes 26 de enero a las 16:30 UTC al que estás cordialmente invitado. Puedes inscribirte en [este evento aquí](https://twitter.com/i/spaces/1PlKQDdgdXYxE). El tema girará en torno al lanzamiento de la votación de Fund11 y, más concretamente, también se hablará del concepto de grupos de trabajo Catalyst introducido [en esta entrada de blog](https://projectcatalyst.io/blog/catalyst-working-groups-roadmap).
+
+En otro orden de cosas, la comunidad también celebró su [tercer ayuntamiento del año](https://www.youtube.com/watch?v=C-dZEEi1CBU). La próxima reunión está prevista para la semana que viene y, a partir de entonces, todos los miércoles, siempre a las 17.00 UTC. Puedes [inscribirte aquí](https://docs.google.com/forms/d/e/1FAIpQLSd4E8C01F-DEB3CaM7pBvw-J5NLQbO2pc7ORIUHda-oM9SI5Q/viewform).
+
+# EDUCACIÓN
+
+El equipo de **educación** está planificando sus eventos Cardano Days para el año y trabajando en contenidos para Mastering Cardano. También están trabajando en las lecciones 16 y 17 del [Haskell Bootcamp](https://github.com/input-output-hk/haskell-course).
