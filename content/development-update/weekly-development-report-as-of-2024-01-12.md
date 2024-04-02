@@ -161,7 +161,7 @@ El equipo **Mithril** trabajó en la implementación del [cliente en el explorad
 
 Trabajaron, por último, en la mejora de las [comunicaciones de nodos](https://github.com/input-output-hk/mithril/issues/1315) entre Mithril y Cardano y completaron la actualización de la [topología de nodos de Cardano](https://github.com/input-output-hk/mithril/issues/1405) utilizada en la infraestructura de las redes Mithril.
 
-# VOLTAIRE y SANCHONET
+# VOLTAIRE & SANCHONET
 
 El impulso de Cardano seguirá requiriendo el enfoque y la participación colectivos de la comunidad este año, y el equipo de IOG Voltaire seguirá contribuyendo a la gobernanza descentralizada y a la toma de decisiones. Los momentos clave a principios de 2024 serán la publicación de una constitución provisional y de unos guardarraíles técnicos para su uso durante la fase de arranque de Voltaire, que escalonarán hasta una convención constitucional a finales de este año, en la que los delegados elegidos por la comunidad se congregarán y trabajarán juntos para aprobar una versión final de la constitución de Cardano que será ratificada en la cadena por la comunidad de Cardano.
 
