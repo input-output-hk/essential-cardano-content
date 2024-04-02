@@ -1,5 +1,5 @@
 ---
-title: Andamio platform today at Cardano Spot's Live Stream
+title: Andamio platform at Cardano Spot's Live Stream
 tags:
   - gimbalabs
   - Andamio
