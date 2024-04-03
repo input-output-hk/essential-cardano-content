@@ -1,5 +1,5 @@
 ---
-title: Tomorrow, 14:30 UTC, a new edition of Gimbalabs Open Spaces.
+title: April 3rd, 2024, 14:30 UTC, a new edition of Gimbalabs Open Spaces.
 tags:
   - gimbalabs
   - gimbalabs open spaces
