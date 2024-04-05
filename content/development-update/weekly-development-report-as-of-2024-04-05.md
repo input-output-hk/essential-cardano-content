@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/e72c8c83-175d-4cc6-a569-b12182e5f4e2/
+image: https://ucarecdn.com/3967c6df-cf37-40db-bf78-d7e596dc184f/
 image_text: Weekly development report as of 2024-04-05
 ---
 
@@ -17,7 +17,7 @@ They also [addressed an upstream issue within](https://github.com/stevana/quickc
 
 In preparation for node release v.8.10, the team integrated changes across consensus, ledger, and networking components. Upcoming efforts will focus on releasing updated CLI and API versions before the final node update.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 The **Lace** team released Lace v.1.9, which brings multi-wallets and multi-accounts functionality to Lace. For more information, see the [latest blog post](https://www.lace.io/blog/lace-1-9-0-release). 
 
@@ -37,9 +37,7 @@ This week in **Project Catalyst**, the team is preparing for Fund12, which is se
 
 This week, the **education** team continues delivering their online Cardano Developer course, and are also preparing to support the constitutional committee training.
 
-  
-  
-![](https://ucarecdn.com/134e745c-7f6a-44d7-b502-a81a3e2d2e11/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/6624c81a-e4ed-4a4b-81b6-743ce3707643/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
 
@@ -49,7 +47,7 @@ This week, the **education** team continues delivering their online Cardano Deve
 
 ノードv.8.10のリリース準備として、コンセンサス、台帳、ネットワークコンポーネントの変更を統合しました。今後は、最終的なノード更新の前に、CLIとAPIの更新バージョンをリリースすることに重点を置く予定です。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは、マルチウォレットとマルチアカウント機能を搭載したLace v.1.9をリリースしました。詳細は、[ブログの最新記事](https://www.lace.io/blog/lace-1-9-0-release)を参照してください。 
 
