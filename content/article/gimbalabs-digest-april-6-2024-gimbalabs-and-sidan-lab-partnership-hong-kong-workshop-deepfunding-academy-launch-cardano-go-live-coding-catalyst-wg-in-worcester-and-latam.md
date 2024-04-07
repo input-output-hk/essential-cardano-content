@@ -27,7 +27,7 @@ With innovation and resilience at its core, this collaboration promises to prope
 
 ![image](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/1/3/134e8e1778fb0860f9c62b3f084d3e337b41e7bc.jpeg)
 
-On Monday, April 8th, **SIDAN Lab** and [Waffle Capital](https://twitter.com/Waffle_Capital) will host an in-person **workshop in Hong Kong** titled “HK Cardano: From Idea to Funded Project.” This event offers developers and members of the Kong Kong Cardano community a unique opportunity to delve into the Cardano ecosystem and gain insights into transforming ideas into funded projects. **Gimbalabs** is proud to partner with this event, emphasizing its commitment to fostering innovation and growth within the Cardano community.
+On Monday, April 8th, **SIDAN Lab** and [Waffle Capital](https://twitter.com/Waffle_Capital) will host an in-person **workshop in Hong Kong** titled “HK Cardano: From Idea to Funded Project.” This event offers developers and members of the Hong Kong Cardano community a unique opportunity to delve into the Cardano ecosystem and gain insights into transforming ideas into funded projects. **Gimbalabs** is proud to partner with this event, emphasizing its commitment to fostering innovation and growth within the Cardano community.
 
 If you’re in Hong Kong, be sure not to miss this insightful workshop.
 
@@ -116,9 +116,9 @@ _We look forward to your participation in Gimbalabs Community. Don’t just watc
 
 _Discord:_ [https://discord.gg/9FNNb7GPEF 1](https://discord.gg/9FNNb7GPEF)
 
-_Youtube:_ [](https://www.youtube.com/@gimbalabs)[https://www.youtube.com/@gimbalabs](https://www.youtube.com/@gimbalabs)
+_Youtube:_ [https://www.youtube.com/@gimbalabs](https://www.youtube.com/@gimbalabs)
 
-_X Account:_ [](https://twitter.com/gimbalabs)[https://twitter.com/gimbalabs](https://twitter.com/gimbalabs)
+_X Account:_ [https://twitter.com/gimbalabs](https://twitter.com/gimbalabs)
 
 _Spotify:_ [https://podcasters.spotify.com/pod/show/gimbalabs](https://podcasters.spotify.com/pod/show/gimbalabs)
 
