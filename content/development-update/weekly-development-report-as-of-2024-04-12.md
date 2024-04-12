@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/fc5f267b-d46d-428b-9a32-52c86d58f21b/
+image: https://ucarecdn.com/48b9488f-3550-4ac5-b74a-2d90feb334bf/
 image_text: Weekly development report as of 2024-04-12
 ---
 
@@ -40,7 +40,9 @@ Finally, the team delivered a community-requested feature that displays in a mac
 
 ### VOLTAIRE & SANCHONET
 
-The **ledger** team worked on  adding  various Conway-related unit and property tests in line with CIP-1694 on-chain governance mechanisms. These include some fixes to ledger states and adding several `ToJSON` instances needed by the Cardano node. 
+The **ledger** team worked on  adding  various Conway-related
+
+unit and property tests in line with CIP-1694 on-chain governance mechanisms. These include some fixes to ledger states and adding several `ToJSON` instances needed by the Cardano node. 
 
 As always, if you are interested in helping test governance functionality, join [SanchoNet](https://sancho.network/get-started/) – Cardano’s testnet environment to collaboratively create a governance system that is robust, decentralized, and truly community-driven.
 
@@ -52,9 +54,7 @@ This week in **Project Catalyst**, the team continues full speed with preparatio
 
 This week, the **education** team is supporting the Voltaire tribe with the interim constitutional committee training. They also published [Lesson 18](https://github.com/input-output-hk/haskell-course/blob/main/lessons/18-Functor.ipynb) of the Haskell Bootcamp, which covers \`\_functors\_\`.
 
-![](https://ucarecdn.com/37bab2d4-a070-48b6-9bba-fd1689c29ffb/-/preview/-/format/auto/-/quality/smart/)
-
-### コアテクノロジー
+### ![](https://ucarecdn.com/0352fd82-e64a-44e2-8c2d-6c5a0a3e6259/-/preview/-/format/auto/-/quality/smart/)コアテクノロジー
 
 **台帳**チームは、この2週間でテストを大きく前進させました。[適合性テスト](https://github.com/IntersectMBO/cardano-ledger/pull/4212)のためのデータ生成を改善し、実装を整理しました。インフラの強化、ノードv.8.10の修正の実装、リリース後の更新の作成、ツールの更新に取り組みました。 
 
