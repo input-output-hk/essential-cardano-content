@@ -40,9 +40,7 @@ Finally, the team delivered a community-requested feature that displays in a mac
 
 ### VOLTAIRE & SANCHONET
 
-The **ledger** team worked on  adding  various Conway-related
-
-unit and property tests in line with CIP-1694 on-chain governance mechanisms. These include some fixes to ledger states and adding several `ToJSON` instances needed by the Cardano node. 
+The **ledger** team worked on  adding  various Conway-related unit and property tests in line with CIP-1694 on-chain governance mechanisms. These include some fixes to ledger states and adding several `ToJSON` instances needed by the Cardano node. 
 
 As always, if you are interested in helping test governance functionality, join [SanchoNet](https://sancho.network/get-started/) – Cardano’s testnet environment to collaboratively create a governance system that is robust, decentralized, and truly community-driven.
 
