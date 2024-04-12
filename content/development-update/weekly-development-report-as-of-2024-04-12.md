@@ -2,6 +2,8 @@
 title: Weekly development report as of 2024-04-12
 tags:
   - Weekly development updates
+  - Development
+  - Statistics
 url: ""
 image: https://ucarecdn.com/fc5f267b-d46d-428b-9a32-52c86d58f21b/
 image_text: Weekly development report as of 2024-04-12
@@ -50,9 +52,8 @@ This week in **Project Catalyst**, the team continues full speed with preparatio
 
 ### EDUCATION
 
-This week, the **education** team is supporting the Voltaire tribe with the interim constitutional committee training. They also published [Lesson 18](https://github.com/input-output-hk/haskell-course/blob/main/lessons/18-Functor.ipynb) of the Haskell Bootcamp, which covers \`_functors_\`.  
-  
-  
+This week, the **education** team is supporting the Voltaire tribe with the interim constitutional committee training. They also published [Lesson 18](https://github.com/input-output-hk/haskell-course/blob/main/lessons/18-Functor.ipynb) of the Haskell Bootcamp, which covers \`\_functors\_\`.
+
 ![](https://ucarecdn.com/37bab2d4-a070-48b6-9bba-fd1689c29ffb/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
