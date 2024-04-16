@@ -61,8 +61,6 @@ You can also go over [Essential Cardano FAQs](https://www.essentialcardano.io/fa
     
 *   [Why is Cardano called the ‘green blockchain’?](https://www.essentialcardano.io/faq/why-is-cardano-called-the-green-blockchain)
     
-*   [Why use Cardano?](https://docs.cardano.org/new-to-cardano/why-use-cardano)
-    
 
 ### Getting involved
 
@@ -76,9 +74,9 @@ Let’s start with some simple payments. You will first need to choose and creat
         
     *   **For desktop**: [Nami](https://namiwallet.io/) and [Lace](https://www.lace.io/) are simplified desktop wallets that are perfect for first-time users. [Eternl](https://eternl.io/app/mainnet/welcome) and [Typhon](https://typhonwallet.io/) are more advanced desktop wallets that offer a number of interesting features.
         
-    *   **For mobile:** [Vespr](https://vespr.xyz/), [Eternl](https://linktr.ee/eternlwallet), [Gero](https://gerowallet.io/), and [Flint wallet](https://docs.cardano.org/new-to-cardano/types-of-wallets) are some go-to options that are largely adopted by the community.
+    *   **For mobile:** [Vespr](https://vespr.xyz/), [Eternl](https://linktr.ee/eternlwallet), [Gero](https://gerowallet.io/), and [Flint wallet](https://flint-wallet.com/) are some go-to options that are largely adopted by the community.
         
-2.  Explore and choose a cryptocurrency exchange (in your jurisdiction) to get some ada: [How to purchase ada?](https://docs.cardano.org/new-to-cardano/how-to-purchase-ada)
+2.  Explore and choose a cryptocurrency exchange (in your jurisdiction) to get some ada.
     
 3.  Try out the wallet: ask a fellow Cardano community member for their wallet address and try exchanging (sending/receiving) small amounts of ada with them. 
     
@@ -185,7 +183,7 @@ Cardano provides the possibility to work with Plutus and Marlowe contracts:
 *   Marlowe is a ‘domain specific’ language specially designed for writing financial smart contracts. It is limited to financial applications and its ‘low-code’ approach means it is perfect for experts in finance rather than in programming.
     
 
-If you’re interested in learning how to write Plutus and Marlowe contracts, you can take part in the [Plutus Pioneer](https://docs.cardano.org/pioneer-programs/plutus-pioneers) and [Marlowe Pioneer](https://pioneers.marlowe-finance.io/) training courses.
+If you’re interested in learning how to write Plutus contracts, you can take part in the [Plutus Pioneer](https://docs.cardano.org/pioneer-programs/plutus-pioneers) program.
 
 ### Digital identity
 
