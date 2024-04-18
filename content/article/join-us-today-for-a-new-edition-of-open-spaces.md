@@ -1,5 +1,5 @@
 ---
-title: Join us tomorrow for a new edition of 🌱 Open Spaces.
+title: Join us today for a new edition of 🌱 Open Spaces.
 tags:
   - gimbalabs
   - gimbalabs open spaces
