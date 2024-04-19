@@ -24,7 +24,6 @@ Some of the improvements include:
 *   deploying one-third of IOG’s pre-production environment nodes and two-thirds of IOG’s preview environment nodes into Cardano node v.8.10.0-pre.
     
 
-  
 The **networking** team continued their work on Genesis support, which involved reviewing the churn policy for Genesis, implementing outbound governor support for Genesis, and providing support for `cardano-cli`. They also addressed some technical debt in churn extending EKG counters traced by the node. Finally, they updated [documentation about peer sharing](https://github.com/input-output-hk/cardano-node-wiki/wiki/understanding-config-files#the-p2p-topologyjson-file). For more updates from the team check the link [here](https://updates.cardano.intersectmbo.org/2024-04-15-network/).
 
 The **consensus** team [implemented a new diffusion pipelining](https://github.com/IntersectMBO/ouroboros-consensus/pull/955) criterion. They presented, reviewed, and merged the [March milestone](https://github.com/IntersectMBO/ouroboros-consensus/pull/1015) for Genesis. Additionally, they [integrated the latest changes](https://github.com/IntersectMBO/cardano-node/pull/5774) into node v.8.10.
@@ -57,12 +56,9 @@ For regular updates, please join these [Telegram](https://t.me/cardanocatalyst) 
 
 ### EDUCATION
 
-This week, the **education** team is wrapping up the online ABC Cardano Developer course and working on developing further Aiken content following a positive reception during the course. They are also working with the Voltaire tribe on training plans.  
-  
-  
-![](https://ucarecdn.com/e88a3a9e-b833-4b03-99b8-28c733fa6d35/-/preview/-/format/auto/-/quality/smart/)
+This week, the **education** team is wrapping up the online ABC Cardano Developer course and working on developing further Aiken content following a positive reception during the course. They are also working with the Voltaire tribe on training plans.
 
-### コアテクノロジー
+### ![](https://ucarecdn.com/b742c6ae-9e43-4661-badf-c59db7c99a2f/-/preview/-/format/auto/-/quality/smart/)コアテクノロジー
 
 **コアテクノロジー**チームは、[node v. 8.9.2](https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.2)をリリースしました。このバージョンでは、ノードが接続したノードとピアを共有できないというピア共有ネットワーク機能の不具合が解消されました。
 
@@ -77,7 +73,6 @@ This week, the **education** team is wrapping up the online ABC Cardano Develope
 *   IOGプリプロ環境ノードの3分の1とIOGプレビュー環境ノードの3分の2をCardanoノードv.8.10.0-preにデプロイ
     
 
-  
 **ネットワーキング**チームは、Genesisサポートに関する作業を続けました。これには、Genesisの解約ポリシーの見直し、Genesisのアウトバウンドガバナーサポートの実装、cardano-cliのサポートの提供が含まれます。ノードがトレースするEKGカウンターを拡張するチャーンにおける技術負債にも対処しました。[ピア共有に関するドキュメント](https://github.com/input-output-hk/cardano-node-wiki/wiki/understanding-config-files#the-p2p-topologyjson-file)を更新しました。詳細は、[このリンク](https://updates.cardano.intersectmbo.org/2024-04-15-network/)からご覧ください。
 
 **コンセンサス**チームは、[拡散パイプラインの新基準を実装](https://github.com/IntersectMBO/ouroboros-consensus/pull/955)しました。Genesisの[3月のマイルストン](https://github.com/IntersectMBO/ouroboros-consensus/pull/1015)を発表、レビュー、マージしました。ノードv.8.10に[最新の変更を統合](https://github.com/IntersectMBO/cardano-node/pull/5774)しました。
