@@ -15,7 +15,6 @@ This week, the **networking** team published \`[ouroboros-network-0.12.0.0](http
 
 The team fixed syncing in bootstrap mode to restore performance (commit: [1](https://github.com/IntersectMBO/ouroboros-network/issues/4809) [2](https://github.com/IntersectMBO/ouroboros-network/issues/4810) ) and started working on [Outbound-Governor Genesis mode](https://github.com/IntersectMBO/ouroboros-consensus/issues/958).
 
-  
 This week, the **consensus** team updated the production libraries for `UTXO-HD` in `ouroboros-consensus`, `cardano-api`, and `cardano-node`. The [team measured sync, replay times, and memory](https://github.com/IntersectMBO/cardano-node/issues/5495) in `UTXO-HD`. They also fixed a [bug related to the snapshot interval](https://github.com/IntersectMBO/cardano-updates/blob/a51cbca7820b262392bb608d06ac11da4007e021/blog/2024-03-06-consensus.md#:~:text=reported%20here.-,Bugfixed,-the%20snapshot%20interval) and [added an extra case](https://github.com/IntersectMBO/ouroboros-consensus/pull/983) to `isIncorrectClaimedFlag` for Babbage and Conway eras, and [added a](https://github.com/IntersectMBO/ouroboros-consensus/pull/970) `db-analyser` analysis to determine the UTXO size per slot.
 
 Finally, the team helped troubleshoot some known issues with node v.8.9 such as unexpected snapshot intervals causing missed leadership schedules and integration tests.
@@ -46,11 +45,8 @@ Also, the team is eagerly awaiting final approvals from the stores to accommodat
 
 ### EDUCATION
 
-This week, the **education** team  continues  updating  the advanced lessons of the Haskell Bootcamp course. They are also updating the Cardano Developer Course with practical scenarios that will be used in future lectures.  
-  
-  
-  
-  
+This week, the **education** team  continues  updating  the advanced lessons of the Haskell Bootcamp course. They are also updating the Cardano Developer Course with practical scenarios that will be used in future lectures.
+
 ![](https://ucarecdn.com/e6174b71-c31f-4fc0-a2b1-bf9073490cbc/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
@@ -59,12 +55,10 @@ This week, the **education** team  continues  updating  the advanced lessons 
 
 ブートストラップモードでの同期を修正してパフォーマンスを復元し（commit [1](https://github.com/IntersectMBO/ouroboros-network/issues/4809) [2](https://github.com/IntersectMBO/ouroboros-network/issues/4810)）、[Outbound-Governor Genesisモード](https://github.com/IntersectMBO/ouroboros-consensus/issues/958)の作業を開始しました。
 
-  
 **コンセンサス**チームは、ouroboros-consensus、cardano-api、cardano-nodeのUTXO-HDのプロダクションライブラリーを更新しました。[同期、再生時間、メモリーをUTXO-HDで測定](https://github.com/IntersectMBO/cardano-node/issues/5495)しました。[スナップショットインターバルに関連するバグ](https://github.com/IntersectMBO/cardano-updates/blob/a51cbca7820b262392bb608d06ac11da4007e021/blog/2024-03-06-consensus.md#:~:text=reported%20here.-,Bugfixed,-the%20snapshot%20interval)を修正し、Babbage期とConway期のisIncorrectClaimedFlagに[ケースを追加](https://github.com/IntersectMBO/ouroboros-consensus/pull/983)し、スロットあたりのUTXOサイズを決定する[db-analyzer](https://github.com/IntersectMBO/ouroboros-consensus/pull/970)分析を追加しました。
 
 予期しないスナップショットインターバルの発生により、リーダーシップスケジュールや統合テストが欠落するなど、ノードv.8.9の既知の問題のトラブルシューティングをサポートしました。
 
-  
 スマートコントラクト
 
 **Plutus**チームは[CIP-57](https://cips.cardano.org/cip/CIP-0057)（Plutusコントラクトのブループリント）の実装を進めました。まもなくPlutus Txのブループリント生成をサポートするコンパイラーバージョンをリリースする予定です。
@@ -92,3 +86,41 @@ Fund12ローンチ都市を選ぶスペシャル投票イベントを提供す�
 ### 教育
 
 **教育**チームはHaskell Bootcampコースの上級レッスンの更新を続けています。Cardano開発者コースには、今後の講義で使用する実践的なシナリオを追加しています。
+
+# TECNOLOGÍA CENTRAL
+
+Esta semana, el equipo de redes ha publicado los paquetes `ouroboros-network-0.12.0.0`, `ouroboros-network-protocols-0.8.0.0` y `ouroboros-network-api-0.7.0.0` en CHaP. Además, actualizaron y publicaron `ouroboros-consensus-0.16.0.0`, `ouroboros-consensus-cardano-0.14.0.0`, `cardano-cli-8.20.3.0` y `cardano-api-8.39.2.0`.
+
+Se ha corregido la sincronización en modo bootstrap para restaurar el rendimiento (commit: [1](https://github.com/IntersectMBO/ouroboros-network/issues/4809) [2](https://github.com/IntersectMBO/ouroboros-network/issues/4810) ) y comenzó a trabajar en el modo [Outbound-Governor Genesis](https://github.com/IntersectMBO/ouroboros-consensus/issues/958).
+
+El equipo de **consenso** actualizó las bibliotecas de producción para `UTXO-HD` en `ouroboros-consensus`, `cardano-api` y `cardano-node`. El [equipo midió la sincronización, los tiempos de reproducción y la memoria](https://github.com/IntersectMBO/cardano-node/issues/5495) en `UTXO-HD`. También arreglaron un [error relacionado con el intervalo de instantáneas](https://github.com/IntersectMBO/cardano-updates/blob/a51cbca7820b262392bb608d06ac11da4007e021/blog/2024-03-06-consensus.md#:~:text=reported%20here.-,Bugfixed,-the%20snapshot%20interval) y [añadieron un caso extra](https://github.com/IntersectMBO/ouroboros-consensus/pull/983) a `isIncorrectClaimedFlag` para las eras Babbage y Conway, y [añadieron un](https://github.com/IntersectMBO/ouroboros-consensus/pull/970) análisis `db-analyser` para determinar el tamaño UTXO por ranura.
+
+Además, se ayudó a solucionar algunos problemas conocidos del nodo v.8.9, como los intervalos de instantáneas inesperados que hacían que se perdieran los programas de liderazgo y las pruebas de integración.
+
+# CONTRATOS SMART CONTRACT
+
+El equipo de **Plutus** avanzó en la implementación de [CIP-57](https://cips.cardano.org/cip/CIP-0057) (Plutus contract blueprint). El equipo espera lanzar pronto una versión del compilador que soporte la generación de blueprints para Plutus Tx.
+
+# ESCALADO
+
+Los equipos Hydra y Mithril han publicado un nuevo \[informe mensual\] de colaboración([February 2024 | Cardano Scaling](https://cardano-scaling.github.io/website/monthly/2024-02)).
+
+El equipo **Hydra** comenzó a prepararse para el cambio a Conway haciendo que la base de código fuera menos específica de Babbage. Añadieron una interfaz de usuario básica\]([Create a simple, representable and informative Hydra Explorer UI · Issue #1330 · input-output-hk/hydra · GitHub](https://github.com/input-output-hk/hydra/issues/1330)) al explorador de Hydra, pasaron a agregar datos de SanchoNet y [arreglaron las pruebas de humo](https://github.com/input-output-hk/hydra/pull/1323) para que funcionaran en SanchoNet. Por último, el equipo avanzó en sus cambios de protocolo de commit incremental fuera de cadena.
+
+El equipo **Mithril** trabajó en la implementación de un tipo de datos para certificar las transacciones de Cardano dentro de las redes Mithril. También adaptaron el explorador Mithril para soportar la verificación de [transacciones Cardano](https://github.com/input-output-hk/mithril/issues/1497) y comenzaron a implementar un \[esquema de firma\] de transacciones más eficiente([Implement a Block Range Merkle Tree for](https://github.com/input-output-hk/mithril/issues/1533) `Cardano Transactions` [· Issue #1533 · input-output-hk/mithril · GitHub](https://github.com/input-output-hk/mithril/issues/1533)). Además, [estabilizaron los nombres de los tipos](https://github.com/input-output-hk/mithril/issues/1535) en la API e investigaron un [fallo](https://github.com/input-output-hk/mithril/issues/1537) que impide la firma de algunas transacciones de la era Conway. El equipo completó la primera versión del punto final de [supervisión de Prometheus](https://github.com/input-output-hk/mithril/issues/1096) para el firmante. Por último, arreglaron un error en la [publicación](https://github.com/input-output-hk/mithril/issues/1531) de los paquetes `npm` del cliente, mejoraron las pruebas HTTP del agregador y siguieron trabajando en el [cálculo del periodo KES](https://github.com/input-output-hk/mithril/pull/1541) en el observador de la cadena Pallas.
+
+# VOLTAIRE & SANCHONET
+
+El equipo de **SanchoNet** ha efectuado esta semana varias actualizaciones de la documentación. Esto incluye actualizaciones de la lista de recursos, la última versión de nodo compatible, un tutorial de acciones de gobernanza y una página actualizada de preguntas frecuentes y recursos.
+
+# PROYECTO CATALYST
+
+El **Proyecto Catalyst** [sigue incorporando proyectos del Fondo11](https://docs.projectcatalyst.io/fund-documentation/fund11-docs/project-onboarding). El esfuerzo ha producido hasta ahora un 75% de proyectos bloqueados con su declaración de hitos y casi listos para empezar a recibir sus primeros pagos de subvenciones votados por la comunidad Cardano. En comparación, las actualizaciones de los procesos y las herramientas que los apoyan han producido más proyectos embarcados en el mismo período que todo el Fondo 10 combinado. Un gran testimonio para todos los miembros de la comunidad que participan en el proceso: verificadores de pruebas de vida, revisores de hitos o proponentes financiados.
+
+Por otro lado, durante el pleno de esta semana, se ha iniciado el periodo de retrospectiva con la comunidad - puede [ver la grabación aquí](https://x.com/danny_cryptofay/status/1765724697956655529?s=20) - y ya se han recogido muchas ideas estupendas. ¿El tema de esta retrospectiva? Las categorías del Fondo11 y su aplicación - ¿qué podemos aprender de esta iteración y ajustar para el Fondo12? Seguimos invitando a la comunidad a participar junto a nosotros en las próximas semanas.
+
+Además, nuestro equipo está esperando con impaciencia las aprobaciones finales de las tiendas para dar cabida al evento especial de votación para la elección de la ciudad de lanzamiento del Fondo12. Si no está seguro de qué se trata - asegúrese de ver [este post del Foro Cardano](https://forum.cardano.org/t/fund12-launch-event-choose-your-city/128326) para todas las actualizaciones. ¿Será Barcelona, Buenos Aires, Nairobi, Sydney, Tokio o Toronto? Usted decidirá.
+
+# EDUCACIÓN
+
+El equipo de **educación** continúa actualizando las lecciones avanzadas del curso Haskell Bootcamp. También están actualizando el curso para desarrolladores de Cardano con escenarios prácticos que se utilizarán en futuras clases.
