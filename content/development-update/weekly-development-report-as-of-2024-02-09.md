@@ -31,7 +31,7 @@ The **Lace** team have been working on minor fixes, and are now preparing for th
 
 The **Plutus** team improved error reporting when scripts fail to decode, due to reasons such as using a built-in function unsupported by the Plutus language version of the script, or the current protocol version.
 
-### SCALING  
+### SCALING
 
 This week, the **Hydra** team published their [monthly report for January 2024](https://hydra.family/head-protocol/monthly/2024-01), enhanced user feedback for failed commands, updated `cardano-api` dependency and `GHC` to newer versions, reopened the persistent head in preparation for the hard fork, extended their model-based testing suite to cover the closing of heads, fixed a bug in `io-sim`, and actively contributed to the development of cardano-node.
 
@@ -75,7 +75,7 @@ Cardano財団と協力してtx-submission決定ロジックを改良し、SIGUSR
 
 **Plutus**チームは、スクリプトのPlutus言語バージョンや現在のプロトコルバージョンでサポートされていない組み込み関数を使用するなどの理由で、スクリプトがデコードに失敗した場合のエラーレポートを改良しました。
 
-### スケーリング  
+### スケーリング
 
 **Hydra**チームは[2024年1月の月次レポート](https://hydra.family/head-protocol/monthly/2024-01)を公開しました。失敗したコマンドに対するユーザーフィードバックを強化し、cardano-apiの依存関係とGHCを新しいバージョンに更新し、ハードフォークに備えて永続的なヘッドを再開しました。モデルベースのテストスイートを拡張してヘッドクローズをカバーし、io-simのバグを修正し、cardano-nodeの開発に積極的に貢献しました。
 
@@ -94,3 +94,45 @@ SanchoNetは、CIP-1694の仕様に沿って、Cardanoブロックチェーン�
 ### 教育
 
 **教育**チームは[African Blockchain Center](https://www.theafricablockchaincenter.com/)と協力して、来週オンラインで開催予定の第2回Cardano開発者コースを準備しています。現在、開発者の環境や講義の準備を進めています。
+
+# TECNOLOGÍA CENTRAL
+
+Esta semana, el equipo **networking** fusionó los cambios relacionados con los pares de arranque en el \[repositorio\] `ouroboros-network`([Doc: Handshake should pass TRUE for initiatorOnlyDiffusionMode by AndrewWestberg · Pull Request #4790 · IntersectMBO/ouroboros-network · GitHub](https://github.com/IntersectMBO/ouroboros-network/pull/4790)) y continuó la integración y las pruebas utilizando una versión de desarrollo temprana de `cardano-node`. En colaboración con [DripDropz](https://dripdropz.io/), el equipo de IOG corrigió un error en la especificación CDDL que dio lugar a una [documentación engañosa](https://github.com/IntersectMBO/ouroboros-network/issues/4790). El equipo también ofreció claridad sobre la bandera del protocolo handshake y decidió llamarla `initiatorOnlyDiffusionMode`.
+
+El equipo ha aconsejado a los autores de bibliotecas que ofrecen conectividad con otros nodos mediante el protocolo `node-to-node` que revisen su implementación.
+
+Por otra parte, colaboraron con La Fundación Cardano para perfeccionar la lógica de decisión `tx-submission`, implementando una función de depuración que vuelca el estado del gobernador saliente en el evento `SIGUSR1`. El equipo garantizó mejores capacidades de supervisión y solución de problemas, con soporte extendido a SO compatibles con POSIX (commit: [1](http://ouroboros-network/#4730), [2](https://github.com/IntersectMBO/ouroboros-network/issues/4789)).
+
+El equipo [limitó la velocidad a la que se pueden descubrir nodos](https://github.com/IntersectMBO/ouroboros-network/issues/4778) mediante el intercambio entre pares.
+
+El equipo de **consenso** integró en el nodo la versión de consenso del prototipo `UTXO-HD`, que incluye la segunda versión de la API Ledger DB. Además, el equipo implementó un [cambio en la estructura de épocas para Conway](https://github.com/IntersectMBO/ouroboros-consensus/pull/927) e hizo progresos en el avance de la máquina de estados bootstrap y la planificación de Ouroboros Peras. En el frente del soporte, el equipo está investigando actualmente el impacto de las instantáneas en las comprobaciones de liderazgo perdidas.
+
+Consulte, como siempre, [este informe de desarrollo técnico](https://updates.cardano.intersectmbo.org/archive) para obtener más detalles de los distintos equipos.
+
+# WALLETS Y SERVICIOS
+
+El equipo de **Lace** ha estado trabajando en correcciones menores y se está preparando para la próxima versión v.1.9. [Añada Lace](https://www.lace.io/?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=weekly-dev-report&utm_content=email-registration) a su navegador y únase a la lista de correo electrónico -encuentre la suscripción en el pie de página del sitio web- para recibir las últimas actualizaciones.
+
+# SMART CONTRACTS
+
+El equipo de **Plutus** ha mejorado el informe de errores cuando las secuencias de comandos fallan al descodificar, debido a razones tales como el uso de una función incorporada no soportada por la versión del lenguaje Plutus de la secuencia de comandos, o la versión actual del protocolo.
+
+# ESCALADO
+
+El equipo **Hydra** ha publicado su [informe mensual de enero de 2024](https://hydra.family/head-protocol/monthly/2024-01), ha mejorado los comentarios de los usuarios sobre comandos fallidos, ha actualizado la dependencia `cardano-api` y `GHC` a versiones más recientes, ha reabierto el cabezal persistente en preparación para el hard fork, ha ampliado su conjunto de pruebas basadas en modelos para cubrir el cierre de cabezales, ha corregido un error en `io-sim` y ha contribuido activamente al desarrollo de cardano-node.
+
+El equipo de **Mithril** siguió implementando un nuevo tipo de datos para certificar las transacciones de Cardano dentro de las redes Mithril. Completaron las rutas agregadoras responsables de [generar pruebas de pertenencia](https://github.com/input-output-hk/mithril/issues/1467) para una lista de transacciones Cardano y para [listar los artefactos producidos](https://github.com/input-output-hk/mithril/issues/1478). Además, trabajaron en la ampliación de la biblioteca cliente de Mithril para soportar la [verificación de transacciones Cardano](https://github.com/input-output-hk/mithril/issues/1468), y en la [creación de la nueva red Mithril que se ejecuta en SanchoNet.](https://github.com/input-output-hk/mithril/issues/1173).
+
+Se siguió trabajando en el modelado de amenazas y el análisis de riesgos para la red Mithril e investigó algunos fallos que se producían en las pruebas CI de extremo a extremo.
+
+# VOLTAIRE Y SANCHONET
+
+SanchoNet es la red de pruebas para el despliegue de funciones de gobernanza para la blockchain Cardano, en consonancia con las especificaciones CIP-1694. Si está interesado en probar estas características, asegúrese de consultar el [sitio web de SanchoNet](https://sancho.network/get-started/). Los equipos trabajan ahora en la actualización de las preguntas más frecuentes y en añadir más información a la sección “Recursos”.
+
+# CATALYST
+
+Esta semana en el **Proyecto Catalyst**, la comunidad de Cardano finalizó la votación del Fondo11 el jueves 8 de febrero a las 11 AM UTC. Muchísimas gracias a la comunidad de Cardano por su compromiso y apoyo durante toda la ronda de votaciones. ¿Y ahora qué? Recuento y resultados. Se espera que se publiquen antes del 15 de febrero directamente en el [sitio web del Proyecto Catalyst](http://projectcatalyst.io/). Los resultados relevantes serán auditables según la [documentación oficial](http://docs.projectcatalyst.io/).
+
+# EDUCACIÓN
+
+En cuanto a **educación** se está preparando para impartir la próxima semana la segunda iteración del curso en línea para desarrolladores de Cardano en colaboración con [el Centro Africano de Blockchain](https://www.theafricablockchaincenter.com/). Están preparando el entorno del desarrollador y las conferencias.
