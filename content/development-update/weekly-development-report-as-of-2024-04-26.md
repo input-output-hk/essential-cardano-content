@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/82713a63-fc7f-473d-b038-003a332b3b66/
+image: https://ucarecdn.com/a59c2618-d76c-41b2-aefa-31551ff73872/
 image_text: Weekly development report as of 2024-04-26
 ---
 
@@ -13,7 +13,8 @@ image_text: Weekly development report as of 2024-04-26
 
 This week, the **performance and tracing** team concluded benchmarking activities for nodes v.8.9.2 and v.8.10.0. They also started designing the implementation of quick queries in the analysis pipeline. Currently, they are finalizing new features for the reporting pipeline and enhancing Prometheus output to make the node's build information easily accessible as a label. Furthermore, the team updated their tooling to support benchmarks with non-empty chains for UTXO growth.
 
-### SMART CONTRACTS  
+### SMART CONTRACTS
+
 This week, the **Plutus** team combined three command line tools - `pir`, `plc`, and `uplc` – into a single unified executable with a common interface for interacting with the Plutus language pipeline. They also added new features and connections to other tools (for example, the in-progress Plutus debugger).
 
 ### SCALING
@@ -40,10 +41,10 @@ The Catalyst team has launched a [dedicated X account](https://twitter.com/Catal
 
 ### EDUCATION
 
-This week, the **education** team has been reviewing the capstone projects for participants of the ABC Cardano Developer course. They are also working with the Voltaire tribe and the Intersect team planning for constitutional committee and DRep training.  
-  
-![](https://ucarecdn.com/74f2a8ce-bf4e-4629-9b40-bd8a63fa2731/-/preview/-/format/auto/-/quality/smart/)  
-  
+This week, the **education** team has been reviewing the capstone projects for participants of the ABC Cardano Developer course. They are also working with the Voltaire tribe and the Intersect team planning for constitutional committee and DRep training.
+
+![](https://ucarecdn.com/b63499f8-ebf6-4b4e-91f6-f099b05752b7/-/preview/-/format/auto/-/quality/smart/)
+
 コアテクノロジー
 
 **パフォーマンス＆トレース**チームはノードv.8.9.2とv.8.10.0のベンチマークを完了しました。解析パイプラインにおけるクイッククエリの実装の設計も開始しました。現在、レポートパイプラインの新機能を仕上げ、ノードのビルド情報にラベルとして簡単にアクセスできるよう、Prometheusの出力を強化しています。UTXOを成長させるための空でないチェーンのベンチマークをサポートするためにツールを更新しました。
