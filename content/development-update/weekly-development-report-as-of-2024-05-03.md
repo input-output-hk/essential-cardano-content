@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/3ee3cc61-a046-4225-bb36-10de1d6003d4/
+image: https://ucarecdn.com/8f030db9-4f94-40c2-b918-fd7dc2322973/
 image_text: Weekly development report as of 2024-05-03
 ---
 
@@ -41,7 +41,7 @@ The registration process for becoming a [community reviewer](https://docs.projec
 
 The **education** team is working on the curriculum for the DRep Pioneer program. Additionally, some members of the team attended the recent Cardano Buidler fest and the Catalyst Fund12 launch.
 
-![](https://ucarecdn.com/97d716d4-1a0a-4e22-ac77-b5f7648a9ce4/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/7ba9af53-e60a-4f74-a8b7-f3cf00b598a5/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
 
@@ -51,7 +51,7 @@ The **education** team is working on the curriculum for the DRep Pioneer program
 
 **コンセンサス**チームは、UTXO-HDの準備のために、コンセンサスで使用されているさまざまなデータベースの[引数を見直し](https://github.com/IntersectMBO/ouroboros-consensus/pull/1059)ました。Peras Innovationレポートの草案をレビューし、スロットの距離に基づく[VRF制限に関する作業を継続](https://github.com/IntersectMBO/ouroboros-consensus/pull/1047)しました。ネットワーキングチームによる[大きな台帳ピアのクエリに関する作業](https://github.com/IntersectMBO/ouroboros-consensus/pull/1067)をレビューし、オープンソースのfs-apiとfs-simへの取り組みを続け、コードベースでマイナーなリファクタリングを行いました（コミット：[1](https://github.com/IntersectMBO/ouroboros-consensus/pull/1073)、[2](https://github.com/IntersectMBO/ouroboros-consensus/pull/1070)）。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Laceチームは、エキサイティングなLace v.1.11の更新の開発に取り組んでいます。最新情報は、**[Laceのブログ](https://www.lace.io/blog)**をチェックしてください。**
 
