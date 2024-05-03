@@ -17,7 +17,7 @@ Some of the improvements include the deployment of Cardano node v.8.9.2 to mainn
 
 The **consensus** team [reworked the argument](https://github.com/IntersectMBO/ouroboros-consensus/pull/1059) for the different databases used in consensus to prepare for UTXO-HD. They also reviewed the first draft of the Peras innovation report and [continued working on the VRF restriction](https://github.com/IntersectMBO/ouroboros-consensus/pull/1047) based on slot distance. Additionally, the team supported the networking team in reviewing their [work on querying big ledger peers](https://github.com/IntersectMBO/ouroboros-consensus/pull/1067), continued working on open-sourcing `fs-api` and `fs-sim`, and performed minor refactorings in the codebase (commits: [1](https://github.com/IntersectMBO/ouroboros-consensus/pull/1073), [2](https://github.com/IntersectMBO/ouroboros-consensus/pull/1070)).
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 The Lace team is working on developing exciting updates for Lace v.1.11. Check the [Lace blog](https://www.lace.io/blog) for the latest announcements.
 
@@ -39,39 +39,38 @@ The registration process for becoming a [community reviewer](https://docs.projec
 
 ### EDUCATION
 
-The **education** team is working on the curriculum for the DRep Pioneer program. Additionally, some members of the team attended the recent Cardano Buidler fest and the Catalyst Fund12 launch.  
-  
-  
+The **education** team is working on the curriculum for the DRep Pioneer program. Additionally, some members of the team attended the recent Cardano Buidler fest and the Catalyst Fund12 launch.
+
 ![](https://ucarecdn.com/97d716d4-1a0a-4e22-ac77-b5f7648a9ce4/-/preview/-/format/auto/-/quality/smart/)
 
-コアテクノロジー
+### コアテクノロジー
 
-この数週間、SRE（サイト信頼性エンジニアリング）チームは、Cardanoの環境の改善と総合的なメンテナンスに取り組んできました。
+この数週間、**SRE**（サイト信頼性エンジニアリング）チームは、Cardanoの環境の改善と総合的なメンテナンスに取り組んできました。
 
 具体的には、Cardanoノードv.8.9.2をメインネット、プリプロ、プレビュー、shelley-qaの各環境にデプロイしたほか、Cardanoノードv.8.10.1-preをSanchNetにデプロイしました。nixops/terraform/nivスタックをアップグレードしたcardano-partsスタックを使用して、マシンクラスターouroboros-network-opsを書き直しました。
 
-コンセンサスチームは、UTXO-HDの準備のために、コンセンサスで使用されているさまざまなデータベースの引数を見直しました。Peras Innovationレポートの草案をレビューし、スロットの距離に基づくVRF制限に関する作業を継続しました。ネットワーキングチームによる大きな台帳ピアのクエリに関する作業をレビューし、オープンソースのfs-apiとfs-simへの取り組みを続け、コードベースでマイナーなリファクタリングを行いました（コミット：1、2）。
+**コンセンサス**チームは、UTXO-HDの準備のために、コンセンサスで使用されているさまざまなデータベースの[引数を見直し](https://github.com/IntersectMBO/ouroboros-consensus/pull/1059)ました。Peras Innovationレポートの草案をレビューし、スロットの距離に基づく[VRF制限に関する作業を継続](https://github.com/IntersectMBO/ouroboros-consensus/pull/1047)しました。ネットワーキングチームによる[大きな台帳ピアのクエリに関する作業](https://github.com/IntersectMBO/ouroboros-consensus/pull/1067)をレビューし、オープンソースのfs-apiとfs-simへの取り組みを続け、コードベースでマイナーなリファクタリングを行いました（コミット：[1](https://github.com/IntersectMBO/ouroboros-consensus/pull/1073)、[2](https://github.com/IntersectMBO/ouroboros-consensus/pull/1070)）。
 
-ウォレットとサービス
+### ウォレットとサービス 
 
-Laceチームは、エキサイティングなLace v.1.11の更新の開発に取り組んでいます。最新情報は、Laceのブログをチェックしてください。
+**Laceチームは、エキサイティングなLace v.1.11の更新の開発に取り組んでいます。最新情報は、**[Laceのブログ](https://www.lace.io/blog)**をチェックしてください。**
 
-スケーリング
+### スケーリング
 
-Mithrilチームは、新しいプレリリースディストリビューション2418.1-preの準備を行いました。これには、ビルド済みバイナリに対する幅広いCPUサポートと、メモリの断片化を防ぐための署名者ノードおよびアグリゲーターノード用の新しいメモリーアロケーターが含まれています。MithrilネットワークにCardanoトランザクション認証を実装する作業を続け、署名および証明中のトランザクションブロック範囲をベースに、サブマークル木を用いたトランザクションマークル木の圧縮を活用した、mainnetの署名と証明生成をスケーリングする作業に取り組みました。さらに、署名者ストアとアグリゲーターストアにトランザクションをインポートするためのストリームメカニズムを実装しました。
+**Mithril**チームは、新しいプレリリースディストリビューション[2418.1-pre](https://github.com/input-output-hk/mithril/releases/tag/2418.1-pre)の準備を行いました。これには、ビルド済みバイナリに対する幅広いCPUサポートと、メモリの断片化を防ぐための署名者ノードおよびアグリゲーターノード用の新しいメモリーアロケーターが含まれています。MithrilネットワークにCardanoトランザクション認証を実装する作業を続け、署名および証明中のトランザクションブロック範囲をベースに、サブマークル木を用いたトランザクションマークル木の圧縮を活用した、mainnetの署名と証明生成をスケーリングする作業に取り組みました。さらに、署名者ストアとアグリゲーターストアにトランザクションをインポートするためのストリームメカニズムを実装しました。
 
 グローバルなMithrilネットワークの設定ファイルの実装を開始し、署名者とアグリゲーターがミニプロトコルに接続したときにCardanoノードで発生する予期しないエラーログの調査を継続しました。
 
-VOLTAIRE & SANCHONET
+### VOLTAIRE & SANCHONET
 
 ノード＆CLIチームはSanchoNetにCardanoノードv.8.10.1-preをリリースしました。現在cardano-nodeリポジトリにConway期のテストを実装することに焦点を当てています。cardano-cliのCIパイプラインにさまざまな改良を加えました。ライブノードにアクセスせずに自動でトランザクション残高を表示できるようにするためにbuild-estimateを実装し、create-protocol-parameters-updateコマンドのオプションとしてminFeeRefScriptCostPerByteを追加しました。
 
-CATALYST
+### CATALYST
 
-先週バルセロナで開始されたFund12は（ビデオリールはこちら）、提出フェーズに入りました。一般カテゴリーへの提出期限は、日本時間の5月13日20時です。詳細は、Catalystのウェブサイト、または、Fund12公式ローンチガイドを参照してください。新しいCardano Partners and Real World Integrations（Cardanoパートナーと現実世界の統合）など、数多くのエキサイティングなカテゴリーがあります。
+先週[バルセロナで開始されたFund12](https://www.youtube.com/watch?v=y0vhzU5QfuQ)は（ビデオリールは[こちら](https://x.com/Catalyst_onX/status/1786063423861576146)）、**提出フェーズ**に入りました。一般カテゴリーへの提出期限は、日本時間の5月13日20時です。詳細は、[Catalystのウェブサイト](https://projectcatalyst.io/funds/12)、または、[Fund12公式ローンチガイド](https://projectcatalyst.io/f12launchguide.pdf)を参照してください。新しいCardano Partners and Real World Integrations（Cardanoパートナーと現実世界の統合）など、数多くのエキサイティングなカテゴリーがあります。
 
-コミュニティレビュアーになるための登録プロセスも今週開始されました。これにより、エコシステム内の誰もがさまざまな基準に基づいてレビューを提供できるようになり、提案者が提案を練り上げ、有権者がどの提案を優先的に検討するかを判断するのに役立ちます。
+[コミュニティレビュアー](https://docs.projectcatalyst.io/current-fund-basics/community-review-guidelines-fund-12)になるための登録プロセスも今週開始されました。これにより、エコシステム内の誰もがさまざまな基準に基づいてレビューを提供できるようになり、提案者が提案を練り上げ、有権者がどの提案を優先的に検討するかを判断するのに役立ちます。
 
-教育
+### 教育
 
-教育チームは、DRepパイオニアプログラムのカリキュラムに取り組んでいます。先日行われたCardano Builder FestやCatalyst Fund12のローンチイベントにも参加しました。
+**教育**チームは、DRepパイオニアプログラムのカリキュラムに取り組んでいます。先日行われたCardano Builder FestやCatalyst Fund12のローンチイベントにも参加しました。
