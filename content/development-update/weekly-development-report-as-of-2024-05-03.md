@@ -13,7 +13,7 @@ image_text: Weekly development report as of 2024-05-03
 
 Over the past few weeks, the **site reliability engineering** (SRE) team continued working on Cardano environment improvements and general maintenance.
 
-Some of the improvements include the deployment of Cardano node v.8.9.2 to mainnet, pre-production, preview, and shelley-qa environments along with the deployment of Cardano node v.8.10.1-pre to SanchNet. They have also rewritten the `ouroboros-network-ops` machine cluster using the cardano-parts stack, upgrading from the previous `nixops/terraform/niv` stack.
+Some of the improvements include the deployment of Cardano node v.8.9.2 to mainnet, pre-production, preview, and shelley-qa environments along with the deployment of Cardano node v.8.10.1-pre to SanchoNet. They have also rewritten the `ouroboros-network-ops` machine cluster using the cardano-parts stack, upgrading from the previous `nixops/terraform/niv` stack.
 
 The **consensus** team [reworked the argument](https://github.com/IntersectMBO/ouroboros-consensus/pull/1059) for the different databases used in consensus to prepare for UTXO-HD. They also reviewed the first draft of the Peras innovation report and [continued working on the VRF restriction](https://github.com/IntersectMBO/ouroboros-consensus/pull/1047) based on slot distance. Additionally, the team supported the networking team in reviewing their [work on querying big ledger peers](https://github.com/IntersectMBO/ouroboros-consensus/pull/1067), continued working on open-sourcing `fs-api` and `fs-sim`, and performed minor refactorings in the codebase (commits: [1](https://github.com/IntersectMBO/ouroboros-consensus/pull/1073), [2](https://github.com/IntersectMBO/ouroboros-consensus/pull/1070)).
 
