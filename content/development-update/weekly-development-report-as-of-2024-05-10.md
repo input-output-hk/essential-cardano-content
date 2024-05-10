@@ -42,7 +42,7 @@ Additionally, the team has developed new testing functionalities, including the 
 
 ### CATALYST
 
-Fund12 is well underway. Submissions are rolling in from all corners of the world across many varied domains. Remember, the general submission deadline for general categories is fast approaching, May 13 at 11am UTC. All existing public submissions will have until May 16 11am UTC to be finalized. Keep an eye on moderator feedback that some of you may receive, as it will help you align your submission with the correct categories. As a highlight, 'Cardano Partners' has an extended submission deadline (11am on June 6). Keep an eye out for the timeline and further updates [via the web](https://projectcatalyst.io/funds/12)site or follow [Catalyst on X](https://twitter.com/Catalyst_onX). 
+Fund12 is well underway. Submissions are rolling in from all corners of the world across many varied domains. Remember, the general submission deadline for general categories is fast approaching, May 13 at 11am UTC. All existing public submissions will have until May 16 11am UTC to be finalized. Keep an eye on moderator feedback that some of you may receive, as it will help you align your submission with the correct categories. As a highlight, 'Cardano Partners' has an extended submission deadline (11am on June 6). Keep an eye out for the timeline and further updates [via the website](https://projectcatalyst.io/funds/12) or follow [Catalyst on X](https://twitter.com/Catalyst_onX). 
 
 ### EDUCATION
 
