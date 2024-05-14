@@ -1,6 +1,5 @@
 ---
-title: Tomorrow, a new and exciting edition of Gimbalabs 🏗 MeshJS Live Coding
-  session.
+title: A new and exciting edition of Gimbalabs 🏗 MeshJS Live Coding session on May 15, 2024.
 tags:
   - gimbalabs
   - meshjs
