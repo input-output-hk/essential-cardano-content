@@ -1,5 +1,5 @@
 ---
-title: Tomorrow, 1430 utc, come to the next Gimbalabs🏗️Open Spaces!
+title: Gimbalabs🏗️Open Spaces, May 15, 2024
 tags:
   - gimbalabs
   - gimbalabs sessions
