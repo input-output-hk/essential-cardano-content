@@ -1,5 +1,5 @@
 ---
-title: Today, 18:00 utc, is DeltaDeFi day at 🎢 Gimbalabs Playground 🎡!
+title: DeltaDeFi day at 🎢 Gimbalabs Playground 🎡!
 tags:
   - gimbalabs
   - gimbalabs sessions
