@@ -14,6 +14,6 @@ image_text: ""
 
 ![desc](https://cspot-be.s3.eu-north-1.amazonaws.com/1716338060128_image_plutuspbl%20live%20codig%20sessions.png)
 
-Tomorrow, 1430 UTC, and every Wednesday. Join us.
+Every Wednesday. Join us.
 
 Zoom link: [https://gimbalabs.com/calendar](https://gimbalabs.com/calendar)
