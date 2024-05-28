@@ -1,11 +1,11 @@
 ---
-title: Mithril's Architecture Explained
+title: Mithril's architecture explained
 tags:
   - Mithril
   - Scalability
   - Cardano
 url: ""
-image: https://ucarecdn.com/359d9a18-022d-4afb-9963-164becf58d6b/
+image: https://ucarecdn.com/c7ea7126-9fb8-4e51-9245-92970ecaf71a/
 image_text: An infographic about Mithril's architecture
 ---
 
