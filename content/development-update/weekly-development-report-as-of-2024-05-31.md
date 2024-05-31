@@ -5,15 +5,15 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/af3f75ad-f1cb-4307-b64c-cb8545587cdc/
+image: https://ucarecdn.com/409c4e49-0908-4b67-a5b5-68b3f7fb0b54/
 image_text: Weekly development report as of 2024-05-31
 ---
 
 ### CORE TECHNOLOGY
 
-This week, the **consensus** team made significant advancements in the UTXO-HD project. They [updated UTXO-HD to use simple diffs](https://github.com/IntersectMBO/ouroboros-consensus/issues/1114), which resulted in a drastic improvement in the mempool benchmarks. The team also assisted in [releasing version 0.10.0](https://github.com/stevana/quickcheck-state-machine/pull/48) of the `quickcheck-state-machine` library, which is crucial for high-assurance property tests. Additionally, [they rebased UTXO-HD on top of node v.8.11](https://github.com/IntersectMBO/ouroboros-consensus/pull/1121). A replay with the in-memory backend took five hours and five minutes to reach the 124 millionth slot.
+This week, the consensus team made significant advancements in the UTXO-HD project. They [updated UTXO-HD to use simple diffs](https://github.com/IntersectMBO/ouroboros-consensus/issues/1114), which resulted in a drastic improvement in the mempool benchmarks. The team also assisted in [releasing version 0.10.0](https://github.com/stevana/quickcheck-state-machine/pull/48) of the `quickcheck-state-machine` library, which is crucial for high-assurance property tests. Additionally, [they rebased UTXO-HD on top of node v.8.11](https://github.com/IntersectMBO/ouroboros-consensus/pull/1121). A replay with the in-memory backend took five hours and five minutes to reach the 124 millionth slot.
 
-This month, the IOG **Plutus and consensus** teams have established technical working groups under [Intersect](https://www.intersectmbo.org/), committed to open source principles and wider community collaboration in the age of Voltaire.
+This month, the IOG Plutus and consensus teams have established technical working groups under [Intersect](https://www.intersectmbo.org/), committed to open source principles and wider community collaboration in the age of Voltaire.
 
 The inaugural meeting of the new Plutus working group will be held on Tuesday, June 4, aiming to broaden community involvement in defining its future roadmap. On Thursday, June 2, at 14:30 UTC, the IOG consensus team will host the first in a monthly series of open meetings for all interested parties.
 
@@ -41,7 +41,7 @@ To learn more about Chang – the upgrade bringing CIP-1694 functionality, key f
 
 ### CATALYST
 
-This week in **Project Catalyst**, town hall 164 took place, providing a platform for community engagement and updates. The community review stage is currently underway.
+This week in Project Catalyst, town hall 164 took place, providing a platform for community engagement and updates. The community review stage is currently underway.
 
 The Catalyst network hosted its monthly meeting for funded projects, featuring Anthony Day from Midnight, who spoke on Web3 growth strategies.
 
@@ -49,9 +49,8 @@ Lastly, the Fund12 voting registration is still ongoing, we encourage community 
 
 ### EDUCATION
 
-This week, the **education** team is preparing lectures for the upcoming Cardano Developer Course, supporting the DRep Pioneer program, and writing content for Mastering Cardano.  
-  
-  
+This week, the **education** team is preparing lectures for the upcoming Cardano Developer Course, supporting the DRep Pioneer program, and writing content for Mastering Cardano.
+
 ![](https://ucarecdn.com/6a51e776-4aea-42d2-adcc-62a6eb5f469e/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
