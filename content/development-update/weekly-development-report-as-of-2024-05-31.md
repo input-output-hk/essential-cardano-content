@@ -11,9 +11,9 @@ image_text: Weekly development report as of 2024-05-31
 
 ### CORE TECHNOLOGY
 
-This week, the consensus team made significant advancements in the UTXO-HD project. They [updated UTXO-HD to use simple diffs](https://github.com/IntersectMBO/ouroboros-consensus/issues/1114), which resulted in a drastic improvement in the mempool benchmarks. The team also assisted in [releasing version 0.10.0](https://github.com/stevana/quickcheck-state-machine/pull/48) of the `quickcheck-state-machine` library, which is crucial for high-assurance property tests. Additionally, [they rebased UTXO-HD on top of node v.8.11](https://github.com/IntersectMBO/ouroboros-consensus/pull/1121). A replay with the in-memory backend took five hours and five minutes to reach the 124 millionth slot.
+This week, the **consensus** team made significant advancements in the UTXO-HD project. They [updated UTXO-HD to use simple diffs](https://github.com/IntersectMBO/ouroboros-consensus/issues/1114), which resulted in a drastic improvement in the mempool benchmarks. The team also assisted in [releasing version 0.10.0](https://github.com/stevana/quickcheck-state-machine/pull/48) of the `quickcheck-state-machine` library, which is crucial for high-assurance property tests. Additionally, [they rebased UTXO-HD on top of node v.8.11](https://github.com/IntersectMBO/ouroboros-consensus/pull/1121). A replay with the in-memory backend took five hours and five minutes to reach the 124 millionth slot.
 
-This month, the IOG Plutus and consensus teams have established technical working groups under [Intersect](https://www.intersectmbo.org/), committed to open source principles and wider community collaboration in the age of Voltaire.
+This month, the IOG **Plutus and consensus** teams have established technical working groups under [Intersect](https://www.intersectmbo.org/), committed to open source principles and wider community collaboration in the age of Voltaire.
 
 The inaugural meeting of the new Plutus working group will be held on Tuesday, June 4, aiming to broaden community involvement in defining its future roadmap. On Thursday, June 2, at 14:30 UTC, the IOG consensus team will host the first in a monthly series of open meetings for all interested parties.
 
@@ -41,7 +41,7 @@ To learn more about Chang – the upgrade bringing CIP-1694 functionality, key f
 
 ### CATALYST
 
-This week in Project Catalyst, town hall 164 took place, providing a platform for community engagement and updates. The community review stage is currently underway.
+This week in **Project Catalyst**, town hall 164 took place, providing a platform for community engagement and updates. The community review stage is currently underway.
 
 The Catalyst network hosted its monthly meeting for funded projects, featuring Anthony Day from Midnight, who spoke on Web3 growth strategies.
 
