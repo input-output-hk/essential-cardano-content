@@ -66,3 +66,31 @@ Project Catalystでは、スペインのバルセロナで4月26日に予定さ�
 ### 教育
 
 **教育**チームはCardano開発者オンラインコースの提供を継続しているほか、憲法委員会のトレーニングをサポートする準備も行っています。
+
+# TECNOLOGÍA CENTRAL
+
+Esta semana, el equipo **consensus** ha trabajado en [la modificación de](https://github.com/IntersectMBO/ouroboros-consensus/issues/1009) `LocalTxMonitor` [y](https://github.com/IntersectMBO/ouroboros-consensus/issues/1009) `HasTx` [funcionalidades](https://github.com/IntersectMBO/ouroboros-consensus/issues/1009) mejorando el comportamiento entre eras. El equipo completó la mayoría de las pruebas para la rama UTXO-HD dentro de `ouroboros-consensus`, con esfuerzos en curso para resolver algunos problemas en la prueba `mempool-parallel`.
+
+También [abordaron un problema aguas arriba dentro de](https://github.com/stevana/quickcheck-state-machine/pull/43) `quickcheck-state-machine`, facilitando una configuración más ágil para las pruebas paralelas de mempool. Además, propusieron un nuevo [entorno de pruebas de máquinas de estado paralelas](https://github.com/input-output-hk/quickcheck-dynamic/pull/72) para `quickcheck-dynamic`, mejorando potencialmente las capacidades de pruebas futuras.
+
+Como preparación para la publicación del nodo v.8.10, el equipo integró cambios en los componentes de consenso, ledger y redes. Los próximos esfuerzos se centrarán en publicar versiones actualizadas de CLI y API antes de la actualización final del nodo.
+
+# WALLETS Y SERVICIOS
+
+El equipo de **Lace** ha lanzado Lace v.1.9, que aporta a Lace la funcionalidad de múltiples wallets y múltiples cuentas. Para más información, consulte el [último artículo del blog](https://www.lace.io/blog/lace-1-9-0-release).
+
+# ESCALADA
+
+Los equipos **Hydra** y **Mithril** hicieron demostraciones en la reunión mensual de revisión. Puede encontrar un informe completo, que incluye diapositivas y una grabación, en el [informe mensual sobre escalado](https://cardano-scaling.org/monthly/2024-03).
+
+El equipo **Hydra** [investigó una situación de cabezal roto](https://github.com/input-output-hk/hydra/issues/1374), [mejoró ligeramente la compatibilidad de avance de Conway](https://github.com/input-output-hk/hydra/pull/1373) en `explorer` / `hydra-node`, mejoró `hydra-cluster --devnet` permitiendo pruebas de extremo a extremo de `kupo`, [extendió las pruebas de humo para incluir también la confirmación de ada en el cabezal](https://github.com/input-output-hk/hydra/pull/1377), documentó el comportamiento anticipado de las descompromisos incrementales y añadió descompromisos al tutorial.
+
+El equipo **Mithril** continuó [implementando la certificación de las transacciones de Cardano](https://github.com/input-output-hk/mithril/issues/1457) en las redes Mithril. Se centraron en escalar la firma y la generación de pruebas para `mainnet`, completaron la implementación de un \[mecanismo de balizamiento\] más versátil([Support multiple beacon types in signer/aggregator · Issue #1562 · input-output-hk/mithril · GitHub](https://github.com/input-output-hk/mithril/issues/1562)), trabajaron en la implementación del [almacenamiento incremental de transacciones](https://github.com/input-output-hk/mithril/issues/1591), y arreglaron el fallo en el analizador sintáctico de bloques que [impedía la firma de algunas transacciones de Conway](https://github.com/input-output-hk/mithril/issues/1577). Además, siguieron trabajando en un prototipo para [descentralizar el registro de firmantes](https://github.com/input-output-hk/mithril/issues/1587) con el relé y una red peer-to-peer (P2P).
+
+# CATALYST
+
+Esta semana, en el **Proyecto Catalyst**, el equipo se está preparando para el Fondo12, cuyo lanzamiento está previsto para el 26 de abril con un evento presencial en Barcelona (España). Para aquellos que no puedan asistir en persona, la iniciativa de Grupos de Trabajo de Catalyst ofrece oportunidades para comprometerse con las comunidades locales de Cardano a nivel mundial o participar en grupos en línea. Consulte [el calendario completo de eventos](https://catalystwg.gitbook.io/docs/cwg-schedule) para obtener más información.
+
+# EDUCACIÓN
+
+Esta semana, el equipo de **educación** sigue impartiendo su curso en línea para desarrolladores de Cardano, y también se está preparando para apoyar la formación del comité constitucional.
