@@ -106,3 +106,52 @@ Fund12のローンチは4月26日。誰でも参加大歓迎です。今回Carda
 ### 教育
 
 **教育**チームは、ABCオンラインCardano開発者コースを終了し好意的な反応を得たあと、Aikenのコンテンツのさらなる開発に取り組んでいます。Voltaireトライブとトレーニングプランを作成しています。
+
+# TECNOLOGÍA DEL NÚCLEO
+
+Esta semana, los equipos de **tecnología de núcleo** han lanzado nodo [v.8.9.2](https://github.com/IntersectMBO/cardano-node/releases/tag/8.9.2). Esta versión resuelve un problema con la función de red para compartir pares que impedía a los nodos compartir pares con nodos conectados.
+
+Durante las últimas semanas, el equipo de **ingeniería de fiabilidad del sitio** (SRE) ha seguido trabajando en las mejoras del entorno Cardano y en el mantenimiento general.
+
+Algunas de las mejoras incluyen:
+
+*   re-spinning de la cadena privada Voltaire para el nodo Cardano v.8.10.0-pre release y re-hard fork de la misma en la era Conway.
+    
+*   actualización de SanchoNet para el nodo Cardano v.8.10.0-pre release.
+    
+*   desplegando un tercio de los nodos de entorno de preproducción de IOG y dos tercios de los nodos de entorno de previsualización de IOG en Cardano node v.8.10.0-pre.
+    
+
+El equipo de **networking** continuó su trabajo sobre el soporte de Genesis, lo que implicó revisar la política de churn para Genesis, implementar el soporte de outbound governor para Genesis y ofrecer soporte para `cardano-cli`. También abordaron algunas deudas técnicas en churn ampliando los contadores EKG rastreados por el nodo. Por último, actualizaron la [documentación sobre el intercambio de pares](https://github.com/input-output-hk/cardano-node-wiki/wiki/understanding-config-files#the-p2p-topologyjson-file). Para más actualizaciones del equipo consulte el enlace [aquí](https://updates.cardano.intersectmbo.org/2024-04-15-network/).
+
+El equipo de **consenso** [implementó un nuevo criterio de canalización de difusión](https://github.com/IntersectMBO/ouroboros-consensus/pull/955). Presentaron, revisaron y fusionaron el [hito de marzo](https://github.com/IntersectMBO/ouroboros-consensus/pull/1015) para Génesis. Además, [integraron los últimos cambios](https://github.com/IntersectMBO/cardano-node/pull/5774) en node v.8.10.
+
+# ESCALADA
+
+El equipo de **Hydra** corrigió un error en la prueba de humo y refactorizó las funciones de red para permitir distinguir entre tráfico entrante y saliente. Además, prepararon una rama `cardano-api v.8.44` para el nodo Cardano v.8.10. El equipo también contribuyó a la `cardano-ledger-api` desprecando y exponiendo `redeemerPointer`.
+
+El equipo **Mithril** continuó implementando la certificación de las transacciones de Cardano en las redes Mithril. Trabajaron en el escalado de la generación de firmas y pruebas para `mainnet` con la compresión del árbol Merkle de transacciones mediante el uso de subárboles Merkle de transacciones por rangos de bloques. También avanzaron en el diseño de la certificación de baja latencia, investigaron una fuga de memoria en el proceso de firma/prueba y trabajaron en la recuperación de la punta de la cadena con el observador de cadenas Pallas. El equipo casi completó el prototipo para descentralizar el registro de firmantes con el relé y una red peer-to-peer (P2P). Además, completaron la refactorización de los proveedores de la base de datos del agregador y volvieron a poner en marcha el entorno mithril `testing-sanchonet` tras el lanzamiento del nodo Cardano v.8.10.0-pre.
+
+Por último, el equipo realizó algunas optimizaciones en la compilación de sus binarios preconstruidos para solucionar los pánicos que se producían en CPUs sin instrucciones ADX, y creó un archivo de configuración de red en el repositorio para facilitar las comprobaciones automáticas de compatibilidad.
+
+# VOLTAIRE & SANCHONET
+
+Los equipos están trabajando en [actualizar la documentación de los recursos de SanchoNet](https://github.com/input-output-hk/sanchonet/pull/137/files) con las nuevas versiones de los nodos y las herramientas. Los miembros de la comunidad también han ofrecido [actualizaciones de los tutoriales](https://github.com/input-output-hk/sanchonet/pull/136/files) para el nodo v.8.10.0 y CLI v8.22.0.0. Esto incluye la actualización de los comandos de comité y los comandos de consulta para obtener el valor del depósito de la clave stake, el depósito de la clave DRep y el depósito de la acción de gobierno.
+
+Por último, para saber más sobre las actualizaciones de Intersect, siga [esta página de noticias](https://www.intersectmbo.org/news).
+
+# CATALYST
+
+El Fondo12 se lanza el 26 de abril, ¡y usted está invitado! Esta vez, Cardano vendrá a Barcelona, España, para dar el pistoletazo de salida en directo a la 12ª ronda de financiación dirigida por la comunidad y al esfuerzo mundial de los [Grupos de Trabajo de Catalyst](https://catalystwg.gitbook.io/docs).
+
+¿Se encuentra en Barcelona en ese momento? Asegúrese de [registrarse aquí](https://lu.ma/m5lq3loo) para reservar su entrada, ya que las plazas son limitadas. El evento también se retransmitirá en directo en el canal de [YouTube del IOG](https://www.youtube.com/@IohkIo). Pulse la campana de notificación para no perdérselo.
+
+¿Qué sucede a continuación? [La presentación de propuestas](https://projectcatalyst.io/funds/12) comienza el 30 de abril y se espera que esté abierta durante dos semanas.
+
+¿Quiere ayudar a revisar las propuestas? Esté atento a los canales de anuncios cuando comience la inscripción para los roles comunitarios especializados.
+
+Si desea recibir actualizaciones periódicas, únase a estas comunidades [Telegram](https://t.me/cardanocatalyst) y [Discord](https://discord.gg/2RnUtK8), suscríbase al \[boletín informativo\] Catalyst([Project Catalyst - newsletter signup](https://mpc.projectcatalyst.io/newsletter-signup)) y participe en el [ayuntamiento](https://zoom.us/meeting/register/tJEtduyupzMvHNUczCQwfFJGcXzmw2lDwkIf#/registration).
+
+# EDUCACIÓN
+
+Esta semana, el equipo de **educación** está finalizando el curso en línea ABC Cardano Developer y trabajando en el desarrollo de nuevos contenidos Aiken tras la buena acogida del curso. También están trabajando con la tribu Voltaire en planes de formación.
