@@ -78,3 +78,37 @@ Catalystチームは定期的な更新情報をお届けするために[専用�
 ### 教育
 
 **教育**チームはABC Cardano Developerコースの参加者のために、このキャップストーンプロジェクトをレビューしています。VoltaireトライブおよびIntersectチームと協力して、憲法委員会とDRepのトレーニング計画を立てています。
+
+# TECNOLOGÍA DEL NÚCLEO
+
+Esta semana, el equipo de **rendimiento y rastreo** concluyó las actividades de evaluación comparativa de los nodos v.8.9.2 y v.8.10.0. También comenzaron a diseñar la implementación de consultas rápidas en el pipeline de análisis. Actualmente, están ultimando nuevas funciones para la canalización de informes y mejorando la salida de Prometheus para que la información de compilación del nodo sea fácilmente accesible como etiqueta. Además, el equipo actualizó sus herramientas para admitir puntos de referencia con cadenas no vacías para el crecimiento de UTXO.
+
+# SMART CONTRACTS
+
+Esta semana, el equipo de **Plutus** combinó tres herramientas de línea de comandos - `pir`, `plc` y `uplc` - en un único ejecutable unificado con una interfaz común para interactuar con la canalización del lenguaje Plutus. También añadieron nuevas funciones y conexiones con otras herramientas (por ejemplo, el depurador de Plutus, en fase de desarrollo).
+
+# ESCALADO DE PLUTUS
+
+Esta semana, los equipos **Mithril** y **Hydra** asistieron al [Cardano Buidler Fest #1](https://buidl.2024.cardano.org/) en Toulouse, Francia.
+
+El equipo **Hydra** ha refactorizado la lógica del latido del corazón en preparación para el protocolo de red versionado y ha cambiado [http://explorer.hydra.family](http://explorer.hydra.family/) para que se ejecute en la red `preview`. Además, el equipo ha añadido pruebas de propiedades a los cambios del punto final `/commit`.
+
+El equipo de **Mithril** siguió implementando la certificación de transacciones de Cardano en redes Mithril y trabajó en el escalado de la generación de firmas y pruebas para `mainnet` comprimiendo el árbol Merkle de transacciones mediante subárboles Merkle basados en rangos de bloques de transacciones. El equipo identificó el origen de un problema que impedía la correcta liberación de memoria durante la firma/prueba de un gran conjunto de transacciones y desarrolló una solución para solucionarlo. Además, completaron el prototipo para descentralizar el registro de firmantes con el relé y una red peer-to-peer (P2P).
+
+Por último, el equipo implementó una función configurable para que las redes de prueba registraran los bloques no procesables en lugar de entrar en pánico e investigó algunos errores inesperados que se producían en el nodo Cardano cuando el firmante y el agregador se conectaban a los miniprotocolos.
+
+# VOLTAIRE Y SANCHONET
+
+Durante las dos últimas semanas, el equipo de **ledger** ha trabajado en las actualizaciones de PlutusV3 en el archivo génesis para permitir la especificación de `CostModel`, que es esencial para las secuencias de comandos en la era Conway. También han solucionado errores relacionados con [la notificación inexacta de](https://github.com/IntersectMBO/cardano-ledger/pull/4247) fallos de predicado `InsufficientCollateral` y `ValueNotConservedUTxO`, [el recuento erróneo de los votos de los miembros del comité constitucional](https://github.com/IntersectMBO/cardano-ledger/pull/4281), y un error que hacía que funciones como `redeemerPointer` [parecieran obsoletas](http://pull-4259/). Además, los equipos han mejorado la generación de datos basada en restricciones y han añadido más pruebas unitarias para las funciones de la era Conway.
+
+# CATALYST
+
+Esta semana, el equipo de **Catalyst** se encuentra en Barcelona para lanzar en persona la 12ª ronda de financiación dirigida por la comunidad y el esfuerzo mundial de los [Grupos de Trabajo de Catalyst](https://catalystwg.gitbook.io/docs). El acto se retransmitirá en directo a través del [canal de YouTube de IO](https://www.youtube.com/@IohkIo). No olvide pulsar la campana de notificación para no perdérselo.
+
+Como recordatorio, la presentación de propuestas comienza el 30 de abril a más tardar. ¿Le interesa ayudar a revisar las propuestas? Esté atento a los canales de anuncios para saber cuándo se abre la inscripción para las funciones especializadas de la comunidad.
+
+El equipo de Catalyst ha lanzado una [cuenta X dedicada](https://twitter.com/Catalyst_onX) que puede seguir para obtener actualizaciones periódicas. Únase también a las comunidades [Telegram](https://t.me/cardanocatalyst) y [Discord](https://discord.gg/2RnUtK8), suscríbase al [boletín de Catalyst](https://mpc.projectcatalyst.io/newsletter-signup) y asista a los \[ayuntamientos\] de Catalyst([Meeting Registration - Zoom](https://zoom.us/meeting/register/tJEtduyupzMvHNUczCQwfFJGcXzmw2lDwkIf#/registration)).
+
+# EDUCACIÓN
+
+Esta semana, el equipo de **educación** ha estado revisando los proyectos capstone de los participantes del curso ABC Cardano Developer. También están trabajando con la tribu Voltaire y el equipo Intersect en la planificación del comité constitucional y la formación DRep.
