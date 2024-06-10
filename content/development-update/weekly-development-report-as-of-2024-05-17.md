@@ -26,7 +26,7 @@ The **performance and tracing** team completed the UTXO-HD benchmarks using the 
 
 Lastly, efforts are underway to set up the consensus technical working group within Intersect. Community members interested in participating are encouraged to reach out to [Damian Nadales](mailto:damian.nadales@iohk.io) for more information and involvement.
 
-### WALLETS AND SERVICES 
+### WALLETS AND SERVICES
 
 This week, the **Lace** team launched [Lace v.1.11](https://www.lace.io/blog/lace-1-11-0-release). This new update comes with improved NFT functionality. The team has introduced the ability to set a wallet avatar for the user’s favorite NFT and a better search tool to save users time scrolling through their crypto assets. Additionally, the team has launched phase two of a three-part plan to improve transaction UX and added the capability for transaction submission via local Cardano node and `cardano-submit-api`, enhancing control for tech-savvy users. Finally, integration with Trezor T is now available, offering increased security through hardware wallet options.
 
@@ -58,8 +58,8 @@ For the latest updates, [follow Catalyst on X](https://twitter.com/Catalyst_onX)
 
 ### EDUCATION
 
-This week, the **education** team is working on creating explainers for Voltaire topics and focusing on content for Mastering Cardano.  
-  
+This week, the **education** team is working on creating explainers for Voltaire topics and focusing on content for Mastering Cardano.
+
 ![](https://ucarecdn.com/05e2ea69-dc11-4860-877d-fcb51ee384de/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
@@ -68,18 +68,18 @@ This week, the **education** team is working on creating explainers for Voltaire
 
 *   **Praosチェーンの順序の改良：**[スロット距離に基づいてVRFタイブレーカーを制限](https://github.com/IntersectMBO/ouroboros-consensus/pull/1047)し、チェーン選択を向上させるために[問題番号タイブレーカーを微調整](https://github.com/IntersectMBO/ouroboros-consensus/pull/1047)しました。
     
-*   **リーダースケジュールの統計：**リーダースケジュールの[統計概要](https://github.com/IntersectMBO/ouroboros-consensus/pull/1096)を作成しました。
+*   \*\*リーダースケジュールの統計：\*\*リーダースケジュールの[統計概要](https://github.com/IntersectMBO/ouroboros-consensus/pull/1096)を作成しました。
     
 *   **ロバストネスの改良**：ノードがブートストラップピアのコンテキストに捕捉されるように[ロバストネスを調整して統合](https://github.com/IntersectMBO/ouroboros-consensus/pull/1031)しました。
     
 
 Outoboros Genesisの設計と実装に関する最新情報を公開しました。詳しくは[こちらの最新ブログ記事](https://iohk.io/jp/blog/posts/2024/05/08/ouroboros-genesis-design-update/)をご覧ください（日本語版は近日公開予定）。
 
-**P&T（パフォーマンス＆トレース）**チームはLMDBバックエンドを使用したUTXO-HDベンチマークを完了し、 [有望な結果をもたらし](https://updates.cardano.intersectmbo.org/2024-05-07-performance-and-tracing#utxo-hd%20--%20lmdb)ました。この進歩は、Cardanoブロックチェーンの効率とスケーラビリティの向上にとって重要です。
+\*\*P&T（パフォーマンス＆トレース）\*\*チームはLMDBバックエンドを使用したUTXO-HDベンチマークを完了し、 [有望な結果をもたらし](https://updates.cardano.intersectmbo.org/2024-05-07-performance-and-tracing#utxo-hd%20--%20lmdb)ました。この進歩は、Cardanoブロックチェーンの効率とスケーラビリティの向上にとって重要です。
 
 Intersect内にコンセンサス技術ワーキンググループを設立する取り組みが進行中です。参加に関心のあるコミュニティメンバーは、詳細や参加方法について[Damian Nadales](mailto:damian.nadales@iohk.io)までお問い合わせください。
 
-### ウォレットとサービス 
+### ウォレットとサービス
 
 **Lace**チームは[Lace v.1.11](https://www.lace.io/blog/lace-1-11-0-release)をリリースしました。本更新ではNFT機能が改良されています。ユーザーのお気に入りのNFTにウォレットアバターを設定する機能と、ユーザーが暗号資産をスクロールする時間を節約できるよにするためのより優れた検索ツールを導入しました。トランザクションUXを改善するための3部構成の計画の第2段階を開始し、ローカルのCardanoノードとcardano-submit-apiを介したトランザクション送信機能を追加し、テクノロジーに精通したユーザーの操作性を強化しました。Trezor Tとの統合が可能となったことで、ハードウェアウォレットオプションによるセキュリティの向上を実現しました。
 
@@ -112,3 +112,54 @@ Fund12の提案提出フェーズは5月13日に終了し、1,283の提案が提
 ### 教育
 
 **教育**チームはVoltaireのトピックの説明者を作成し、Mastering Cardanoのコンテンツに焦点を当てています。
+
+# TECNOLOGÍA CENTRAL
+
+Esta semana, el equipo de **consenso** ha publicado [paquetes de consenso para el nodo v.8.11](https://github.com/IntersectMBO/ouroboros-consensus/pull/1101), introduciendo varias mejoras:
+
+*   **Mejora del orden de las cadenas Praos:** [restringió el desempate VRF basado en la distancia entre ranuras](https://github.com/IntersectMBO/ouroboros-consensus/pull/1047) e hizo un pequeño [ajuste en el desempate por número de incidencia](https://github.com/IntersectMBO/ouroboros-consensus/pull/1086) para mejorar la selección de cadenas.
+    
+*   **Estadísticas sobre el horario del líder:** escribió un [resumen de las estadísticas](https://github.com/IntersectMBO/ouroboros-consensus/pull/1096) sobre el horario del líder.
+    
+*   **Refinamiento de la robustez:** [integró un refinamiento de la robustez](https://github.com/IntersectMBO/ouroboros-consensus/pull/1031) para concluir que un nodo está atrapado en el contexto de los pares bootstrap.
+    
+
+El equipo también publicó una actualización que profundiza en el diseño y la implementación de Ouroboros Génesis. Lea el [último artículo del blog](https://iohk.io/en/blog/posts/2024/05/08/ouroboros-genesis-design-update/) para obtener más detalles.
+
+El equipo de **rendimiento y rastreo** completó los puntos de referencia UTXO-HD utilizando el backend `LMDB`, [arrojando resultados prometedores](https://updates.cardano.intersectmbo.org/2024-05-07-performance-and-tracing#utxo-hd--lmdb). Este avance es significativo para mejorar la eficacia y la escalabilidad de la blockchain Cardano.
+
+Por último, se están realizando esfuerzos para crear el grupo de trabajo técnico de consenso dentro de Intersect. Se anima a los miembros de la comunidad interesados en participar a que se pongan en contacto con [Damian Nadales](mailto:damian.nadales@iohk.io) para obtener más información y participar.
+
+# WALLETS Y SERVICIOS
+
+Esta semana, el equipo de **Lace** ha lanzado [Lace v.1.11](https://www.lace.io/blog/lace-1-11-0-release). Esta nueva actualización viene con una funcionalidad NFT mejorada. El equipo ha introducido la posibilidad de establecer un avatar de wallet para la NFT favorita del usuario y una mejor herramienta de búsqueda para ahorrar tiempo a los usuarios desplazándose por sus cryptoactivos. Además, el equipo ha puesto en marcha la fase dos de un plan de tres partes para mejorar la UX de las transacciones y ha añadido la capacidad de envío de transacciones a través del nodo local Cardano y `cardano-submit-api`, mejorando el control para los usuarios expertos en tecnología. Por último, ya está disponible la integración con Trezor T, que ofrece una mayor seguridad gracias a las opciones de hardware wallet.
+
+# ESCALADA
+
+Esta semana, el equipo de **Hydra** ha actualizado la capa de red del nodo Hydra para utilizar un protocolo de apretón de manos versionado, y también ha realizado una amplia reestructuración de la documentación y correcciones de errores para el `hydra-tui`. Además, el equipo arregló el análisis sintáctico del tipo de sobre de transacción para que fuera compatible con `cardano-cli`. Por último, el equipo experimentó con la eliminación de la persistencia en la capa de fiabilidad y añadió un comando personalizado para restablecer el estado del cabezal a la última instantánea confirmada.
+
+Esta semana, el equipo de **Mithril** publicó la nueva distribución [2418.1](https://github.com/input-output-hk/mithril/releases/tag/2418.1), que incluye una mayor compatibilidad con CPU para los binarios preconstruidos y un nuevo asignador de memoria para los nodos firmante y agregador destinado a evitar la fragmentación de la memoria. También siguieron implementando la certificación de las transacciones de Cardano en las redes Mithril y trabajaron en el escalado de la generación de firmas y pruebas para `mainnet`. En concreto, completaron la implementación de la compresión del árbol Merkle de transacciones utilizando subárboles Merkle basados en rangos de bloques de transacciones e iniciaron las pruebas y la evaluación del rendimiento de `mainnet` en una red Mithril de prueba. Además, empezaron a trabajar en la minimización de los requisitos adicionales de espacio en disco para el firmante en la infraestructura de SPO.
+
+Por último, el equipo implementó algunas optimizaciones para el agregador, corrigió algunos errores en el cliente e introdujo nueva documentación para compilar el relé Mithril desde el código fuente.
+
+# VOLTAIRE & SANCHONET
+
+Esta semana, los equipos de **tecnología de base** han añadido un nuevo comando CLI para iniciar hard forks, que hace que el parámetro `--prev-governance-action-tx-id` sea opcional para crear acciones de no-confianza, abordando escenarios en los que el comité está definido en el archivo de génesis de Conway. Además, han perfeccionado algunos textos de ayuda para mejorar la claridad y la usabilidad y han actualizado los campos de descripción de los archivos de acciones de gobernanza.
+
+El equipo ha ajustado la versión máxima comprendida del protocolo de 9 a 10 cuando está activada la bandera experimental de hard fork. Este cambio permite eludir la fase de arranque de Conway durante las pruebas. Por último, se siguió trabajando en la implementación de pruebas del CIP-1694 con `cardano-testnet`.
+
+¡Siga [Intersect updates](https://www.intersectmbo.org/news) para más detalles!
+
+# CATALYST
+
+La fase de presentación de propuestas finalizó el 13 de mayo, con 1.283 propuestas presentadas para el Fondo12.
+
+La fecha límite de finalización para los proponentes fue el 16 de mayo a las 11am UTC, por lo que todas las propuestas deberían estar ahora en su fase final.
+
+Las solicitudes de los revisores comunitarios están en curso, y cualquiera que desee convertirse en revisor deberá inscribirse antes de que finalice el día 19 de mayo. Catalyst pasará entonces a la fase de revisión comunitaria, que comenzará el 23 de mayo y durará hasta el 6 de junio.
+
+Para conocer las últimas actualizaciones, [siga a Catalyst en X](https://twitter.com/Catalyst_onX).
+
+# EDUCACIÓN
+
+Esta semana, el equipo de **educación** está trabajando en la creación de explicadores para los temas de Voltaire y centrándose en el contenido de Mastering Cardano.
