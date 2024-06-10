@@ -1,5 +1,5 @@
 ---
-title: Thursday, 1430 utc, come to Gimbalabs 🏞️Open Spaces!
+title: Thursday, 1430 UTC, come to Gimbalabs 🏞️Open Spaces!
 tags:
   - gimbalabs
   - gimbalabs open spaces
