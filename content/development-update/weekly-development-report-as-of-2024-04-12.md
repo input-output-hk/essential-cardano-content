@@ -96,3 +96,46 @@ This week, the **education** team is supporting the Voltaire tribe with the inte
 ### 教育
 
 **教育**チームは暫定憲法委員会トレーニングでVoltaireトライブをサポートしています。Haskellブートキャンプの[レッスン18](https://github.com/input-output-hk/haskell-course/blob/main/lessons/18-Functor.ipynb)を公開しました。ここでは関手がカバーされています。
+
+# TECNOLOGÍA CENTRAL
+
+Durante las dos últimas semanas, el equipo de **ledger** ha realizado importantes progresos en las pruebas. Han mejorado la generación de datos para las [pruebas de conformidad](https://github.com/IntersectMBO/cardano-ledger/pull/4212) y se han asegurado de que la implementación esté mucho más organizada. Además, el equipo ha trabajado en mejoras de la infraestructura, implementando correcciones para el nodo v.8.10, realizando algunas actualizaciones posteriores al lanzamiento y actualizando las herramientas.
+
+# WALLETS Y SERVICIOS
+
+Esta semana, el equipo de **Lace** ha publicado Lace v.1.10. Esta versión presenta las siguientes actualizaciones:
+
+*   Una experiencia de usuario onboarding mucho más sencilla. El equipo ha trabajado para reducir el tiempo necesario para la creación de wallets, la recuperación y el hard wallet onboarding.
+    
+*   Interacción DApp-wallet renovada. El equipo está desplegando la fase 1 de un plan de 3 fases que añadirá nuevas capas de protección a la representación de transacciones a través de un mejor modelo de interacción DApp-cartera.
+    
+*   Vistas de apilamiento mejoradas. El equipo ha añadido opciones de clasificación, una búsqueda mejorada y una vista de stake pools renovada.
+    
+
+Para más información, consulte el [blog de Lace](https://www.lace.io/blog/lace-1-10-0-release?utm_source=essentialcardano.io&utm_medium=referral&utm_campaign=weekly-dev-report&utm_content=link-blog).
+
+# CONTRATOS SMART CONTRACT
+
+El equipo de **Plutus** ha actualizado el compilador Plutus Tx. Esta actualización garantiza que `PlutusTx.Bool.&&` y `PlutusTx.Bool.||` cortocircuiten siempre que sea posible. Anteriormente no se cortocircuitaban de forma fiable, lo que significaba que `&&` podía evaluar el segundo argumento aunque el primero fuera `False`. El equipo lanzará esta actualización en la versión 1.26.0.0.
+
+# ESCALADO
+
+El equipo de **Hydra** ha publicado Hydra v.0.16.0. Esta versión soporta `cardanodo` v.8.9.0 junto con el correspondiente formato de bloque Conway. Además, el equipo actualizó algunos clientes de Hydra - `hydraw` y `kupo` - para que sean compatibles con el nuevo formato de la API de Hydra.
+
+El equipo de **Mithril** continuó implementando la certificación de las transacciones de Cardano en las redes Mithril. Se centraron en [el escalado de la firma y la generación de pruebas](https://github.com/IntersectMBO/cardano-updates/pull/373/files#:~:text=https%3A//github.com/input%2Doutput%2Dhk/mithril/issues/1591) para mainnet, completaron el almacenamiento incremental de transacciones, activaron la firma de las transacciones en la red `testing-preview` y prepararon una nueva red para probar el escalado en los datos de `mainnet`. El equipo también avanzó en un prototipo para descentralizar [el registro de firmantes con el relé y una red peer-to-peer](https://github.com/IntersectMBO/cardano-updates/pull/373/files#:~:text=https%3A//github.com/input%2Doutput%2Dhk/mithril/issues/1587) (P2P). Además, trabajaron en [refactorizar la base de datos](https://github.com/IntersectMBO/cardano-updates/pull/373/files#:~:text=https%3A//github.com/input%2Doutput%2Dhk/mithril/issues/1583) proveedores del agregador.
+
+Por último, el equipo proporcionó una función solicitada por la comunidad que muestra en un formato legible por máquina las versiones mínimas del nodo Cardano que admite el firmante. También ofrecieron una [guía de configuración manual para el relé en la guía del usuario de SPO](https://github.com/input-output-hk/mithril/issues/1610).
+
+# VOLTAIRE & SANCHONET
+
+El equipo del **ledger** trabajó en la adición de varias pruebas unitarias y de propiedades relacionadas con Conway, en línea con los mecanismos de gobernanza en cadena CIP-1694. Entre ellas se incluyen algunas correcciones de los estados del ledger y la adición de varias instancias `ToJSON` necesarias para el nodo Cardano.
+
+Como siempre, si está interesado en ayudar a probar la funcionalidad de gobernanza, únase a [SanchoNet](https://sancho.network/get-started/) - el entorno de la red de pruebas de Cardano para crear de forma colaborativa un sistema de gobernanza que sea robusto, descentralizado y verdaderamente impulsado por la comunidad.
+
+# CATALYST
+
+En el **Proyecto Catalyst**, el equipo continúa a toda velocidad con los preparativos para el Fondo12, que se lanzará con un evento presencial en Barcelona, España, el 26 de abril. ¿Estará allí en persona? Asegúrese de inscribirse a través del [portal de inscripción de lu.ma](https://lu.ma/m5lq3loo) y consiga su entrada. ¿No puede venir? No hay problema. Todo el evento se retransmitirá en directo. Aún más, la iniciativa de Grupos de Trabajo de Catalyst ofrece oportunidades adicionales para comprometerse con las comunidades locales de Cardano en todo el mundo o participar en grupos en línea en múltiples lugares y fechas en las próximas semanas. Consulte [el programa completo de eventos](https://catalystwg.gitbook.io/docs/cwg-schedule) para obtener más información.
+
+# EDUCACIÓN
+
+El equipo de **educación** está apoyando a la tribu Voltaire con la formación del comité constitucional provisional. También publicaron la [Lección 18](https://github.com/input-output-hk/haskell-course/blob/main/lessons/18-Functor.ipynb) del Haskell Bootcamp, que cubre los _functores_.
