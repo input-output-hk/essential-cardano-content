@@ -46,12 +46,12 @@ With the ledger team’s work on CIP-0069 and other improvements, the Conway era
 
 This week in **Project Catalyst**, town hall 167 was conducted on Thursday, marking the end of the community moderation phase for Fund12. The voting period for the F12 proposals will begin on June 27, and community members are encouraged to participate and vote for their favorite proposals. Progress is being made in the technical development of Hermes and Catalyst voices.
 
-Furthermore, the ‘Partners and Real World Integration’ category setup is underway, and a shortlist will be discussed in detail with the community in the coming days.
+Furthermore, the ‘Partners and Real World Integration’ category moderation is reaching the last stage, and a shortlist will be published ahead of voting next week as well.
 
 ### EDUCATION
 
-This week, the **education** team is preparing their lectures for next month's Cardano Developer course. Work is also progressing on Mastering Cardano.  
-  
+This week, the **education** team is preparing their lectures for next month's Cardano Developer course. Work is also progressing on Mastering Cardano.
+
   ![](https://ucarecdn.com/9af17437-efb3-4486-b220-d1d343cf503d/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
@@ -91,7 +91,7 @@ This week, the **education** team is preparing their lectures for next month's C
 
 Project Catalystでは 、木曜日にタウンホール167が行われ、Fund12のコミュニティ調整フェーズは終了しました。F12の提案への投票は6月27日に開始されます。コミュニティメンバーには、参加して気に入った提案に投票することが奨励されます。HermesとCatalyst Voicesの技術開発が進んでいます。
 
-Partners and Real World Integrationカテゴリーのセットアップは進行中で、近日中にコミュニティとショートリストを詳細に検討する予定です。
+Partners and Real World Integrationカテゴリーの調整も最終段階に入っており、来週、投票に先立ち、ショートリストが公開される予定です。
 
 ### 教育
 
