@@ -15,14 +15,14 @@ This week, the **ledger** team reached a major milestone by [implementing CIP-00
 
 Additionally, they fixed several important bugs, including:
 
-*   correcting script execution for certificates using the same Plutus script.
+*   correcting script execution for certificates using the same Plutus script
     
 *   preventing delegation to non-existent pools.
     
 
 ### WALLETS AND SERVICES
 
-This week, the **Lace** team is preparing for  v1.13 release, which includes new functionality and some important bug fixes. Keep an eye on the [Lace blog](https://www.lace.io/blog) for updates.
+This week, the **Lace** team is preparing for  v.1.13 release, which includes new functionality and some important bug fixes. Keep an eye on the [Lace blog](https://www.lace.io/blog) for updates.
 
 ### SMART CONTRACTS
 
@@ -38,7 +38,7 @@ Finally, they made final modifications to [the threat modeling explainer](https:
 
 Last week’s [Intersect update](https://www.intersectmbo.org/news/intersect-development-update-18-june-14th) covered some member-experience improvements, including Discord enhancements and changes to working groups. Voting opens for the interim constitutional committee seats, DRep Pioneer program, community hubs, and more. 
 
-Make sure to check [Intersect news](https://www.intersectmbo.org/news) for the latest updates.
+Make sure to check [Intersect news](https://www.intersectmbo.org/news) for the latest updates this week.
 
 With the ledger team’s work on CIP-0069 and other improvements, the Conway era and [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694) are now marked as feature-complete and ready for release. Testing of the Conway era will continue up to the hard fork.
 
