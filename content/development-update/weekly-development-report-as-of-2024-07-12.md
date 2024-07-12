@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/c2e7eb83-fad3-4edb-a84c-d5b959356325/
+image: https://ucarecdn.com/0272de89-8230-42ec-a468-3cfe81517954/
 image_text: Weekly development report as of 2024-07-12
 ---
 
@@ -17,10 +17,10 @@ This week, the teams released [node version 9.0.0](https://github.com/IntersectM
     
 *   Plutus V1 reference scripts support
     
-*   [Plutus script signature support through CIP-69](https://cips.cardano.org/cip/CIP-0069). 
+*   [Plutus script signature support through CIP-69](https://cips.cardano.org/cip/CIP-0069).
     
 
-This release is the first to support crossing the 9.0 hard fork (Chang) boundary on the mainnet and long-running testnets (eg, pre-production). The release currently supports entering the bootstrap phase of CIP-1694 and does not support the full transition to DRep voting and all governance actions.
+ This release is the first to support crossing the 9.0 hard fork (Chang) boundary on the mainnet and long-running testnets (eg, pre-production). The release currently supports entering the bootstrap phase of CIP-1694 and does not support the full transition to DRep voting and all governance actions.
 
 Please refer to the [tag testing page](https://tests.cardano.intersectmbo.org/test_results/node/tag_9_0_0.html) for additional information on system testing results for the 9.0.0 release. 
 
@@ -60,7 +60,7 @@ Here are some statistics from the Catalyst voting period: 
     
 *   More than 200,000 individual votes were cast
     
-*   Over 1.5bn ada was used for voting. 
+*   Over 1.5bn ada was used for voting.
     
 
 The community is eagerly awaiting the voting results in the coming week. Additionally, technical developments for Catalyst voices are progressing as usual.
@@ -69,7 +69,7 @@ The community is eagerly awaiting the voting results in the coming week. Additio
 
 This week, the **education** team is finalizing the content for the upcoming Cardano Developer course, scheduled for next week at [Universidad Tecnológica Nacional](https://utn.edu.ar/es/) in Buenos Aires, Argentina. Additionally, they are assisting the Voltaire tribe in preparing for the constitutional committee training sessions, ensuring all materials and resources are ready for effective learning experiences.
 
-![](https://ucarecdn.com/c3fb0629-a782-4fc6-be30-e4a1d1fbc3a1/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/9386bf2e-b069-4d3c-8697-716b4e37c3e1/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
 
@@ -79,7 +79,7 @@ This week, the **education** team is finalizing the content for the upcoming Car
     
 *   Plutus V1参照スクリプトのサポート
     
-*   [CIP-69によるPlutusスクリプト署名のサポート](https://cips.cardano.org/cip/CIP-0069) 
+*   [CIP-69によるPlutusスクリプト署名のサポート](https://cips.cardano.org/cip/CIP-0069)
     
 
 このリリースは、メインネットと長期にわたって稼働しているテストネット（プリプロなど）で、9.0ハードフォーク（Chang）の境界をまたいでサポートするための最初のリリースです。このリリースは現在、CIP-1694のブートストラップフェーズへの移行をサポートしており、DRep投票やすべてのガバナンスアクションへの完全な移行をサポートするものではありません。
@@ -122,7 +122,7 @@ Catalyst投票期間における統計は以下の通りです。 
     
 *   200,000を超える個別票が投じられた
     
-*   15億ADAが投票に使用された 
+*   15億ADAが投票に使用された
     
 
 コミュニティは、来週の投票結果を熱心に待っています。Catalyst Voicesの技術開発も通常通り進んでいます。
