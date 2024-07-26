@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/f11e1e7c-9ced-4b40-987a-6ec975ea47a8/
+image: https://ucarecdn.com/7a3a37f5-86fe-4873-8279-ea465af24e28/
 image_text: weekly development report as of 2024-07-26
 ---
 
@@ -49,14 +49,14 @@ The onboarding process for 258 new Fund12 projects has begun, marking an excitin
 
 This week, members of the **education** team are on the ground in Argentina, teaching a two-week-long _Cardano Developer_ course at the [UTN](https://utn.edu.ar/es/). Students attending the course are learning how to build on Cardano.
 
-![](https://ucarecdn.com/7e81ef7d-d917-4e34-b85a-8924fb17ffb4/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/be88d061-34be-4457-b492-82659561f27d/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
 
 Cardano[ノードv.9.1.0](https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0)がリリースされ、来るChangアップグレードに必要な重要な機能が追加されました。このバージョンには、Changへの遷移を容易にするために必要なConwayジェネシスファイルが含まれています。このアップデートには、新しいquery treasuryコマンドや[CIP-69](https://cips.cardano.org/cip/CIP-0069)および[CIP-119](https://cips.cardano.org/cip/CIP-0119)へ対応させるための更新など、特にCLIとAPIの機能強化とバグ修正が含まれています。
 
-Conwayジェネシスやその他の設定ファイル等必要なファイルへのアクセスやアップグレードの詳細は、[Cardanoの操作ガイド](https://book.play.dev.cardano.org/)をご覧ください。  
-  
+Conwayジェネシスやその他の設定ファイル等必要なファイルへのアクセスやアップグレードの詳細は、[Cardanoの操作ガイド](https://book.play.dev.cardano.org/)をご覧ください。
+
 **パフォーマンス＆トレース**チームは、ノードv.9.0.0の包括的なリリースベンチマークを完成させ、公開しました。これには、ブロックフェッチ時間が大幅に改善され、メインネットリリースv.8.12.1と比較してパフォーマンスの低下が見られないことが示されています。Plutusの実行バジェットのスケーリングベンチマークを実施し、さまざまなスクリプト条件下でCPUとメモリーのバジェットが変更された場合の影響をテストしました。開発面では、tx-generatorのシャットダウン動作の改善をmasterにマージし、現在ガバナンスアクションのベンチマークワークロードに取り組んでいます。Haskellプロファイルのコンテンツの定義も、ワークベンチのmasterにマージしました。トレーシング部門では、RTViewのファクタリングをmasterにマージし、移行作業を最小限に抑えるためにメトリクスの命名作業を進めています。  
 **ネットワーキング**チームはNWG（ネットワークワーキンググループ）会議を開催し、技術者を対象にouroboros-networkの基本的な概念をカバーした録音（[1](https://drive.google.com/file/d/1J_o2iGy4jeIR6X1x9D6p_nHKLCNjgX6h/preview)、[2](https://drive.google.com/file/d/1CsqC1R_GMliWkKJaeSCf-xrZG6F6yvMv/preview)、[3](https://drive.google.com/file/d/1QV46QqmpkfPVcoKxueYHg4Qe7rPQzOer/preview)）を公開しました。tx-submissionの新しい設計も進めました。これには、新たなtx-submissionサーバーの開発やシミュレーションテストの計画も含まれます。Genesisに関連するすべての未解決のプルリクエストをレビューし、承認し、即マージしました。Mithrilの統合について、システムリスクを考慮し、TSC（技術運営委員会）による評価のためのCIPの一環として、Cardano-nodeとの統合のアイデアが発表されました。
 
