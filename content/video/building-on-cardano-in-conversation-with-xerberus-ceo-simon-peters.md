@@ -1,5 +1,5 @@
 ---
-title: "Building On Cardano: In conversation with Xerberus CEO Simon Peters"
+title: "BuildingOnCardano: In conversation with Xerberus CEO Simon Peters"
 tags:
   - Cardano
   - Cardano360
