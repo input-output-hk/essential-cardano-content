@@ -1,6 +1,5 @@
 ---
-title: "The Mesh team present: \"An Aiken library to make devs' day-to-day
-  lives🌤️easier\" | Contract: Escrow"
+title: "The Mesh team presents an Aiken library to make devs' lives easier"
 tags:
   - meshjs
   - aiken
