@@ -1,6 +1,6 @@
 ---
-title: Cardano will be the epicenter of a global network of Contributors and
-  Collaborators from all kinds of distributed organizations around the world
+title: Cardano: the epicenter of a global network of contributors and
+  collaborators
 tags:
   - Andamio
   - andamio.io
@@ -28,7 +28,7 @@ To support organizations and ecosystems in achieving growth by reducing the time
 
 ✅[Adapting On-Chain Reputation to Catalyst Voices](https://www.lidonation.com/sw/proposals/adapting-on-chain-reputation-to-catalyst-voices-f12):
 
-Our proposal will put our role-based skill building, reputation building, collaboration, and contribution infrastructure at the service of the Catalyst Voices project and the Catalyst community.
+Our proposal will put our role-based skill-building, reputation-building, collaboration, and contribution infrastructure at the service of the Catalyst Voices project and the Catalyst community.
 
 ✅[Developing a Self Sovereign On-chain Identity (SSOI)](https://www.lidonation.com/sw/proposals/developing-a-self-sovereign-on-chain-identity-ssoi-f12):
 
