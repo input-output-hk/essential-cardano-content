@@ -46,7 +46,7 @@ The team also fixed a bug in the transaction importer that prevented some transa
 
 With the release of [node v.9.1.0](https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0), all users are encouraged to upgrade to this or a later version in preparation for the Chang upgrade. 
 
-For more details, read this Intersect blog post and check the latest [Intersect news](https://www.essentialcardano.io/development-update/weekly-development-report-as-of-2024-07-26#:~:text=Chang%20upgrade%2C%20follow-,Intersect%20news,-.).
+For more details, read this Intersect blog post and check the latest [Intersect news](https://updates.cardano.intersectmbo.org/).
 
 ### CATALYST
 
