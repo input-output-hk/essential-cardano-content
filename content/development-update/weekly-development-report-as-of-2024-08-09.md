@@ -5,7 +5,7 @@ tags:
   - Statistics
   - Development
 url: ""
-image: https://ucarecdn.com/7bf467c8-7922-484c-8448-deee19a5840c/
+image: https://ucarecdn.com/e1bb875b-b4b0-4263-a186-4315aa99b01e/
 image_text: Weekly development report as of 2024-08-09
 ---
 
@@ -44,9 +44,7 @@ The team also fixed a bug in the transaction importer that prevented some transa
 
 ### VOLTAIRE & SANCHONET
 
-With the release of [node v.9.1.0](https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0), all users are encouraged to upgrade to this or a later version in preparation for the Chang upgrade. 
-
-For more details, read this Intersect blog post and check the latest [Intersect news](https://updates.cardano.intersectmbo.org/).
+Team members from across Input Output continue to work toward the first Chang upgrade, via the Hard Fork Working Group within Intersect. For the very latest status on progress, be sure to follow @IntersectMBO on X, and check out the [readiness page](https://docs.intersectmbo.org/cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness)
 
 ### CATALYST
 
@@ -58,7 +56,7 @@ The **education** team recently hosted a successful Cardano developer course at 
 
 Looking ahead, the team is organizing the highly anticipated Cardano Days event in Wyoming, which will offer participants foundational knowledge of blockchain technology, Cardano, and smart contracts through interactive workshops and expert-led sessions.
 
-![](https://ucarecdn.com/50174942-4913-40c6-9d28-bf876395bc91/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/c85fd0ac-8188-4190-8de3-60a59b1593ed/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
 
@@ -95,9 +93,7 @@ LaceはChangアップグレードに向けた準備が整い、プレビュー�
 
 ### **VOLTAIRE & SANCHONET**
 
-### [ノードv.9.1.0](https://github.com/IntersectMBO/cardano-node/releases/tag/9.1.0)のリリースに伴い、すべてのユーザーはChangアップグレードの準備としてこのバージョンまたはそれ以降のノードにアップグレードすることが推奨されます。
-
-### 詳細は、Intersectブログの記事と最新の[Intersectニュース](https://www.essentialcardano.io/development-update/weekly-development-report-as-of-2024-07-26#:~:text=Chang%20upgrade%2C%20follow-,Intersect%20news,-.)をご覧ください。
+### Input Outputのさまざまなチームのメンバーが、Intersectのハードフォークワーキンググループを介して、最初のChangアップグレードに向けた取り組みを続けています。最新の進捗状況は、Xの@IntersectMBOをフォローし、[更新情報ページ](https://docs.intersectmbo.org/cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness)を確認してください。
 
 ### CATALYST
 
