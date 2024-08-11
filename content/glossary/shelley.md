@@ -5,8 +5,9 @@ tags:
   - Cardano
   - Glosssary
   - Token Minting
+  - "#cardano"
 url: ""
-image: ""
+image: https://ucarecdn.com/043e631d-1b7c-4bc2-9df7-bd807f295e67/
 image_text: null
 ---
 
