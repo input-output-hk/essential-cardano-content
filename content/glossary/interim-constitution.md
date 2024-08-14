@@ -2,7 +2,7 @@
 title: Interim constitution
 tags:
   - Voltaire
-  - Interim constitution
+  - interim constitution
 url: ""
 image: ""
 image_text: ""
