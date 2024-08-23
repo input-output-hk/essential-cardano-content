@@ -48,9 +48,8 @@ The **Chang** hard fork working group has been meeting every day this week to de
 
 The pre-production testnet executed the hard fork on August 22 in preparation. August 27 and September 1 are the dates considered for the mainnet upgrade. 
 
-In line with the longstanding practice of Cardano developers, who prefer safety and stability over speed, the hard fork working group is meeting today at 13:00 UTC to decide the most appropriate date. 
-
-Follow the progress on [Intersect’s knowledge base](https://docs.intersectmbo.org/cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness#community-readiness) and watch [IOG X announcements](https://x.com/InputOutputHK). 
+The hard fork working group, facilitated by Intersect, is meeting today, August 23, at 13:00 UTC to decide the most appropriate date.   
+Follow the progress on [Intersect’s knowledge base](https://docs.intersectmbo.org/cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness#community-readiness) and watch [IOG X announcements](https://x.com/InputOutputHK).
 
 ### CATALYST
 
@@ -58,8 +57,8 @@ Town halls are paused until the launch of Fund13, allowing the community to refr
 
 ### EDUCATION
 
-This week, the **education** team is collating survey feedback from participants of the recent Cardano Developer course at the [UTN](https://utn.edu.ar/es/) in Buenos Aires. Additionally, they are focusing on developing new Plutus education topics and updating content for the ‘Mastering Cardano’ series.  
-  
+This week, the **education** team is collating survey feedback from participants of the recent Cardano Developer course at the [UTN](https://utn.edu.ar/es/) in Buenos Aires. Additionally, they are focusing on developing new Plutus education topics and updating content for the ‘Mastering Cardano’ series.
+
 ![](https://ucarecdn.com/23991881-2389-4844-a365-16c0671687a9/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
@@ -101,9 +100,8 @@ Changハードフォークワーキンググループは、Changアップグレ�
 
 プリプロテストネットは準備のために8月22日にハードフォークを実行しました。メインネットのアップグレードの候補日としては、8月27日と9月1日が検討されています。 
 
-スピードよりも安全性と安定性を好むCardano開発者の長年の慣行に沿って、ハードフォークワーキンググループは日本時間本日22:00に最も適切な日付を決定するために会議を開きます。 
-
-[Intersectのナレッジベース](https://docs.intersectmbo.org/cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness#community-readiness)で進捗状況を追跡し、IOG Xの発表をチェックしてください。 
+Intersectが支えるハードフォークワーキンググループは、日本時間本日8月23日22:00に会合を持ち、最も適切な日付を決定します。   
+[Intersectのナレッジベース](https://docs.intersectmbo.org/cardano/cardano-hardforks-and-upgrades/chang-upgrade/chang-upgrade-1-readiness#community-readiness)で進捗状況を追跡し、IOG Xの発表をチェックしてください。
 
 ### CATALYST
 
