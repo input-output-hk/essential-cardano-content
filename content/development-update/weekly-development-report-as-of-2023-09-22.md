@@ -4,6 +4,7 @@ tags:
   - Weekly development updates
   - Development
   - Statistics
+  - Crypto
 url: ""
 image: https://ucarecdn.com/f44366fb-1e56-493a-a01a-a5c4c77b0b2f/
 image_text: Weekly development report as of 2023-09-22
@@ -65,7 +66,7 @@ Finally, to stay up to date with everything happening in Project Catalyst, bookm
 
 ### EDUCATION
 
-This week, the **Education** team is on site in Malta delivering the _Cardano Days_ event at the Center for Distributed Ledger Technologies in the [University of Malta](https://www.um.edu.mt/dlt/). Dr.Lars Brünjes and the team are also invited to speak at the [Crypto Hub Malta](https://cryptohubmalta.org/) event.
+This week, the **Education** team is on site in Malta delivering the _Cardano Days_ event at the Center for Distributed Ledger Technologies in the [University of Malta](https://www.um.edu.mt/dlt/). Dr.Lars Brünjes and the team are also invited to speak at the [Crypto Hub Malta](https://cryptohubmalta.ai/) event.
 
 ![](https://ucarecdn.com/8cf21dff-7025-464a-b055-c0d3bfd6b958/-/preview/-/format/auto/-/quality/smart/)
 
