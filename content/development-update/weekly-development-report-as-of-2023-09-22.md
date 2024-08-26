@@ -4,6 +4,7 @@ tags:
   - Weekly development updates
   - Development
   - Statistics
+  - Crypto
 url: ""
 image: https://ucarecdn.com/f44366fb-1e56-493a-a01a-a5c4c77b0b2f/
 image_text: Weekly development report as of 2023-09-22
