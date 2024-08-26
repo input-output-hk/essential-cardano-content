@@ -65,7 +65,7 @@ Finally, to stay up to date with everything happening in Project Catalyst, bookm
 
 ### EDUCATION
 
-This week, the **Education** team is on site in Malta delivering the _Cardano Days_ event at the Center for Distributed Ledger Technologies in the [University of Malta](https://www.um.edu.mt/dlt/). Dr.Lars Brünjes and the team are also invited to speak at the [Crypto Hub Malta](https://cryptohubmalta.org/) event.
+This week, the **Education** team is on site in Malta delivering the _Cardano Days_ event at the Center for Distributed Ledger Technologies in the [University of Malta](https://www.um.edu.mt/dlt/). Dr.Lars Brünjes and the team are also invited to speak at the [Crypto Hub Malta](https://cryptohubmalta.ai/) event.
 
 ![](https://ucarecdn.com/8cf21dff-7025-464a-b055-c0d3bfd6b958/-/preview/-/format/auto/-/quality/smart/)
 
@@ -125,7 +125,7 @@ CIP-95に関する隔週のSancho-Walletテクニカルディスカッション�
 
 ### 教育
 
-今週、**教育**チームはマルタ大学の分散型台帳技術センターでCardano Daysイベントを開催しています。Lars Brünjes博士とチームは、[Crypto Hub Malta](https://cryptohubmalta.org/)イベントに講演者として招かれています。
+今週、**教育**チームはマルタ大学の分散型台帳技術センターでCardano Daysイベントを開催しています。Lars Brünjes博士とチームは、[Crypto Hub Malta](https://cryptohubmalta.ai/)イベントに講演者として招かれています。
 
 # TECNOLOGÍA CENTRAL
 
@@ -185,4 +185,4 @@ Por último, para mantenerse al día de todo lo que ocurre en el Proyecto Cataly
 
 # EDUCACIÓN
 
-Esta semana, el equipo de **Educación** se encuentra en Malta impartiendo el evento _Cardano Days_ en el Centro de Tecnologías de Ledger Distribuido de la [Universidad de Malta](https://www.um.edu.mt/dlt/). El Dr. Lars Brünjes y el equipo también están invitados a hablar en el evento [Crypto Hub Malta](https://cryptohubmalta.org/).
+Esta semana, el equipo de **Educación** se encuentra en Malta impartiendo el evento _Cardano Days_ en el Centro de Tecnologías de Ledger Distribuido de la [Universidad de Malta](https://www.um.edu.mt/dlt/). El Dr. Lars Brünjes y el equipo también están invitados a hablar en el evento [Crypto Hub Malta](https://cryptohubmalta.ai/).
