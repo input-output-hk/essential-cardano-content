@@ -125,7 +125,7 @@ CIP-95に関する隔週のSancho-Walletテクニカルディスカッション�
 
 ### 教育
 
-今週、**教育**チームはマルタ大学の分散型台帳技術センターでCardano Daysイベントを開催しています。Lars Brünjes博士とチームは、[Crypto Hub Malta](https://cryptohubmalta.org/)イベントに講演者として招かれています。
+今週、**教育**チームはマルタ大学の分散型台帳技術センターでCardano Daysイベントを開催しています。Lars Brünjes博士とチームは、[Crypto Hub Malta](https://cryptohubmalta.ai/)イベントに講演者として招かれています。
 
 # TECNOLOGÍA CENTRAL
 
