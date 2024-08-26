@@ -346,6 +346,8 @@ Here is a list of available tools and resources according to categories:
     
 *   [DripDropz Open Source On-Chain Voting](https://github.com/DripDropz/onchain-voting): an open-source solution powered by the Cardano blockchain that offers a framework for those looking to conduct governance or voting on the Cardano blockchain.
     
+*   [Parameter Proposal Guardrails Checker](http://ec2-16-171-11-232.eu-north-1.compute.amazonaws.com:8080/): a web-based tool that verifies the constitutionality of a Parameter Update Proposal – implementing checks for the Constitution’s guardrails.
+    
 *   [Round Table](https://roundtable.adaodapp.xyz/): an open-source wallet that allows you to easily create a multi-signature wallet. This can support collective registration as a DRep.
     
 *   [SanchoNet GovTool (Voltaire GovTool)](https://docs.sanchogov.tools/about/what-is-sanchonet-govtool): the SanchoNet GovTool allows ada holders to experience and test some of the governance features described in [CIP-1694](https://www.1694.io/) in a simple, guided experience. SanchoNet is the testnet version of the Voltaire GovTool, allowing ada holders to register to become DReps, delegate voting power, and review and vote on governance actions.
