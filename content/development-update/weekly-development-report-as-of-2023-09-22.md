@@ -185,4 +185,4 @@ Por último, para mantenerse al día de todo lo que ocurre en el Proyecto Cataly
 
 # EDUCACIÓN
 
-Esta semana, el equipo de **Educación** se encuentra en Malta impartiendo el evento _Cardano Days_ en el Centro de Tecnologías de Ledger Distribuido de la [Universidad de Malta](https://www.um.edu.mt/dlt/). El Dr. Lars Brünjes y el equipo también están invitados a hablar en el evento [Crypto Hub Malta](https://cryptohubmalta.org/).
+Esta semana, el equipo de **Educación** se encuentra en Malta impartiendo el evento _Cardano Days_ en el Centro de Tecnologías de Ledger Distribuido de la [Universidad de Malta](https://www.um.edu.mt/dlt/). El Dr. Lars Brünjes y el equipo también están invitados a hablar en el evento [Crypto Hub Malta](https://cryptohubmalta.ai/).
