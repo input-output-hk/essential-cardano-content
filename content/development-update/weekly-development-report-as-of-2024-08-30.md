@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/7328074b-734a-40ae-8797-06309e70bc41/
+image: https://ucarecdn.com/92f576b1-10de-4772-bb5b-9c1eaf0bf494/
 image_text: Weekly development report as of 2024-08-30
 ---
 
@@ -59,7 +59,7 @@ This week in **Catalyst**, the Fund12 onboarding process is advancing into its n
 
 The **education** team is preparing content and organizing logistics for Cardano Days events next month. The first event will be delivered as part of the [Wyoming Blockchain Stampede](https://www.uwyo.edu/acct-fin/cbdi/stampede/) and takes place on Saturday, September 21. [Registration](https://uwyo.sjc1.qualtrics.com/jfe/form/SV_4Gu3YKHydsD8aSW) is now open. We would love to see you there!
 
-![](https://ucarecdn.com/57414675-c6cd-44c9-a306-6e78d2301b69/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/3104ddb2-8d29-49c1-8046-0f7d7fcd7eff/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
 
