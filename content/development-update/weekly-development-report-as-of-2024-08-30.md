@@ -15,7 +15,7 @@ This week, the **ledger** team focused on conformance tests and improvements to 
 
 Additionally, they discovered and fixed a minor bug related to DRep expiration initialization, although it won't impact Chang.
 
-The **Site Reliability Engineering (SRE)** team continued enhancing Cardano environments and conducting general maintenance. Key updates include:
+The **site reliability engineering (SRE)** team continued enhancing Cardano environments and conducting general maintenance. Key updates include:
 
 *   The pre-production network has been successfully upgraded to the Conway era
     
