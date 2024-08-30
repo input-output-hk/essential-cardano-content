@@ -15,7 +15,6 @@ This week, the **ledger** team focused on conformance tests and improvements to 
 
 Additionally, they discovered and fixed a minor bug related to DRep expiration initialization, although it won't impact Chang.
 
-  
 The **Site Reliability Engineering (SRE)** team continued enhancing Cardano environments and conducting general maintenance. Key updates include:
 
 *   The pre-production network has been successfully upgraded to the Conway era
@@ -43,19 +42,18 @@ Finally, they added support for retrieving [database snapshots](https://github.c
 
 ### VOLTAIRE
 
-On August 28, the hard fork working group held a meeting, during which representatives from the community, Intersect, Emurgo, the Cardano Foundation, and Input | Output voted unanimously to initiate the hard fork known as Chang #1. This hard fork will take effect on the Cardano mainnet on September 1, and it is the first of two hard forks in the Chang upgrade. Intersect has been working closely with stake pool operators (SPOs), exchanges, and developers of decentralized applications (DApps) to prepare for this.
+On August 28, the Intersect hard fork working group held a meeting, during which representatives from the community, Emurgo, the Cardano Foundation, and Input | Output voted unanimously to initiate the hard fork known as Chang #1. This hard fork will take effect on the Cardano mainnet on September 1, and it is the first of two hard forks in the Chang upgrade. The Intersect working group has been working closely with stake pool operators (SPOs), exchanges, and developers of decentralized applications (DApps) to prepare for this.
 
 The SPOs are ready, as 92% of stake is on pools running Cardano node v.9.1.0. Exchanges are also prepared, with 92% of liquidity held by exchanges upgraded to v.9.1.0. Most DApps are ready, and no high-severity issues have been raised.
 
 There will be [a special X Space](https://x.com/i/spaces/1gqGvNPloAeGB) to highlight the event as we cross the epoch boundary.
 
-In addition, contingency plans are in place, with technical first responders on standby in case of unexpected events around the hard fork.
-
+In addition, contingency plans are in place, with technical first responders on standby to offer support in case of unexpected events around the hard fork.  
 For more information, see [Intersect’s blog](https://www.intersectmbo.org/news/the-chang-upgrade-1-date-confirmed).
 
 ### CATALYST
 
-This week in **Catalyst**, the Fund12 onboarding process is advancing into its next phases, ensuring smooth integration for new projects. Additionally, the Hermes project has reached  significant progress with the successful delivery of Milestone 3.
+This week in **Catalyst**, the Fund12 onboarding process is advancing into its next phases, ensuring smooth integration for new projects. Additionally, the Hermes project has reached significant progress with the successful delivery of Milestone 3.
 
 ### EDUCATION
 
@@ -69,7 +67,6 @@ The **education** team is preparing content and organizing logistics for Cardano
 
 DRepの有効期限の初期化に関する軽微なバグを発見し修正ました。Changへの影響はありません。
 
-  
 **SRE**（サイト信頼性エンジニアリング）チームは引き続きCardano環境の強化と総合メンテナンスに取り組みました。主な更新は次のとおりです。
 
 *   プリプロネットワークのConway期へのアップグレード成功
