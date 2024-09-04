@@ -3,6 +3,7 @@ title: The Rise and Growth of Mesh
 tags:
   - meshjs
   - Developer Tools
+  - typescript
 url: ""
 image: https://ucarecdn.com/2135447b-afb2-415c-855a-73fce0ad2d67/
 image_text: ""
