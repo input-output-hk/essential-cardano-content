@@ -5,7 +5,7 @@ tags:
   - Statistics
   - Development
 url: ""
-image: https://ucarecdn.com/29790d39-9166-4392-af8b-859ba37cc94c/
+image: https://ucarecdn.com/37e2470c-b4be-4473-835c-1d32e7fd1ae3/
 image_text: Weekly development report as of 2024-09-06
 ---
 
@@ -51,7 +51,7 @@ This week in **Catalyst**, the Fund12 onboarding process is progressing smoothly
 
 This week, the **education** team continued preparing for the upcoming [Cardano Days event in Wyoming](https://www.uwyo.edu/acct-fin/cbdi/stampede/) later this month and the Cardano Days event coming soon in Santander, Spain. Stay tuned for more details on dates and location for our Santander event! They also supported the [constitutional committee workshop in Mongolia](https://lu.ma/282924xd) and concentrated on Plutus Core updates.
 
-![](https://ucarecdn.com/80106665-315c-45a4-9558-27ade99007d0/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/79edc722-8fc9-4f52-bbd3-0b2264fac0de/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
 
