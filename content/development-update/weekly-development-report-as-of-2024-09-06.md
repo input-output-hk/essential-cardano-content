@@ -45,7 +45,7 @@ The v.9.1.0 upgrade introduced some improvements, carried forward in v.9.1.1,  
 
 ### CATALYST
 
-This week in **Catalyst**, the Fund12 onboarding process is progressing smoothly, with 98.5% of onboarding forms completed, 94% of statements of milestones submitted, and 84% signed off. Due diligence is 84% complete, and 75% of test transactions are done. Although the cool-down period is still active, town halls will resume next week. Essential Hermes modules are advancing, with M3 POA submitted last week. Work on Catalyst Voices wallet integration continues, focusing on architecture rework to improve the performance of the chain indexer on mainnet.
+This week in **Catalyst**, the Fund12 onboarding process is progressing smoothly, with 98.5% of onboarding forms completed, 94% of statements of milestones submitted, and 84% signed off. Due diligence is 54% complete, and 75% of test transactions are done. Although the cool-down period is still active, register [here](https://bit.ly/catalyst-townhall) as Town Halls will resume next week. Essential Hermes modules are advancing, with M3 POA submitted last week. Work on Catalyst Voices wallet integration continues, focusing on architecture rework to improve the performance of the chain indexer on mainnet.
 
 ### EDUCATION
 
