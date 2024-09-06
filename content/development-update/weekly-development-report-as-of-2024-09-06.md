@@ -51,9 +51,7 @@ This week in **Catalyst**, the Fund12 onboarding process is progressing smoothly
 
 This week, the **education** team continued preparing for the upcoming [Cardano Days event in Wyoming](https://www.uwyo.edu/acct-fin/cbdi/stampede/) later this month and the Cardano Days event coming soon in Santander, Spain. Stay tuned for more details on dates and location for our Santander event! They also supported the [constitutional committee workshop in Mongolia](https://lu.ma/282924xd) and concentrated on Plutus Core updates.
 
-![](https://ucarecdn.com/79edc722-8fc9-4f52-bbd3-0b2264fac0de/-/preview/-/format/auto/-/quality/smart/)
-
-### コアテクノロジー
+### ![](https://ucarecdn.com/27a84bb0-f1dc-47b3-9446-70ff3e04e56b/-/preview/-/format/auto/-/quality/smart/)コアテクノロジー
 
 **コアテクノロジー**チームは、Conway期の再起動時にノードがジェネシスブロックからリプレイしてしまうという問題に対処するため、Cardanoノードv.9.1.1をリリースしました。詳細はVoltaireセクションを参照してください。
 
