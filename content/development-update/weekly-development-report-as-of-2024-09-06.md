@@ -5,7 +5,7 @@ tags:
   - Statistics
   - Development
 url: ""
-image: https://ucarecdn.com/37e2470c-b4be-4473-835c-1d32e7fd1ae3/
+image: https://ucarecdn.com/7d6e9949-7d99-4dc3-9057-f3297a6ee71d/
 image_text: Weekly development report as of 2024-09-06
 ---
 
