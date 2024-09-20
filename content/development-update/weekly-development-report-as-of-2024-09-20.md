@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/d6c1da64-ef32-408b-91f5-b6a53667fff1/
+image: https://ucarecdn.com/ba5b25c5-ce2e-435b-aec6-4c505678192f/
 image_text: Weekly development report as of 2024-09-20
 ---
 
@@ -13,7 +13,7 @@ image_text: Weekly development report as of 2024-09-20
 
 This week, the **consensus** team focused on various areas:
 
-*   They have identified the UTXO set as a primary cause of [performance degradation during ledger snapshots](https://github.com/IntersectMBO/ouroboros-consensus/issues/86).Together with the ledger team, [they have proposed](https://github.com/IntersectMBO/cardano-ledger/issues/4634) a solution to reduce memory allocations when serializing the ledger state.
+*   They have identified the UTXO set as a primary cause of [performance degradation during ledger snapshots](https://github.com/IntersectMBO/ouroboros-consensus/issues/86). Together with the ledger team, [they have proposed](https://github.com/IntersectMBO/cardano-ledger/issues/4634) a solution to reduce memory allocations when serializing the ledger state.
     
 *   The team drafted scripts to estimate the necessary bandwidth to ensure the CPU is the [bottleneck during syncing](https://github.com/IntersectMBO/ouroboros-consensus/pull/1240), informing refinements to the `BlockFetch` process.
     
@@ -50,7 +50,7 @@ Annual members’ meetings will be held worldwide in early October, followed by 
 
 ### EDUCATION
 
-This week, the **education** team made their final preparations for the [Cardano Days event in Wyoming](https://www.uwyo.edu/acct-fin/cbdi/stampede/) on Saturday, September 21, and are organizing the Cardano Days event in Santander, Spain. They were also on the ground supporting the [constitutional committee workshop in Mongolia](https://lu.ma/282924xd) and worked on educational content for Voltaire.  
+This week, the **education** team made their final preparations for the [Cardano Days event in Wyoming](https://www.uwyo.edu/acct-fin/cbdi/stampede/) on Saturday, September 21, and are organizing the Cardano Days event in Santander, Spain. They were also on the ground supporting the [constitutional committee workshop in Mongolia](https://lu.ma/282924xd) and worked on educational content for Voltaire.
 
 ![](https://ucarecdn.com/03cd3782-ea24-471f-be8c-35f49b2f7428/-/preview/-/format/auto/-/quality/smart/)  
 コアテクノロジー
