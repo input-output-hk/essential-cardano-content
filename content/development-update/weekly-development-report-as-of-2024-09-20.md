@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/ba5b25c5-ce2e-435b-aec6-4c505678192f/
+image: https://ucarecdn.com/ecc483f2-37b1-47f2-91d7-7cc0d76cb2e9/
 image_text: Weekly development report as of 2024-09-20
 ---
 
@@ -48,11 +48,15 @@ Now that Intersect has completed the first stage of the Chang upgrade, elections
 
 Annual members’ meetings will be held worldwide in early October, followed by a virtual town hall.
 
+### CATALYST
+
+This week in **Catalyst**, town hall 175 was held, and Fund13 will be officially launched during next week's town hall. Meanwhile, technical development of Hermes/Athena continues, and the support of Fund13 parameters and guardrails is ongoing.
+
 ### EDUCATION
 
 This week, the **education** team made their final preparations for the [Cardano Days event in Wyoming](https://www.uwyo.edu/acct-fin/cbdi/stampede/) on Saturday, September 21, and are organizing the Cardano Days event in Santander, Spain. They were also on the ground supporting the [constitutional committee workshop in Mongolia](https://lu.ma/282924xd) and worked on educational content for Voltaire.
 
-![](https://ucarecdn.com/03cd3782-ea24-471f-be8c-35f49b2f7428/-/preview/-/format/auto/-/quality/smart/)  
+![](https://ucarecdn.com/13a7a9bc-a3dd-4853-9b93-78391326100b/)  
 コアテクノロジー
 
 **コンセンサス**チームは複数の主要分野に焦点を当てました。
@@ -91,6 +95,10 @@ IntersectはChangアップグレードの第一段階を終え、現在7つの�
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBchtJKsK5bXET34wS0SzHJbOeNYu2Dlq8AfhYDt81XGEQmoMRDgYBTr7dm8ty-n4gDMO56U8D-KnCWJyEBExyWdN_TgdSnsDcCjYRptk6zwuwYyLlzucb4f6j9tc2sPBzMYASlfrXcVF8ZT2VnqifBSHo?key=Gmd_qP3L_jQrRdhW6fjczQ)
 
 10月上旬には世界各地で年次総会が開催され、その後バーチャルタウンホールが開かれます。
+
+### CATALYST
+
+**Catalyst**ではタウンホール175が開催されました。来週のタウンホールでFund13が正式にスタートします。Hermes/Athenaの技術開発は継続中で、Fund13パラメーターとガードレールのサポートが進行中です。
 
 ### 教育
 
