@@ -9,4 +9,4 @@ image: ""
 image_text: ""
 ---
 
-# Live from the streets of Worcester, Massachusetts, filming one of Cardano's first consumer-level transactions. With the boss, James Dunseith, Gimbalabs co-founder.
+Live from the streets of Worcester, Massachusetts, filming one of Cardano's first consumer-level transactions. With the boss, James Dunseith, Gimbalabs co-founder.
