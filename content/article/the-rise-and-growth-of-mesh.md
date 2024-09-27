@@ -9,7 +9,7 @@ image: https://ucarecdn.com/2135447b-afb2-415c-855a-73fce0ad2d67/
 image_text: ""
 ---
 
-Three days ago we released [MeshJS](https://meshjs.dev/) v1.7, Chang-ready on [mainnet](https://www.nmkr.io/de/glossary/cardano-mainnet). Its main features:
+Three days ago the team from Gimbalabs released [MeshJS](https://meshjs.dev/) v1.7, Chang-ready on [mainnet](https://www.nmkr.io/de/glossary/cardano-mainnet). Its main features:
 
 *   Chang Cost models
     
