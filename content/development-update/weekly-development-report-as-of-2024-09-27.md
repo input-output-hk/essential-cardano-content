@@ -47,7 +47,7 @@ The **ledger** team focused on enhancing the ledger test suite with better impro
 
 *   Correct translation of `RegTxCert` and `UnRegTxCert` to `PlutusV3` scripts context, ensuring accurate handling of deposits and refunds.
     
-*   Prohibition of treasury withdrawals that are empty or sum to zero to improve transaction integrity. 
+*   Prohibition of treasury withdrawals that are empty or sum to zero to improve transaction integrity.
     
 
 Finally, they made some performance optimizations and fixed a ledger event bug. 
@@ -70,7 +70,7 @@ The governance organization, [Intersect MBO](http://intersetcmbo.org), is growin
 
 Applications have now closed for candidates to be elected to seats on committees and the membership board. 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXexpRbk0leZiHoz-ZQ2n8ptqL5qQf_3jFsM2vxt6qNeLJi_cgU_AJ1Lb1_R8u4wgH6zJsGzCPwDD1XgcDJ-MUe6PcJI2AhLnjUE9Y6HhROMgpWfkQl--Sa7DIFRNxI4Q-gzyHcv0vrLzF4Z1mo2myghbds?key=ZZQiZdW6I4EcL-PXhCsumw)
+![](https://ucarecdn.com/7befbb89-fdaa-4331-9de7-d6c495cbbf84/-/preview/-/format/auto/-/quality/smart/)
 
 The applications yet to be validated are from associates who still need to upgrade their membership.
 
@@ -107,7 +107,7 @@ Voting can only be done online via the [member portal](https://members.intersect
 
 **パフォーマンス＆トレース**チームはノードv.9.2.0のベンチマークをリリースし、新しいAge of Voltaireパフォーマンスのベースラインを検証しました。その他の開発には以下が含まれます。
 
-*   **開発 - 新しいトレースシステム：**転送メカニズムのスペースリークを修正し、ログローテーションの調査を継続
+*   \*\*開発 - 新しいトレースシステム：\*\*転送メカニズムのスペースリークを修正し、ログローテーションの調査を継続
     
 *   **ワークベンチ**：ワークベンチの大幅なリファクタリングに取り組み、Nixクロージャーのサイズを最適化し、プロファイルフレーク出力を追加。調整したNomadバックエンドもマージ。
     
@@ -120,14 +120,14 @@ Voting can only be done online via the [member portal](https://members.intersect
 
 *   RegTxCertとUnRegTxCertをPlutusV3スクリプトコンテキストに正しく変換し、デポジットと返金を確実に処理
     
-*   トランザクションの整合性を向上させるために、空または合計がゼロのトレジャリー引き出しを禁止 
+*   トランザクションの整合性を向上させるために、空または合計がゼロのトレジャリー引き出しを禁止
     
 
 パフォーマンスを最適化し、台帳イベントのバグを修正しました。 
 
 ### ウォレットとサービス
 
-**Lace** v.1.16をリリースしました。ここでは、複数のアドレス管理などの拡張機能が追加されたほか、DAppのセキュリティ向上、バグ修正が実施されました。_入金_画面で複数のアドレスを簡単に管理できるようになり、必要に応じて新しいアドレスを生成できるようになりました。新機能により、DAppに接続することなく、Lace内で直接シームレスなメッセージ署名が可能になり、トラストレスなメッセージ検証が改善されました。バグ修正には、[CIP-68](https://cips.cardano.org/cip/CIP-68) NFTの適切な表示と、よりスムーズなトランザクションのためのDAppコネクターの改良が含まれます。
+**Lace** v.1.16をリリースしました。ここでは、複数のアドレス管理などの拡張機能が追加されたほか、DAppのセキュリティ向上、バグ修正が実施されました。\_入金\_画面で複数のアドレスを簡単に管理できるようになり、必要に応じて新しいアドレスを生成できるようになりました。新機能により、DAppに接続することなく、Lace内で直接シームレスなメッセージ署名が可能になり、トラストレスなメッセージ検証が改善されました。バグ修正には、[CIP-68](https://cips.cardano.org/cip/CIP-68) NFTの適切な表示と、よりスムーズなトランザクションのためのDAppコネクターの改良が含まれます。
 
 ### スケーリング
 
@@ -143,7 +143,7 @@ Mithrilネットワークの署名オーケストレーションの分散化へ�
 
 委員会員と理事会員として選出される候補者の申請は締め切られました。
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJh_R_1-6EE8CjTdiTmPX0TIhVjekalnaD40SmKje25TqAkp8KdhaZvPwoBHfIqE5s1E6ZhacqQmq9KQdQiijPEoQyLaftGQQX9_g3VO4WqMZtbv3KOsEjRDL96yM8GKGX9OU2i5Od_iOtYqfjV-hZ70Q?key=7gN3pVjCCL5TQOf-2L8vyw)
+![](https://ucarecdn.com/7befbb89-fdaa-4331-9de7-d6c495cbbf84/-/preview/-/format/auto/-/quality/smart/)
 
 まだ検証が済んでいないのは、メンバーシップをアップグレードする必要があるアソシエイトからの申請です。
 
