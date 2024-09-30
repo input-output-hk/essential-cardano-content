@@ -80,6 +80,10 @@ Voting can only be done online via the [member portal](https://members.intersect
 
 **Catalyst** Fund13 [launch town hall](https://bit.ly/3BktWlV) took place on September 25. The community can now access the [launch guide](http://projectcatalyst.io/f13launchguide), and proposal submissions will begin on September 26. Additionally, the [Catalyst website](http://projectcatalyst.io/) has been updated with new features, and technical development on Hermes and Catalyst Voices is progressing.
 
+### EDUCATION
+
+The **education** team delivered their Cardano Days event at the University of Wyoming over the weekend. This was very successful and the feedback has been entirely positive. They are also preparing for the next Cardano Days event, which will take place in Santander, Spain on October 19.
+
 ![](https://ucarecdn.com/e1c9eb7b-29ca-4a90-968c-661741379bc9/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
