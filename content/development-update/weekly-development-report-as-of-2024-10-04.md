@@ -5,13 +5,13 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/33ac76da-c10c-49ba-8468-dc52e22761ec/
+image: https://ucarecdn.com/e0170bc3-7788-4c88-b744-a585f237e0b9/
 image_text: Weekly development report as of 2024-10-04
 ---
 
 ### CORE TECHNOLOGY
 
-Over the past two weeks, the **consensus** team has been working to establish a baseline for the [consensus quantitative timeliness agreements(QTA](https://github.com/IntersectMBO/ouroboros-consensus/issues/1256)). This helps inform discussions on sync performance goals with the networking team, particularly improvements related to Genesis. Additionally, the team rebased UTXO-HD atop `main`, with all [tests successfully passing](https://tests.cardano.intersectmbo.org/test_results/node/utxo_hd_9_1_1.html). Finally, they worked on enhancing the robustness and security of the consensus layer.
+Over the past two weeks, the consensus team has been working to establish a baseline for the c[onsensus quantitative timeliness agreements(QTA](https://github.com/IntersectMBO/ouroboros-consensus/issues/1256)). This helps inform discussions on sync performance goals with the networking team, particularly improvements related to Genesis. Additionally, the team rebased UTXO-HD atop `main`, with all [tests successfully passing](https://tests.cardano.intersectmbo.org/test_results/node/utxo_hd_9_1_1.html). Finally, they worked on enhancing the robustness and security of the consensus layer.
 
 ### SMART CONTRACTS
 
@@ -19,7 +19,7 @@ The **Plutus** team revamped the [Using Plutus TX](https://plutus.cardano.inters
 
 ### SCALING
 
-The **Hydra** team made progress on [incremental commits](https://github.com/cardano-scaling/hydra/issues/199) and [Blockfrost integration](https://github.com/cardano-scaling/hydra/issues/1305). Experiments to improve CI build times showed promise, and a successful trial [using Raft for the networking layer](https://github.com/cardano-scaling/hydra/issues/1591) was conducted. Key achievements include updating networking documentation, progressing with Blockfrost in the Hydra node, and transitioning to ['cardano-node` 9.2.0](https://github.com/cardano-scaling/hydra/pull/1651). Looking ahead, the team will continue enhancing [incremental commits](https://github.com/cardano-scaling/hydra/issues/1522) and Blockfrost integration, improving memory efficiency, and transitioning to PlutusV3, alongside work on CBOR datum on transaction outputs.
+The **Hydra** team made progress on [incremental commits](https://github.com/cardano-scaling/hydra/issues/199) and [Blockfrost integration](https://github.com/cardano-scaling/hydra/issues/1305). Experiments to improve CI build times showed promise, and a successful trial [using Raft for the networking layer](https://github.com/cardano-scaling/hydra/issues/1591) was conducted. Key achievements include updating networking documentation, progressing with Blockfrost in the Hydra node, and transitioning to \`[cardano-node\` 9.2.0](https://github.com/cardano-scaling/hydra/pull/1651). Looking ahead, the team will continue enhancing [incremental commits](https://github.com/cardano-scaling/hydra/issues/1522) and Blockfrost integration, improving memory efficiency, and transitioning to PlutusV3, alongside work on CBOR datum on transaction outputs.
 
 The **Mithril** team continued working on decentralizing the signature orchestration of the Mithril network. They completed the development of a mechanism to support specific configurations for signing Cardano transactions and kept implementing the autonomous computation of the messages [to be signed by the signer](https://github.com/input-output-hk/mithril/issues/1925). They also activated the [certification of the Cardano transactions](https://mithril.network/doc/dev-blog/2024/07/30/cardano-transaction-certification) on the `release-mainnet` network.
 
@@ -31,8 +31,8 @@ This week, the annual members’ meetings (AMMs) of the Intersect member-based o
 
 The events will begin with a reception, followed by a welcome and introduction to set the tone for the day. Next, attendees will hear about Intersect’s vision for 2025, outlining key goals and initiatives for the year, and beyond. A retrospective will follow, starting with a review of significant milestones and lessons learned. 
 
-The focus will then shift to the committee and board elections, a key highlight of the day. The event will close with a farewell celebration. If interested, [register here](https://lu.ma/9ydajznf).  
-  
+The focus will then shift to the committee and board elections, a key highlight of the day. The event will close with a farewell celebration. If interested, [register here](https://lu.ma/9ydajznf).
+
 If you’d like to attend any events, you can [read more and RSVP](https://docs.intersectmbo.org/annual-member-meetings/2024-annual-member-meetings) to an event near you. Also, check out the [AMM Q&A session](https://www.youtube.com/watch?v=YYa9snx3lZg) on [Intersect’s YouTube channel](https://www.youtube.com/@Intersectmbo) - don’t forget to like and subscribe!
 
 ### CATALYST
@@ -43,9 +43,7 @@ This week in **Catalyst**, town hall 177 premiered. Proposal submissions for Fun
 
 The **education** team is preparing for the next Cardano Days event, which will take place in Santander, Spain on October 19. You can register [here](https://lu.ma/sgmyg5li). They are also attending the Cardano Constitution event in Oslo, Norway this week.
 
-![](https://ucarecdn.com/8da88786-7c98-4bef-b7cc-2544df863678/-/preview/-/format/auto/-/quality/smart/)
-
-### コアテクノロジー
+### ![](https://ucarecdn.com/3ebe9e37-ea61-4675-841b-ae745f8c539d/-/preview/-/format/auto/-/quality/smart/)コアテクノロジー
 
 **コンセンサス**チームは、過去2週間にわたり、[コンセンサス定量適時性合意（QTA）](https://github.com/IntersectMBO/ouroboros-consensus/issues/1256)のベースライン確立に取り組んできました。これは、ネットワーキングチームとの同期パフォーマンス目標についての議論、特にGenesisに関連する改善に役立ちます。mainにUTXO-HDをリベースし、すべての[テストは正常にパス](https://tests.cardano.intersectmbo.org/test_results/node/utxo_hd_9_1_1.html)しました。コンセンサス層の堅牢性と安全性の強化に取り組みました。
 
@@ -67,8 +65,8 @@ The **education** team is preparing for the next Cardano Days event, which will 
 
 イベントは受け付けから始まり、歓迎の辞と、その日の基調を定めるイントロダクションが続きます。次に、2025年に向けたIntersectのビジョンについて、その一年とそれ以降の主な目標とイニシアチブの概要が述べられます。それから重要なマイルストンと教訓のレビューから始まるレトロスペクティブが持たれます。 
 
-その後、焦点は委員会と理事会の選挙に移りますが、これがその日の重要なハイライトとなります。イベントは送別の言葉で締めくくられます。興味がある場合は、[ここで登録](https://lu.ma/9ydajznf)してください。  
-  
+その後、焦点は委員会と理事会の選挙に移りますが、これがその日の重要なハイライトとなります。イベントは送別の言葉で締めくくられます。興味がある場合は、[ここで登録](https://lu.ma/9ydajznf)してください。
+
 イベントへの参加を希望する場合は、[詳細を読み、近くのイベントに参加申し込み](https://docs.intersectmbo.org/annual-member-meetings/2024-annual-member-meetings)をしてください。[IntersectのYouTubeチャンネル](https://www.youtube.com/%40Intersectmbo)で[AMM Q&Aセッション](https://www.youtube.com/watch?v=YYa9snx3lZg)もチェックしてみてください。
 
 ### CATALYST
