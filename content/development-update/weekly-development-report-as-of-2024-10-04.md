@@ -11,7 +11,7 @@ image_text: Weekly development report as of 2024-10-04
 
 ### CORE TECHNOLOGY
 
-Over the past two weeks, the consensus team has been working to establish a baseline for the c[onsensus quantitative timeliness agreements(QTA](https://github.com/IntersectMBO/ouroboros-consensus/issues/1256)). This helps inform discussions on sync performance goals with the networking team, particularly improvements related to Genesis. Additionally, the team rebased UTXO-HD atop `main`, with all [tests successfully passing](https://tests.cardano.intersectmbo.org/test_results/node/utxo_hd_9_1_1.html). Finally, they worked on enhancing the robustness and security of the consensus layer.
+Over the past two weeks, the **consensus** team has been working to establish a baseline for the [consensus quantitative timeliness agreements(QTA](https://github.com/IntersectMBO/ouroboros-consensus/issues/1256)). This helps inform discussions on sync performance goals with the networking team, particularly improvements related to Genesis. Additionally, the team rebased UTXO-HD atop `main`, with all [tests successfully passing](https://tests.cardano.intersectmbo.org/test_results/node/utxo_hd_9_1_1.html). Finally, they worked on enhancing the robustness and security of the consensus layer.
 
 ### SMART CONTRACTS
 
