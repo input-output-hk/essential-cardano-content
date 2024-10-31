@@ -354,6 +354,8 @@ Here is a list of available tools and resources according to categories:
     
 *   [Summon Platform](https://summonplatform.io/): allows ada holders to submit and vote on proposals for open and transparent decentralized autonomous organization (DAO) governance.
     
+*   [Tempo](https://tempo.vote/): simplifies the vote delegation and DRep registration processes, providing insights on DRep voting behavior, profile creation features, and a discussion forum. Tempo also helps DAOs build transparent governance rules with their governance tokens, participate in discussions, and vote through polls efficiently.
+    
 *   [VibrantNet](https://www.vibrantnet.io/): a community integration system with Cardano Discord Bot, Hazelnet.
     
 *   [Vote-supporting wallets](https://docs.sanchogov.tools/how-to-use-the-govtool/getting-started/get-a-compatible-wallet): not every Cardano wallet currently supports the ability to delegate a holder’s vote to a DRep or vote as a DRep on key governance issues. Current compatible wallets include [Lace](https://www.lace.io/), [Yoroi](https://yoroi-wallet.com/#/), [NuFi](https://nu.fi/), and [Demos](https://drive.google.com/file/d/1PegeogP3pEsASFsBiRNGjXSAEJ9T51xT/view) (a clone of the Nami wallet made for the beta, available on Chromium browsers with developer mode on and 'load unpacked').
