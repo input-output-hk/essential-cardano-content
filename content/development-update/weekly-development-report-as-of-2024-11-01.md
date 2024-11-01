@@ -56,9 +56,9 @@ Finally, they fixed some [flakiness in CI](https://github.com/input-output-hk/mi
 
 ### VOLTAIRE
 
-The Voltaire phase of Cardano’s development involves transforming the network into a self-sustaining system, beginning with an interim constitution, as required by CIP-1694. The next step is to engage the community in creating an official constitution. To this end, Intersect has embarked on a series of constitutional workshops to ensure that as many voices as possible are heard.
+The Voltaire phase of Cardano’s development involves transforming the network into a self-sustaining system, beginning with an interim constitution, as required by CIP-1694. The next step is to engage the community in creating an official constitution. To this end, Intersect has facilitated an extensive series of constitutional workshops around the world to ensure that as many voices as possible are heard.
 
-64 workshops were held covering 51 countries in six of the seven continents. 128 delegates (64 voting, 64 traveling alternates) were elected to attend the constitutional convention in Buenos Aires, Argentina, from Wednesday, December 4, 2024, to Friday, December 6. 
+64 workshops were held covering 51 countries in six of the seven continents. 128 delegates (64 voting, 64 traveling alternates) were elected to attend the constitutional convention in Buenos Aires, Argentina, from Wednesday, December 4, 2024, to Friday, December 6.
 
 ### CATALYST
 
