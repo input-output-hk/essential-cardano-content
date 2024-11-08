@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/5a439ef4-d6f4-4df4-9f83-98d7b73c30f2/
+image: https://ucarecdn.com/665d3502-2eca-4c54-8fc7-b17b32dde9fd/
 image_text: Weekly development report as of 2024-11-08
 ---
 
@@ -68,9 +68,7 @@ This week in **Catalyst**, the community review stage is progressing well. Catal
 
 This week, the **education** team is continuing to plan events to support the [Cardano Tech Week](https://lu.ma/jcsgq39k) community event later this month and the constitutional convention in December. They are also finalizing plans for the next Cardano Days event in Santander, Spain, on November 23.
 
-![](https://ucarecdn.com/4b92462a-7561-4265-b317-3166d8f6df5b/-/preview/-/format/auto/-/quality/smart/)
-
-### コアテクノロジー
+### ![](https://ucarecdn.com/27a47a7b-c968-46cc-bb3d-61850c52ec82/-/preview/-/format/auto/-/quality/smart/)コアテクノロジー
 
 **コアテクノロジー**チームは、v.10.1.1リリースを更新したノード[v.10.1.2](https://github.com/IntersectMBO/cardano-node/releases/tag/10.1.2)をリリースしました。
 
