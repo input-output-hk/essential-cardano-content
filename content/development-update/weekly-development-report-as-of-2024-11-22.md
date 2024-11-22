@@ -33,9 +33,9 @@ Finally, they worked on [removing the legacy store adapters](https://github.com/
 
 The hard fork working group, including members from Input | Output, agreed to propose renaming the Chang #2 hard fork to the Plomin hard fork to honor Matthew Plomin, a prominent and much-respected community member who passed away unexpectedly on November 14, 2024. The community will consider the decision in an on-chain vote.
 
-In less than two weeks, the Cardano community will gather in Buenos Aires and Nairobi for the [Constitutional Convention](https://x.com/InputOutputHK/status/1859574033739624852), taking place from December 3-6. Delegates and contributors worldwide will vote on the Cardano Constitution, a milestone in decentralized governance shaped by the global community’s input. This event reflects the collaborative efforts of ada holders, Intersect members, DReps, SPOs, and the interim constitutional committee to establish a shared vision for Cardano’s future.
+In less than two weeks, the Cardano community will gather in Buenos Aires and Nairobi for the [Constitutional Convention](https://x.com/InputOutputHK/status/1859574033739624852), taking place from December 3-6. Delegates and contributors worldwide will vote on the Cardano constitution, a milestone in decentralized governance shaped by the global community’s input. This event reflects the collaborative efforts of ada holders, Intersect members, DReps, SPOs, and the interim constitutional committee to establish a shared vision for Cardano’s future.
 
-The most recent draft of the Constitution is [available here](https://x.com/IntersectMBO/status/1859322771278373101). Additional information regarding the Constitutional Convention, scheduled for December 3-6, can be [found here](https://2024constitutionalconvention.intersectmbo.org/).
+The most recent draft of the constitution is [available here](https://x.com/IntersectMBO/status/1859322771278373101). Additional information regarding the Constitutional Convention, scheduled for December 3-6, can be [found here](https://2024constitutionalconvention.intersectmbo.org/).
 
 ### CATALYST
 
