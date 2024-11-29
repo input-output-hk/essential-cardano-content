@@ -13,9 +13,7 @@ image_text: Weekly development report as of 2024-11-29
 
 This week, the **consensus** team began preparing a proposal for the technical steering committee (TSC) addressing chain growth violations. They also authored a document on the Cardano-specific implementation of the [Praos protocol theorem](https://github.com/IntersectMBO/ouroboros-consensus/pull/1320/files).
 
-The **DB Sync** team released [v.13.6.0.2](https://github.com/IntersectMBO/cardano-db-sync/releases/tag/13.6.0.2), which is compatible with node v.10.1.2 
-
-and includes rollback speed improvements. 
+The **DB Sync** team released [v.13.6.0.2](https://github.com/IntersectMBO/cardano-db-sync/releases/tag/13.6.0.2), which is compatible with node v.10.1.2 and includes rollback speed improvements. 
 
 ### WALLETS AND  SERVICES
 
@@ -31,7 +29,6 @@ Key updates include:
     
 *   Fixes for shared wallet functionality.
     
-
 The team is committed to ongoing performance enhancements and appreciates the community's input to help improve the Lace platform. Users are encouraged to provide feedback on the new update.
 
 ### SMART CONTRACTS
