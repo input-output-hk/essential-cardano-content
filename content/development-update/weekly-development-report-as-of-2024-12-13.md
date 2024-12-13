@@ -21,13 +21,13 @@ During the recent network working group meeting (NWG), the team addressed strate
 
 In addition, work continued on making `ouroboros-network` [reusable for both](https://github.com/input-output-hk/CIPs/pull/137) `cardano-node` and `mithril`. The new [block-fetch client](https://github.com/input-output-hk/ouroboros-network/pull/4919) for Genesis was merged, offering improved logic and design as described [here](http://block-fetch-genesis).
 
-The **consensus** team reviewed a `lsm-trees` milestone presentation from Well-Typed, showcasing progress in two key areas: snapshot support for persisting ledger snapshots and table union for storing more ledger state parts on disk. The team also completed the UTXO-HD code review. Before merging, they plan to run additional system-level benchmarks to understand the performance impact.
+The **consensus** team reviewed a \`lsm-trees**\`** milestone presentation from Well-Typed, showcasing progress in two key areas: snapshot support for persisting ledger snapshots and table union for storing more ledger state parts on disk. The team also completed the UTXO-HD code review. Before merging, they plan to run additional system-level benchmarks to understand the performance impact.
 
 Additionally, they submitted a request to the technical steering committee regarding how the node should handle low apparent participation and added support for computing and verifying [cyclic redundancy checks](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) (CRCs) of ledger state snapshots, increasing robustness when [loading data from disk](https://github.com/IntersectMBO/ouroboros-consensus/pull/1319).
 
 ### WALLETS AND SERVICES
 
-This week, the **Daedalus** team released v.7.0.2 for mainnet, pre-production, and preview networks. This release enables users to delegate their voting power to delegated representatives (DReps) or choose an automatic voting option (abstain or no confidence), ensuring that the Daedalus community has a straightforward way to make their voices heard in the future governance of Cardano.
+This week, the **Daedalus** team released v.7.0.2 for mainnet, pre-production, and preview networks.This release enables users to delegate their voting power to delegated representatives (DReps) or choose an automatic voting option (abstain or no confidence), ensuring that the Daedalus community has a straightforward way to make their voices heard in the future governance of Cardano.
 
 In the new voting tab, users can select their registration preference for each wallet held in Daedalus.
 
@@ -38,6 +38,8 @@ Existing users will get a prompt to update via the Daedalus newsfeed. If you are
 This week, the **Plutus** team opened a [CIP](https://github.com/cardano-foundation/CIPs/pull/946) to add modules to Untyped Plutus Core. This CIP proposes a solution to Cardano’s script size limitations by enabling the use of modular code through reference inputs, allowing scripts to share and reuse code across multiple transactions. While the core implementation avoids changes to existing components, higher-performance variations requiring CEK machine updates will need to balance implementation costs and benchmarking.
 
 ### SCALING
+
+This week, the **Hydra** team focused on finalizing outstanding work before the holiday season. The team remains dedicated to finishing work on incremental commits, advancing multiple-version support for `hydra-explorer`, and supporting the Hydra Doom tournament.
 
 This week, the **Mithril** team continued to implement the incremental certification of the Cardano database. They kept working on creating and synchronizing the artifacts. The team finished exploring solutions for signer registration in networks with multiple aggregators and updated the [About Mithril](https://mithril.network/doc/mithril/intro) section of the website. They also progressed with developing a cache for certificate verification in the WASM client.
 
@@ -98,6 +100,8 @@ ouroboros-networkをcardano-nodeとmithrilの[両方で再利用可能](https://
 **Plutus**チームは、Untyped Plutus Coreにモジュールを追加するための[CIP](https://github.com/cardano-foundation/CIPs/pull/946)を公開しました。このCIPは、参照インプットを介してモジュール化されたコードの使用を可能にし、スクリプトが複数のトランザクション間でコードを共有および再利用できるようにすることにより、Cardanoのスクリプトサイズ制限に対する解決策を提案しています。コア実装は既存のコンポーネントの変更を回避しますが、CEKマシンの更新を必要とする高パフォーマンスのバリエーションは実装コストとベンチマークのバランスをとる必要があります。
 
 ### スケーリング
+
+**Hydra**チームはホリデーシーズン前に積み残した仕事を仕上げることに焦点を当てました。インクリメンタルコミットの仕上げ、hydra-explorerの複数バージョンサポートの推進、Hydra Doomトーナメントのサポートに専念しています。
 
 **Mithril**チームは、Cardanoデータベースの増分認証の実装作業を続け、引き続きアーティファクトの作成と同期化に取り組みました。複数のアグリゲーターを持つネットワークで署名者登録のための解決策を模索し、ウェブサイトの[About Mithril](https://mithril.network/doc/mithril/intro)のセクションを更新しました。WASMクライアントで証明書検証用のキャッシュの開発を進めました。
 
