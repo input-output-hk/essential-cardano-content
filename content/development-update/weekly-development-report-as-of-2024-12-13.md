@@ -21,13 +21,13 @@ During the recent network working group meeting (NWG), the team addressed strate
 
 In addition, work continued on making `ouroboros-network` [reusable for both](https://github.com/input-output-hk/CIPs/pull/137) `cardano-node` and `mithril`. The new [block-fetch client](https://github.com/input-output-hk/ouroboros-network/pull/4919) for Genesis was merged, offering improved logic and design as described [here](http://block-fetch-genesis).
 
-The **consensus** team reviewed a \`lsm-trees**\`** milestone presentation from Well-Typed, showcasing progress in two key areas: snapshot support for persisting ledger snapshots and table union for storing more ledger state parts on disk. The team also completed the UTXO-HD code review. Before merging, they plan to run additional system-level benchmarks to understand the performance impact.
+The **consensus** team reviewed a `lsm-trees` milestone presentation from Well-Typed, showcasing progress in two key areas: snapshot support for persisting ledger snapshots and table union for storing more ledger state parts on disk. The team also completed the UTXO-HD code review. Before merging, they plan to run additional system-level benchmarks to understand the performance impact.
 
 Additionally, they submitted a request to the technical steering committee regarding how the node should handle low apparent participation and added support for computing and verifying [cyclic redundancy checks](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) (CRCs) of ledger state snapshots, increasing robustness when [loading data from disk](https://github.com/IntersectMBO/ouroboros-consensus/pull/1319).
 
 ### WALLETS AND SERVICES
 
-This week, the **Daedalus** team released v.7.0.2 for mainnet, pre-production, and preview networks.This release enables users to delegate their voting power to delegated representatives (DReps) or choose an automatic voting option (abstain or no confidence), ensuring that the Daedalus community has a straightforward way to make their voices heard in the future governance of Cardano.
+This week, the **Daedalus** team released v.7.0.2 for mainnet, pre-production, and preview networks. This release enables users to delegate their voting power to delegated representatives (DReps) or choose an automatic voting option (abstain or no confidence), ensuring that the Daedalus community has a straightforward way to make their voices heard in the future governance of Cardano.
 
 In the new voting tab, users can select their registration preference for each wallet held in Daedalus.
 
