@@ -28,28 +28,27 @@ EUTXO differs in many ways from the account-based model, but the two main differ
     
 *   **Determinism**: Transactions in the EUTXO model are fully deterministic. That means we know what a transaction is going to do before submission, and nothing can change it. In contrast, transactions in the account-based model can yield unexpected results.
     
-
 So why do these differences matter? What does EUTXO do for Cardano, and why do we think it’s better than the account-based model?
 
-**1\. Predictable transactions**
+**1. Predictable transactions**
 
 ‘Users know precisely what the transaction will do on the blockchain before submitting it. This is a fantastic property for both smart contract developers and end users because everyone can submit transactions without fear of being charged for a failed transaction or resulting in unexpected outcomes on the blockchain (ie loss of funds). This means that the outcome of a successful transaction is always exactly what the user expects and consented to via their signature. As long as a transaction succeeds, its outcome cannot be affected by any other transactions on the network, and if the transaction fails, no fees are paid,’ says [Anastasia Labs](https://anastasialabs.com/)’ Philip DiSarro. ‘An added benefit of this property is that Cardano is not subject to issues arising from Maximal Extractable Value (MEV) and so-called 'sandwich attacks', something that it's all too common in account-based chains.’
 
 The worst that can happen is that two users try to consume the same input simultaneously. In that case, the second transaction would have a different effect than the one described (it wouldn't consume one of the specified inputs because it's not there anymore), so it'd be instantly rejected without any cost, and the user can try again with a different input.
 
-**2\. Predictable transaction costs and resource usage**
+**2. Predictable transaction costs and resource usage**
 
 EUTXO's deterministic design represents a marked advantage over other accounting models since transaction fees for a valid transaction can be accurately calculated. That means end users will know exactly how much the transaction will cost before submitting it to the blockchain. This is in stark contrast with other chains, where transaction fees can change quite dramatically before the transaction is posted. The same applies to resource (CPU time and memory, for example) usage, which can be predicted prior to executing the transaction.
 
-**3\. Concurrency and scalability**
+**3. Concurrency and scalability**
 
 If we have many transactions that consume different inputs (which is the case most of the time), we know—thanks to the locality property—they won't affect each other. That means we can process all of them simultaneously, greatly enhancing throughput and scalability. Parallel processing is especially useful for high-demand DApps like decentralized exchanges (DEXs), which need to handle many transactions quickly. Besides the big boost we get from being able to [process transactions concurrently](https://iohk.io/en/blog/posts/2021/09/10/concurrency-and-all-that-cardano-smart-contracts-and-the-eutxo-model/), locality and determinism allow for scalability solutions like [Hydra](https://hydra.family/head-protocol/) that can't be implemented on account-based systems.
 
-**4\. Improved security**
+**4. Improved security**
 
 Determinism and locality properties of EUTXO greatly reduce the number of all possible attack vectors and make it a lot easier for developers to reason about what is happening. That means that it is much easier to ensure the security of smart contracts in Cardano than their counterparts in account-based models. It is very difficult to reason about the correctness of protocols on the account-based model due to the complexity of global state. It also means it's easier to prove the correctness of smart contracts, which is highly appreciated in the context of managing valuable assets.
 
-**5\. Improved flexibility**
+**5. Improved flexibility**
 
 The EUTXO model is more flexible than the account-based model. To illustrate this, you could simulate the account model with EUTXO and vice versa. This greater flexibility allows DApp developers to create new architectures and ways of doing things that can't be achieved using the account-based model.
 
@@ -57,7 +56,7 @@ The EUTXO model is more flexible than the account-based model. To illustrate thi
 
 IO Education’s Robertino Martinez adds: ‘for example, DEX users can sign dozens of transactions consuming different UTXOs accepting different trades, and an off-chain algorithm can mix and match them to optimize for any metric the user cares about. Providing dozens (or hundreds, for that matter) of signed transactions bears no risk for the end user because the transactions will always produce the desired result, or the chain will reject them. However, it has the powerful advantage that they can all be executed automatically at optimal times, even if submitting them all simultaneously at 3 am is the best option. This procedure can't be done in account-based blockchains since their transactions aren't fully deterministic, and submitting one transaction could invalidate all others.’
 
-**6\. Best choice for zero-knowledge proofs**
+**6. Best choice for zero-knowledge proofs**
 
 The EUTXO model is perfect for zero-knowledge proofs (ZKPs), as they allow you to perform complex, high-intensity computation off-chain and produce a proof of that computation verifiable on-chain. For instance, you could execute a smart contract off-chain and then provide a proof that the smart contract was executed in a given state. This proof can be verified on the network. Importantly, to utilize this method of zero-knowledge scaling, to construct the proof you need to know in advance the state against which you are executing the computation. Due to EUTXO’s transaction predictability, this is trivial, since the only input required to evaluate the computation is the transaction itself.
 
