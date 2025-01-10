@@ -1,12 +1,12 @@
 ---
-title: Weekly development report as of 2024-01-10
+title: Weekly development report as of 2025-01-10
 tags:
   - Weekly development updates
   - Development
   - Statistics
 url: ""
 image: https://ucarecdn.com/aba53804-fc89-4e51-8be5-e0b21a99f9fd/
-image_text: Weekly development report as of 2024-01-10
+image_text: Weekly development report as of 2025-01-10
 ---
 
 ### CORE TECHNOLOGY
