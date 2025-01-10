@@ -26,7 +26,7 @@ Furthermore, the team released the necessary consensus packages for Cardano node
 *   `release-ouroboros-consensus-0.22.0.0`.
     
 
-### SMART CONTRACT
+### SMART CONTRACTS
 
 The Plutus Core team is finalizing the data-backed `ScriptContext` API (versions [V1](https://plutus.cardano.intersectmbo.org/haddock/latest/plutus-ledger-api/PlutusLedgerApi-V1-Data-Contexts.html), [V2](https://plutus.cardano.intersectmbo.org/haddock/latest/plutus-ledger-api/PlutusLedgerApi-V2-Data-Contexts.html), and [V3](https://plutus.cardano.intersectmbo.org/haddock/latest/plutus-ledger-api/PlutusLedgerApi-V3-Data-Contexts.html)). This update is expected to significantly enhance the performance of many scripts written in Plinth (formerly  Plutus Tx). For more details, please refer to the [relevant section in the user guide](https://plutus.cardano.intersectmbo.org/docs/working-with-scripts/optimizing-scripts-with-asData).
 
