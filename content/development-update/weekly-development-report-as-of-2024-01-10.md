@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/5d453887-b9d3-47ea-82ef-217a754231f8/
+image: https://ucarecdn.com/edb7826e-9216-44cb-bb94-4a410b38d0f3/
 image_text: Weekly development report as of 2024-01-10
 ---
 
@@ -26,7 +26,7 @@ Furthermore, the team released the necessary consensus packages for Cardano node
 *   `release-ouroboros-consensus-0.22.0.0`.
     
 
-### SMART CONTRACT
+### SMART CONTRACTS
 
 The Plutus Core team is finalizing the data-backed `ScriptContext` API (versions [V1](https://plutus.cardano.intersectmbo.org/haddock/latest/plutus-ledger-api/PlutusLedgerApi-V1-Data-Contexts.html), [V2](https://plutus.cardano.intersectmbo.org/haddock/latest/plutus-ledger-api/PlutusLedgerApi-V2-Data-Contexts.html), and [V3](https://plutus.cardano.intersectmbo.org/haddock/latest/plutus-ledger-api/PlutusLedgerApi-V3-Data-Contexts.html)). This update is expected to significantly enhance the performance of many scripts written in Plinth (formerly  Plutus Tx). For more details, please refer to the [relevant section in the user guide](https://plutus.cardano.intersectmbo.org/docs/working-with-scripts/optimizing-scripts-with-asData).
 
@@ -42,7 +42,7 @@ The team also continued implementing the incremental certification of the Cardan
 
 Finally, they completed the experimental cache for certificate verification in the WASM client, implemented enhancements to the CI, and fixed a bug with identifier collisions in the incremental Cardano database artifacts.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 Changes to Cardano governance are now controlled by community actions. The governance action for the Cardano Plomin hard fork is the trigger that enables the second and final step in the Chang upgrade. It was submitted to mainnet at the end of epoch 529, on December 20, 2024 at 21:44 UTC, as recommended by the hard fork working group, including representatives from IO. Voting on this governance action is underway with input from stake pool operators and the interim constitutional committee.
 
@@ -58,7 +58,7 @@ Additionally, the focus on replacing IdeaScale with a native solution to enhance
 
 The **education** team is developing strategies and plans for courses and events throughout the year while analyzing feedback from the community survey shared in December.
 
-### ![](https://ucarecdn.com/7091f8a8-08d7-4c9f-b392-83b38b48329c/-/preview/-/format/auto/-/quality/smart/)
+### ![](https://ucarecdn.com/cf2214df-d5b5-4fa9-adee-397ceb160691/-/preview/-/format/auto/-/quality/smart/)
 
 ### スマートコントラクト
 
@@ -66,7 +66,7 @@ Plutus Coreチームは、データ活用型ScriptContext API（バージョン[
 
 ### スケーリング
 
-**Hydra**チームは、[インクリメンタルコミット](https://github.com/cardano-scaling/hydra/pull/1715)に関する作業の主要部分を仕上げることに焦点を当て、現在、この機能についてコミュニティからのフィードバックを求めています。[hydra-explorer](https://github.com/cardano-scaling/hydra/issues/1282)の複数バージョンへのサポートを追加する作業や、[カスタム台帳実験](https://github.com/cardano-scaling/hydra/pull/1742)を進めました。[Docusaurusのアップグレード](https://github.com/cardano-scaling/hydra/pull/1768)、cardano-apiの[依存関係](https://github.com/cardano-scaling/hydra/pull/1760)の更新、さまざまなクリーンアップとデバッグの改善を行いました。  
+**Hydra**チームは、[インクリメンタルコミット](https://github.com/cardano-scaling/hydra/pull/1715)に関する作業の主要部分を仕上げることに焦点を当て、現在、この機能についてコミュニティからのフィードバックを求めています。[hydra-explorer](https://github.com/cardano-scaling/hydra/issues/1282)の複数バージョンへのサポートを追加する作業や、[カスタム台帳実験](https://github.com/cardano-scaling/hydra/pull/1742)を進めました。[Docusaurusのアップグレード](https://github.com/cardano-scaling/hydra/pull/1768)、cardano-apiの[依存関係](https://github.com/cardano-scaling/hydra/pull/1760)の更新、さまざまなクリーンアップとデバッグの改善を行いました。
 
 次のステップは、インクリメンタルコミットの作業の完了、hydra-explorerのマルチバージョンサポートの仕上げ、カスタム台帳実験のまとめ、v.0.20.0リリースの計画、継続しているHydra Doomトーナメントサポートの提供です。
 
@@ -76,7 +76,7 @@ Cardanoデータベースの増分認証の実装作業も継続しました。�
 
 WASMクライアントで証明書検証のための実験的キャッシュを完成させ、CIの拡張を実装し、増分Cardanoデータベースアーティファクトの識別子衝突のバグを修正しました。
 
-### VOLTAIRE 
+### VOLTAIRE
 
 Cardanoガバナンス変更は、コミュニティアクションによってコントロールされるようになりました。Cardano Plominハードフォークのガバナンスアクションは、Changアップグレードの2番目かつ最後のステップを可能にするトリガーです。これは、ハードフォークワーキンググループが提案した通り、エポック529の終了時となる日本時間2024年12月21日06:44にメインネットに提出されました。このガバナンスアクションへの投票は、ステークプールオペレーターと暫定憲法委員会からの意見を得て進行中です。
 
