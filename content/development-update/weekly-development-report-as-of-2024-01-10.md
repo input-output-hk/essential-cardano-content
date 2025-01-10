@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/edb7826e-9216-44cb-bb94-4a410b38d0f3/
+image: https://ucarecdn.com/aba53804-fc89-4e51-8be5-e0b21a99f9fd/
 image_text: Weekly development report as of 2024-01-10
 ---
 
@@ -58,7 +58,7 @@ Additionally, the focus on replacing IdeaScale with a native solution to enhance
 
 The **education** team is developing strategies and plans for courses and events throughout the year while analyzing feedback from the community survey shared in December.
 
-### ![](https://ucarecdn.com/cf2214df-d5b5-4fa9-adee-397ceb160691/-/preview/-/format/auto/-/quality/smart/)
+### ![](https://ucarecdn.com/f618968f-9d56-499b-9e9c-30689a650fd8/-/preview/-/format/auto/-/quality/smart/)
 
 ### スマートコントラクト
 
