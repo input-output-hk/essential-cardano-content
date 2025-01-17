@@ -17,7 +17,7 @@ The team also addressed technical debt by [removing crypto parameterization](htt
 
 Additionally, the team released and integrated an updated cryptographic library that had been undergoing revisions for the past few years. They also finalized work on defining CDDL specifications in Haskell — now fully generated for every era — improving confidence in correctness through additional type checking and reducing duplication and complexity by eliminating manual serialization definitions.
 
-WALLETS AND SERVICES 
+### WALLETS AND SERVICES 
 
 The **Lace** team released **Lace v.1.18.2**, which includes the following updates and improvements:
 
@@ -79,7 +79,7 @@ This week, the **education** team is planning for the next Haskell course and up
 
 更新版暗号ライブラリーをリリース、統合しました。これは、過去数年間改訂を行っていたものです。HaskellでCDDL仕様を定義する作業も完了し（現在は全期対応で完全生成）、型検査を追加することで正確性に対する信頼性を向上させ、手動のシリアル化定義を削除して重複と複雑さを軽減しました。
 
-ウォレットとサービス 
+### ウォレットとサービス 
 
 **Lace**チームは**Lace** **v.1.18.2を**リリースしました。これには、以下の改良が含まれます。
 
