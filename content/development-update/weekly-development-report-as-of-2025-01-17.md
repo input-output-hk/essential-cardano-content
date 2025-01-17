@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/0284acbc-4ec9-4fb0-b346-3f17c8bb8f1d/
+image: https://ucarecdn.com/d4f7c043-a7a6-4a3a-9459-4f0404dde304/
 image_text: Weekly development report as of 2025-01-17
 ---
 
@@ -17,7 +17,7 @@ The team also addressed technical debt by [removing crypto parameterization](htt
 
 Additionally, the team released and integrated an updated cryptographic library that had been undergoing revisions for the past few years. They also finalized work on defining CDDL specifications in Haskell — now fully generated for every era — improving confidence in correctness through additional type checking and reducing duplication and complexity by eliminating manual serialization definitions.
 
-### WALLETS AND SERVICES 
+WALLETS AND SERVICES 
 
 The **Lace** team released **Lace v.1.18.2**, which includes the following updates and improvements:
 
@@ -44,7 +44,7 @@ Additionally, the team benchmarked BLS signatures, provided CPU time estimates, 
 
 Finally, they progressed with sortition analysis for input and endorser blocks, contributing findings to the draft of the technical report.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 Voting is currently in progress for the approval of the Plomin hard fork, which is the second hard fork in the Chang upgrade. The constitution sets three thresholds for approval:
 
@@ -67,8 +67,8 @@ The governance action for the Plomin hard fork will expire on January 24 (end of
 
 ### EDUCATION
 
-This week, the **education** team is planning for the next Haskell course and updating the Cardano Developer course to incorporate recent Aiken development updates. They are also outlining their plans for Midnight education.  
-  
+This week, the **education** team is planning for the next Haskell course and updating the Cardano Developer course to incorporate recent Aiken development updates. They are also outlining their plans for Midnight education.
+
 ![](https://ucarecdn.com/eb1becbb-92f6-4398-a654-006d94829bf5/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
@@ -79,7 +79,7 @@ This week, the **education** team is planning for the next Haskell course and up
 
 更新版暗号ライブラリーをリリース、統合しました。これは、過去数年間改訂を行っていたものです。HaskellでCDDL仕様を定義する作業も完了し（現在は全期対応で完全生成）、型検査を追加することで正確性に対する信頼性を向上させ、手動のシリアル化定義を削除して重複と複雑さを軽減しました。
 
-### ウォレットとサービス 
+ウォレットとサービス 
 
 **Lace**チームは**Lace** **v.1.18.2を**リリースしました。これには、以下の改良が含まれます。
 
@@ -89,7 +89,7 @@ This week, the **education** team is planning for the next Haskell course and up
     
 *   **Blockfrostの移行**：Blockfrostを主要ウォレットのデータプロバイダーにする取り組みは継続。
     
-*   **パフォーマンスの向上**：アカウントのブートストラップとアプリケーションの起動改善により、パフォーマンスが向上、リソース需要が減少。  
+*   **パフォーマンスの向上**：アカウントのブートストラップとアプリケーションの起動改善により、パフォーマンスが向上、リソース需要が減少。
     
 
 ### スケーリング
@@ -106,7 +106,7 @@ BLS署名のベンチマークを行い、CPU時間の見積もりを提供し�
 
 インプットブロックとエンドーサーブロックの区分分析を進め、その結果で技術報告書の草案に貢献しました。
 
-### VOLTAIRE 
+### VOLTAIRE
 
 Changアップグレードの2回目のハードフォーク、Plominハードフォークの承認に向けた投票が進行中です。憲法は承認に3つの閾値を設定しています。
 
