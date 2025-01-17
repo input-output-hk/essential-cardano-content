@@ -8,3 +8,12 @@ image_text: ""
 ---
 
 CIP-1694
+
+Under "Protocol parameter groups":
+
+*   "Price of Plutus execution units" is given the name `dRepDeposit`. It should be `prices`.
+    
+*   "DRep deposit amount" is given the name `drepDeposit`. It should be `dRepDeposit`.
+    
+
+These names are the ones used in the ledger code.
