@@ -13,7 +13,7 @@ image_text: Weekly development report as of 2025-01-31
 
 This week, the **core technology** teams, in collaboration with the community and Intersect working groups, finalized work on the Conway ledger era, successfully delivering the Plomin hard fork. See more details in the Voltaire section. 
 
-Over the past weeks, the **ledger** team also focused on minor improvements across implementation and testing. They removed the [cardano-prelude dependency](https://github.com/IntersectMBO/cardano-ledger/pull/4841), dropped the [era type parameter from MemoBytes](https://github.com/IntersectMBO/cardano-ledger/pull/4844), introduced a [NonZero data type](https://github.com/IntersectMBO/cardano-ledger/pull/4837), and made [predicate failure and environment fields lazy](https://github.com/IntersectMBO/cardano-ledger/pull/4857). They also added the \`[genSizedList](https://github.com/IntersectMBO/cardano-ledger/pull/4827) `method in the` [Foldy\` class](https://github.com/IntersectMBO/cardano-ledger/pull/4827), bumped the [spec version](https://github.com/IntersectMBO/cardano-ledger/pull/4839), updated [conformance imp test comments](https://github.com/IntersectMBO/cardano-ledger/pull/4853), enabled [imp-conformance for ENACT](https://github.com/IntersectMBO/cardano-ledger/pull/4829), refined the \`[GenT\` monad structure](https://github.com/IntersectMBO/cardano-ledger/pull/4838), and added [randomized certificates for imp-tests](https://github.com/IntersectMBO/cardano-ledger/pull/4830). On the infrastructure side, they pinned the Cabal version for Haddocks in a [GitHub Pages workflow](https://github.com/IntersectMBO/cardano-ledger/pull/4845), reordered directories in \`[RELEASING.md](https://github.com/IntersectMBO/cardano-ledger/pull/4843)`, switched from` [cryptonite](https://github.com/IntersectMBO/cardano-ledger/pull/4859) `to` [crypton](https://github.com/IntersectMBO/cardano-ledger/pull/4859)\`, and added a [changelog for \`cardano-node-10.2](https://github.com/IntersectMBO/cardano-ledger/pull/4858)\`.
+Over the past weeks, the **ledger** team also focused on minor improvements across implementation and testing. They removed the [cardano-prelude dependency](https://github.com/IntersectMBO/cardano-ledger/pull/4841), dropped the [era type parameter from MemoBytes](https://github.com/IntersectMBO/cardano-ledger/pull/4844), introduced a [NonZero data type](https://github.com/IntersectMBO/cardano-ledger/pull/4837), and made [predicate failure and environment fields lazy](https://github.com/IntersectMBO/cardano-ledger/pull/4857). They also added the \`[genSizedList](https://github.com/IntersectMBO/cardano-ledger/pull/4827)\` method in the [Foldy class](https://github.com/IntersectMBO/cardano-ledger/pull/4827), bumped the [spec version](https://github.com/IntersectMBO/cardano-ledger/pull/4839), updated [conformance imp test comments](https://github.com/IntersectMBO/cardano-ledger/pull/4853), enabled [imp-conformance for ENACT](https://github.com/IntersectMBO/cardano-ledger/pull/4829), refined the \`[GenT\` monad structure](https://github.com/IntersectMBO/cardano-ledger/pull/4838), and added [randomized certificates for imp-tests](https://github.com/IntersectMBO/cardano-ledger/pull/4830). On the infrastructure side, they pinned the Cabal version for Haddocks in a [GitHub Pages workflow](https://github.com/IntersectMBO/cardano-ledger/pull/4845), reordered directories in \`[RELEASING.md](https://github.com/IntersectMBO/cardano-ledger/pull/4843)\``,` switched from \`[cryptonite](https://github.com/IntersectMBO/cardano-ledger/pull/4859)\` to \`[crypton](https://github.com/IntersectMBO/cardano-ledger/pull/4859)\`, and added a [changelog for \`cardano-node-10.2](https://github.com/IntersectMBO/cardano-ledger/pull/4858)\`.
 
 ### WALLETS AND SERVICES
 
@@ -41,7 +41,7 @@ On the Rust side, the team completed an initial block-level visualization, inclu
 
 In terms of research and analysis, the team conducted a detailed investigation of the ‘fiat accompli’ sortition scheme for 500-vote committees. They discovered a combination of deterministic and random voters that significantly reduces the size of certificates. They also initiated a downstream impact assessment to identify potential effects on indexers, explorers, SDKs, APIs, DApps, and wallets, particularly concerning transaction construction and memory pool sharding. Furthermore, a DeltaQ analysis was performed to ensure that diffusion models matched across simulations and implementations. It is important to note that the Haskell simulation accounts for bandwidth constraints, with a delay of 328 ms per hop at 1 MB/s, while the Rust simulation currently does not include these constraints.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 On January 29, 2025, Cardano achieved the transition to full community governance with the enactment of the **Plomin hard fork**.
 
@@ -57,9 +57,7 @@ The enactment was so smooth it was almost an anticlimax, largely as a result of 
 
 This week, the **education** team attended internal workshops and continued their work on updates to the Cardano developer course. They also moved forward with planning for Midnight education.
 
-![](https://ucarecdn.com/89d4fc24-0c0b-48c9-9c2a-74781f3aee30/-/preview/-/format/auto/-/quality/smart/)
-
-### コアテクノロジー
+### ![](https://ucarecdn.com/0c425897-d283-45b3-bf5f-ca49fe0594db/-/preview/-/format/auto/-/quality/smart/)コアテクノロジー
 
 **コアテクノロジー**チームは、コミュニティとIntersectワーキンググループと協力して、Conway台帳期の作業を仕上げ、Plominハードフォークを実施しました。詳細はVoltaireセクションをご覧ください。 
 
@@ -92,7 +90,7 @@ Rustに関しては、最初のブロックレベル視覚化を完了し、ト�
 
 調査と分析の観点から、チームは500票委員会の「フィアット実績」選抜スキームの詳細な調査を実施しました。証明書のサイズを大幅に減らす、決定的投票者とランダム投票者の組み合わせを発見しました。インデクサー、エクスプローラー、SDK、API、DApp、ウォレット、特にトランザクション構築とメモリープールシャーディングに関する潜在的な影響を特定するための下流影響評価も開始しました。拡散モデルがシミュレーションと実装間で一致することを保証するためにDeltaQ解析を実行しました。Haskellシミュレーションでは帯域幅の制約が考慮されており、1MB/sの遅延がホップあたり328msですが、Rustシミュレーションでは現在これらの制約が含まれていないことに注意が必要です。
 
-### VOLTAIRE 
+### VOLTAIRE
 
 2025年1月29日、Cardanoは**Plominハードフォーク**の制定により完全なコミュニティガバナンスへの移行を達成しました。
 
