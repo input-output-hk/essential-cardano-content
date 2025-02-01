@@ -57,7 +57,7 @@ The enactment was so smooth it was almost an anticlimax, largely as a result of 
 
 This week, the **education** team attended internal workshops and continued their work on updates to the Cardano developer course. They also moved forward with planning for Midnight education.
 
-### ![](https://ucarecdn.com/0c425897-d283-45b3-bf5f-ca49fe0594db/-/preview/-/format/auto/-/quality/smart/)コアテクノロジー
+### ![](https://ucarecdn.com/0932edee-0997-4ec2-bbb2-1fabd3c0d917/-/preview/-/format/auto/-/quality/smart/)コアテクノロジー
 
 **コアテクノロジー**チームは、コミュニティとIntersectワーキンググループと協力して、Conway台帳期の作業を仕上げ、Plominハードフォークを実施しました。詳細はVoltaireセクションをご覧ください。 
 
@@ -73,7 +73,7 @@ This week, the **education** team attended internal workshops and continued thei
     
 *   **パフォーマンスの向上**
     
-    *   **キャッシュされたチェーン履歴とUTXOリクエスト：**Laceはチェーン履歴とUTXOネットワークリクエストをキャッシュするようになりました。これにより、Blockfrostへの重複呼び出しが減少し、ネットワーク負荷が低下し、ウォレット速度が向上します。
+    *   \*\*キャッシュされたチェーン履歴とUTXOリクエスト：\*\*Laceはチェーン履歴とUTXOネットワークリクエストをキャッシュするようになりました。これにより、Blockfrostへの重複呼び出しが減少し、ネットワーク負荷が低下し、ウォレット速度が向上します。
         
     *   **Snappier UI**：応答性の向上により、よりスムーズで高速なユーザー体験を実現します。
         
