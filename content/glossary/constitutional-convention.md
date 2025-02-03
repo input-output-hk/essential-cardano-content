@@ -8,7 +8,7 @@ image: ""
 image_text: ""
 ---
 
-The Cardano Constitutional Convention event will occur in Buenos Aires in 2024 as part of the journey towards a ratified Cardano constitution.
+The Cardano Constitutional Convention event occurred in Buenos Aires and Nairobi, in December 2024 as part of the journey toward a ratified Cardano constitution.
 
 Constitutional conventions exist to discuss and define a draft constitution, which will be proposed for an on-chain vote.
 
