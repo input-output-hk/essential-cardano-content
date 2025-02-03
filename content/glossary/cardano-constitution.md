@@ -1,7 +1,7 @@
 ---
-title: Cardano Constitution
+title: Cardano constitution
 tags:
-  - Cardano Constitution
+  - Cardano constitution
   - Voltaire
 url: ""
 image: ""
