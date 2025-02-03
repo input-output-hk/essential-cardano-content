@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/48e58a50-3737-4521-8602-98fdcc361d48/
+image: https://ucarecdn.com/d45b891c-5996-435c-aa00-242c17f1ab10/
 image_text: Weekly development report as of 2025-01-24
 ---
 
@@ -45,7 +45,7 @@ The team developed and benchmarked the complete Leios cryptography suite within 
 
 **Rust Simulation**_._ The team improved the simulation by adding more detailed CPU simulation times, fixing a race condition in the simulated clock, and adopting a shared configuration format. Default parameters can now be found in `data/simulation/default.yaml`.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 The governance action for the Plomin hard fork has met the necessary conditions for ratification. This includes a positive vote from Input | Output (IO), a member of the interim constitutional committee (ICC). The constitution requires approval by 51% of stake pool operators and 67% of the ICC for ratification. Additionally, the guardrail condition stipulating that 85% of stake pools, based on active stake, must operate a compatible version of the Cardano node has also been fulfilled.
 
@@ -65,8 +65,6 @@ Meanwhile, the technical development, design, and architecture of the Catalyst n
 
 This week, the **education** team is concentrating on internal workshops and planning activities for the year. They are also working on updates to Aiken and enhancements to the Cardano developer course.
 
-  
-  
 ![](https://ucarecdn.com/26e160ab-e5fc-44f5-a290-abf5ca2c4e31/-/preview/-/format/auto/-/quality/smart/)
 
 ### コアテクノロジー
@@ -101,11 +99,11 @@ leios\_crypto\_benchmarks Rustクレート内でLeios暗号スイートの完全
 
 **シミュレーション開発**
 
-**Haskellシミュレーション：**Praosブロックのベンチマーククラスターデータと同様の拡散レイテンシーを達成しました。Rustチームと連携してパラメーターを統合し、JSONイベントログを追加し、メインネットのランキングブロック間隔に合わせたshort-leiosバリアントを導入しました。
+\*\*Haskellシミュレーション：\*\*Praosブロックのベンチマーククラスターデータと同様の拡散レイテンシーを達成しました。Rustチームと連携してパラメーターを統合し、JSONイベントログを追加し、メインネットのランキングブロック間隔に合わせたshort-leiosバリアントを導入しました。
 
-**Rustシミュレーション：**より詳細なCPUシミュレーション時間を追加し、シミュレートされたクロックの競合状態を修正し、共有設定形式を採用することでシミュレーションを改善しました。デフォルトパラメーターはdata/simulation/default.yamlを参照してください。
+\*\*Rustシミュレーション：\*\*より詳細なCPUシミュレーション時間を追加し、シミュレートされたクロックの競合状態を修正し、共有設定形式を採用することでシミュレーションを改善しました。デフォルトパラメーターはdata/simulation/default.yamlを参照してください。
 
-### VOLTAIRE 
+### VOLTAIRE
 
 Plominハードフォークのガバナンスアクションが、批准に必要な条件を満たしました。これには暫定憲法委員会（ICC）のメンバーであるInput | Output（IO）からの肯定票も含まれます。憲法は、批准にステークプールオペレーターの51%とICCの67%の承認を求めています。加えて、アクティブステークに基づくステークプールの85%が、互換性のあるCardanoノードバージョンを稼働させなければならないというガードレール条件も満たされました。
 
