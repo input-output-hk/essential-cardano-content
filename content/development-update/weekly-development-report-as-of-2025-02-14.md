@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/74cfb770-bbe9-47fa-a63d-9299ec5e0c3f/
+image: https://ucarecdn.com/54202fc8-4dda-4238-b5f4-92eea7314b56/
 image_text: Weekly development report as of 2025-02-07
 ---
 
@@ -46,13 +46,13 @@ Finally, the team fixed some [flakiness in end-to-end tests in the CI](https://g
 
 The **Leios** team worked on cryptography benchmarking and cost calculator improvements. The team completed a reference implementation for Leios cryptography and enhanced the online cost calculator with user-requested features. They also updated both Haskell and Rust simulations to improve visualization and network modeling capabilities.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 The delegate-approved constitution is still pending approval. Watch this space for more news.
 
 In another first for Cardano, the budget approval socialization process has begun, with all proposed budgets being examined by the community of ada holders, ready for on-chain voting.
 
-### CATALYST 
+### CATALYST
 
 Onboarding for Fund13 is moving forward smoothly, with 97% of the onboarding form completed, 95% of statements of milestones (SOM) submitted, 79% of SOMs signed off, 76% of due diligence completed, and 92% of test transactions finalized. The Catalyst team is partnering with Cardano Spot to expand community reach and improve transparency across the Cardano ecosystem. While town halls remain on pause, expect weekly Twitter (X) Spaces featuring the Catalyst team to highlight upcoming product developments. 
 
@@ -98,13 +98,13 @@ Cardanoデータベースの増分認証の実装を続け、クライアント�
 
 **Leios**チームは暗号ベンチマークとコスト計算機の改良に取り組みました。Leios暗号のリファレンス実装を完了し、ユーザーからリクエストされた機能を追加してオンラインコスト計算機を強化しました。また、HaskellとRust両方のシミュレーションを更新し、可視化とネットワークモデリングの性能を向上させました。
 
-### VOLTAIRE 
+### VOLTAIRE
 
 代表者が承認した憲法は未だ承認待ちです。詳細は、このスペースをご覧ください。
 
 Cardanoのもう1つの初の取り組みとして、予算承認の社会化プロセスが始まりました。すべての予算案はADA保有者コミュニティによって検討され、オンチェーン投票に向けて準備が整っています。
 
-### CATALYST 
+### CATALYST
 
 Fund13のオンボーディングは順調に進んでいます。オンボーディングフォームの97%が完了し、マイルストンステートメント（SOM）の95%が提出、79%が承認され、デューデリジェンスの76%、テストトランザクションの92%が完了しました。CatalystチームはCardano Spotと提携し、コミュニティへのリーチを拡大し、Cardanoエコシステム全体の透明性を向上させています。タウンホールは休止中ですが、Catalystチームが登場する毎週のTwitter（X）スペースでは、今後の製品開発に焦点が当てられる見込みです。 
 
