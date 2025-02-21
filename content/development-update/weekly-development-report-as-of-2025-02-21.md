@@ -64,8 +64,7 @@ Meanwhile, Input | Output Research’s 2025 work program proposal, presented via
 
 The five-year Cardano vision proposal includes 34 work streams across nine thematic focus areas, of which 20 research streams and six innovation streams are proposed for 2025. These encompass several Ouroboros protocol initiatives: Leios, Hydra layer 2, tokenomics, interoperability, anti-grinding, and fastBFT. Further information is available in [this blog post](https://iohk.io/en/blog/posts/2025/02/05/io-researchs-vision-for-cardano-submitted-to-community-for-feedback-by-the-intersect-product-committee/) and the Intersect knowledge base for the [research working group and product committee](https://committees.docs.intersectmbo.org/groups-overview/working-groups/research).
 
-###   
-CATALYST
+### CATALYST
 
 The **Catalyst** Fund13 onboarding is progressing smoothly, while technical advancements on the Catalyst platform continue, with the deprecation of IdeaScale remaining a key priority ahead of Fund14.  
 A major milestone has been achieved with the completion of the working group research and scoping analysis initiative, funded in Fund11 by the Cardano community. Check out the [closeout video](https://x.com/Catalyst_onX/status/1890094322311393587) and the [milestone module](https://milestones.projectcatalyst.io/projects/1100087) for more details.  
