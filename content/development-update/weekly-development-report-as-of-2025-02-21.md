@@ -42,7 +42,7 @@ Debug logging is now optional, giving users more control over diagnostics, and t
 
 The **Plutus** team officially renamed Plutus Tx to Plinth and updated the [user guide](https://plutus.cardano.intersectmbo.org/docs/) accordingly. Read [this blog post](https://iohk.io/en/blog/posts/2025/02/20/plutus-tx-gets-a-makeover-meet-plinth/) to learn more about Plinth and its new functionality. 
 
-The team also made several improvements to the Plinth compiler, making inlining more tunable, including the `inline-fix` flag and the \`[PlutusTx.Optimize.Inline.inline](https://plutus.cardano.intersectmbo.org/haddock/master/plutus-tx/PlutusTx-Optimize-Inline.html) `function for callsite inlining. Furthermore, they added utility functions to support recursion unrolling in` [PlutusTx.Optimize.SpaceTime](https://plutus.cardano.intersectmbo.org/haddock/master/plutus-tx/PlutusTx-Optimize-SpaceTime.html)\`.
+The team also made several improvements to the Plinth compiler, making inlining more tunable, including the `inline-fix` flag and the [PlutusTx.Optimize.Inline.inline](https://plutus.cardano.intersectmbo.org/haddock/master/plutus-tx/PlutusTx-Optimize-Inline.html) function for callsite inlining. Furthermore, they added utility functions to support recursion unrolling in [PlutusTx.Optimize.SpaceTime](https://plutus.cardano.intersectmbo.org/haddock/master/plutus-tx/PlutusTx-Optimize-SpaceTime.html).
 
 ### SCALING
 
