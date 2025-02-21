@@ -67,7 +67,9 @@ The five-year Cardano vision proposal includes 34 work streams across nine thema
 ### CATALYST
 
 The **Catalyst** Fund13 onboarding is progressing smoothly, while technical advancements on the Catalyst platform continue, with the deprecation of IdeaScale remaining a key priority ahead of Fund14.  
+
 A major milestone has been achieved with the completion of the working group research and scoping analysis initiative, funded in Fund11 by the Cardano community. Check out the [closeout video](https://x.com/Catalyst_onX/status/1890094322311393587) and the [milestone module](https://milestones.projectcatalyst.io/projects/1100087) for more details.  
+
 As Fund14 approaches, the team has begun showcasing [platform demos](https://x.com/Catalyst_onX/status/1889329358491226151) to keep the community engaged and excited about upcoming features. In case you missed it, explore the [Cardano innovation budget proposal](https://forum.cardano.org/t/cardano-innovation-budget-proposal/143046) 2025, along with Catalyst’s roadmap. 
 
 ### EDUCATION
