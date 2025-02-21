@@ -130,8 +130,7 @@ Input | Output Researchの2025年ワークプログラム案は、Intersect研�
 
 5年間のCardanoビジョン提案には9つの重点分野にわたる34のワークストリームが含まれており、そのうち20の研究ストリームと6つのイノベーションストリームが2025年用として提案されています。ここでは、Leios、Hydraレイヤー2、トークノミクス、相互運用性、アンチグラインディング、fastBFTなど、Ouroborosプロトコルイニシアチブが含まれています。詳細は、[このブログ](https://iohk.io/jp/blog/posts/2025/02/05/io-researchs-vision-for-cardano-submitted-to-community-for-feedback-by-the-intersect-product-committee/)およびIntersect[研究ワーキンググループおよびプロダクト委員会](https://committees.docs.intersectmbo.org/groups-overview/working-groups/research)のナレッジベースを参照してください。
 
-###   
-Catalyst
+### Catalyst
 
 **Catalyst** Fund13のオンボーディングがスムーズに進行する一方、Catalystプラットフォームの技術的進歩も継続しており、IdeaScaleの廃止がFund14に先立つ重要な優先事項となっています。  
   
