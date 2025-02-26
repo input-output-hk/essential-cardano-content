@@ -6,7 +6,7 @@ tags:
   - Scalability
   - Layer 2
 url: ""
-image: https://ucarecdn.com/baa33e83-4070-4ed6-9c01-759f64a36d59/
+image: https://ucarecdn.com/8fb0d27f-048f-4589-af8d-f9a961424969/
 image_text: ""
 ---
 
