@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/2b8d33d9-b161-4039-9703-3c7f8db6ad53/
+image: https://ucarecdn.com/33067ee2-7032-401c-b267-00535be30392/
 image_text: Weekly development report as of 2025-02-21
 ---
 
@@ -56,7 +56,7 @@ Finally, the team fixed all remaining flakiness in end-to-end tests in the CI an
 
 This week, the **Leios** team worked on a detailed DeltaQ analysis of network topologies, extensive BLS cryptography benchmarking, and improvements to Haskell and Rust simulations. The team also explored succinct schemes for BLS key registration and conducted a detailed certificate performance analysis. Both Haskell and Rust simulations received substantial updates to improve visualization and support more realistic testing conditions.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 The new **Cardano constitution** has been ratified on-chain and will replace the interim constitution at the next epoch boundary on Sunday, February 23. 
 
@@ -66,19 +66,17 @@ The five-year Cardano vision proposal includes 34 work streams across nine thema
 
 ### CATALYST
 
-The **Catalyst** Fund13 onboarding is progressing smoothly, while technical advancements on the Catalyst platform continue, with the deprecation of IdeaScale remaining a key priority ahead of Fund14.  
+The **Catalyst** Fund13 onboarding is progressing smoothly, while technical advancements on the Catalyst platform continue, with the deprecation of IdeaScale remaining a key priority ahead of Fund14.
 
-A major milestone has been achieved with the completion of the working group research and scoping analysis initiative, funded in Fund11 by the Cardano community. Check out the [closeout video](https://x.com/Catalyst_onX/status/1890094322311393587) and the [milestone module](https://milestones.projectcatalyst.io/projects/1100087) for more details.  
+A major milestone has been achieved with the completion of the working group research and scoping analysis initiative, funded in Fund11 by the Cardano community. Check out the [closeout video](https://x.com/Catalyst_onX/status/1890094322311393587) and the [milestone module](https://milestones.projectcatalyst.io/projects/1100087) for more details.
 
 As Fund14 approaches, the team has begun showcasing [platform demos](https://x.com/Catalyst_onX/status/1889329358491226151) to keep the community engaged and excited about upcoming features. In case you missed it, explore the [Cardano innovation budget proposal](https://forum.cardano.org/t/cardano-innovation-budget-proposal/143046) 2025, along with Catalyst’s roadmap. 
 
 ### EDUCATION
 
-This week, the **education** team is continuing to update the Cardano developer course and plan education events. They are also collaborating with the Midnight team on educational content.  
-  
-![](https://ucarecdn.com/9f7d25dc-4d2f-4d39-b575-ec624c4ecde2/-/preview/-/format/auto/-/quality/smart/)
+This week, the **education** team is continuing to update the Cardano developer course and plan education events. They are also collaborating with the Midnight team on educational content.
 
-### エコシステム
+### ![](https://ucarecdn.com/9a7a0603-d750-46a4-8438-4d062f6929ff/-/preview/-/format/auto/-/quality/smart/)エコシステム
 
 _本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。_
 
@@ -124,7 +122,7 @@ CIエンドツーエンドテストの残りの脆弱性をすべて修正し、
 
 **Leios**チームは、ネットワークトポロジーの詳細なDeltaQ分析、広範なBLS暗号ベンチマーク、HaskellとRustシミュレーションの改良に取り組みました。BLS鍵登録の簡潔なスキームを検討し、詳細な証明書パフォーマンス分析を実施しました。HaskellとRustの両シミュレーションは、視覚化を向上させ、より現実的なテスト条件をサポートするために大幅に更新されました。
 
-### VOLTAIRE 
+### VOLTAIRE
 
 新しい**Cardano憲法**はオンチェーンで批准され、次のエポック境界（2月23日日曜日）に暫定憲法に置き換えられます。 
 
@@ -134,10 +132,10 @@ Input | Output Researchの2025年ワークプログラム案は、Intersect研�
 
 ### Catalyst
 
-**Catalyst** Fund13のオンボーディングがスムーズに進行する一方、Catalystプラットフォームの技術的進歩も継続しており、IdeaScaleの廃止がFund14に先立つ重要な優先事項となっています。  
-  
-Fund11でCardanoコミュニティから資金提供を受けたワーキンググループ研究とスコーピング分析イニシアチブが完了したことで、主要なマイルストンが達成されました。詳細は、[クローズアウト動画](https://x.com/Catalyst_onX/status/1890094322311393587)と[マイルストンモジュール](https://milestones.projectcatalyst.io/projects/1100087)で確認してください。  
-  
+**Catalyst** Fund13のオンボーディングがスムーズに進行する一方、Catalystプラットフォームの技術的進歩も継続しており、IdeaScaleの廃止がFund14に先立つ重要な優先事項となっています。
+
+Fund11でCardanoコミュニティから資金提供を受けたワーキンググループ研究とスコーピング分析イニシアチブが完了したことで、主要なマイルストンが達成されました。詳細は、[クローズアウト動画](https://x.com/Catalyst_onX/status/1890094322311393587)と[マイルストンモジュール](https://milestones.projectcatalyst.io/projects/1100087)で確認してください。
+
 Fund14が近づく中、チームはコミュニティの関心と新機能への期待を高めるために、[プラットフォームデモ](https://x.com/Catalyst_onX/status/1889329358491226151)の公開を開始しました。万が一見逃してしまった場合は、[Cardanoイノベーション予算案](https://forum.cardano.org/t/cardano-innovation-budget-proposal/143046)2025とCatalystロードマップをご覧ください。 
 
 ### 教育
