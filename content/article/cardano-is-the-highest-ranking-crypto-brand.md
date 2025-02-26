@@ -5,7 +5,7 @@ tags:
   - cardano
   - Research
 url: ""
-image: https://ucarecdn.com/7fec22bb-d8bc-475b-846a-2ac086bb8b3f/
+image: https://ucarecdn.com/77f9ee3c-be83-4f73-9b00-640de332c2e6/
 image_text: ""
 ---
 
@@ -45,7 +45,7 @@ Many people desire to become rich and wish to see the value of BTC coins grow. H
 
 **Cardano ranked better than Bitcoin because the community shares the vision of the project.** The mission is the strongest thing about Cardano. Cardano is not presented as a path to wealth for individuals but is a technology that can help everyone, especially those who need it most. Every cryptocurrency has a speculative component to it. Even in the Cardano community, there are people who are only speculating and want to see growth in ADA value. The view that prevails in public is that the mission of the project is the most important thing, not speculation. I see this as the key difference between Bitcoin and Cardano.
 
-The Cardano community believes that an alternative social and financial operating system can be built based on new technologies. Adoption by developing countries is proof that this mission is being slowly achieved. The Cardano community enthusiastically shares the successes of the IOG team and contributes to the success by working on their own projects. From the Bitcoin community, these efforts are viewed negatively and many even talk about scams. They say all we need is Bitcoin. While the first layer of Bitcoin is evolving very slowly and the team is not looking to make major technological changes, Cardano will fundamentally change literally every year. The team is to prepare a new roadmap. The Bitcoin community's reaction to any new technological development is negative, which a rational-thinking person cannot understand. Any effort to change the world for the better is desirable for the majority of the population. Cardano development is not funded by people's taxes, so public funds are not spent. Cardano can be seen as a collaborative effort between the team and the community.  
+The Cardano community believes that an alternative social and financial operating system can be built based on new technologies. Adoption by developing countries is proof that this mission is being slowly achieved. The Cardano community enthusiastically shares the successes of the IOG team and contributes to the success by working on their own projects. From the Bitcoin community, these efforts are viewed negatively and many even talk about scams. They say all we need is Bitcoin. While the first layer of Bitcoin is evolving very slowly and the team is not looking to make major technological changes, Cardano will fundamentally change literally every year. The team is to prepare a new roadmap. The Bitcoin community's reaction to any new technological development is negative, which a rational-thinking person cannot understand. Any effort to change the world for the better is desirable for the majority of the population. Cardano development is not funded by people's taxes, so public funds are not spent. Cardano can be seen as a collaborative effort between the team and the community.
 
 Originally published on [Cexplorer.io](//Cexplorer.io)
 
