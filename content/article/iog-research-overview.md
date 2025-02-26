@@ -8,7 +8,7 @@ tags:
   - Scalability
   - Interoperability
 url: ""
-image: https://ucarecdn.com/beb7d44b-3436-4671-a5bf-e7c295b4f2ba/
+image: https://ucarecdn.com/d4adae8c-9bff-4ee6-89cd-192a452f0f78/
 image_text: ""
 ---
 
