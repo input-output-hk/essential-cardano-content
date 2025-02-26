@@ -6,7 +6,7 @@ tags:
   - Dynamic P2P
   - SPO
 url: ""
-image: https://ucarecdn.com/941f17d2-f03f-4701-84d6-f2ea4b35339e/
+image: https://ucarecdn.com/429840dc-30e6-4806-912c-669ecbc05f4f/
 image_text: Dynamic P2P
 ---
 
