@@ -6,7 +6,7 @@ tags:
   - Transaction
   - Cardano
 url: ""
-image: https://ucarecdn.com/466e4cd4-7871-4fe9-a6c0-8dd66f06e0cc/
+image: https://ucarecdn.com/f1cdd134-e949-4bb0-9fde-961537b17cd0/
 image_text: "EUTXO versus Accounts "
 ---
 
