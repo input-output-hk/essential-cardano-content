@@ -8,7 +8,7 @@ tags:
   - DEX
   - jamonbread
 url: ""
-image: https://img.cexplorer.io/i/15f089bf0ffeda90204f9bfeadfbb232.jpg
+image: https://ucarecdn.com/ab809bbb-d7ea-4a9b-8bae-5e1ef4a40139/
 image_text: JamOnBread TestNet Is Live
 ---
 
