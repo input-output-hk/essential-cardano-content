@@ -61,8 +61,7 @@ People with these attributes are encouraged to apply:
 
 More information is available on the [Intersect website](https://members.intersectmbo.org/dashboard).
 
-###   
-CATALYST
+### CATALYST
 
 **Catalyst** has launched a new video series, [Under the Hood](https://x.com/Catalyst_onX/status/1894812548958167102), to promote transparency and provide insights into behind-the-scenes activities, while the [Catalyst town hall](https://x.com/Catalyst_onX/status/1894392945324728736) is now live on X, engaging the community in real-time discussions. The team has introduced a [community poll](https://x.com/Catalyst_onX/status/1894809124438732865) to gather input on topics for the next X Space. Meanwhile, the onboarding of Fund13 is ongoing, alongside the continued development of tooling and infrastructure in preparation for Fund14 changes.
 
@@ -123,8 +122,7 @@ Thales期の[レガシーコードのクリーンアップ](https://github.com/i
 
 詳細は[Intersectのサイト](https://members.intersectmbo.org/dashboard)を参照してください。
 
-###   
-Catalyst
+### Catalyst
 
 **Catalyst**は透明性を促進し、舞台裏の活動を紹介するために新しい動画シリーズ[Under the Hood](https://x.com/Catalyst_onX/status/1894812548958167102)の配信を始めました。[Catalystタウンホール](https://x.com/Catalyst_onX/status/1894392945324728736)は現在Xでライブで行われており、コミュニティはリアルタイムの議論に参加しています。次のXスペースのトピックに関する意見を集めるために、[コミュニティ投票](https://x.com/Catalyst_onX/status/1894809124438732865)を導入しました。Fund13のオンボーディングは続いており、Fund14の変更に備えたツールとインフラの開発も並行して進行中です。
 
