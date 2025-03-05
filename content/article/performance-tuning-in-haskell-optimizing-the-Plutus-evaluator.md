@@ -1,4 +1,13 @@
-# Performance tuning in Haskell: optimizing the Plutus evaluator
+---
+title: Performance tuning in Haskell: optimizing the Plutus evaluator
+tags:
+  - Smart Contracts
+  - Plutus
+  - Haskell
+url: ""
+image: https://ucarecdn.com/4852b04a-ad19-43ed-a437-cbb6db666d3a/
+image_text: Developer deep dive
+---
 
 Performance optimization often comes down to identifying subtle inefficiencies in the generated code. While reviewing the Glasgow Haskell Compiler (GHC) Core of the production evaluator, the Input | Output (IO) Plutus team discovered that a key function, `safeIndexOne`, was not getting inlined and was introducing unnecessary laziness. By addressing strictness issues, eliminating redundant data structures, and leveraging the worker-wrapper transformation, the team achieved a **12% performance improvement**.
 
@@ -20,9 +29,9 @@ This code performs a variable lookup using `safeIndexOne`. If the lookup fails, 
 In both cases, the `jump` keyword indicates that recursion compiles to an efficient jump to a label. For more details, see the ‘*Compiling without Continuations*’ [research paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf).
 
 Several optimization opportunities stood out:
-`safeIndexOne` **is not inlined** – its presence in the Core suggests that GHC isn’t inlining it.
-**Unnecessary boxing of indices** – the in-scope variable index `bx18_scPRb` is wrapped with `W64#`, indicating that `safeIndexOne` is lazier than necessary.
-**Avoidable `Maybe` construction** – `safeIndexOne` returns a `Maybe`, which is immediately deconstructed, adding unnecessary overhead.
+- `safeIndexOne` **is not inlined** – its presence in the Core suggests that GHC isn’t inlining it
+- **Unnecessary boxing of indices** – the in-scope variable index `bx18_scPRb` is wrapped with `W64#`, indicating that `safeIndexOne` is lazier than necessary
+- **Avoidable `Maybe` construction** – `safeIndexOne` returns a `Maybe`, which is immediately deconstructed, adding unnecessary overhead.
 
 ## Addressing strictness issues
 
@@ -56,7 +65,7 @@ case $wsafeIndexOne env1_XW bx18_swNG of {
 }
 ```
 
-Now, `$wsafeIndexOne` (see ‘*The Worker/Wrapper Transformation*’ [research paper](https://people.cs.nott.ac.uk/pszgmh/wrapper-extended.pdf)) operates directly on a machine word value, eliminating unnecessary boxing and unboxing.
+Now, `$wsafeIndexOne` (see *The Worker/Wrapper Transformation* [research paper](https://people.cs.nott.ac.uk/pszgmh/wrapper-extended.pdf)) operates directly on a machine word value, eliminating unnecessary boxing and unboxing.
 
 ## Attempting inlining through worker-wrapper transformation
 
@@ -81,7 +90,7 @@ However, this does not solve the issue – GHC floats go to the top level, preve
 
 ## Ensuring inlining with Church encoding
 
-We need to ensure that GHC retains `go` and `indexTree` as local definitions so when `safeIndexOne` is inlined, both appear in the generated Core at the call site, allowing GHC to optimize them. This could likely be achieved using something from `GHC.Magic`, but the simplest approach is to make `safeIndexOne` accept a term-level argument and use it within `go` and `indexTree`. To do this, we introduce a term-level argument by Church-encoding `Maybe`:
+We need to ensure that GHC retains `go` and `indexTree` as local definitions. When `safeIndexOne` is inlined, both appear in the generated Core at the call site, allowing GHC to optimize them. This could likely be achieved using something from `GHC.Magic`, but the simplest approach is to make `safeIndexOne` accept a term-level argument and use it within `go` and `indexTree`. To do this, we introduce a term-level argument by Church-encoding `Maybe`:
 
 ```haskell
 safeIndexOne :: forall a b. b -> (a -> b) -> RAList a -> Word64 -> b
@@ -106,6 +115,7 @@ case Env.safeIndexOne varEnv varIx of
     Just val -> pure val
 ```
 to:
+
 ```haskell
 Env.safeIndexOne
     (throw <...>)
@@ -243,3 +253,5 @@ jump $wgo_swMs env1_XW bx18_swRA }
 ## Conclusion
 
 By enforcing strict evaluation, restructuring `safeIndexOne`, and leveraging Church encoding, we eliminated unnecessary boxing, ensured inlining, and improved evaluator performance by 12%.
+
+*This article has been written in collaboration with Olga Hryniuk.*
