@@ -1,5 +1,5 @@
 ---
-title: Performance tuning in Haskell: optimizing the Plutus evaluator
+title: "Performance tuning in Haskell: optimizing the Plutus evaluator"
 tags:
   - Smart Contracts
   - Plutus
