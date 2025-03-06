@@ -245,7 +245,6 @@ joinrec {
       }; } in
 jump $wgo_swMs env1_XW bx18_swRA }
 ```
-</details>
 
 ## Conclusion
 
