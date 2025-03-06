@@ -130,9 +130,6 @@ This allows `safeIndexOne` to inline, along with its internals.
 
 The final Core output shows a recursive join point with efficient machine word operations and label jumps:
 
-<details>
-<summary>Core</summary>
-
 ```haskell
 joinrec {
   $windexTree_swMk
