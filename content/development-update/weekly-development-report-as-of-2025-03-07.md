@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/770001ab-b4c1-4bfe-bf23-6ef64f7a6e51/
+image: https://ucarecdn.com/9da01383-6ed2-4649-80a3-0e5a3ddf8fee/
 image_text: Weekly development report as of 2025-03-07
 ---
 
@@ -66,9 +66,7 @@ The community can look forward to more product demonstrations and updates from C
 
 This week, the **education** team are continuing with refactoring updates and enhancements to the Cardano developer course and are completing additional lectures for the Haskell Bootcamp. They are also preparing for a virtual presentation about Cardano for Venezuela’s Doctoral Consortium at Universidad Latinoamericana y del Caribe later this month. Additionally, they are planning several Cardano Days events, stay tuned for more details.
 
-![](https://ucarecdn.com/8fa0dff2-186d-437f-b5c2-d64e877d3e46/-/preview/-/format/auto/-/quality/smart/)
-
-### エコシステム
+### ![](https://ucarecdn.com/c7336a51-a9d5-47e1-b895-0f0f0a58ac4c/-/preview/-/format/auto/-/quality/smart/)エコシステム
 
 本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。
 
@@ -118,7 +116,7 @@ Cardanoのエコシステムは成長を続けており、現在ネットワー�
 
 最近の[ブログ](https://projectcatalyst.io/blog/cardano-accelerators-driving-innovation-in-catalyst-)で、参加方法についての情報をコミュニティに提供するために、Fund13で資金提供を受けたCardanoアクセラレータープログラムが取り上げられました。Catalystは[X Space](https://x.com/Catalyst_onX/status/1896874847344746599)でタウンホールイベントを開催しましたが、ここでは、最新の[Under the Hood](https://x.com/Catalyst_onX/status/1894812548958167102)エピソードからの重要な洞察について議論がなされました。このエピソードでは、Fund14に向けて予定されている機能と変更について検討しています。
 
-コミュニティには、開発の進行が進むにつれて、Catalystからさらなる製品デモンストレーションや更新情報が配信されます。Fund13プロジェクトのオンボーディングはほぼ完了しています。Ideascaleの段階的廃止、全体的なユーザーエクスペリエンス向上のためのCatalystアプリ開発にも焦点が当てられています。  
+コミュニティには、開発の進行が進むにつれて、Catalystからさらなる製品デモンストレーションや更新情報が配信されます。Fund13プロジェクトのオンボーディングはほぼ完了しています。Ideascaleの段階的廃止、全体的なユーザーエクスペリエンス向上のためのCatalystアプリ開発にも焦点が当てられています。
 
 教育
 
