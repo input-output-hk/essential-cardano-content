@@ -114,8 +114,7 @@ Cardanoのエコシステムは成長を続けており、現在ネットワー�
 
 **Hydra**チームは[etcdベースのネットワークスタック](https://github.com/cardano-scaling/hydra/issues/1720)をmasterにマージし（未リリース）、コミュニティにテストを呼びかけました。[メモリ使用量の改善](https://github.com/cardano-scaling/hydra/issues/1618)、[スナップショットのサイドロード](https://github.com/cardano-scaling/hydra/issues/1858)を進めることによるスタックヘッドの潜在的な解決策の調査を継続しました。次のステップには、スナップショットのサイドロードプロセスの終了、新しいネットワーク層のセキュリティオプションの強化、[Blockfrostを使用したスクリプトの公開](https://github.com/cardano-scaling/hydra/issues/1668)が含まれます。
 
-###   
-CATALYST
+### CATALYST
 
 最近の[ブログ](https://projectcatalyst.io/blog/cardano-accelerators-driving-innovation-in-catalyst-)で、参加方法についての情報をコミュニティに提供するために、Fund13で資金提供を受けたCardanoアクセラレータープログラムが取り上げられました。Catalystは[X Space](https://x.com/Catalyst_onX/status/1896874847344746599)でタウンホールイベントを開催しましたが、ここでは、最新の[Under the Hood](https://x.com/Catalyst_onX/status/1894812548958167102)エピソードからの重要な洞察について議論がなされました。このエピソードでは、Fund14に向けて予定されている機能と変更について検討しています。
 
