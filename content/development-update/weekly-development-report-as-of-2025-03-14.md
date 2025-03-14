@@ -70,11 +70,11 @@ Cardanoエコシステムは着実に成長を続けています。委任済み�
 
 その他のニュース： 
 
-●    Hoskinson Family OfficeはUSDMの開発会社である[W3i Software, Inc.](https://x.com/USDMOfficial/status/1899816451311079720)に150万米ドルを投資。
+*    Hoskinson Family OfficeはUSDMの開発会社である[W3i Software, Inc.](https://x.com/USDMOfficial/status/1899816451311079720)に150万米ドルを投資。
 
-●    Cardano、Crypto Expo EUでBlockchain [Project of the Year](https://x.com/Cardano_CF/status/1899847233446547732)を獲得。
+*    Cardano、Crypto Expo EUでBlockchain [Project of the Year](https://x.com/Cardano_CF/status/1899847233446547732)を獲得。
 
-●    Paima Studiosの共同創立者[Sebastien Guillemot](https://x.com/SebastienGllmt/status/1898226507874697499)が、UTXOスマートコントラクトを再構築するために設計された新しいzkVM Starstreamを発表。
+*    Paima Studiosの共同創立者[Sebastien Guillemot](https://x.com/SebastienGllmt/status/1898226507874697499)が、UTXOスマートコントラクトを再構築するために設計された新しいzkVM Starstreamを発表。
 
 ### コアテクノロジー
 
