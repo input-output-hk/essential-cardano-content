@@ -15,13 +15,19 @@ _The information in this section is based on publicly available sources and is p
 
 Cardano’s ecosystem continues to progress, with 1,989 projects currently building on the network. The number of delegated wallets has increased to 1.328 million, showing a 0.07% growth in staking participation since last week. The issuance of native tokens has reached 10.72 million, with 210,662 token policies, reflecting a 0.14% increase from the previous week.
 
-Smart contract adoption remains steady, with 129,374 Plutus scripts  and 5,691 Aiken scripts now deployed. Transaction activity continues to rise, reaching 107.69 million transactions, marking a 0.16% increase since last week. Governance participation also remains active, with 1,217 DReps, including 923 active DReps, contributing to decentralized decision-making.
+Smart contract adoption remains steady, with 129,374 Plutus scripts and 5,691 Aiken scripts now deployed. Transaction activity continues to rise, reaching 107.69 million transactions, marking a 0.16% increase since last week. Governance participation also remains active, with 1,217 DReps, including 923 active DReps, contributing to decentralized decision-making.
 
 In other news:
 
 *   [Anzens platform](https://x.com/AnzensOfficial/status/1902359886307930367) is now live
     
 *   [USD Hunt stablecoin](https://x.com/DexHunterIO/status/1900198133348323397) aggregator is now live.
+    
+*   [Coinbase derivatives](https://x.com/CoinbaseInsto/status/1900646303446835406) has filed with the CFTC to self-certify Cardano futures
+    
+*   [AMINA Bank](https://x.com/F_Gregaard/status/1900996421404553605) has launched Cardano staking services
+    
+*   [Dex Hunter](https://x.com/DexHunterIO/status/1900198133348323397) has launched a stablecoin aggregator, allowing users to trade Cardano stablecoins.
     
 
 ### CORE TECHNOLOGY
@@ -62,7 +68,7 @@ This week, the **Catalyst** X town hall returns with a collaborative [X Space](h
 
 This week, the **education** team is finalizing the updates to the Cardano developer course. They also delivered a virtual presentation on Cardano for the Doctoral Consortium at Universidad Latinoamericana y del Caribe. Additionally, they are organizing a Cardano Days event at [Florida International University](https://www.fiu.edu/) on March 31. Stay tuned for registration details.
 
-![](https://ucarecdn.com/1dadc03c-cc44-4751-bb85-1978a9f140bb/-/preview/-/format/auto/-/quality/smart/)
+### ![](https://ucarecdn.com/697bab32-85d6-4d85-95df-34b7cc05d01e/-/preview/-/format/auto/-/quality/smart/)
 
 ### エコシステム
 
@@ -116,7 +122,7 @@ Laceは3月24日から26日までブエノスアイレスで開催されるMERGE
 
 ### CATALYST
 
-**Catalyst**では、Cardano SpotとCV Labsをフィーチャーした[Xスペースコラボ](https://x.com/Catalyst_onX/status/1902415512417542388)でタウンホールが再開され、今後のアクセラレータープログラムとネットワーキングイベントについて話し合います。新しいCatalystプラットフォームの今後の機能に焦点を当てた、_Under the Hood_のエピソードもまもなく公開されます。Catalystプラットフォームの技術開発は、Fund14に先立って優先的に続けられています。
+**Catalyst**では、Cardano SpotとCV Labsをフィーチャーした[Xスペースコラボ](https://x.com/Catalyst_onX/status/1902415512417542388)でタウンホールが再開され、今後のアクセラレータープログラムとネットワーキングイベントについて話し合います。新しいCatalystプラットフォームの今後の機能に焦点を当てた、\_Under the Hood\_のエピソードもまもなく公開されます。Catalystプラットフォームの技術開発は、Fund14に先立って優先的に続けられています。
 
 ### 教育
 
