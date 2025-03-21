@@ -21,7 +21,7 @@ In other news:
 
 *   [Anzens platform](https://x.com/AnzensOfficial/status/1902359886307930367) is now live
     
-*   [USD Hunt stablecoin](https://x.com/DexHunterIO/status/1900198133348323397) aggregator is now live.
+*   [USD Hunt stablecoin](https://x.com/DexHunterIO/status/1900198133348323397) aggregator is now live
     
 *   [Coinbase derivatives](https://x.com/CoinbaseInsto/status/1900646303446835406) has filed with the CFTC to self-certify Cardano futures
     
