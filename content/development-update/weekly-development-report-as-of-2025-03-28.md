@@ -34,8 +34,7 @@ The **Leios** team made significant progress in protocol development, focusing o
 
 For more details, see [Leios weekly updates](https://leios.cardano-scaling.org/news).
 
-###   
-CATALYST
+### CATALYST
 
 The second episode of ‘Under the Hood’ will be released soon, with a [snippet](https://x.com/Catalyst_onX/status/1904292145223422204) already shared on social media platforms. The [Catalyst town halls](https://x.com/Catalyst_onX/status/1904517360708427895), conducted on X, continue every Wednesday at 5pm  UTC, featuring discussions about the 2025 Catalyst roadmap.
 
@@ -48,7 +47,6 @@ Finally, Catalyst will participate in the [CV Labs London Crypto Valley](https:/
 This week, the **education** team prepared for the Cardano Days event at [Florida International University](https://www.fiu.edu/) on March 31. They are also supporting the associated Code Crunch event this weekend, for which participants can register [here](https://lu.ma/bmy8bdfm).
 
 Additionally, the team focused on creating content for the first module of the Midnight Pioneer program and updating the remaining Haskell Bootcamp lectures.
-
   
 ![](https://ucarecdn.com/17e46e53-9806-466c-a2a5-14195ceb79ff/)
 
@@ -75,9 +73,8 @@ Cardanoエコシステムは成長を続けており、現在1,989のプロジ�
 **Leios**チームは、シミュレーション機能の改良とさまざまなネットワーク条件下でのプロトコル挙動の解析に焦点を当てて、プロトコル開発を大きく進展させました。HaskellとRustのシミュレーションを[18のシナリオ](https://github.com/input-output-hk/ouroboros-leios/blob/main/analysis/sims/2025w12/analysis.ipynb)で比較すると、Leiosプロトコルは実質的にメインネット規模のネットワークに拡張できることが示されました。ただし、インプットブロックレートが30 IB/sに達すると輻輳が発生します。
 
 詳細は、[Leios週刊更新情報](https://leios.cardano-scaling.org/news)をご覧ください。
-
   
-CATALYST
+### CATALYST
 
 「Under the Hood」の第2回はまもなく公開される予定で、ソーシャルメディアプラットフォームではすでに[ショートトレーラー](https://x.com/Catalyst_onX/status/1904292145223422204)が共有されています。[Catalystタウンホール](https://x.com/Catalyst_onX/status/1904517360708427895)は毎週水曜日午後5時（日本時間木曜午前2時）からXで実施されており、2025年Catalystロードマップについて議論されています。
 
