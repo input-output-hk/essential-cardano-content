@@ -33,54 +33,54 @@ So let’s say you heard about the benefits of blockchain technology and about C
 
 Let’s start with the blockchain basics:
 
-*   [What is a blockchain?](https://www.essentialcardano.io/faq/what-is-a-blockchain)
+*   [What is a blockchain?](https://www.essentialcardano.io/faq/what-is-a-blockchain-d9c55eda)
     
 *   [What is a cryptocurrency?](https://www.essentialcardano.io/faq/what-is-a-cryptocurrency)
     
-*   [What is consensus?](https://www.essentialcardano.io/faq/what-is-consensus)
+*   [What is consensus?](https://www.essentialcardano.io/faq/what-is-consensus-297d889a)
     
-*   [What is proof of stake?](https://www.essentialcardano.io/faq/what-is-proof-of-stake-pos)
+*   [What is proof of stake?](https://www.essentialcardano.io/faq/what-is-proof-of-stake-pos-cd1c7d7f)
     
 
 Now that you know how a blockchain works and what a cryptocurrency is, it is time to learn more about Cardano. 
 
-Cardano aims to provide an opportunity for global communities to easily access and use the blockchain in their daily lives. Using blockchain, you can for example send funds to your friends, pay for products or services, or use decentralized applications (DApps). Yet, blockchain is much more than just a financial system. But first things first, here is everything you need to know about Cardano:
+Cardano aims to provide an opportunity for global communities to easily access and use the blockchain in their daily lives. Using blockchain, you can, for example, send funds to your friends, pay for products or services, or use decentralized applications (DApps). Yet, blockchain is much more than just a financial system. But first things first, here is everything you need to know about Cardano:
 
 *   [Cardano 101](https://www.essentialcardano.io/article/what-is-cardano-cardano-101): introduces the team behind Cardano, explains Cardano’s commitment to decentralization, covers technology aspects, programming languages, and everything else you might be interested in.
     
 
-You can also go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or [‘New to Cardano’ section on Cardano Docs](https://docs.cardano.org/new-to-cardano/introduction) to learn more about Ouroboros, ada, and what makes Cardano a third-generation blockchain:
+You can also go over [Essential Cardano FAQs](https://www.essentialcardano.io/faq) or [‘New to Cardano’ section on Cardano Docs](https://docs.cardano.org/about-cardano/new-to-cardano) to learn more about Ouroboros, ada, and what makes Cardano a third-generation blockchain:
 
-*   [What is Cardano?](https://www.essentialcardano.io/faq/what-is-cardano)
+*   [What is Cardano?](https://www.essentialcardano.io/faq/what-is-cardano-c1f9aef2)
     
-*   [What makes Cardano a third-generation blockchain?](https://www.essentialcardano.io/faq/what-makes-cardano-a-third-generation-blockchain)
+*   [What makes Cardano a third-generation blockchain?](https://www.essentialcardano.io/faq/what-makes-cardano-a-third-generation-blockchain-c8fddfbc)
     
-*   [How does Cardano work?](https://www.essentialcardano.io/faq/how-does-cardano-work)
+*   [How does Cardano work?](https://www.essentialcardano.io/faq/how-does-cardano-work-ad9564bd)
     
-*   [What is Ouroboros?](https://www.essentialcardano.io/faq/what-is-ouroboros)
+*   [What is Ouroboros?](https://www.essentialcardano.io/faq/what-is-ouroboros-5c79f8a1)
     
-*   [Why is Cardano called the ‘green blockchain’?](https://www.essentialcardano.io/faq/why-is-cardano-called-the-green-blockchain)
+*   [Why is Cardano called the ‘green blockchain’?](https://www.essentialcardano.io/faq/why-is-cardano-called-the-green-blockchain-9c0d2b6f)
     
 
 ### Getting involved
 
-Having read about the basics you’re now ready to try Cardano out. 
+Having read about the basics, you’re now ready to try Cardano out. 
 
-Let’s start with some simple payments. You will first need to choose and create a Cardano [wallet](https://www.essentialcardano.io/faq/what-is-a-cryptocurrency-wallet) and get some [ada](https://www.essentialcardano.io/faq/what-is-ada-whats-in-a-name). 
+Let’s start with some simple payments. You will first need to choose and create a Cardano [wallet](https://www.essentialcardano.io/faq/what-is-a-cryptocurrency-wallet-266a088e) and get some [ada](https://www.essentialcardano.io/faq/what-is-ada-whats-in-a-name-b4b35d34). 
 
 1.  Explore different **Cardano** wallet products and get the one that best suits your needs.
     
     *   Here is an article on the various types of cryptocurrency wallets and examples of wallet products/providers for Cardano to choose from: [Types of wallets](https://docs.cardano.org/new-to-cardano/types-of-wallets).
         
-    *   **For desktop**: [Nami](https://namiwallet.io/) and [Lace](https://www.lace.io/) are simplified desktop wallets that are perfect for first-time users. [Eternl](https://eternl.io/app/mainnet/welcome) and [Typhon](https://typhonwallet.io/) are more advanced desktop wallets that offer a number of interesting features.
+    *   **For desktop**: [Lace](https://www.lace.io/) is a simplified desktop wallet perfect for first-time users. [Eternl](https://eternl.io/app/mainnet/welcome) and [Typhon](https://typhonwallet.io/) are more advanced desktop wallets with a number of interesting features.
         
-    *   **For mobile:** [Vespr](https://vespr.xyz/), [Eternl](https://linktr.ee/eternlwallet), [Gero](https://gerowallet.io/), and [Flint wallet](https://flint-wallet.com/) are some go-to options that are largely adopted by the community.
+    *   **For mobile:** [Vespr](https://vespr.xyz/), [Eternl](https://linktr.ee/eternlwallet), and [Gero](https://gerowallet.io/) are some go-to options that are largely adopted by the community.
         
 2.  Explore and choose a cryptocurrency exchange (in your jurisdiction) to get some ada.
     
 3.  Try out the wallet: ask a fellow Cardano community member for their wallet address and try exchanging (sending/receiving) small amounts of ada with them. 
     
-4.  You're now a Cardano user experiencing the world of Web3 and crypto! You can track your transactions and account activities using [Cardano Explorer](http://explorer.cardano.org). Learn how to use the tracking tools to do this: [Cardano tracking tools](https://docs.cardano.org/new-to-cardano/cardano-tracking-tools).
+4.  You're now a Cardano user experiencing the world of Web3 and crypto! You can track your transactions and account activities using [Cardano explorers](http://explorer.cardano.org). Learn how to use the tracking tools to do this: [Cardano tracking tools](https://docs.cardano.org/new-to-cardano/cardano-tracking-tools).
     
 
 **Understanding staking and delegation** 
@@ -93,40 +93,33 @@ Ada holders can delegate stake using their wallets. Here are some useful article
 
 *   [How to choose a stake pool](https://iohk.zendesk.com/hc/en-us/articles/900002174303-How-to-choose-a-stake-pool)
     
-*   [How safe is it to delegate to a stake pool?](https://iohk.zendesk.com/hc/en-us/articles/900002046123-How-safe-is-it-to-delegate-to-a-stake-pool-)
+*   [How safe is it to delegate to a stake pool?](https://iohk.zendesk.com/hc/en-us/articles/900002046123-How-safe-is-it-to-delegate-to-a-stake-pool)
     
 *   [How to delegate to a stake pool](https://iohk.zendesk.com/hc/en-us/articles/900005718683-How-to-Delegate-to-a-stake-pool) using Daedalus
     
 *   [Staking and delegating for beginners](https://forum.cardano.org/t/staking-and-delegating-for-beginners-a-step-by-step-guide/36681) (Daedalus)
     
-*   [How to delegate to a stake pool using Flint Wallet](https://youtu.be/RbWlUYQqk2M)
-    
 *   [The general perspective on staking in Cardano](https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/)
     
-*   [What other wallets support staking?](https://www.essentialcardano.io/faq/what-other-wallets-support-staking)
-    
-*   [How to stake your ada](https://www.essentialcardano.io/infographic/how-to-stake-your-ada)
+*   [How to stake your ada](https://www.essentialcardano.io/infographic/how-to-stake-your-ada).
     
 
 **Being part of decision making and innovation**
 
-One of the key pillars for Cardano's long-term sustainability is active community engagement and participation. The Voltaire phase of the Cardano roadmap will introduce community voting mechanisms to democratize decision-making so every ada holder can vote on Cardano’s changes and upgrades.
+One of the key pillars for Cardano's long-term sustainability is active community engagement and participation. The Voltaire phase of the Cardano roadmap introduced community voting mechanisms to democratize decision-making so every ada holder can vote on Cardano’s changes and upgrades.
 
 The process of decentralized governance has already started. Project Catalyst is one of the world’s largest decentralized innovation funds, where ada holders can vote on the most promising projects to get funded from the treasury.
 
-There are many ways to get involved with Project Catalyst – as an innovator, voter, commenter, proposer, proposal reviewer, community advisor, or even a mentor. The first step is [creating an account](https://cardano.ideascale.com/) on the Catalyst collaboration platform, IdeaScale. 
+There are many ways to get involved with Project Catalyst – as an innovator, voter, commenter, proposer, proposal reviewer, community advisor, or even a mentor. The first step is [creating an account](https://cardano.ideascale.com/c/cardano/landing) on the Catalyst collaboration platform, IdeaScale. 
 
 Find out more:
 
+*   [Project Catalyst website](https://projectcatalyst.io/)
 *   [Project Catalyst and Voltaire bring power to the people](https://iohk.io/en/blog/posts/2020/09/10/project-catalyst-voltaire-bring-power-to-the-people/)
     
 *   [Project Catalyst Innovation](https://iohk.io/en/blog/posts/2022/05/10/project-catalyst-a-virtuous-cycle-of-cardano-ecosystem-development-investing-in-great-ideas-to-make-positive-real-world-changes/)
     
-*   [Cardano Catalyst community site](https://cardanocataly.st/)
-    
-*   [LIDO NATION](https://www.lidonation.com/en)
-    
-*   [AdaPulse](https://adapulse.io/)
+*   [Cardano Catalyst community site](https://cardanocataly.st/).
     
 
 ### Ready for more? Discover decentralized finance (DeFi)
@@ -146,16 +139,15 @@ There are a number of community-driven resources gathering information about the
     
 *   [Built on Cardano](https://builtoncardano.com/)
     
-*   [Cardano crowd](https://cardanocrowd.com/dapps)
-    
 *   [AdaPulse](https://adapulse.io/)
-    
+
+*   [LIDO NATION](https://www.lidonation.com/en).
 
 ### Non-fungible tokens
 
 Every ada is the same as another. You can trade one ada for another and get the same value i.e. 1:1; this means that ada is fungible. 
 
-Non-fungible tokens (NFTs), on the other hand, are unique and can carry special information (metadata) that represents digital ownership rights of real-world and digital assets such as a real-estate or a 3D animation. Anyone can create their own NFTs on Cardano [natively](https://docs.cardano.org/native-tokens/learn) with minimal work i.e. without needing a smart contract. This is a huge difference from the error-prone complexity found on Ethereum, for example. This makes Cardano NFTs more secure, cheaper, and faster to transact with.
+Non-fungible tokens (NFTs), on the other hand, are unique and can carry special information (metadata) that represents digital ownership rights of real-world and digital assets such as a real-estate or a 3D animation. Anyone can create their own NFTs on Cardano [natively](https://docs.cardano.org/native-tokens/learn) with minimal work without a smart contract. This is a huge difference from the error-prone complexity found on Ethereum, for example. This makes Cardano NFTs more secure, cheaper, and faster to transact with.
 
 NFTs have been booming recently. You can create, buy, and sell digital representations of anything - drawings, video clips, music, tweets, articles, trading cards, game items, and more. Make sure to explore:
 
@@ -163,37 +155,36 @@ NFTs have been booming recently. You can create, buy, and sell digital represent
     
 *   [JPG Store: Cardano NFT marketplace](https://www.jpg.store/)
     
-*   [Artano](https://artano.io/)
-    
 *   [Cardano cube: NFT projects](https://www.cardanocube.io/collections/nft)
+
+*   [NMKR](https://www.nmkr.io/)
     
-*   [TapTools](https://www.taptools.io/?currency=ADA)
+*   [TapTools](https://www.taptools.io/?currency=ADA).
     
 
 ### What do you need to know about smart contracts?
 
-Smart Contracts are programs that run on blockchains to perform complex (and simple) tasks. You can think of them as sophisticated ATMs or Vending machines. Smart contracts act as digital agreements that track, verify, and execute the binding parts of a deal between various parties. The contract stages are automatically executed when predetermined conditions are met.
+Smart contracts are programs that run on blockchains to perform complex (and simple) tasks. You can think of them as sophisticated ATMs or vending machines. Smart contracts act as digital agreements that track, verify, and execute the binding parts of a deal between various parties. The contract stages are automatically executed when predetermined conditions are met.
 
 As a beginner, you don’t need to dive straight into how to write a smart contract. What’s important to know is that DApps use smart contracts for you to experience safe deal execution. 
 
-Cardano provides the possibility to work with Plutus and Marlowe contracts:
-
-*   Plutus is a set of programming tools for developers to write smart contracts on Cardano.
-    
-*   Marlowe is a ‘domain specific’ language specially designed for writing financial smart contracts. It is limited to financial applications and its ‘low-code’ approach means it is perfect for experts in finance rather than in programming.
+Cardano provides the possibility to work with different [smart contract languages](https://docs.cardano.org/developer-resources/welcome#smart-contracts).
     
 
-If you’re interested in learning how to write Plutus contracts, you can take part in the [Plutus Pioneer](https://docs.cardano.org/pioneer-programs/plutus-pioneers) program.
+If you’re interested in learning how to write Plutus contracts, you can participate in the [Plutus Pioneer](https://docs.cardano.org/pioneer-programs/plutus-pioneers) program.
 
 ### Digital identity
 
-Identity is key to accessing a range of private and public services. From opening a bank account to obtaining loans or a driver's license, access to education, etc., the need to prove to others who we are is almost omnipresent in everyday life.
+Identity is key to accessing a range of private and public services. From opening a bank account to obtaining loans or a driver's license, access to education, etc, the need to prove to others who we are is almost omnipresent in everyday life.
 
-Atala PRISM is a decentralized identity solution on Cardano. It enables people to own their personal data and identity to interact with organizations seamlessly, privately, and securely. Visit the [Atala PRISM website](https://atalaprism.io) for more information.
+Learn more:
+
+- [Hyperledger Identus](https://www.lfdecentralizedtrust.org/projects/identus)
+- [Hyperledger Identus – then, now, and tomorrow](https://iohk.io/en/blog/posts/2025/01/27/hyperledger-identus-then-now-and-tomorrow/) blog post.
 
 ### Continue exploring
 
-To conclude we should state that this is just the beginning. You have probably chosen the topics that interest you most about Cardano. Here’s a handy list of resources to keep going:
+To conclude, we should state that this is just the beginning. You have probably chosen the topics that interest you most about Cardano. Here’s a handy list of resources to keep going:
 
 *   [Essential Cardano](https://essentialcardano.io)
     
@@ -201,7 +192,7 @@ To conclude we should state that this is just the beginning. You have probably c
     
 *   [IOHK blog](https://iohk.io/en/blog/posts/page-1/)
     
-*   [IOHK Twitter](https://twitter.com/InputOutputHK)
+*   [IOHK X account](https://twitter.com/InputOutputHK)
     
 *   [Cardano Docs](https://docs.cardano.org/)
     
@@ -211,6 +202,4 @@ To conclude we should state that this is just the beginning. You have probably c
     
 *   [Emurgo](https://emurgo.io/)
     
-*   [Cardano Forum](https://forum.cardano.org/c/developers/29)
-    
-*   [Cardano community](https://discord.gg/kfATXEENPD)
+*   [Cardano Forum](https://forum.cardano.org/c/developers/29). 
