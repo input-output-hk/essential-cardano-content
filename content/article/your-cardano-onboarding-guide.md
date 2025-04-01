@@ -104,11 +104,9 @@ Ada holders can delegate stake using their wallets. Here are some useful article
 *   [How to stake your ada](https://www.essentialcardano.io/infographic/how-to-stake-your-ada).
     
 
-**Being part of decision making and innovation**
+**Being part of innovation**
 
-One of the key pillars for Cardano's long-term sustainability is active community engagement and participation. The Voltaire phase of the Cardano roadmap introduced community voting mechanisms to democratize decision-making so every ada holder can vote on Cardano’s changes and upgrades.
-
-The process of decentralized governance has already started. Project Catalyst is one of the world’s largest decentralized innovation funds, where ada holders can vote on the most promising projects to get funded from the treasury.
+Project Catalyst is one of the world’s largest decentralized innovation funds, where ada holders can vote on the most promising projects to get funded from the treasury.
 
 There are many ways to get involved with Project Catalyst – as an innovator, voter, commenter, proposer, proposal reviewer, community advisor, or even a mentor. The first step is [creating an account](https://cardano.ideascale.com/c/cardano/landing) on the Catalyst collaboration platform, IdeaScale. 
 
