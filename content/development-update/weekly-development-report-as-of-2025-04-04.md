@@ -109,8 +109,7 @@ Cardanoエコシステムは成長を続けています。ネットワークで�
 
 **Leios**チームはプロトコルとシミュレーション機能にさまざまな側面から取り組みました。HaskellシミュレーターとRustシミュレーターの実装とテストを、異なるネットワーク条件下でのプロトコルの動作に焦点を当てながら進めました。詳細は、[Leios週刊更新情報](https://leios.cardano-scaling.org/news/2025/03/24/weekly-progress-summary)をご覧ください。
 
-###   
-Catalyst
+### Catalyst
 
 **Catalyst**ネイティブアプリの技術開発は順調に進んでいます。今週、『Under the Hood』の新しいエピソードがリリースされ、Catalystの旅についてより深い洞察が提供されます。 
 
