@@ -51,8 +51,7 @@ Finally, the team updated the [CIP-0137](https://github.com/cardano-foundation/C
 
 The **Leios** team continued working on various aspects of the protocol and its simulation capabilities. They made progress in implementing and testing the Haskell and Rust simulators, focusing on protocol behavior under different network conditions. For more details, see [Leios weekly updates](https://leios.cardano-scaling.org/news/2025/03/24/weekly-progress-summary).
 
-###   
-CATALYST
+### CATALYST
 
 The technical development of the native **Catalyst** app is progressing steadily. This week will see the release of a new episode of ‘Under The Hood’, providing deeper insights into Catalyst’s journey. 
 
