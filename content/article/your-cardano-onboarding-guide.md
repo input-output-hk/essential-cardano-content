@@ -103,6 +103,29 @@ Ada holders can delegate stake using their wallets. Here are some useful article
     
 *   [How to stake your ada](https://www.essentialcardano.io/infographic/how-to-stake-your-ada).
     
+**Getting started with governance**
+
+One of the many distinguishing features of Cardano is its implementation of Cardano Improvement Proposal #1694 ([CIP-1694](https://cips.cardano.org/cip/CIP-1694)), which laid the foundation for a more decentralized and community-driven decision-making process. Named after the birth year of the philosopher Voltaire, this proposal marks the transition to the [Voltaire development phase](https://roadmap.cardano.org/en/voltaire/), where governance is self-sustaining and controlled by the Cardano community.  
+
+CIP-1694 introduces a tripartite governance structure consisting of delegated representatives (DReps), the constitutional committee (CC), and stake pool operators (SPOs). These bodies work together to review and approve governance actions, which can be submitted by anyone, ensuring a transparent and democratic process.  
+
+You can learn more about:  
+- [Cardano governance](https://docs.intersectmbo.org/cardano/cardano-governance)
+- [Governance roles](https://docs.intersectmbo.org/cardano/cardano-governance/governance-roles) (DReps, CC, SPOs, and ada holders)
+- [Governance process](https://docs.intersectmbo.org/cardano/cardano-governance/governance-process).  
+
+To fully participate in decentralized decision-making,  start with:
+
+- Choosing and installing a governance-compatible wallet. Intersect MBO maintains a [current list](https://docs.gov.tools/cardano-govtool/using-govtool/getting-started/compatible-wallets) here. 
+- Check out the [governance tools documentation](https://docs.gov.tools) to see what you can do and how.
+- You can use governance tools to: 
+  - [delegate](https://docs.gov.tools/cardano-govtool/using-govtool/delegating) your voting power to a DRep
+  - [become](https://docs.gov.tools/cardano-govtool/using-govtool/dreps/register-as-a-drep) a DRep yourself
+  - [review](https://docs.gov.tools/cardano-govtool/using-govtool/governance-actions/view-governance-actions) and [vote](https://docs.gov.tools/cardano-govtool/using-govtool/governance-actions/vote-on-governance-actions) on governance actions
+  - [propose](https://docs.gov.tools/cardano-govtool/using-govtool/governance-actions/propose-a-governance-action) your own governance action, and more.
+
+As a minimum, you should start by [delegating your stake](https://docs.gov.tools/cardano-govtool/using-govtool/delegating) to a DRep so that the voting power of your stake can influence Cardano’s direction.
+
 
 **Being part of innovation**
 
