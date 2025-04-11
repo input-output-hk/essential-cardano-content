@@ -140,7 +140,7 @@ Paris Blockchain Weekの始まりに、Cardanoノード開発者のグループ�
 
 ### CATALYST
 
-### Catalystは、このプロジェクトの影響と国際的なリーチに焦点を当てたグローバルなHorizonsレポートを公開しました。フルレポートは[こちら](https://projectcatalyst.io/reports/horizons2025.pdf)をご覧ください。Xで開催されたタウンホールは、レポートをコミュニティに提示し、最初のフィードバックを集めることに焦点が当てられました。Catalystプラットフォームの技術開発は進行中であり、ユーザーは、ユーザーエクスペリエンスの向上と新機能の恩恵を受けることが期待できます。『Under the Hood』の最新エピソードは[ここ](https://x.com/Catalyst_onX/status/1907931121389809958)から視聴できます。  
+Catalystは、このプロジェクトの影響と国際的なリーチに焦点を当てたグローバルなHorizonsレポートを公開しました。フルレポートは[こちら](https://projectcatalyst.io/reports/horizons2025.pdf)をご覧ください。Xで開催されたタウンホールは、レポートをコミュニティに提示し、最初のフィードバックを集めることに焦点が当てられました。Catalystプラットフォームの技術開発は進行中であり、ユーザーは、ユーザーエクスペリエンスの向上と新機能の恩恵を受けることが期待できます。『Under the Hood』の最新エピソードは[ここ](https://x.com/Catalyst_onX/status/1907931121389809958)から視聴できます。  
   
 ### VOLTAIRE 
 
