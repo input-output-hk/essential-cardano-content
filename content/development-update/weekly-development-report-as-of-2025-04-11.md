@@ -66,8 +66,7 @@ On [day two](https://github.com/input-output-hk/ouroboros-leios/blob/main/docs/w
 
 On the [final day](https://github.com/input-output-hk/ouroboros-leios/blob/main/docs/workshop/day-3-recap.md), the team narrowed down options for optimistic validation of input blocks, defining three candidates and favoring one. Their goal was to enable transaction chaining within Leios by determining a 'point in time' for subsequent transactions based on local knowledge of input blocks.
 
-###   
-CATALYST
+### CATALYST
 
 Catalyst has released the global Horizons report, which highlights the project's impact and international reach. You can read the full report [here](https://projectcatalyst.io/reports/horizons2025.pdf). This week's Town Halls on X focused on presenting the report to the community and gathering initial feedback. Meanwhile, technical development on the Catalyst platform is ongoing, with users expected to benefit from improved user experiences and new features. You can catch the latest episode of ‘Under the Hood’ [here](https://x.com/Catalyst_onX/status/1907931121389809958).
 
@@ -111,13 +110,13 @@ Paris Blockchain Weekの始まりに、Cardanoノード開発者のグループ�
 
 その他のニュース：
 
-●    [ドレイパー大学](https://x.com/draper_u/status/1909388809818849337)は、Cardano財団と共同運営するレジデンスプログラムのためのビルダー20人を選出しました。
+*   [ドレイパー大学](https://x.com/draper_u/status/1909388809818849337)は、Cardano財団と共同運営するレジデンスプログラムのためのビルダー20人を選出しました。
 
-●    [Zekret Protocol](https://x.com/ZekretProtocol)はCardanoブロックチェーンに構築すると発表しました。
+*   [Zekret Protocol](https://x.com/ZekretProtocol)はCardanoブロックチェーンに構築すると発表しました。
 
-●    [Eternlウォレット](https://x.com/eternlwallet/status/1909595690482774314)は、UIを再設計し、マルチシグのサポート、追加の改善施した新バージョンをリリースしました。
+*   [Eternlウォレット](https://x.com/eternlwallet/status/1909595690482774314)は、UIを再設計し、マルチシグのサポート、追加の改善施した新バージョンをリリースしました。
 
-●    [zkFold](https://x.com/zkFold/status/1909524663408918945)は、Cardanoウォレットを実装するためのオールインワンAPIライブラリー、Smart Walletを立ち上げました  
+*   [zkFold](https://x.com/zkFold/status/1909524663408918945)は、Cardanoウォレットを実装するためのオールインワンAPIライブラリー、Smart Walletを立ち上げました  
 
 ### コアテクノロジー
 
@@ -139,17 +138,16 @@ Paris Blockchain Weekの始まりに、Cardanoノード開発者のグループ�
 
 [最終日](https://github.com/input-output-hk/ouroboros-leios/blob/main/docs/workshop/day-3-recap.md)は、入力ブロックのオプティミスティック検証のための選択肢を絞り込み、3つの候補を定義し、優先する1つを特定しました。目標は、入力ブロックのローカルな知識に基づいて後続のトランザクションの「ポイントインタイム」を決定することによって、Leios内でトランザクションチェーンを可能にすることです。
 
-###   
-CATALYST
+### CATALYST
 
 ### Catalystは、このプロジェクトの影響と国際的なリーチに焦点を当てたグローバルなHorizonsレポートを公開しました。フルレポートは[こちら](https://projectcatalyst.io/reports/horizons2025.pdf)をご覧ください。Xで開催されたタウンホールは、レポートをコミュニティに提示し、最初のフィードバックを集めることに焦点が当てられました。Catalystプラットフォームの技術開発は進行中であり、ユーザーは、ユーザーエクスペリエンスの向上と新機能の恩恵を受けることが期待できます。『Under the Hood』の最新エピソードは[ここ](https://x.com/Catalyst_onX/status/1907931121389809958)から視聴できます。  
   
-VOLTAIRE 
+### VOLTAIRE 
 
 今週は、関心のあるコミュニティメンバーが参加し、Intersect委員会の候補者として登録するための最後の週でした。現在、各委員会では空き議席数よりも多くの候補者が存在します。次のステップはIntersectメンバーが希望する候補者に投票することです。投票期間は、日本時間2025年4月16日午後9時から2025年5月7日午後9時までです。
 
 詳しくは、[Intersectウェブサイト](https://intersectmbo.org/)の[メンバーセクション](https://members.intersectmbo.org/)を参照してください。
 
-教育
+### 教育
 
 **教育**チームは[フロリダ国際大学](https://www.fiu.edu/)で最近開催されたCardano Daysイベントからのフィードバックを集めており、今後の同種のイベント開催準備に邁進しています。Midnightパイオニアプログラムのさまざまなモジュールのコンテンツを作成しており、Haskell Bootcampレクチャーに関する作業もいくつか完了しました。
