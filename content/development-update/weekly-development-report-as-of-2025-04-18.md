@@ -127,7 +127,7 @@ Intersectメンバーは、委員会の選挙に参加することによって�
 
 Intersectメンバーの場合は、Xスペースに参加して判断し、選択した候補者に投票してください。
 
-CATALYST
+### CATALYST
 
 **Catalyst**チームは、引き続き[Horizonsレポート](https://projectcatalyst.io/reports/horizons2025.pdf)に重点を置き、先週発表された[2025年予算案](https://x.com/Catalyst_onX/status/1910350489968955727)をめぐるXスペースでコミュニティを議論に巻き込みました。Blockchain4Goodバーチャルサミットにも参加しました。そこでは、人間中心のテクノロジーが持続可能な開発と結びつきました。
 
