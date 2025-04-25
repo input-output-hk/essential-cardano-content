@@ -44,7 +44,7 @@ Finally, the team investigated a communication issue in the signer when the atta
 
 The **Leios** team made progress on both the Haskell and Rust simulations, refined cost estimates, and completed detailed analyses of the transaction lifecycle and Full Leios runs. The Haskell simulation now includes a first draft of new mini-protocols for Leios diffusion, covering IB/EB relays, vote relays, fetch protocols, and a Catch-Up protocol for older blocks. The `short-leios` command was also renamed to `leios` (with an alias retained for compatibility). On the Rust side, the shared trace format now conforms, a voting-logic bug has been fixed, and visualizations have been updated for smaller trace files. Additionally, the team made revisions to the [cost-dashboard](https://leios.cardano-scaling.org/cost-estimator/), worked on the [analysis of the transaction lifecycle, and](https://github.com/input-output-hk/ouroboros-leios/blob/leios-2025w17/analysis/tx-to-block.ipynb) Full Leios simulations, covering 648 scenarios of Full and Short Leios implementations with varied parameters. 
 
-### See this [development update](https://leios.cardano-scaling.org/news/2025/04/14/weekly-progress-summary) for more details.
+See this [development update](https://leios.cardano-scaling.org/news/2025/04/14/weekly-progress-summary) for more details.
 
 ### VOLTAIRE
 
@@ -104,7 +104,7 @@ Cardanoエコシステムは堅調な成長を続けており、いくつかの�
 
 **Leios**チームはHaskellとRustの両方のシミュレーションを進め、コスト見積もりの精度を上げ、トランザクションのライフサイクルとLeiosのフル実行の詳細な分析を完了しました。Haskellシミュレーションには、Leios拡散のための新しいミニプロトコルの最初のドラフトが含まれており、IB/EBリレー、投票リレー、フェッチプロトコル、古いブロックのキャッチアッププロトコルをカバーしています。`short-leios`コマンドも`leios`に名前を変更しました（互換性のためにエイリアスは保持）。Rustでは、共有トレースフォーマットを準拠させ、投票ロジックのバグを修正し、小さなトレースファイル向けに視覚化を更新しました。[コストダッシュボード](https://leios.cardano-scaling.org/cost-estimator/)の改訂、[トランザクションライフサイクルの分析](https://github.com/input-output-hk/ouroboros-leios/blob/leios-2025w17/analysis/tx-to-block.ipynb) 、Leiosのフルシミュレーションに取り組み、Leiosのフル実装とショート実装でさまざまなパラメーターを使った648のシナリオをカバーしました。 
 
-### 詳細は、[開発更新情報](https://leios.cardano-scaling.org/news/2025/04/14/weekly-progress-summary)を参照してください。
+詳細は、[開発更新情報](https://leios.cardano-scaling.org/news/2025/04/14/weekly-progress-summary)を参照してください。
 
 ### VOLTAIRE
 
