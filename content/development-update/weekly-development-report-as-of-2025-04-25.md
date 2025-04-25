@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/7831b670-7292-4d42-8094-7312dde8fee3/
+image: https://ucarecdn.com/76473e04-e0c1-4564-8142-78c9e5e87fe3/
 image_text: Weekly development report as of 2025-04-25
 ---
 
@@ -44,9 +44,9 @@ Finally, the team investigated a communication issue in the signer when the atta
 
 The **Leios** team made progress on both the Haskell and Rust simulations, refined cost estimates, and completed detailed analyses of the transaction lifecycle and Full Leios runs. The Haskell simulation now includes a first draft of new mini-protocols for Leios diffusion, covering IB/EB relays, vote relays, fetch protocols, and a Catch-Up protocol for older blocks. The `short-leios` command was also renamed to `leios` (with an alias retained for compatibility). On the Rust side, the shared trace format now conforms, a voting-logic bug has been fixed, and visualizations have been updated for smaller trace files. Additionally, the team made revisions to the [cost-dashboard](https://leios.cardano-scaling.org/cost-estimator/), worked on the [analysis of the transaction lifecycle, and](https://github.com/input-output-hk/ouroboros-leios/blob/leios-2025w17/analysis/tx-to-block.ipynb) Full Leios simulations, covering 648 scenarios of Full and Short Leios implementations with varied parameters. 
 
-See this [development update](https://leios.cardano-scaling.org/news/2025/04/14/weekly-progress-summary) for more details.
+### See this [development update](https://leios.cardano-scaling.org/news/2025/04/14/weekly-progress-summary) for more details.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 Voting for Intersect committee seats is in full swing, ending May 7. The participation level has already passed the required threshold.
 
@@ -56,7 +56,7 @@ More X Spaces are scheduled to allow candidates to promote themselves:
     
 *   May 1, noon UTC – [AMA/Applicants Spotlight](https://lu.ma/5pa8dofe)
     
-*   May 6, 4 pm UTC –  [AMA/Applicants Spotlight](https://lu.ma/5kx1vlyw) 
+*   May 6, 4 pm UTC –  [AMA/Applicants Spotlight](https://lu.ma/5kx1vlyw)
     
 
 (Each link shows the event in your local time zone and includes a registration button – bookmark them!)
@@ -67,11 +67,9 @@ This week featured the usual [X Town Hall](https://x.com/i/spaces/1jMKgkrdAYMKL)
 
 ### EDUCATION
 
-This week, the **education** team continues planning for May’s Cardano Days sessions as part of the Cardano community Azteca 2025 event in Mexico and at the [National Technical University of Athens](https://www.ntua.gr/en/) in Athens, Greece. They are also creating content for various modules of the Midnight Pioneer program and making further updates to the Cardano developer course.  
-  
-![](https://ucarecdn.com/afe30ade-9d0c-4aff-b0d3-dae6992582ec/-/preview/-/format/auto/-/quality/smart/)
+This week, the **education** team continues planning for May’s Cardano Days sessions as part of the Cardano community Azteca 2025 event in Mexico and at the [National Technical University of Athens](https://www.ntua.gr/en/) in Athens, Greece. They are also creating content for various modules of the Midnight Pioneer program and making further updates to the Cardano developer course.
 
-### エコシステム
+### ![](https://ucarecdn.com/e12b6883-6884-4fa0-9df8-f7cc76ab0c26/-/preview/-/format/auto/-/quality/smart/)エコシステム
 
 _本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。_
 
@@ -108,7 +106,7 @@ Cardanoエコシステムは堅調な成長を続けており、いくつかの�
 
 ### 詳細は、[開発更新情報](https://leios.cardano-scaling.org/news/2025/04/14/weekly-progress-summary)を参照してください。
 
-### VOLTAIRE 
+### VOLTAIRE
 
 Intersect委員会選挙の投票は活況を呈しており、締切りは5月7日です。参加レベルは必要なしきい値をすでに超えています。
 
