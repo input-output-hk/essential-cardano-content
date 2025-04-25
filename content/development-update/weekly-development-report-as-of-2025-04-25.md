@@ -44,7 +44,7 @@ Finally, the team investigated a communication issue in the signer when the atta
 
 The **Leios** team made progress on both the Haskell and Rust simulations, refined cost estimates, and completed detailed analyses of the transaction lifecycle and Full Leios runs. The Haskell simulation now includes a first draft of new mini-protocols for Leios diffusion, covering IB/EB relays, vote relays, fetch protocols, and a Catch-Up protocol for older blocks. The `short-leios` command was also renamed to `leios` (with an alias retained for compatibility). On the Rust side, the shared trace format now conforms, a voting-logic bug has been fixed, and visualizations have been updated for smaller trace files. Additionally, the team made revisions to the [cost-dashboard](https://leios.cardano-scaling.org/cost-estimator/), worked on the [analysis of the transaction lifecycle, and](https://github.com/input-output-hk/ouroboros-leios/blob/leios-2025w17/analysis/tx-to-block.ipynb) Full Leios simulations, covering 648 scenarios of Full and Short Leios implementations with varied parameters. 
 
-### See this [development update](https://leios.cardano-scaling.org/news/2025/04/14/weekly-progress-summary) for more details.
+See this [development update](https://leios.cardano-scaling.org/news/2025/04/14/weekly-progress-summary) for more details.
 
 ### VOLTAIRE 
 
