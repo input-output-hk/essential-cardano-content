@@ -9,6 +9,25 @@ image: https://ucarecdn.com/76fb738a-d5fc-44c9-bd63-f8278607833e/
 image_text: Weekly development report as of 2025-05-02
 ---
 
+### ECOSYSTEM UPDATES
+
+_The information in this section is based on publicly available sources and is provided for informational purposes only. It does not constitute an endorsement or recommendation of any project, product, or service mentioned._
+
+The Cardano ecosystem shows sustained activity and gradual growth across key metrics. The number of projects building on the platform has reached 1,997, while 1.33 million delegated wallets indicate ongoing user engagement. The network has processed 108.98 million transactions, a 0.23% increase.
+
+Asset activity has also increased, with 10.78 million native tokens issued under 213,259 token policies. Development activity includes 131,917 Plutus scripts and 6,507 Aiken scripts, signifying growing smart contract deployment. Governance participation remains strong with 1,282 DReps, 954 of which are active (up 1.66%). Development momentum is further evidenced by 259 GitHub commits, highlighting continuous contributions to the Cardano codebase.
+
+In other news:
+
+*   [Cardano has surpassed Ethereum](https://x.com/Crispy_Craps/status/1917287189685108804?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1917287189685108804%7Ctwgr%5Eadf15987638686474426bcdf3bce7f2ca3a25dda%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fapp.brandwatch.com%2Fproject%2F1998384148%2Fdashboards%2F1791770) in yearly core developer activity, according to [Cryptometheus](https://cryptometheus.com/).
+    
+*   [Bodega Market](https://x.com/BodegaCardano/status/1918005747956253068) has partnered with Sundial to build what they aim to be Bitcoin’s first prediction market.
+    
+*   [TapTools](https://x.com/TapTools/status/1918022657922220046) has launched the Cardano Builder DAO, a smart contract-governed funding mechanism to support builders in the Cardano ecosystem.
+    
+*   [Metera](https://x.com/MeteraProtocol/status/1916964142109372578) mainnet is now officially live, enabling users to trade indexes on Cardano.
+    
+
 ### CORE TECHNOLOGY
 
 This week, the consensus team updated its centralized chain-sync-jumping model to act as a drop-in/stand-in for the real model, simplifying troubleshooting of [property-test failures](https://github.com/IntersectMBO/ouroboros-consensus/pull/1466). They also joined the Cardano Foundation’s [Antithesis workstream](https://cardano-foundation.github.io/antithesis/kick-off-antithesis/) to widen node test coverage and robustness, and enriched the `db-immutaliser` so it can inspect entries in VolatileDB.
@@ -35,11 +54,11 @@ The team has completed the proof of concept for the Mithril/ALBA aggregation pro
 
 Finally, the team focused on speeding up the compilation time of Rust nodes and libraries while continuing to refactor the STM cryptographic library for improved clarity.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 The Intersect committee elections are in progress, closing on May 7. There is one more X Space to meet the candidates:
 
-*   May 6, 4pm UTC –  [AMA/Applicants Spotlight](https://lu.ma/5kx1vlyw) 
+*   May 6, 4pm UTC –  [AMA/Applicants Spotlight](https://lu.ma/5kx1vlyw)
     
 
 (The link shows the event in your local time zone and includes a registration button).
@@ -48,8 +67,8 @@ Next, there will be elections for the constitutional committee. Registration is 
 
 ### EDUCATION
 
-This week, the **education** team is preparing content for the Cardano Days sessions as part of the Cardano community Azteca 2025 event in Mexico and at the [National Technical University of Athens](https://www.ntua.gr/en/) in the Greek capital next month. They are also creating content for various modules of the Midnight Pioneer program and are updating the Cardano developer course.  
-  
+This week, the **education** team is preparing content for the Cardano Days sessions as part of the Cardano community Azteca 2025 event in Mexico and at the [National Technical University of Athens](https://www.ntua.gr/en/) in the Greek capital next month. They are also creating content for various modules of the Midnight Pioneer program and are updating the Cardano developer course.
+
 ![](https://ucarecdn.com/dd07f1fe-bb2b-43d6-8ac8-0ea8bb6454c1/-/preview/-/format/auto/-/quality/smart/)
 
 ### エコシステム
@@ -97,7 +116,7 @@ Mithril/ALBAアグリゲーション証明システムの概念実証の作業�
 
 Rustノードとライブラリーのコンパイル時間を短縮することに焦点を当て、STM暗号ライブラリーの明瞭さを高めるリファクタリングを続けました。
 
-### VOLTAIRE 
+### VOLTAIRE
 
 Intersect委員会の選挙は現在進行中であり、5月7日に締め切られます。候補者に会うためのXスペースはもう1回開催されます。
 
