@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/76fb738a-d5fc-44c9-bd63-f8278607833e/
+image: https://ucarecdn.com/3d84275a-ea76-4666-9140-b03c953a7195/
 image_text: Weekly development report as of 2025-05-02
 ---
 
@@ -32,7 +32,7 @@ In other news:
 
 This week, the consensus team updated its centralized chain-sync-jumping model to act as a drop-in/stand-in for the real model, simplifying troubleshooting of [property-test failures](https://github.com/IntersectMBO/ouroboros-consensus/pull/1466). They also joined the Cardano Foundation’s [Antithesis workstream](https://cardano-foundation.github.io/antithesis/kick-off-antithesis/) to widen node test coverage and robustness, and enriched the `db-immutaliser` so it can inspect entries in VolatileDB.
 
-The team released Node 10.4.1, which introduces the production-ready [UTXO-HD backend](https://ouroboros-consensus.cardano.intersectmbo.org/docs/for-developers/utxo-hd/Overview/) (in-memory by default; LMDB for experimental use). Benchmarks show no network impact, a slight CPU reduction, and only a small heap increase (~2% to 5%), which remains below pre-10.3 levels thanks to earlier memory optimizations.
+The team released Node v.10.4.1-pre-release, which introduces the production-ready [UTXO-HD backend](https://ouroboros-consensus.cardano.intersectmbo.org/docs/for-developers/utxo-hd/Overview/) (in-memory by default; LMDB for experimental use). Benchmarks show no network impact, a slight CPU reduction, and only a small heap increase (~2% to 5%), which remains below pre-10.3 levels thanks to earlier memory optimizations.
 
 ### WALLETS AND SERVICES
 
@@ -69,7 +69,7 @@ Next, there will be elections for the constitutional committee. Registration is 
 
 This week, the **education** team is preparing content for the Cardano Days sessions as part of the Cardano community Azteca 2025 event in Mexico and at the [National Technical University of Athens](https://www.ntua.gr/en/) in the Greek capital next month. They are also creating content for various modules of the Midnight Pioneer program and are updating the Cardano developer course.
 
-![](https://ucarecdn.com/dd07f1fe-bb2b-43d6-8ac8-0ea8bb6454c1/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/c233b322-4bed-4a32-81ae-48003f09941f/-/preview/-/format/auto/-/quality/smart/)
 
 ### エコシステム
 
@@ -94,7 +94,7 @@ Cardanoエコシステムは、主要な指標全般で堅調な活動と成長�
 
 コンセンサスチームは、集中型チェーン同期ジャンプモデルを、実際のモデルのドロップイン/スタンドインとして機能し、[プロパティテストの失敗](https://github.com/IntersectMBO/ouroboros-consensus/pull/1466)のトラブルシューティングを簡素化するよう更新しました。Cardano財団の[アンチテーゼワークストリーム](https://cardano-foundation.github.io/antithesis/kick-off-antithesis/)に参加してノードテストのカバレッジと堅牢性を拡大し、VolatileDBのエントリーを検査できるように`db-immutaliser`を強化しました。
 
-Node 10.4.1をリリースしました。これには本番環境に対応した[UTXO-HDバックエンド](https://ouroboros-consensus.cardano.intersectmbo.org/docs/for-developers/utxo-hd/Overview/)が導入されています（デフォルトはメモリー内、実験的に使用にはLMDB）。ベンチマークではネットワークへの影響はなく、CPU使用率のわずかな低下が見られます。わずかなヒープ増加（2%～5%）が示されていますが、これは以前のメモリー最適化のおかげで10.3以前のレベルを下回っています。
+Node v.10.4.1 pre-release をリリースしました。これには本番環境に対応した[UTXO-HDバックエンド](https://ouroboros-consensus.cardano.intersectmbo.org/docs/for-developers/utxo-hd/Overview/)が導入されています（デフォルトはメモリー内、実験的に使用にはLMDB）。ベンチマークではネットワークへの影響はなく、CPU使用率のわずかな低下が見られます。わずかなヒープ増加（2%～5%）が示されていますが、これは以前のメモリー最適化のおかげで10.3以前のレベルを下回っています。
 
 ### ウォレットとサービス
 
