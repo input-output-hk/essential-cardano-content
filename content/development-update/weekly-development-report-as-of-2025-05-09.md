@@ -11,9 +11,9 @@ image_text: Weekly development report as of 2025-05-09
 
 ### ECOSYSTEM UPDATES
 
-_The information in this section is based on publicly available sources and is provided for informational purposes only. It does not constitute an endorsement or recommendation of any project, product, or service mentioned.  
+_The information in this section is based on publicly available sources and is provided for informational purposes only. It does not constitute an endorsement or recommendation of any project, product, or service mentioned._
   
-_Cardano’s ecosystem continues to grow with measurable gains across development, activity, and governance. There are now 1,998 projects building on the network, with 1.33 million delegated wallets. The network has reached 109.18 million transactions, a 0.18% increase since last week, while native token activity remains strong with 10.78 million native tokens and 214,153 token policies.
+Cardano’s ecosystem continues to grow with measurable gains across development, activity, and governance. There are now 1,998 projects building on the network, with 1.33 million delegated wallets. The network has reached 109.18 million transactions, a 0.18% increase since last week, while native token activity remains strong with 10.78 million native tokens and 214,153 token policies.
 
 Smart contract development also continues its upward trend. There are now 132,771 Plutus scripts and 6,587 Aiken scripts deployed, reflecting a 0.65% increase since last week. Governance is steadily expanding, with 1,292 DReps, including 956 actively participating, marking a 0.78% rise. Developer activity remains solid, with 238 GitHub commits recorded over the period.
 
