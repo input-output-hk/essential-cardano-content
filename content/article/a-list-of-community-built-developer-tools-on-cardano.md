@@ -326,7 +326,7 @@ Here is a list of available tools and resources according to categories:
 
 ## Governance tools
 
-*   [$handle](https://handle.me/)): a platform that simplifies blockchain virtual identity through custom Cardano addresses.
+*   [$handle](https://handle.me/): a platform that simplifies blockchain virtual identity through custom Cardano addresses.
     
 *   [1694.tools](https://1694-tools.vercel.app/): a Cardano proposal explorer that allows users to find information on various Cardano proposals, including their status and funding, and offers tools to view proposals and dReps, learn with AI, and export data.
     
