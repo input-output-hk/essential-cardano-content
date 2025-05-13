@@ -326,43 +326,73 @@ Here is a list of available tools and resources according to categories:
 
 ## Governance tools
 
-*   [ADA Nordic SanchoNet Explorer](https://adanordic.com/): a platform with navigation links to explore different epochs, governance data, and pool information on SanchoNet.
+*   [$handle](https://handle.me/)): a platform that simplifies blockchain virtual identity through custom Cardano addresses.
+    
+*   [1694.tools](https://1694-tools.vercel.app/): a Cardano proposal explorer that allows users to find information on various Cardano proposals, including their status and funding, and offers tools to view proposals and dReps, learn with AI, and export data.
+    
+*   [A New Dawn](https://anewdawn.vision): a curated hub making Cardano governance approachable. A New Dawn offers educational content on delegation, participation, and viewing proposed enhancements, highlighting ecosystem builders.
+    
+*   [AdaStat](https://adastat.net): a detailed Cardano blockchain explorer with integrated governance data, AdaStat tracks proposals, DRep stats, Catalyst voting history, and stake delegation metrics. This explorer is useful for those who want to understand Cardano governance’s data layer.
     
 *   [Agora](https://github.com/Liqwid-Labs/agora?tab=readme-ov-file#readme): a set of Plutus scripts that compose together to form a governance system, providing a one-size-fits-all governance library for projects on Cardano.
     
 *   [Cardano Ballot](https://github.com/cardano-foundation/cf-cardano-ballot): a user-friendly, hybrid on- and off-chain voting system developed by [the Cardano Foundation](https://cardanofoundation.org/en/about-us/).
     
+*   [Cardano Budget Proposals 2025](https://cardanobudget.com/)**:** a platform showcasing all the proposals and key governance metrics in 2025.
+    
 *   [Cardano Explorer](https://sancho.cexplorer.io/governance/activity): a platform built by [AdaPools](https://adapools.org/) that offers a great on-chain tool to explore governance activities. The explorer includes a dashboard, views of the constitution, voting, activity, DReps, delegations, committees, and stats.
+    
+*   [Cardano Gov Actions](https://x.com/GovActions): an X bot by Alex Karpov that posts governance notifications.
     
 *   [Cardano Press](https://cardanopress.io/): an open-source plugin for WordPress that helps users easily create a Cardano-powered website while its Governance features enable on-chain voting within websites.
     
 *   [Cardano Signer](https://github.com/gitmachtl/cardano-signer): an open-source multifunction tool that can sign and verify data. The tool can also be used for key generation, such as the creation of delegated representative (DRep) keys as well as constitutional committee (CC) cold and hot keys with mnemonic support.
     
+*   [Cardanoscan](https://cardanoscan.io/): a feature-rich blockchain explorer and analytics platform for Cardano, providing information about governance, blockchain, analytics, tokens, and pools.
+    
+*   [Cexplorer](https://cexplorer.io/)**:** the oldest and most featured explorer on the Cardano network, providing information and analytics on various aspects of the Cardano blockchain.
+    
+*   [ChangWatch](https://www.changwatch.com/): a dashboard that shows the vote threshold for each governance action type, with live data on stake distribution and total numbers, broken down SPO, DRep, and constitutional committee (CC).
+    
+*   [CIP-1694](https://www.1694.io/en): This platform proposes a revised on-chain governance system for Cardano, meeting Voltaire's new requirements. Any user can propose governance actions requiring ratification by governance bodies. 
+    
 *   [CIP-95 web/wallet interface](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0095/README.md): extends the existing [CIP-30](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0030/README.md) wallet-web bridge, to support the development of governance-related DApps.
     
 *   [Clarity](https://www.clarity.community/): a platform that builds community governance and management tools for Cardano projects.
     
-*   [Consenz for Organisations and DAOs](https://consenz.io/): enables organizations to focus discussion on one clearly structured document that has been edited by all users in a democratic way. Consenz drives public participation and consensus allowing the community to shape policy and listen without being overwhelmed by the noise.
+*   [DRep Watch](https://drep.watch): monitor DRep activity and voting power in real time. DRep Watch helps ada holders evaluate, compare, and choose DReps, promoting accountability and performance tracking. 
     
 *   [DripDropz Open Source On-Chain Voting](https://github.com/DripDropz/onchain-voting): an open-source solution powered by the Cardano blockchain that offers a framework for those looking to conduct governance or voting on the Cardano blockchain.
     
-*   [Parameter Proposal Guardrails Checker](http://ec2-16-171-11-232.eu-north-1.compute.amazonaws.com:8080/): a web-based tool that verifies the constitutionality of a Parameter Update Proposal – implementing checks for the Constitution’s guardrails.
+*   [Ekklesia](https://2025budget.intersectmbo.org): a platform for budget reconciliation polling, Ekklesia helps DReps support treasury proposals. It was key in the 2025 budgeting process, encouraging early, transparent coordination. 
+    
+*   [Governance Space](https://governancespace.com): a multi-chain blockchain governance platform for decentralized autonomous organizations (DAOs), projects, and institutions seeking transparency, security, and efficiency in their decision-making processes.  
+    
+*   [GovTool](http://govtool.io): an interface for core governance actions outlined in CIP-1694, facilitating DRep registration, delegation, and voting on governance actions. 
+    
+*   [Multi-Sig Platform](https://multisig.meshjs.dev/governance): an open-source multi-signature platform for the Cardano blockchain, enabling teams like DAOs and DReps to manage shared treasuries securely. It facilitates collective participation in Cardano governance by allowing the creation of multisig wallets, defining signing rules, and enabling groups to vote on governance actions.
+    
+*   [Reach Your People (RYP)](https://www.ryp.io/)**:** a community integration system for Discord on Cardano, allowing users to connect their social profiles and wallets to stay updated on topics of interest.
     
 *   [Round Table](https://roundtable.adaodapp.xyz/): an open-source wallet that allows you to easily create a multi-signature wallet. This can support collective registration as a DRep.
     
-*   [SanchoNet GovTool (Voltaire GovTool)](https://docs.sanchogov.tools/about/what-is-sanchonet-govtool): the SanchoNet GovTool allows ada holders to experience and test some of the governance features described in [CIP-1694](https://www.1694.io/) in a simple, guided experience. SanchoNet is the testnet version of the Voltaire GovTool, allowing ada holders to register to become DReps, delegate voting power, and review and vote on governance actions.
+*   [SanchoNet](https://sancho.network): Cardano’s dedicated governance testnet. It allows sandboxed experimentation and collaborative development, encouraging users to be Sancho SPOs and DReps, and developers to build tools. 
     
 *   [Summon Platform](https://summonplatform.io/): allows ada holders to submit and vote on proposals for open and transparent decentralized autonomous organization (DAO) governance.
     
-*   [Tempo](https://tempo.vote/): simplifies the vote delegation and DRep registration processes, providing insights on DRep voting behavior, profile creation features, and a discussion forum. Tempo also helps DAOs build transparent governance rules with their governance tokens, participate in discussions, and vote through polls efficiently.
+*   [SyncAI](https://www.syncai.network): an AI-powered governance and identity platform simplifying participation. SyncAI is building on-chain AI agents for smarter, intuitive Web3 experiences, enhancing Cardano governance. 
+    
+*   [Tempo](https://tempo.vote): this governance coordination dashboard tracks proposals, votes, and DRep behavior. Tempo fosters community engagement with public commenting and transparent voting records. 
+    
+*   [Upstream's Cardano DRep Explorer](https://upstream.org.uk/cardano-drep-explorer/): an AI-powered tool designed to help Cardano community members find DReps whose values and goals align with their own. Analyzing DReps' public statements, voting history, and other data simplifies the research process, aiming to enhance informed delegation and participation in Cardano's governance.
     
 *   [VibrantNet](https://www.vibrantnet.io/): a community integration system with Cardano Discord Bot, Hazelnet.
     
-*   [Vote-supporting wallets](https://docs.sanchogov.tools/how-to-use-the-govtool/getting-started/get-a-compatible-wallet): not every Cardano wallet currently supports the ability to delegate a holder’s vote to a DRep or vote as a DRep on key governance issues. Current compatible wallets include [Lace](https://www.lace.io/), [Yoroi](https://yoroi-wallet.com/#/), [NuFi](https://nu.fi/), and [Demos](https://drive.google.com/file/d/1PegeogP3pEsASFsBiRNGjXSAEJ9T51xT/view) (a clone of the Nami wallet made for the beta, available on Chromium browsers with developer mode on and 'load unpacked').
+*   **Vote-supporting wallets**: not every Cardano wallet currently supports the ability to delegate a holder’s vote to a DRep or vote as a DRep on key governance issues. Current compatible wallets include [Lace](https://www.lace.io/), [Begin](https://begin.is/), [Eternl](https://eternl.io), [Yoroi](https://yoroi-wallet.com/#/), and [NuFi](https://nu.fi/).
     
 *   [Voteaire](https://voteaire.io/): allows everyone in the ecosystem to create a poll. All results are weighted. All proposals and votes are stored publicly on-chain.
     
 
-_The original list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, Fernando Sanchez, and Rupert Whitehead. _The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
+_The original list of tools was compiled thanks to the work done by_ Anita Jovic, Olga Hryniuk, Fernando Sanchez, Rupert Whitehead, and Ivan Irakoze. _The list is provided for informational purposes only. Inclusion does not imply any warranty or endorsement._
 
 _Essential Cardano is your site! If you would like to add tools to this list, please do so by suggesting an edit._
