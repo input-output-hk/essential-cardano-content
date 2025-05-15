@@ -328,6 +328,8 @@ Here is a list of available tools and resources according to categories:
 
 *   [$handle](https://handle.me/): a platform that simplifies blockchain virtual identity through custom Cardano addresses.
     
+*   [1694.io](//1694.io): 1694.io helps hot wallet and CLI DReps manage metadata and connect with delegators. Ada holders can track DRep impact and explore on-chain participation, with off-chain data and engagement history coming soon.
+    
 *   [1694.tools](https://1694-tools.vercel.app/): a Cardano proposal explorer that allows users to find information on various Cardano proposals, including their status and funding, and offers tools to view proposals and dReps, learn with AI, and export data.
     
 *   [A New Dawn](https://anewdawn.vision): a curated hub making Cardano governance approachable. A New Dawn offers educational content on delegation, participation, and viewing proposed enhancements, highlighting ecosystem builders.
@@ -353,8 +355,6 @@ Here is a list of available tools and resources according to categories:
 *   [Cexplorer](https://cexplorer.io/)**:** the oldest and most featured explorer on the Cardano network, providing information and analytics on various aspects of the Cardano blockchain.
     
 *   [ChangWatch](https://www.changwatch.com/): a dashboard that shows the vote threshold for each governance action type, with live data on stake distribution and total numbers, broken down SPO, DRep, and constitutional committee (CC).
-    
-*   [CIP-1694](https://www.1694.io/en): This platform proposes a revised on-chain governance system for Cardano, meeting Voltaire's new requirements. Any user can propose governance actions requiring ratification by governance bodies. 
     
 *   [CIP-95 web/wallet interface](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0095/README.md): extends the existing [CIP-30](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0030/README.md) wallet-web bridge, to support the development of governance-related DApps.
     
@@ -388,7 +388,7 @@ Here is a list of available tools and resources according to categories:
     
 *   [VibrantNet](https://www.vibrantnet.io/): a community integration system with Cardano Discord Bot, Hazelnet.
     
-*   **Vote-supporting wallets**: not every Cardano wallet currently supports the ability to delegate a holder’s vote to a DRep or vote as a DRep on key governance issues. Current compatible wallets include [Lace](https://www.lace.io/), [Begin](https://begin.is/), [Eternl](https://eternl.io), [Yoroi](https://yoroi-wallet.com/#/), and [NuFi](https://nu.fi/).
+*   **Vote-supporting wallets**: not every Cardano wallet currently supports the ability to delegate a holder’s vote to a DRep or vote as a DRep on key governance issues. Current compatible wallets include [Begin](https://begin.is/), [Eternl](https://eternl.io), [Lace](https://www.lace.io/), [NuFi](https://nu.fi/), and [Yoroi](https://yoroi-wallet.com/#/).
     
 *   [Voteaire](https://voteaire.io/): allows everyone in the ecosystem to create a poll. All results are weighted. All proposals and votes are stored publicly on-chain.
     
