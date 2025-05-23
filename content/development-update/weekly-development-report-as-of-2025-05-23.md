@@ -23,7 +23,7 @@ In other news:
     
 *   [Trust Wallet](https://x.com/TrustWallet/status/1921930417336414348) has rolled out an update enabling in-app DRep delegation for Cardano users.
     
-*   [Emurgo](https://x.com/bigpeyYT/status/1924475894514553287) has confirmed that it will no longer participate in Cardano governance using Genesis ADA.
+*   [Emurgo](https://x.com/bigpeyYT/status/1924475894514553287) has confirmed that it will no longer participate in Cardano governance using genesis ada.
     
 *   [Liqwid Labs](https://x.com/liqwidfinance/status/1924518056073519533) announced a new integration between Begin Wallet and Liqwid Finance, improving accessibility for users interacting with DeFi on Cardano.
     
