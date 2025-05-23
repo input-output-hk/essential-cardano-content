@@ -1,5 +1,5 @@
 ---
-title: Mithril: powering lightweight, efficient, and secure access to the blockchain
+title: Mithril – powering lightweight, efficient, and secure access to the blockchain
 tags:
   - Mithril
   - light wallet
