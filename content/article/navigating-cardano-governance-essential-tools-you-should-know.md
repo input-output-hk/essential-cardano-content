@@ -15,9 +15,7 @@ Voltaire puts the full power of decision-making directly into the hands of the c
 To help you navigate this new landscape, here is a list of essential tools and platforms that make Cardano governance more transparent, easier to navigate, and inclusive. And since governance is moving fast on Cardano, we’ll keep this list updated as more arrive! Anything we’ve missed? Any corrections needed? Submit a PR below!
 
 ## Cardano governance tools
-
-*   [$handle](https://handle.me/)) (🐦: [@adahandle](https://x.com/adahandle)): a platform that simplifies blockchain virtual identity through custom Cardano addresses.
-    
+  
 *   [1694.io](//1694.io) (🐦: [@LidoNation](https://x.com/LidoNation)): [1694.io](//1694.io) helps hot wallet and CLI DReps manage metadata and connect with delegators. Ada holders can track DRep impact and explore on-chain participation, with off-chain data and engagement history coming soon.
     
 *   [1694.tools](https://1694-tools.vercel.app/) (🐦: [@TheUnpopularEL](https://x.com/TheUnpopularEL)): a Cardano proposal explorer that allows users to find information on various Cardano proposals, including their status and funding, and offers tools to view proposals and DReps, learn with AI, and export data.
@@ -51,6 +49,8 @@ To help you navigate this new landscape, here is a list of essential tools and p
 *   [CIP-95 web/wallet interface](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0095/README.md) (🐦: [@Cardano\_CF](https://x.com/Cardano_CF)): extends the existing [CIP-30](https://github.com/cardano-foundation/CIPs/blob/master/CIP-0030/README.md) wallet-web bridge to support the development of governance-related DApps.
     
 *   [Clarity](https://www.clarity.community/) (🐦: [@clarity\_dao](https://x.com/clarity_dao)): a platform that builds community governance and management tools for Cardano projects.
+    
+*   [DRep Handles](https://docs.handle.me/docs/Handles/5_DRep_Handles#DRep_Handles_Resolution) (🐦: [@adahandle](https://x.com/adahandle)): The Cardano DRep Dashboard from $handle allows DReps to link their Handle or SubHandle or to DRep IDs through a secure on-chain method. The Handle or SubHandle can then be shared and easily searched across every Governance interface on Cardano.
     
 *   [DRep Watch](https://www.drep.watch/) (🐦: [@dRepWatch](https://x.com/dRepWatch)): monitors DRep activity and voting power in real time. DRep Watch helps ada holders evaluate, compare, and choose DReps, promoting accountability and performance tracking. 
     
