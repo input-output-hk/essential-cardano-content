@@ -52,6 +52,8 @@ To help you navigate this new landscape, here is a list of essential tools and p
     
 *   [Clarity](https://www.clarity.community/) (🐦: [@clarity\_dao](https://x.com/clarity_dao)): a platform that builds community governance and management tools for Cardano projects.
     
+*   [DRep Handles](https://docs.handle.me/docs/Handles/5_DRep_Handles#DRep_Handles_Resolution): The Cardano DRep Dashboard from $handle allows DReps to link their Handle or SubHandle or to DRep IDs through a secure on-chain method. The Handle or SubHandle can then be shared and easily searched across every Governance interface on Cardano.
+    
 *   [DRep Watch](https://www.drep.watch/) (🐦: [@dRepWatch](https://x.com/dRepWatch)): monitors DRep activity and voting power in real time. DRep Watch helps ada holders evaluate, compare, and choose DReps, promoting accountability and performance tracking. 
     
 *   [DripDropz Open Source On-Chain Voting](https://github.com/DripDropz/onchain-voting) (🐦: [@DripDropz\_io](https://x.com/DripDropz_io)): an open-source framework powered by the Cardano blockchain for those looking to conduct governance or voting on Cardano.
