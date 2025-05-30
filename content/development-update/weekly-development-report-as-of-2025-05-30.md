@@ -30,7 +30,7 @@ In other news:
 
 ### CORE TECHNOLOGY
 
-This week, the **performance and tracing** team completed feature benchmarks for the new `ledger-metrics tracer` and the \`InboundGovernor optimizations**\`**, providing fresh performance data for both components. The team also merged Ledger metrics into the codebase, and two hotfixes were issued for the legacy tracing path to keep existing dashboards stable.
+This week, the **performance and tracing** team completed feature benchmarks for the new `ledger-metrics tracer` and the `InboundGovernor` optimizations, providing fresh performance data for both components. The team also merged ledger metrics into the codebase, and two hotfixes were issued for the legacy tracing path to keep existing dashboards stable.
 
 On infrastructure, the team drafted a migration plan for on-disk benchmarks — covering both LMDB and the forthcoming LSM-tree backend — and produced an initial impact analysis for Leios. In the new tracing stack, the tracer service was decoupled from the node, and forwarding over TCP is now supported, enabling more flexible deployment topologies.
 
