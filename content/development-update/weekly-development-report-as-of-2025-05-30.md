@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/9cfa077d-3d55-4d65-a6ac-6439f80fca21/
+image: https://ucarecdn.com/169e5471-dfe6-45a1-8277-7e8ddd315d11/
 image_text: Weekly development report as of 2025-05-30
 ---
 
@@ -54,8 +54,8 @@ The **Lace** team launched its Bitcoin DeFi page in conjunction with the Bitcoin
 
 The **Hydra** team took a major step toward a lightweight node by completing the full [Blockfrost chain-following layer](https://github.com/cardano-scaling/hydra/issues/1305). Deposit handling was tightened with a [new validation check](https://github.com/cardano-scaling/hydra/issues/1951), and the explorer now tracks v.0.21 thanks to an [update to hydra-explorer](https://github.com/cardano-scaling/hydra-explorer/issues/45). User experience improvements included displaying the failing transaction for `PostTx` errors, with [event-log rotation](https://github.com/cardano-scaling/hydra/issues/1581) nearing completion. Furthermore, development of a [head-status endpoint](https://github.com/cardano-scaling/hydra/issues/1957) and [simplified script discovery](https://github.com/cardano-scaling/hydra/issues/1441) is underway. 
 
-Future plans involve merging the final [deposit-logic adjustments](https://github.com/cardano-scaling/hydra/pull/1978), finishing event-log rotation, streamlining script discovery, and improving `etcd` diagnostics through [better error surfaces](https://github.com/cardano-scaling/hydra/issues/2026) and [connection-handling fixes](https://github.com/cardano-scaling/hydra/issues/1937). Completing the [head-status query](https://github.com/cardano-scaling/hydra/issues/1957) remains a key priority as Hydra advances towards its Glacier-ready release.  
-  
+Future plans involve merging the final [deposit-logic adjustments](https://github.com/cardano-scaling/hydra/pull/1978), finishing event-log rotation, streamlining script discovery, and improving `etcd` diagnostics through [better error surfaces](https://github.com/cardano-scaling/hydra/issues/2026) and [connection-handling fixes](https://github.com/cardano-scaling/hydra/issues/1937). Completing the [head-status query](https://github.com/cardano-scaling/hydra/issues/1957) remains a key priority as Hydra advances towards its Glacier-ready release.
+
 The **Mithril** team focused on supporting Cardano node v.10.4.1 and UTXO-HD in the aggregator, signer, and client. They continued working on the DMQ node implementation, advancing the implementation of the local message submission and local message notification node-to-client mini-protocols in the Pallas library. They also worked on extending the aggregator metrics to record the usage of different client types.
 
 Finally, they fixed a [bug in the Cardano DB v2 snapshot](https://github.com/input-output-hk/mithril/issues/2519) that prevented full restoration and continued [refactoring the STM cryptographic library](https://github.com/input-output-hk/mithril/issues/2369).
@@ -80,9 +80,7 @@ The **Catalyst** global interactive map launched this week, offering a user-frie
 
 The **education** team delivered Cardano Days sessions at the [Cardano community Azteca 2025 event](https://azteca.cardanomexicocommunity.com/) in Mexico and gathered feedback on the Cardano Days event held at the [National Technical University of Athens](https://www.ntua.gr/en/) the previous week. The team is also in the process of updating the Cardano developer course and developing educational content on zero-knowledge proofs.
 
-![](https://ucarecdn.com/328e0558-9762-44b6-815b-a775b3c766fd/-/preview/-/format/auto/-/quality/smart/)
-
-### エコシステム
+### ![](https://ucarecdn.com/d71ba188-56e1-482e-8521-fd8e8597dd1b/-/preview/-/format/auto/-/quality/smart/)エコシステム
 
 _本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。_
 
@@ -127,8 +125,8 @@ Cardanoは重要なマイルストンに達し、現在ネットワークでは�
 
 **Hydra**チームは、完全な[Blockfrostチェーン追跡層](https://github.com/cardano-scaling/hydra/issues/1305)を完成させることで軽量ノードに向けた大きな一歩を踏み出しました。[新しい検証チェック](https://github.com/cardano-scaling/hydra/issues/1951)でデポジット処理が強化され、[hydra-explorerの更新](https://github.com/cardano-scaling/hydra-explorer/issues/45)により、エクスプローラーはv.0.21を追跡できるようになりました。ユーザーエクスペリエンスの改善としては、`PostTx`エラーで失敗したトランザクションを表示されるようにしたこと、[イベントログのローテーション](https://github.com/cardano-scaling/hydra/issues/1581)が完了に近づいていることが含まれます。[head-statusエンドポイント](https://github.com/cardano-scaling/hydra/issues/1957)の開発と[スクリプトディスカバリの簡素化](https://github.com/cardano-scaling/hydra/issues/1441)が進められています。Midnight Glacierドロップもサポートしました。
 
-今後の計画としては、最終的な[デポジットロジック調整](https://github.com/cardano-scaling/hydra/pull/1978)のマージ、イベントログのローテーション完了、スクリプト検出の合理化、[エラー表示の改善](https://github.com/cardano-scaling/hydra/issues/2026)と[接続処理の修正](https://github.com/cardano-scaling/hydra/issues/1937)による`etcd`診断の改善が含まれます。HydraがGlacier対応リリースに向けて進む中で、[head-statusクエリ](https://github.com/cardano-scaling/hydra/issues/1957)の完了は、依然として主要優先事項です。  
-  
+今後の計画としては、最終的な[デポジットロジック調整](https://github.com/cardano-scaling/hydra/pull/1978)のマージ、イベントログのローテーション完了、スクリプト検出の合理化、[エラー表示の改善](https://github.com/cardano-scaling/hydra/issues/2026)と[接続処理の修正](https://github.com/cardano-scaling/hydra/issues/1937)による`etcd`診断の改善が含まれます。HydraがGlacier対応リリースに向けて進む中で、[head-statusクエリ](https://github.com/cardano-scaling/hydra/issues/1957)の完了は、依然として主要優先事項です。
+
 **Mithril**チームは、アグリゲーター、サイナー、クライアントにおけるCardanoノードv.10.4.1とUTXO-HDのサポートに注力しました。DMQノード実装の作業を続け、Pallasライブラリーにおけるローカルメッセージ送信とローカルメッセージ通知のnode-to-clientミニプロトコルの実装を進めました。さまざまなクライアントタイプの使用状況を記録するために、アグリゲーターのメトリクス拡張にも取り組みました。
 
 完全な復元を妨げていた[Cardano DB v2スナップショットのバグ](https://github.com/input-output-hk/mithril/issues/2519)を修正し、[STM暗号ライブラリーのリファクタリング](https://github.com/input-output-hk/mithril/issues/2369)を継続しました。
