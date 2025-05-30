@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/169e5471-dfe6-45a1-8277-7e8ddd315d11/
+image: https://ucarecdn.com/9411e248-9278-4931-8b05-dad59a24e484/
 image_text: Weekly development report as of 2025-05-30
 ---
 
@@ -30,7 +30,7 @@ In other news:
 
 ### CORE TECHNOLOGY
 
-This week, the **performance and tracing** team completed feature benchmarks for the new `ledger-metrics tracer` and the `InboundGovernor` optimizations, providing fresh performance data for both components. The team also merged ledger metrics into the codebase, and two hotfixes were issued for the legacy tracing path to keep existing dashboards stable.
+This week, the **performance and tracing** team completed feature benchmarks for the new `ledger-metrics tracer` and the \`InboundGovernor optimizations**\`**, providing fresh performance data for both components. The team also merged Ledger metrics into the codebase, and two hotfixes were issued for the legacy tracing path to keep existing dashboards stable.
 
 On infrastructure, the team drafted a migration plan for on-disk benchmarks — covering both LMDB and the forthcoming LSM-tree backend — and produced an initial impact analysis for Leios. In the new tracing stack, the tracer service was decoupled from the node, and forwarding over TCP is now supported, enabling more flexible deployment topologies.
 
@@ -80,7 +80,9 @@ The **Catalyst** global interactive map launched this week, offering a user-frie
 
 The **education** team delivered Cardano Days sessions at the [Cardano community Azteca 2025 event](https://azteca.cardanomexicocommunity.com/) in Mexico and gathered feedback on the Cardano Days event held at the [National Technical University of Athens](https://www.ntua.gr/en/) the previous week. The team is also in the process of updating the Cardano developer course and developing educational content on zero-knowledge proofs.
 
-### ![](https://ucarecdn.com/d71ba188-56e1-482e-8521-fd8e8597dd1b/-/preview/-/format/auto/-/quality/smart/)エコシステム
+### ![](https://ucarecdn.com/d71ba188-56e1-482e-8521-fd8e8597dd1b/-/preview/-/format/auto/-/quality/smart/)
+
+### エコシステム
 
 _本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。_
 
