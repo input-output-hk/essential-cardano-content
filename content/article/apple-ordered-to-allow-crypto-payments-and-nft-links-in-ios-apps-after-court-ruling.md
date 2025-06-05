@@ -28,17 +28,13 @@ In a **landmark legal decision**, Apple has been **ordered to allow external pay
 
 ### **Key Takeaways:**
 
-*   Developers can now link to **external NFT marketplaces** and **crypto wallets**.  
-      
+*   Developers can now link to **external NFT marketplaces** and **crypto wallets**.
     
-*   Apple **cannot charge a 30% fee** for off-app purchases.  
-      
+*   Apple **cannot charge a 30% fee** for off-app purchases.
     
-*   No tracking, auditing, or approval required from Apple for external transactions.  
-      
+*   No tracking, auditing, or approval required from Apple for external transactions.
     
-*   Developers **do not need special entitlements** to use crypto-based payments.  
-      
+*   Developers **do not need special entitlements** to use crypto-based payments.
     
 
  “This is _hugely bullish_ for mobile crypto games and NFT apps.” — @Xero, Web3 Analyst
@@ -47,14 +43,11 @@ In a **landmark legal decision**, Apple has been **ordered to allow external pay
 
 Following the ruling, Apple updated its policies. Though not loud about it, the change is **clear and binding**:
 
-*    Apps can now **direct users to crypto-based payment platforms**.  
-      
+*    Apps can now **direct users to crypto-based payment platforms**.
     
-*    External links to **NFT collections** are now permitted.  
-      
+*    External links to **NFT collections** are now permitted.
     
-*    Apple can’t collect commissions on external sales anymore.  
-      
+*    Apple can’t collect commissions on external sales anymore.
     
 
 “Apps can now link to an external NFT collection — no entitlement required.”  
@@ -74,21 +67,13 @@ This ruling creates a **huge opportunity** for developers:
 
 ### **Potential Winners:**
 
-1.  **Mobile-first NFT platforms  
-      
-    **
+1.  Mobile-first NFT platforms
     
-2.  **Play-to-Earn (P2E) games  
-      
-    **
+2.  Play-to-Earn (P2E) games
     
-3.  **Crypto wallets and exchanges  
-      
-    **
+3.  Crypto wallets and exchanges
     
-4.  **Web3 marketplaces  
-      
-    **
+4.  Web3 marketplaces
     
 
 With Apple no longer gatekeeping payments, expect a **flood of new iOS Web3 apps**.
@@ -99,33 +84,32 @@ With Apple no longer gatekeeping payments, expect a **flood of new iOS Web3 apps
 
 ## **Expert Opinions**
 
-*   **Alex Masmej**, Crypto Founder:  
-      
-    “This is _absolutely huge_ for crypto on iOS.”  
+*   **Alex Masmej**, Crypto Founder:
     
-*   **Crypto Twitter Reacts  
-      
-      
-    **"Web3 mobile adoption just got a massive green light. Apple finally bows to decentralization."  
+    “This is _absolutely huge_ for crypto on iOS.”
+    
+*   \*\*Crypto Twitter Reacts
+    
+    \*\*"Web3 mobile adoption just got a massive green light. Apple finally bows to decentralization."  
     — @build\_in\_web3
     
 
 ## **FAQs**
 
-**Q1: Can apps now use crypto payments on iOS?  
-**Yes, developers can now link to external crypto-based payment platforms without Apple interference.
+Q1: Can apps now use crypto payments on iOS?  
+Yes, developers can now link to external crypto-based payment platforms without Apple interference.
 
-**Q2: Will Apple still charge its 30% fee?  
-**No. For purchases made outside the app (via external links), Apple cannot charge any fees.
+Q2: Will Apple still charge its 30% fee?  
+No. For purchases made outside the app (via external links), Apple cannot charge any fees.
 
-**Q3: Can iOS apps link to NFT collections?  
-**Yes. Apple now allows links to external NFT platforms directly from the app.
+Q3: Can iOS apps link to NFT collections?  
+Yes. Apple now allows links to external NFT platforms directly from the app.
 
-**Q4: When does this change take effect?  
-**Immediately. The court has enforced the injunction without delay.
+Q4: When does this change take effect?  
+Immediately. The court has enforced the injunction without delay.
 
-**Q5: Will this affect global developers too?  
-**So far, this applies to U.S. enforcement. But if Apple expands it globally, the impact could be huge.  
+Q5: Will this affect global developers too?  
+So far, this applies to U.S. enforcement. But if Apple expands it globally, the impact could be huge.
 
 ## **Final Thoughts: The Future of Apple and Web3**
 
