@@ -82,7 +82,7 @@ They are also preparing for the Cardano Days event at the Institute of Science T
   
 ![](https://ucarecdn.com/3b9847e9-010e-428c-a8ff-ee5f937bc981/)
 
-### **エコシステム**
+### エコシステム
 
 _本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。_
 
@@ -102,7 +102,6 @@ Plutusスクリプト数は13万8,365、うち7,213がAikenスクリプトです
     
 *   [Cardano財団](https://x.com/Cardano_CF/status/1933147976530059367)が真正性検証のためのオープンソース追跡ソリューションOriginateを立ち上げ
     
-
 ### コアテクノロジー
 
 この数週間、**SRE**（サイト信頼性エンジニアリング）チームは、Cardanoの環境の改善と定期メンテナンスに取り組んできました。`cardano-parts`、`cardano-playground`、`cardano-mainnet`クラスターをNixパッケージ`25.05`とNix `2.29.1`に更新し、すべてのマシンは現在デプロイされています。`cardano-airgap`リポジトリは、Hydra CI（継続的統合）サーバー経由でISOダウンロードを提供するようになりました。
