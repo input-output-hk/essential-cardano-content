@@ -15,7 +15,7 @@ Voltaire puts the full power of decision-making directly into the hands of the c
 To help you navigate this new landscape, here is a list of essential tools and platforms that make Cardano governance more transparent, easier to navigate, and inclusive. And since governance is moving fast on Cardano, we’ll keep this list updated as more arrive! Anything we’ve missed? Any corrections needed? Submit a PR below!
 
 ## Cardano governance tools
-  
+
 *   [1694.io](//1694.io) (🐦: [@LidoNation](https://x.com/LidoNation)): [1694.io](//1694.io) helps hot wallet and CLI DReps manage metadata and connect with delegators. Ada holders can track DRep impact and explore on-chain participation, with off-chain data and engagement history coming soon.
     
 *   [1694.tools](https://1694-tools.vercel.app/) (🐦: [@TheUnpopularEL](https://x.com/TheUnpopularEL)): a Cardano proposal explorer that allows users to find information on various Cardano proposals, including their status and funding, and offers tools to view proposals and DReps, learn with AI, and export data.
@@ -37,6 +37,8 @@ To help you navigate this new landscape, here is a list of essential tools and p
 *   [Cardano Gov Actions](https://x.com/GovActions) (🐦: [@semsorock](https://x.com/semsorock)): an X bot by Alex Karpov that posts governance notifications.
     
 *   [Cardano Gov Tool](https://gov.tools) (🐦: [@IntersectMBO](https://x.com/IntersectMBO)): an interface for core governance actions outlined in CIP-1694, facilitating DRep registration, delegation, and voting on governance actions. 
+    
+*   [Cardano Governance Voting Tool](https://voting.cardanofoundation.org/) (🐦: [@Cardano\_CF](https://x.com/Cardano_CF)): a simple tool to help every Cardano stakeholder participate in on-chain governance with confidence. The Cardano Governance Voting Tool helps users create, sign, and submit governance votes with proper rationale documentation, and generate formatted PDFs for transparency and record-keeping.
     
 *   [CardanoPress](https://cardanopress.io/) (🐦: [@CardanoPress](https://x.com/CardanoPress)): an open-source plugin for WordPress that helps users easily create a Cardano-powered website while its governance features enable on-chain voting within websites.
     
