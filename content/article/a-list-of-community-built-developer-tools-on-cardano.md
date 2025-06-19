@@ -346,6 +346,10 @@ Here is a list of available tools and resources according to categories:
     
 *   [Cardano Gov Actions](https://x.com/GovActions): an X bot by Alex Karpov that posts governance notifications.
     
+*   [Cardano Gov Tool](https://gov.tools): an interface for core governance actions outlined in CIP-1694, facilitating DRep registration, delegation, and voting on governance actions. 
+    
+*   [Cardano Governance Voting Tool](https://voting.cardanofoundation.org/): a simple tool to help every Cardano stakeholder participate in on-chain governance with confidence. The Cardano Governance Voting Tool helps users create, sign, and submit governance votes with proper rationale documentation, and generate formatted PDFs for transparency and record-keeping.
+    
 *   [Cardano Press](https://cardanopress.io/): an open-source plugin for WordPress that helps users easily create a Cardano-powered website while its Governance features enable on-chain voting within websites.
     
 *   [Cardano Signer](https://github.com/gitmachtl/cardano-signer): an open-source multifunction tool that can sign and verify data. The tool can also be used for key generation, such as the creation of delegated representative (DRep) keys as well as constitutional committee (CC) cold and hot keys with mnemonic support.
