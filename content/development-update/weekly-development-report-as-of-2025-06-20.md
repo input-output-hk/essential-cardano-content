@@ -50,8 +50,7 @@ The **Leios** team focused on improving simulation analysis tools and creating m
 
 See [Leios weekly updates](https://leios.cardano-scaling.org/news/2025/06/10/weekly-progress-summary) for more details.
 
-###   
-CATALYST
+### CATALYST
 
 **Project Catalyst** just held its [194th town hall](https://x.com/Catalyst_onX/status/1935383828845232539), edging ever closer to the 200 mark. The team examined the recent project [close-out video in more detail](https://www.youtube.com/watch?v=bSXbTjhCLAc), sharing key highlights and lessons learned from the last three funding rounds.
 
@@ -108,8 +107,7 @@ CDDL生成ツールの改良により、可読性をさらに向上させまし�
 
 詳細は、[Leios週刊更新情報](https://leios.cardano-scaling.org/news/2025/06/10/weekly-progress-summary)をご覧ください。
 
-###   
-CATALYST
+### CATALYST
 
 **Project Catalyst**は[第194回タウンホール](https://x.com/Catalyst_onX/status/1935383828845232539)を開催しました。まもなく200回に達する勢いです。[プロジェクトクローズアウトに関する最近の動画](https://www.youtube.com/watch?v=bSXbTjhCLAc)を詳しく検証し、過去3回の資金調達ラウンドから得られた主要なハイライトと教訓を共有しました。
 
