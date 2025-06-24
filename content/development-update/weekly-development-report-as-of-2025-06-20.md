@@ -25,8 +25,6 @@ In other news:
     
 *   [Iagon](https://x.com/IagonOfficial/status/1935413139128074282) has partnered with the Ford Motor Company to explore using the Cardano blockchain and Iagon's decentralized cloud storage for managing legal documents and data
     
-*   [Surance Plus](https://x.com/SurancePlus/status/1934863843211247849) announced plans to integrate Midnight as one of its partnered blockchain networks.
-    
 
 ### CORE TECHNOLOGY
 
@@ -62,10 +60,10 @@ With nearly 50 projects wrapping up each month, Catalyst will highlight some of 
 
 This week, the **education** team is preparing for next week’s Cardano Days event at the Institute of Science Tokyo, which will be held on June 24-25. [Registration](https://t.co/RCNjzyABoW) is now open.
 
-Additionally, work is continuing on the Cardano Education Program (CEP). This program will offer a series of self-paced learning modules covering all aspects of Cardano, complete with suggested learning paths and optional supplementary modules.  
-  
-![](https://ucarecdn.com/1de31fd9-256e-4435-87ac-c7c94064419b/-/preview/-/format/auto/-/quality/smart/)  
-  
+Additionally, work is continuing on the Cardano Education Program (CEP). This program will offer a series of self-paced learning modules covering all aspects of Cardano, complete with suggested learning paths and optional supplementary modules.
+
+![](https://ucarecdn.com/1de31fd9-256e-4435-87ac-c7c94064419b/-/preview/-/format/auto/-/quality/smart/)
+
 エコシステム
 
 Cardanoは主要なエコシステム指標全体で着実に成長を続けています。プロジェクト数は2,003に達し、委任済みウォレット数も増加しています。ネットワークが処理したトランザクション数は1億1063万となり、これはオンチェーンアクティビティにおける週0.19%の増加を反映しています。
@@ -81,8 +79,6 @@ Cardanoは主要なエコシステム指標全体で着実に成長を続けて�
 *   [Brave Wallet](https://x.com/StakeWithPride/status/1935719586202276249)がベータ版でCardanoネットワークをサポート
     
 *   [Iagon](https://x.com/IagonOfficial/status/1935413139128074282)がFord Motor Companyと提携して、法律文書とデータの管理のためにCardanoブロックチェーンとIagonの分散型クラウドストレージの活用を模索
-    
-*   [Surance Plus](https://x.com/SurancePlus/status/1934863843211247849)が提携ブロックチェーンネットワークの1つとしてMidnightの統合を発表
     
 
 ### コアテクノロジー
