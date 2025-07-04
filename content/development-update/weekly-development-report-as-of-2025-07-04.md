@@ -69,13 +69,13 @@ Cardanoエコシステムは引き続き堅調に成長しています。ネッ�
 
 その他のニュース：
 
-●    [MuesliSwap](https://x.com/MuesliSwapTeam/status/1940852862256620017)はCardanoに構築されたMidnightベースのプロジェクト用に特化した包括的なローンチプラットフォーム、MidStarterAppを発表
+*   [MuesliSwap](https://x.com/MuesliSwapTeam/status/1940852862256620017)はCardanoに構築されたMidnightベースのプロジェクト用に特化した包括的なローンチプラットフォーム、MidStarterAppを発表
 
-●    [Flow DeFi](https://x.com/flowdefi/status/1940118008786997437)は、メインネットの立ち上げ時にプラットフォームがUSDAステーブルコインをサポートし、成長中のCardano DeFiスタック強化を確認
+*   [Flow DeFi](https://x.com/flowdefi/status/1940118008786997437)は、メインネットの立ち上げ時にプラットフォームがUSDAステーブルコインをサポートし、成長中のCardano DeFiスタック強化を確認
 
-●    [CTRL Wallet](https://x.com/Ctrl_Wallet/status/1940236163157303597)はEmurgoとの提携を発表。CNTサポートはすでに稼働しており、さらなる統合を予定
+*   [CTRL Wallet](https://x.com/Ctrl_Wallet/status/1940236163157303597)はEmurgoとの提携を発表。CNTサポートはすでに稼働しており、さらなる統合を予定
 
-●    [BTC Grow](https://x.com/btcgrow_io/status/1940044712750284907)は、7月にテストをネットロールアウトし、Cardanoスマートコントラクトを活用したノンカストディアルBTCステーキングの計画を発表
+*   [BTC Grow](https://x.com/btcgrow_io/status/1940044712750284907)は、7月にテストをネットロールアウトし、Cardanoスマートコントラクトを活用したノンカストディアルBTCステーキングの計画を発表
 
 ### コアテクノロジー
 
