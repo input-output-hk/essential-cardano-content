@@ -11,13 +11,13 @@ image_text: Weekly development report as of 2025-07-11
 
 ### ECOSYSTEM UPDATES
 
-Cardano continues to demonstrate consistent progress across multiple dimensions of its ecosystem. Currently, there are 2,005 projects actively building on the blockchain, while delegated wallets reached 1.33 million, reflecting steady staking participation. Transaction volume increased modestly, now totaling 110.63 million.
+Cardano continues to demonstrate consistent progress across multiple dimensions of its ecosystem. Currently, there are 2,005 projects actively building on the blockchain, while delegated wallets reached 1.33 million, reflecting steady staking participation. Transaction volume increased modestly, now totaling 111.26 million.
 
-In terms of tokenization, the platform supports 10.84 million native tokens across 217,780 distinct token policies, highlighting ongoing asset creation and deployment. Smart contracts also maintain solid growth, with 139,225 Plutus scripts and 7,888 Aiken scripts live on the network. Governance activity is stable, with 1,378 DReps (including 975 active representatives) contributing to decentralization. Developer engagement remains robust, shown by 306 GitHub commits, marking an 18% increase in technical contributions.
+Cardano now supports 10.84 million native tokens across 217,780 distinct token policies, highlighting ongoing asset creation and deployment. Smart contracts also maintain solid growth, with 139,225 Plutus scripts and 7,888 Aiken scripts live on the network. Governance activity is stable, with 1,378 DReps (including 975 active representatives) contributing to decentralization. Developer engagement remains robust, shown by 306 GitHub commits, marking an 18% increase in technical contributions since last week.
 
 In other news:
 
-*   [Cardano Foundation](https://x.com/Cardano_CF/status/1942569390282584380) has launched Reeve, an open-source tool designed for on-chain financial reporting. They also published their 2024 [Financial Insights Report](https://x.com/Cardano_CF/status/1943309576691990904) using this new solution
+*   [The Cardano Foundation](https://x.com/Cardano_CF/status/1942569390282584380) has launched Reeve, an open-source tool designed for on-chain financial reporting, and also published their 2024 [Financial Insights Report](https://x.com/Cardano_CF/status/1943309576691990904) using this new solution
     
 *   [Intersect](https://x.com/IntersectMBO/status/1942532537911304195) announced a partnership with SundaeSwap to manage treasury oversight for the upcoming 39 withdrawal governance actions
     
