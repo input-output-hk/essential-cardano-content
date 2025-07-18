@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/bdec3258-4b27-4a9d-8baf-adbd9fadd1ef/
+image: https://ucarecdn.com/fff5f7b7-4aed-4557-968d-add547985f20/
 image_text: Weekly development report as of 2025-07-18
 ---
 
@@ -38,8 +38,8 @@ The team also made improvements to the `constrained-generators` library, [cleani
 
 This week, the **Mithril** team completed the [certificate chain synchronization](https://github.com/input-output-hk/mithril/issues/2534) in the follower aggregator. They also continued [implementing the mock DMQ node](https://github.com/input-output-hk/mithril/issues/2627) to support end-to-end testing of decentralized signature diffusion. Additionally, the team worked on enhancing the 'verify' command on the client CLI to provide a detailed list of invalid or missing immutable files and kept preparing for the upgrade to Cardano node v.10.5 and the upcoming Mithril distribution.
 
-Finally, they worked on [refactoring the 'CardanoNetwork'](https://github.com/input-output-hk/mithril/issues/2590) entity, enhancing the maintainability of the new website, and made progress refactoring the STM cryptographic library.  
-  
+Finally, they worked on [refactoring the 'CardanoNetwork'](https://github.com/input-output-hk/mithril/issues/2590) entity, enhancing the maintainability of the new website, and made progress refactoring the STM cryptographic library.
+
 The **Leios** team achieved significant milestones in protocol development and analysis, successfully demonstrating high-throughput capabilities and exploring new protocol variants. The team conducted comprehensive experiments with the Stracciatella variant of Leios, analyzed the Linear Leios throughput efficiency, and implemented new simulation capabilities. Read this [full report](https://leios.cardano-scaling.org/news/2025/07/07/weekly-progress-summary) for more details.
 
 ### CATALYST
@@ -50,11 +50,9 @@ In other news, Fund14 is scheduled to officially launch on July 23, 2025. During
 
 ### EDUCATION
 
-This week, the **education** team focused on the Mastering Cardano book and updates to the Cardano education program.  
-  
-  
-![](https://ucarecdn.com/0541a7ca-9e76-4486-8bb3-69aeac7020c9/-/preview/-/format/auto/-/quality/smart/)  
-エコシステム
+This week, the **education** team focused on the Mastering Cardano book and updates to the Cardano education program.
+
+![](https://ucarecdn.com/65064fa6-c20c-4e9e-bc4c-f14155f289de/-/preview/-/format/auto/-/quality/smart/)エコシステム
 
 Cardanoはエコシステム全体で着実な成長と活動を続けています。現在、Cardanoで構築されているプロジェクトは2,006件と好調を維持しており、委任されたウォレット数は133万件と、ネットワークへの継続的な関与を反映しています。トランザクション数は前週比0.27%増の1億1,156万を数え、オンチェーンでの利用が継続していることを示しています。
 
@@ -64,7 +62,7 @@ Cardanoはエコシステム全体で着実な成長と活動を続けていま�
 
 *   Emurgoは[Cardano Card](https://x.com/thecardanocard/status/1945043214601478175)をローンチ、ADA、SOL、BTC、USDC、USDTでの支払いが可能に
     
-*   [Intersect](https://x.com/IntersectMBO/status/1943696686150291631)はスマートコントラクトの設定を安全に管理するため、5つの組織で構成される新しい_監視委員会の_設立を発表
+*   [Intersect](https://x.com/IntersectMBO/status/1943696686150291631)はスマートコントラクトの設定を安全に管理するため、5つの組織で構成される新しい\_監視委員会の\_設立を発表
     
 *   [AR.IO Network](http://ar.io)とMidnight Networkは、複数の共同プロジェクトに焦点を当てたパートナーシップを発表、中には分散型ストレージソリューションの提供も
     
@@ -83,8 +81,8 @@ Cardanoはエコシステム全体で着実な成長と活動を続けていま�
 
 **Mithril**チームはフォロワーアグリゲーターの[証明書チェーン同期](https://github.com/input-output-hk/mithril/issues/2534)を完了しました。分散型署名拡散のエンドツーエンドテストをサポートするための、[模擬DMQノードの実装](https://github.com/input-output-hk/mithril/issues/2627)を続けました。無効または欠落している不変ファイルの詳細なリストを提供できるようクライアントCLIにある'verify'コマンドを強化し、Cardanoノードv.10.5と今後のMithrilディストリビューションへのアップグレードの準備を続けました。
 
-['CardanoNetwork'エンティティのリファクタリング](https://github.com/input-output-hk/mithril/issues/2590)、新しいウェブサイトの保守性の強化を行い、STM暗号ライブラリーのリファクタリングを進めました。  
-  
+['CardanoNetwork'エンティティのリファクタリング](https://github.com/input-output-hk/mithril/issues/2590)、新しいウェブサイトの保守性の強化を行い、STM暗号ライブラリーのリファクタリングを進めました。
+
 **Leios**チームはプロトコル開発と分析において重要なマイルストーンを達成し、ハイスループット能力を示した他、新しいプロトコルバリアントを調査しました。LeiosのStracciatellaバリアントを用いて包括的な実験を行い、Linear Leiosのスループット効率を分析し、新しいシミュレーション機能を実装しました。詳細は、この[レポート](https://leios.cardano-scaling.org/news/2025/07/07/weekly-progress-summary)を参照してください。
 
 ### CATALYST
