@@ -8,7 +8,7 @@ tags:
   - Light wallet
 url: ""
 image: https://ucarecdn.com/15f214f0-9918-4bf0-a50d-cff8b0980ef6/
-image_text: ""
+image_text: Cardano Wallets
 ---
 
 ## Wallets
@@ -35,6 +35,10 @@ Daedalus comes bundled with a full Cardano node, so it requires a relatively hig
 
 Yoroi allows for instant initial setup, plus quick and easy operation with minimum usage of system resources. It is also available as a mobile application.
 
+### **Tokeo**
+
+[Tokeo](https://tokeo.io) is a sleek, non-custodial wallet built for the Cardano ecosystem, available on both [iOS and Android](https://download.tokeo.io). It supports ADA, Cardano native tokens, NFTs, and seamless DApp access - with ecosystem insights surfaced through its integrated Explorer tab. Designed for performance and usability, Tokeo offers in-app swaps, real-time portfolio tracking, and a dedicated Rewards tab. It also offers Bitcoin support and multichain functionality for users exploring beyond Cardano.
+
 ### **Eternl**
 
 [Eternl](https://eternl.io) is a Cardano light wallet available as a website/progressive web app (PWA), Chrome browser extension, and mobile app on iOS and Android. Here are some of its key features:
@@ -51,10 +55,6 @@ Yoroi allows for instant initial setup, plus quick and easy operation with minim
 [Nami Wallet](https://namiwallet.io/) is a non-custodial, browser-based wallet extension that interacts with the Cardano blockchain and connects with DApps. It allows users to send and store digital assets, delegate ada, and more.
 
 Nami [recently joined the IOG product family](https://iohk.io/en/blog/posts/2023/11/01/nami-has-a-new-home/) and is fully compatible with Lace, but has limited compatibility with other wallets.
-
-### **Flint**
-
-[Flint](https://flint-wallet.com/) makes it simple and convenient for you to manage your digital assets and explore the exciting world of DeFi. The wallet currently supports sending and receiving assets on Cardano, with support for Solana, Ethereum, and Urbit coming soon.
 
 ### **GeroWallet**
 
