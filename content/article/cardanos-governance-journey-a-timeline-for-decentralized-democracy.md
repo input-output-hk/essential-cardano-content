@@ -110,11 +110,7 @@ The journey towards decentralized governance culminated in the [Chang hard fork]
 
 ### December 2024: Constitutional Convention
 
-```markup
-<iframe width="806" height="451" src="https://www.youtube.com/embed/FU0t_XeZkfQ" title="Reimagining Governance: The Cardano Constitution Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-```
-
-Constitutional Delegates and Travelling Alternates from across the globe gathered simultaneously for the Constitutional Convention in [Buenos Aires](https://iohk.io/en/newsroom/argentina-takes-center-stage-as-cardano-constitutional-convention-kicks-off-in-buenos-aires) and [Nairobi](https://iohk.io/en/newsroom/africa-takes-center-stage-as-cardano-constitutional-convention-kicks-off-in-nairobi). The results were decisive:
+Constitutional Delegates and Travelling Alternates from across the globe [gathered simultaneously for the Constitutional Convention](https://www.youtube.com/embed/FU0t_XeZkfQ) in [Buenos Aires](https://iohk.io/en/newsroom/argentina-takes-center-stage-as-cardano-constitutional-convention-kicks-off-in-buenos-aires) and [Nairobi](https://iohk.io/en/newsroom/africa-takes-center-stage-as-cardano-constitutional-convention-kicks-off-in-nairobi). The results were decisive:
 
 *   [95% approval](https://www.intersectmbo.org/news/celebrating-a-milestone-concluding-the-cardano-constitutional-convention-and-looking-ahead-to-an-on-chain-vote) from delegates to proceed to on-chain ratification of the constitution
     
