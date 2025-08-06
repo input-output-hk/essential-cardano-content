@@ -11,6 +11,8 @@ image: https://ucarecdn.com/10a5b316-b7c3-44aa-975f-34a1a720093f/
 image_text: ""
 ---
 
+日本語版はスクロールダウンしてください。  
+  
 The Cardano community has achieved something truly remarkable in the blockchain industry. Over the past three years, ada holders have helped build the most ambitious decentralized governance program in crypto - complete with its own Constitution, elected representatives, and fully autonomous decision-making systems. This timeline traces the key milestones in this extraordinary journey from concept to reality.
 
 ## The foundational years (2022-2023)
@@ -219,3 +221,215 @@ The journey from CIP-1694’s publication in November 2022 to a fully operationa
 Cardano has proven that blockchain technology can fulfill its promise of democratizing power and creating systems that serve their users rather than centralized authorities.
 
 Cardano’s community has already built tomorrow’s solution. The most ambitious decentralized governance program in blockchain is now a living, breathing democracy that continues to evolve with each vote, proposal, and community decision.
+
+## Cardanoガバナンスの道程：分散型民主主義までのタイムライン
+
+Cardanoコミュニティはブロックチェーン業界で真に注目すべきことを達成した。過去3年間で、ADA保有者は、独自の憲法、選出された代表、完全に自律的な意思決定システムを備えた、クリプト界で最も野心的な分散型ガバナンスプログラムの構築を支援してきた。このタイムラインでは、コンセプトから現実へ至るまでの、この稀有な旅における重要なマイルストーンを辿る。
+
+## 基盤形成期（2022年～2023年）
+
+### **2022年11月：始まり**
+
+エディンバラで開催された[ScotFest](https://www.youtube.com/watch?v=7ILUpdqHvqM&list=PLnPTB0CuBOBxjkB8DdMhy57MriBCHT1RM)は、Cardanoが分散型ガバナンスへと移行するVoltaire期の幕開けとなった。同月、 [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694)の初期バージョンが公開されたが、ここで、ブロックチェーンの意志決定方法を変革することになる最小限のガバナンス原則が概説された。
+
+### **2023年2月～7月：グローバルコミュニティのエンゲージメント**
+
+[コロラドCIP-1694ワークショップ](https://www.youtube.com/watch?v=BWm0S_H_Qyw)は、前例のない一連のコミュニティ協議を開始され、大きな反響が巻き起こった。
+
+*   [グローバルワークショップ助成プログラム](https://www.essentialcardano.io/article/cip-1694-community-workshops)に、世界中から100件近くに上る応募
+    
+*   [応募の80%以上](https://www.essentialcardano.io/article/cip-1694-community-workshops-the-line-up)は、 北米、中南米、アフリカから
+    
+*   世界各地で50件に上るコミュニティ主導のイベント開催
+    
+*   ガバナンスに関するディスカッションに1,000人以上が参加
+    
+*   本シリーズを締めくくったのは、[ツーク](https://forum.cardano.org/t/recap-of-cip-1694-workshop-in-zug/118550)、[東京](https://www.emurgo.io/press-news/recap-key-takeaways-from-the-tokyo-cip-1694-workshop/)、[エディンバラ](https://www.youtube.com/watch?v=18fJMt9qi5k&t=8s&pp=ygUUaW9oayBhZ2Ugdm9sdGFpcmU%3D)の3大ワークショップ
+    
+
+### **2023年7月：インフラの形成**
+
+ガバナンスインフラの二大機構を立ち上げた。
+
+*   [SanchoNet](https://sancho.network/)：ガバナンス機能を安全にテストおよび改良できるテストネット
+    
+*   [Intersect](https://www.intersectmbo.org/)：Cardanoの開発を管理するMBO（メンバーベース組織）立ち上げ時、 [このMBOはガバナンスツールイニシアチブ助成プログラムを提供](https://www.intersectmbo.org/news/press-release-introducing-intersect-a-new-member-based-organization-for-cardano) - 最大168万ADAを授与。
+    
+
+### **2023年8月～9月：エコシステム構築**
+
+コミュニティは、ガバナンスに必要な組織構造の構築を開始。
+
+*   デンバーの[RareEvo](https://rareevo.io/)で、[Input Output Global (IOG)](https://www.iohk.io/)、[EMURGO](https://www.emurgo.io/)、[Cardano財団](https://cardanofoundation.org/)が、CIP-1694、SanchoNet、Intersectに示されるガバナンスの進歩を賞賛
+    
+*   Intersectの最初の委員会の1つとして[オープンソース委員会](https://docs.intersectmbo.org/intersect-membership/intersect-committees/open-source-committee-osc)が発足、リポジトリ管理標準を設定
+    
+*   ADA保有者にガバナンステストの詳細なガイダンスを提供する[SanchoNetドキュメント](https://sancho.network/get-started)を公開
+    
+*   Intersectがメンバーのために効果的に機能するよう、[メンバーシップおよびコミュニティ委員会](https://www.intersectmbo.org/membership)を設立
+    
+
+## ガバナンスエンジンの構築（2023年～2024年）
+
+### **2023年第4四半期：テストと検証**
+
+コミュニティは [温度チェック投票](https://www.intersectmbo.org/news/cip-1694-progress-update)に参加し、Voltaire期の継続について「ほぼ全会一致」を示した。主な進展は以下の通り。
+
+*   ガバナンス機能のための[CIP-95統合](https://github.com/cardano-foundation/CIPs/pull/509)ウォレット
+    
+
+[GovToolベータ版立ち上げ](https://www.intersectmbo.org/news/introducing-the-voltaire-govtool)で、ADA保有者がガバナンス参加を初体験
+
+*   コミュニティによる管理のため[CardanoコアリポジトリをIntersectに移行](https://www.intersectmbo.org/news/open-horizons-cardano-migrates-to-intersect)
+    
+
+### **2024年第1～第2四半期：憲法制定**
+
+[Cardano市民委員会](https://docs.intersectmbo.org/intersect-membership/intersect-committees/civics-committee)を中心とした[Cardano憲法協議期間](https://www.youtube.com/watch?v=mp83Pd9m3jU)。主なマイルストーンは以下の通り。
+
+*   6月、[Cardano暫定憲法公開](https://www.intersectmbo.org/news/introducing-the-interim-constitution-paving-the-way-for-community-governance)
+    
+*   コミュニティによる意見交換のための[グローバル憲法ワークショップシリーズ](https://www.intersectmbo.org/news/have-your-say-kicking-off-global-workshops-to-draft-the-final-constitution)開催発表
+    
+*   DRepキャンペーンプラットフォームおよび憲法委員会ポータルの[助成金受賞者選出](https://docs.intersectmbo.org/intersect-community-grants/grant-projects)
+    
+
+### **2024年5月～6月：代表者登場**
+
+コミュニティはガバナンスの代表者選出を開始。
+
+*   将来の委任代表のトレーニングとサポートを目的とした[DRepパイオニアプログラム](https://www.intersectmbo.org/news/drep-pioneer-workshop-leaders-program)開始
+    
+*   コミュニティが創立団体およびIntersectと肩を並べる3名の代表者を選出する[暫定憲法委員会選挙](https://www.intersectmbo.org/news/meet-the-interim-constitutional-committee)で、4億5600万ADA近くがステーキングされ、個別投票数は1,947件
+    
+
+## ガバナンス稼働
+
+### **2024年8月～10月：世界各地でワークショップ**
+
+52か国でコミュニティ主導ワークショップが63回開催され、1,400人近くのコミュニティメンバーが参加した。
+
+ワークショップの参加者は、その年後半に開催される憲法制定会議で自分達の地域社会を代表する憲法制定代表者と補欠を選出し、憲法草案について議論した。選出されたメンバーは、コスタリカとケニアでの定期的なオンライン会議や2日間のワークショップを通じて、大イベントへ向けて熱心に活動した。
+
+### **2024年9月：Changアップグレード**
+
+分散型ガバナンスへの道のりは[Changハードフォーク](https://iohk.io/jp/blog/posts/2024/08/30/chang-upgrade-a-big-step-in-changing-the-world-with-cardano/)で最高潮に達し、Cardanoブロックチェーンは公式にVoltaire期へと移行した。このマイルストーンの達成内容は以下の通りだ。
+
+*   メインネットへガバナンス機能を完全デプロイ（ブートストラップ戦略の一部として有効になったのは7つのガバナンスアクションのサブセットのみ）
+    
+*   DRepの登録
+    
+*   [GovTool立ち上げ](https://www.intersectmbo.org/news/announcing-the-release-of-cardano-govtool)で実際にガバナンスへの参加が可能に
+    
+
+### **2024年12月：憲法制定会議**
+
+[ブエノスアイレス](https://iohk.io/jp/newsroom/argentina-takes-center-stage-as-cardano-constitutional-convention-kicks-off-in-buenos-aires)と[Nairobi](https://iohk.io/jp/newsroom/africa-takes-center-stage-as-cardano-constitutional-convention-kicks-off-in-nairobi)の憲法制定会議に世界各地から憲法制定代表者と補欠が同時に集合。結果は決定的だった。
+
+*   憲法のオンチェーン批准手続きへの移行を代表者の[95%が承認](https://www.intersectmbo.org/news/celebrating-a-milestone-concluding-the-cardano-constitutional-convention-and-looking-ahead-to-an-on-chain-vote)
+    
+*   コミュニティワークショップから世界各地の代表
+    
+*   憲法はオンチェーン批准へ
+    
+
+## 2025年：分散型ガバナンスの実現
+
+2025年は、ブロックチェーンの未来がコミュニティの手に完全に委ねられ、Cardanoガバナンスに変革がもたらされた。
+
+### **2025年1月：Plominマイルストーン**
+
+[Plominハードフォーク](https://www.emurgo.io/press-news/explainer-the-plomin-hard-fork-cardano/)（Intersectハードフォークワーキンググループの監督のもと）で完全な分散型ガバナンスの実装が可能に
+
+*   Changハードフォークで最初に統合されたガバナンス機能の完全な有効化
+    
+*   2025年1月30日[DRep投票に向けた憲法の提出](https://www.intersectmbo.org/news/cardanos-delegate-endorsed-constitution-now-on-chain-for-dreps-and-the-icc-to-consider)
+    
+
+### **2025年2月：憲法制定**
+
+Cardano憲法は、最高レベルのブロックチェーンガバナンス契約として機能するオンチェーン文書であり、Cardano Voltaireガバナンスフレームワーク内で、コアバリュー、意思決定プロセス、パラメーターガードレール、ADA所有者の権利を確立している。
+
+この基本文書は、エコシステム全体の基本的なルールブックとして、また、憲法委員会がすべてのガバナンスアクションが準拠していることを保証するための参照文書として機能する。本文書は、その重要性から、ADA参加者の75%以上という超多数決によってのみ採択または修正が可能であり、真にコミュニティ主導の文書として、その存在、変更、置き換えには幅広いコンセンサスを必要とする。
+
+2025年2月23日、[憲法はコミュニティによる圧倒的な支持](https://iohk.io/jp/blog/posts/2025/02/27/from-convention-to-ratification-the-cardano-constitution/)を獲得した。
+
+*   DRepの承認しきい値が75%に達した
+    
+*   暫定憲法委員会が全会一致で支持
+    
+*   オンチェーンで正常に施行
+    
+*   デジタル憲法を批准した世界初のブロックチェーンとなる
+    
+
+### **2025年3月～5月：民主的選挙**
+
+コミュニティは、[2025年Cardanoロードマップ案](https://committees.docs.intersectmbo.org/intersect-product-committee/committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-roadmap/2025-proposed-cardano-roadmap-japanese-translation)を[DRep投票63.81%の支持](https://gov.tools/outcomes/governance_actions/56f39054758f1a3cedc1de9225d66bf270b62dfdbfbc5399f1d6d43aceffc636#0)で承認した。
+
+さらに、[Intersect委員会選挙](https://www.intersectmbo.org/news/intersect-committee-elections-april-2025)でコミュニティガバナンスが確立される。
+
+*   選挙期間は2025年3月24日～5月12日
+    
+*   ADA保有者が民主的な委員会選出に参加
+    
+*   [7つの常任委員会](https://committees.docs.intersectmbo.org/)は 現在、コミュニティの監視下で運営されている
+    
+
+### **2025年6月～7月：トレジャリーの進化**
+
+トレジャリー管理は、新たなレベルの透明性とコミュニティコントロールを達成。
+
+*   新憲法委員会選挙は、[中間結果発表](https://intersectmbo.org/news/voting-has-concluded-and-the-preliminary-results-are-in)で締めくくられ、[独立監査報告](https://docs.intersectmbo.org/cardano-facilitation-services/cardano-governance/2025-constitutional-committee-elections/2025-cc-election-results)が結果を確認
+    
+*   [Cardano市民委員会](https://civicscommittee.docs.intersectmbo.org/)などのIntersectワーキンググループは、民主的プロセスを支持
+    
+*   Input | Output Engineering (IOE)は、コミュニティに[開発案を提出](https://iohk.io/jp/blog/posts/2025/06/26/shaping-cardanos-future-input-output-engineering-development-proposal/)
+    
+*   コミュニティからのフィードバックを求めてIntersectプロダクト委員会を通じ[Input Output Research (IOR)のビジョン](https://iohk.io/jp/blog/posts/2025/02/05/io-researchs-vision-for-cardano-submitted-to-community-for-feedback-by-the-intersect-product-committee/)提出
+    
+*   トレジャリー業務自動化のために[スマートコントラクトフレームワーク](https://www.intersectmbo.org/news/automating-accountability-cardanos-smart-contract-framework)導入
+    
+*   Intersectの管理業務の一環として、外部組織となる[監視委員会](https://www.intersectmbo.org/news/strengthening-cardanos-treasury-introducing-the-oversight-committee)が5つの独立組織によって設立
+    
+*   [Sundae Labs](https://sundae.fi/)
+    
+*   [Xerberus](https://www.xerberus.io/)
+    
+*   [NMKR](https://www.nmkr.io/)
+    
+*   [Dquadrant](https://dquadrant.com/)
+    
+*   [Cardano財団](https://cardanofoundation.org/)
+    
+
+広範なコミュニティの議論、投票、オンチェーンメカニズムに続き、[39のトレジャリー資金調達案が提出](https://intersectmbo.org/news/vote-now-39-cardano-treasury-proposals-await-drep-and-cc-approval)された。
+
+## 新たなパラダイム
+
+Cardanoが達成したことは、技術革新をはるかに超えている。コミュニティは、デジタル民主主義の有効モデルを作成したが、これは現在他のブロックチェーンエコシステムが研究している。
+
+コミュニティの意見を集めた初期のワークショップからデジタル憲法を批准した憲法制定会議に至るまで、すべてのステップは真の参加型ガバナンスによって導かれた。
+
+### **現状**
+
+*   Cardanoは自律システムとして稼働中
+    
+*   最初のトレジャリー引き出しが成功したことにより、Cardanoはデジタルコミュニティとオープンソース開発が自己資金で行えることを証明
+    
+*   ADA保有者は、プロトコルパラメーター、トレジャリー配分、開発優先順位に直接影響を与える
+    
+*   DRepシステムは、ガバナンス権力の分散と意思決定効率のバランスをとる
+    
+*   憲法委員会は、選挙で選ばれた代表者を通じて憲法の遵守を監督
+    
+*   [必須ガバナンスツール](https://www.essentialcardano.io/article/navigating-cardano-governance-essential-tools-you-should-know)はコミュニティが保守
+    
+
+## 全体像
+
+2022年11月のCIP-1694の公開から2025年の完全に機能する立憲民主主義までの道のりは、分散型コミュニティが大きな規模で効果的に統治できることを示している。
+
+Cardanoは、ブロックチェーン技術が権力の民主化と、中央集権化された当局ではなくユーザーに役立つシステムの構築という約束を果たすことができることを証明した。
+
+Cardanoコミュニティはすでに明日のソリューションを構築している。ブロックチェーンにおける最も野心的な分散型ガバナンスプログラムは、今や、投票ごと、提案ごと、コミュニティの決定ごとに進化する生きた民主主義である。
