@@ -79,7 +79,7 @@ The [consultation period for Cardano’s Constitution](https://www.youtube.com/w
     
 *   the [Global Constitution workshop series](https://www.intersectmbo.org/news/have-your-say-kicking-off-global-workshops-to-draft-the-final-constitution) announcement for community input
     
-*   [grant winners selection](https://docs.intersectmbo.org/intersect-community-grants/grant-projects) for DRep Campaign Platform and Constitutional Committee Portal
+*   grant winners selection for [DRep Campaign Platform](https://docs.intersectmbo.org/archive/cardano-budget-archive/intersect-operational-services/2024-intersect-cdh-and-grant-contracts/2024-cdh-grants/closed-grants/drep-campaign-platform) and [Constitutional Committee Portal](https://docs.intersectmbo.org/archive/cardano-governance-archive/governance-tools/constitutional-committee-portal)
     
 
 ### May-June 2024: representatives emerge
