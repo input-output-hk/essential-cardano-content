@@ -16,7 +16,7 @@ _The information in this section is based on publicly available sources and is p
 
 There are currently 2,004 projects building on Cardano, with 820 focused on non-NFT use cases and 1,184 related to NFTs. The number of delegated wallets reached 1.33 million, up 0.04% since last week. Native tokens total 10.83 million, with 216,879 token policies – both showing slight weekly growth.
 
-The number of Plutus scripts stands at 138,365, among which 7,213 are Aiken scripts. Transactions on the network reached 110.43 million, a 0.20% increase since the previous week. There are now 1,352 DReps registered, up 0.44%. GitHub activity also rose, with 278 commits recorded – a 32% increase from the previous week.
+The number of Plutus scripts stands at 138,365, among which 7,213 are Aiken scripts. Transactions on the network reached 110.43 million, a 0.20% increase since the previous week. There are now 1,352 delegated representatives (DReps) registered, up 0.44% since last week. GitHub activity also rose, with 278 commits recorded – a 32% increase from the previous week.
 
 In other news:
 
@@ -37,7 +37,7 @@ Over the past few weeks, the **site reliability engineering** (SRE) team continu
 
 They also prepared for the integration of the new tracing system in `cardano-node`. Several related pull requests listed in the ‘[repository work in progress](https://updates.cardano.intersectmbo.org/2025-06-06-sre#repository-work-in-progress----prs-and-branches)’ section are planned for merging before the node v.10.6.0 release tagging. This will make the new tracing system the default in binary artifacts, Docker images, and book configurations.
 
-The **consensus** team focused on catching up with the Leios ledger and protocol design, planning to add transactions to the Haskell Leios simulator. They fixed issues in the ledger CDDLs, corrected the encoding of `WithOrigin` in the TPraos ledger state snapshot, and addressed a race condition in the LedgerDB v2 snapshotting process. They also [implemented](https://github.com/input-output-hk/cuddle/pull/68) a CDDL validator in Cuddle and released [version 0.5.0.0](https://chap.intersectmbo.org/package/cuddle-0.5.0.0/).  
+The **consensus** team focused on catching up with the Leios ledger and protocol design, planning to add transactions to the Haskell Leios simulator. They fixed issues in the ledger CDDLs, corrected the encoding of `WithOrigin` in the TPraos ledger state snapshot, and addressed a race condition in the LedgerDB v2 snapshotting process. They also [implemented](https://github.com/input-output-hk/cuddle/pull/68) a CDDL validator in Cuddle and released [version 0.5.0.0](https://chap.intersectmbo.org/package/cuddle-0.5.0.0/).
 
 Finally, the team evaluated a proposed change to the VRF [tiebreaker](https://github.com/IntersectMBO/ouroboros-consensus/pull/1548) and [published an analysis](https://hackmd.io/hX7q5s8JSKSP-j3525J0bA) for community review. Community members who wish to discuss this change are encouraged to join the upcoming technical working group meeting on Thursday, June 19, at 14:30 UTC.
 
@@ -75,11 +75,10 @@ See [Leios weekly updates](https://leios.cardano-scaling.org/news) for more deta
 
 ### EDUCATION
 
-This week, the **education** team turned its attention to developing the Cardano Education Program (CEP). This program will consist of a set of self-paced learning modules that teach all aspects of Cardano and include suggested learning paths and additional optional modules.
+This week, the **education** team focused on developing the Cardano Education Program (CEP). This program will comprise a set of self-paced learning modules that cover all aspects of Cardano, including suggested learning paths and optional additional modules.
 
 They are also preparing for the Cardano Days event at the Institute of Science Tokyo at the end of the month. Watch out for the registration page and further details coming soon.
 
-  
 ![](https://ucarecdn.com/3b9847e9-010e-428c-a8ff-ee5f937bc981/)
 
 ### エコシステム
@@ -102,6 +101,7 @@ Plutusスクリプト数は13万8,365、うち7,213がAikenスクリプトです
     
 *   [Cardano財団](https://x.com/Cardano_CF/status/1933147976530059367)が真正性検証のためのオープンソース追跡ソリューションOriginateを立ち上げ
     
+
 ### コアテクノロジー
 
 この数週間、**SRE**（サイト信頼性エンジニアリング）チームは、Cardanoの環境の改善と定期メンテナンスに取り組んできました。`cardano-parts`、`cardano-playground`、`cardano-mainnet`クラスターをNixパッケージ`25.05`とNix `2.29.1`に更新し、すべてのマシンは現在デプロイされています。`cardano-airgap`リポジトリは、Hydra CI（継続的統合）サーバー経由でISOダウンロードを提供するようになりました。
