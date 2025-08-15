@@ -6,7 +6,7 @@ tags:
   - Intersect
   - Input Output
 url: ""
-image: https://ucarecdn.com/fb6f1b67-b5db-41bc-ae8d-aeafa01fcfe3/
+image: https://ucarecdn.com/29ecf411-259e-494c-a9e1-b3d254821f04/
 image_text: A graphic showing Cardano's governance journey
 ---
 
