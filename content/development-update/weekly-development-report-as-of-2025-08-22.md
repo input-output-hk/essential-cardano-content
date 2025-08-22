@@ -68,11 +68,31 @@ Additionally, the team is getting ready to launch the community review stage, wi
 
 This week, the **education** team continued gathering community feedback on the launch of the [Mastering Cardano e-book](https://book.io/book/mastering-cardano/) and progressed with the self-paced Cardano education program.
 
-Looking ahead, the team is preparing for the next Cardano Days event – a two-day in-person education event at the University of Wyoming on September 26-27, 2025. This event is a key component of the wider[Wyoming Blockchain Stampede](https://www.uwyo.edu/acct-fin/cbdi/stampede/index.html). Registration is officially open on the[Luma page](https://lu.ma/g436so6c).  
-  
+Looking ahead, the team is preparing for the next Cardano Days event – a two-day in-person education event at the University of Wyoming on September 26-27, 2025. This event is a key component of the wider[Wyoming Blockchain Stampede](https://www.uwyo.edu/acct-fin/cbdi/stampede/index.html). Registration is officially open on the[Luma page](https://lu.ma/g436so6c).
+
 ![](https://ucarecdn.com/2dde3f4f-4349-4c13-9352-a4f37de45180/-/preview/-/format/auto/-/quality/smart/)
 
-### コアテクノロジー
+### エコシステム
+
+_本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。_
+
+Cardanoエコシステムは拡大しており、現在ネットワークでは合計2,008のプロジェクトが構築されています。委任済みウォレット数は134万、ネイティブトークンは現在1089万に上っています。 
+
+トークンアクティビティも増加し、現在22万275のトークンポリシーが稼働しています。オンチェーンの利用は引き続き好調で、合計1億1298万件のトランザクションが処理されています。 
+
+開発者の活動も着実なペースで続いており、320件のGitHubコミットが記録されるなど、エコシステムへの継続的な技術的貢献が示されています。
+
+その他のニュース：
+
+*   [Blocksign](https://x.com/docufi3d/status/1958090166670700551)はISO 27001:2022認証を正式に取得し、Cardanoベースの企業として初めてこのマイルストーンを達成
+    
+*   [ADAとCNT](https://x.com/TapTools/status/1958636836118815109)が100を超えるゲームで使用されているUnreal Engine 5内で直接送金可能に
+    
+*   Cardano Summit Awards 2025への[ノミネート](https://x.com/CardanoSummit/status/1957806737546780821)開始
+    
+
+[Handle](https://x.com/adahandle/status/1957537576623210969)がH.A.L. NFTミント経験のために14の主要なCardanoプロジェクトと提携  
+コアテクノロジー
 
 この2週間、**コンセンサス**チームはLSMツリー、鍵変化型署名（KES）エージェント、より広範なOuroboros Perasイニシアチブの統合を続けました。通信と並行性の最適化を目的とした新しいミニプロトコル設計に焦点を当てたLeios CIPの[新しいセクションを起草](https://github.com/input-output-hk/ouroboros-leios/pull/498)して、Leiosのプロトタイプを進展させました。
 
