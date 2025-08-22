@@ -54,7 +54,7 @@ We are calling all DReps and SPOs to participate!
 
 Please note that only ‘Yes’ votes will count toward passing this action. Abstaining will be considered a ‘No’ vote. This rule ensures that important decisions have the backing of the majority of the community.
 
-As of the time of publication, the DRep vote stands at 60%, but at least 67% is required to pass. Additionally, 36% of votes have not been cast. More concerning is the SPO vote, which currently stands at 22% of the required 51%, with a staggering 78% still to vote.
+As of the publication date, the DRep vote is at 69%, which exceeds the required threshold of at least 67% required to pass. Additionally, 31% of votes have not been cast. More concerning is the SPO vote, which [currently stands](https://adastat.net/governances/47a0e7a4f9383b1afc2192b23b41824d65ac978d7741aca61fc1fa16833d111100) at 37.84% of the required 51%, with a staggering 62.16% still to vote.
 
 If you are an SPO and are unsure how to vote, please refer to the step-by-step guide provided by the ATADA stake pool: [How to vote on Cardano governance actions as an SPO on an offline machine.](https://x.com/ATADA_Stakepool/status/1834667349376401669) 
 
@@ -116,7 +116,7 @@ Cardano憲法は、新たに選出されたメンバーが委員会での役割�
 
 なお、「Yes」票のみが、このアクションを通過させるためにカウントされることに注意してください。棄権は「No」票と見なされます。このルールは、重要な決定がコミュニティの過半数の支持を得ていることを保証するものです。
 
-本レポートの執筆時点で、DRepの投票率は60%ですが、可決には少なくとも67%が必要です。また、36%の票がまだ投じられていません。さらに懸念されるのはSPOの投票で、可決に必要な51%に対し現在は22%にとどまっており、78%という驚くべき数の票がまだ投じられていません。
+可決に必要なDRep投票率は67%であり、本レポートの執筆時点で69%に達しているものの、36%の票がまだ投じられていません。懸念されるのはSPOの投票で、可決に必要な51%に対し[現在](https://adastat.net/governances/47a0e7a4f9383b1afc2192b23b41824d65ac978d7741aca61fc1fa16833d111100)は37.84%にとどまっており、62.16%という驚くべき数の票がまだ投じられていません。
 
 SPOで投票方法がわからない場合は、ATADAステークプールが提供するステップバイステップガイド、[オフラインマシンでSPOとしてCardanoガバナンスアクションに投票する方法](https://x.com/ATADA_Stakepool/status/1834667349376401669)を参照してください。 
 
