@@ -5,7 +5,7 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/cbf1b42a-e00f-4a83-bb19-1c6bea9d93d3/
+image: https://ucarecdn.com/98e3616c-1f20-446e-a513-565aef02c1a9/
 image_text: Weekly development report as of 2025-08-22
 ---
 
@@ -70,9 +70,7 @@ This week, the **education** team continued gathering community feedback on the 
 
 Looking ahead, the team is preparing for the next Cardano Days event – a two-day in-person education event at the University of Wyoming on September 26-27, 2025. This event is a key component of the wider[Wyoming Blockchain Stampede](https://www.uwyo.edu/acct-fin/cbdi/stampede/index.html). Registration is officially open on the[Luma page](https://lu.ma/g436so6c).
 
-![](https://ucarecdn.com/2dde3f4f-4349-4c13-9352-a4f37de45180/-/preview/-/format/auto/-/quality/smart/)
-
-### エコシステム
+### ![](https://ucarecdn.com/f2d790aa-a827-4299-8e4c-ee60792d2d0f/-/preview/-/format/auto/-/quality/smart/)エコシステム
 
 _本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。_
 
