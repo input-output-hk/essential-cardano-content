@@ -25,7 +25,7 @@ In other news:
     
 *   [bhra\_freezy](https://x.com/bhra_freezy/status/1958936165102313836), a DRep and Intersect Civics Committee Member, announced the launch of the Cardano Governance Education Working Group
     
-*   [Input Output](https://x.com/InputOutputHK/status/1960730890755301813) introduced the Halo2-Plutus Verifier, an open-source project from IO Research that integrates advanced zero-knowledge proofs (ZKPs) into Plutus smart contracts
+*   [Input | Output](https://x.com/InputOutputHK/status/1960730890755301813) introduced the Halo2-Plutus verifier, an open-source project from IO Research that integrates advanced zero-knowledge proofs (ZKPs) into Plutus smart contracts
     
 *   [Frederik Gregaard](https://x.com/F_Gregaard/status/1960985938177208411) announced that $USDA / $USDT trading is now live on Coinstore Exchange with zero fees.
     
@@ -79,7 +79,7 @@ Cardanoエコシステムの着実な上昇機運は続いています。今週�
     
 *   DRepおよびIntersect市民委員会のメンバーである[bhra\_freezy](https://x.com/bhra_freezy/status/1958936165102313836)が、Cardanoガバナンス教育ワーキンググループの立ち上げを発表
     
-*   [Input Output](https://x.com/InputOutputHK/status/1960730890755301813)が、高度なゼロ知識証明（ZKP）をPlutusスマートコントラクトに統合するIO Researchのオープンソースプロジェクト、Halo2-Plutus検証ツールを公開
+*   [Input | Output](https://x.com/InputOutputHK/status/1960730890755301813)が、高度なゼロ知識証明（ZKP）をPlutusスマートコントラクトに統合するIO Researchのオープンソースプロジェクト、Halo2-Plutus検証ツールを公開
     
 *   [Frederik Gregaard](https://x.com/F_Gregaard/status/1960985938177208411)は、Coinstore ExchangeのUSDA/$USDT取引が現在手数料無料であることを告知
     
