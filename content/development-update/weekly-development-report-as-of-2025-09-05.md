@@ -21,9 +21,9 @@ In other news:
 
 *   [MLabs](https://x.com/MLabs10/status/1963523921434583342) launched [feeswap.io](//feeswap.io), a platform that allows users to pay transaction fees in any Cardano native token (CNT)
     
-*   The [Cardano Foundation](https://x.com/Cardano_CF/status/1961344507620069740) has rebuilt the developer portal, adding new guides, demos, and resources
+*   The [Cardano Foundation](https://x.com/Cardano_CF/status/1961344507620069740) has rebuilt the Developer Portal, adding new guides, demos, and resources
     
-*   [World Mobile Chain’s](https://x.com/wmchain/status/1963240798516039949) $WMTX token has started trading on KrakenFX.
+*   [World Mobile Chain’s](https://x.com/wmchain/status/1963240798516039949) $WMTX token has started trading on KrakenFX
     
 *   [Tokeo](https://x.com/Tokeo_io/status/1962709249798349186) completed milestone 4 of their Catalyst-funded project CardanoKit, which is now in beta
     
@@ -135,13 +135,13 @@ Cardanoエコシステムは拡大を続けており、ネットワークに構�
 
 この2週間、**コンセンサス**チームは[Leios CIP](https://github.com/cardano-scaling/CIPs/pull/11)の最初の公開ドラフト版への貢献、LSM-treeサポートの強化、KESエージェントの統合と監査に集中しました。[Cardano-lmdb-simple 0.8.1.0](https://chap.intersectmbo.org/package/cardano-lmdb-simple-0.8.1.0/)をリリースし、Haskellとシリアル化された順序が異なる場合にキーを範囲読み取りする機能を追加したほか、内部コードをリファクタリングしてスナップショット機能を`SnapshotManager`にまとめました。未コミットのフォーカーにおけるハンドルリークを修正し、クエリ中に残り続けるオープンハンドルの数を減らしました。KESエージェントの統合とそれに伴う監査作業は進行中です。
 
-スマートコントラクト
+### スマートコントラクト
 
 **Plutus**チームは、評価器とデシリアライザーに対して、コミット（[1](https://github.com/IntersectMBO/plutus/pull/7272)、[2](https://github.com/IntersectMBO/plutus/pull/7281)、[3](https://github.com/IntersectMBO/plutus/pull/7286)、[4](https://github.com/IntersectMBO/plutus/pull/7287)、[5](https://github.com/IntersectMBO/plutus/pull/7296)）を含むパフォーマンス改善とリファクタリングを行いました。ビルトインユニットとペアのサポートも追加しました。この機能は、次回開発期内ハードフォークで有効になる予定です。UPLCを対象とした表面言語の性能を比較するために設計された[UPLC-CAPEベンチマーク](https://github.com/IntersectMBO/UPLC-CAPE)の開発も並行して続け、2025年9月2日のPlutusワーキンググループ会議で進捗状況を報告しました。
 
 Plinthに関しては、Plinthライブラリー関数[caseInteger](https://plutus.cardano.intersectmbo.org/haddock/master/plutus-tx/PlutusTx-Builtins-Internal.html#v:caseInteger)を追加しました。この関数はUPLCで整数ケース解析にコンパイルされ、次回開発期内ハードフォークで有効化される予定です。サポートされていないHaskell言語拡張が使用された場合に、より明確なエラーとともにコンパイルが早期に失敗するように改善しました。Plinthコンパイラーのコンパイルトレース（`dump-compilation-trace`フラグで利用可能）を、ソースコードの位置の詳細を追加し、失敗時のメッセージを改善することで強化しました。
 
-ウォレットとサービス
+### ウォレットとサービス
 
 先週、チームは[Daedalus v.7.2.0](https://iohk.zendesk.com/hc/ja/articles/49820147340825)をリリースしました。このリリースでは、リンクをIdeaScaleからProject Catalyst提案ポータルに切り替え、Cardano-node [v.10.2.1](https://github.com/IntersectMBO/cardano-node/releases/tag/10.2.1)およびCardano-wallet v2025-03-31に対応させ、全体的な効率性を向上させています。
 
