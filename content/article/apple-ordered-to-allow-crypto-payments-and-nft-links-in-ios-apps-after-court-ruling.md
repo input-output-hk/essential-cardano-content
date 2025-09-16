@@ -88,9 +88,9 @@ With Apple no longer gatekeeping payments, expect a **flood of new iOS Web3 apps
     
     “This is _absolutely huge_ for crypto on iOS.”
     
-*   \*\*Crypto Twitter Reacts
+*   Crypto Twitter Reacts
     
-    \*\*"Web3 mobile adoption just got a massive green light. Apple finally bows to decentralization."  
+   "Web3 mobile adoption just got a massive green light. Apple finally bows to decentralization."  
     — @build\_in\_web3
     
 
