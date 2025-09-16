@@ -37,7 +37,7 @@ Yoroi allows for instant initial setup, plus quick and easy operation with minim
 
 ### **Tokeo**
 
-[Tokeo](https://tokeo.io) is a sleek, non-custodial wallet built for the Cardano ecosystem, available on both [iOS and Android](https://download.tokeo.io). It supports ADA, Cardano native tokens, NFTs, and seamless DApp access - with ecosystem insights surfaced through its integrated Explorer tab. Designed for performance and usability, Tokeo offers in-app swaps, real-time portfolio tracking, and a dedicated Rewards tab. It also offers Bitcoin support and multichain functionality for users exploring beyond Cardano.
+[Tokeo](https://tokeo.io) is a sleek, non-custodial wallet built for the Cardano ecosystem, available on both [iOS and Android](https://download.tokeo.io). It supports ada, Cardano native tokens, NFTs, and provides seamless DApp access - with ecosystem insights surfaced through its integrated 'Explorer' tab. Designed for performance and usability, Tokeo offers in-app swaps, real-time portfolio tracking, and a dedicated 'Rewards' tab. It also offers Bitcoin support and multichain functionality for users exploring beyond Cardano.
 
 ### **Eternl**
 
