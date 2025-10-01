@@ -27,16 +27,14 @@ Voltaire stands for two seemingly contradictory facts: the last chapter of Carda
 
 The **Beyond Minimum Viable Governance (MVG)** project is a treasury-funded initiative designed to orchestrate iterative updates to Cardano’s governance. **Beyond MVG** provides a structured approach to lay the groundwork for effective governance monitoring and critical improvements.
 
-This article outlines the roadmap for this project, detailing the key activities, explaining how you can get involved, and exploring each major activity outlined below.
+This article outlines the roadmap for this project, detailing the key activities, explaining how you can get involved, and exploring each major activity outlined below (open image in a new tab for better visibility).
 
-  
 ![The Beyond MVG roadmap](https://ucarecdn.com/775b323f-c211-4563-836c-608f29bc22ff/)
 
 ## Continuing the governance conversation
 
 The Beyond MVG roadmap builds on insights gathered at the two-day governance workshop held at Rare Evo 2025 in Las Vegas. During the workshop, the community identified key pain points in the governance process. Two critical areas identified for improvement were **the budget process** and the **need for better communication channels and support** for DReps. Another recurring theme was the need for **clearer documentation and communication** around all decision-making processes.
 
-  
 ![A governance workshop led by the Beyond MVG team](https://ucarecdn.com/6586936b-4cc6-4b9a-87a4-7c2f526f063f/)
 
 The roadmap reflects a commitment to improve the budget process and explore ways for DReps to signal their authorization for dedicated support, previously referred to as ‘executive function.’
