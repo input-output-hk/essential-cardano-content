@@ -25,21 +25,13 @@ When new functionality needs to be introduced to Cardano, the ledger undergoes a
 ## Development phases and ledger eras
 
 | Development phase | Focus | Ledger era(s) and functionality introduced | Upgrade names (examples) |
-| --- | --- | --- | --- |
+|-------------------|-------|---------------------------------------------|--------------------------|
 | **Byron** | Foundational layer | Byron ledger era: ada transactions, Daedalus and Yoroi wallets, federated consensus | Byron hard fork |
-| **Shelley** | Decentralization | Shelley ledger: stake pools, delegation, community-led block production | Shelley hard fork |
-| **Goguen** | Smart contracts | *   **Allegra**: token locking.
-    
-*   **Mary**: native tokens and multi-asset support.
-    
-*   **Alonzo**: Plutus smart contracts. | Allegra, Mary, and Alonzo hard forks |
-| **Basho** | Scalability and efficiency | Babbage ledger era: reference scripts, inline datums, reference inputs | Known as the Vasil upgrade |
-| **Voltaire** | Governance | Conway ledger era: on-chain governance via [CIP-1694](https://cips.cardano.org/cips/cip1694) | *   Chang and Plomin upgrades.
-    
-*   The Chang upgrade initiated the Conway ledger era and introduced the first set of on-chain governance capabilities. The Plomin upgrade extended Conway by enabling the.
-    
-*   Full set of governance actions and decentralized representatives (DReps) on mainnet (epoch 537, protocol version 10.0). |
-| **Future** | Ongoing roadmap | **Dijkstra** (planned): Plutus v4, consensus and ledger integration, Conway refactors for transition. **Euler** (planned): scope TBD | Next hard fork name TBD |
+| **Shelley** | Decentralization | Shelley ledger era: stake pools, delegation, community-led block production | Shelley hard fork |
+| **Goguen** | Smart contracts | - Allegra: token locking  <br> - Mary: native tokens and multi-asset support  <br> - Alonzo: Plutus smart contracts | Allegra, Mary, and Alonzo hard forks |
+| **Basho** | Scalability and efficiency | Babbage ledger era: reference scripts, inline datums, reference inputs | Vasil upgrade |
+| **Voltaire** | Governance | Conway ledger era: on-chain governance via [CIP-1694](https://cips.cardano.org/cips/cip1694) <br><br> - **Chang upgrade**: initiated Conway era and introduced first set of on-chain governance capabilities <br> - **Plomin upgrade**: extended Conway with full governance actions and decentralized representatives (DReps) on mainnet (epoch 537, protocol version 10.0) | Chang and Plomin upgrades |
+| **Future** | Ongoing roadmap | - **Dijkstra** (planned): Plutus v4, consensus and ledger integration, Conway refactors for transition <br> - **Euler** (planned): scope TBD | Next hard fork name TBD |
 
 **Hard fork upgrades** use distinct names for community communication (for example, Chang → Plomin). These names are always mapped internally to a ledger era and protocol version. Hard forks activate a ledger era and may also introduce additional intra-era changes.
 
