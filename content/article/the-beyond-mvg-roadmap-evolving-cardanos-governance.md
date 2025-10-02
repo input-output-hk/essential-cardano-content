@@ -29,7 +29,8 @@ The **Beyond Minimum Viable Governance (MVG)** project is a treasury-funded init
 
 This article outlines the roadmap for this project, detailing the key activities, explaining how you can get involved, and exploring each major activity outlined below (open image in a new tab for better visibility).
 
-![The Beyond MVG roadmap](https://ucarecdn.com/775b323f-c211-4563-836c-608f29bc22ff/)
+  
+![Cardano governance: Beyond Minimum Viable Governance (MVG) roadmap](https://ucarecdn.com/225db089-c42d-45a7-9ed2-7467577b27ac/)
 
 ## Continuing the governance conversation
 
