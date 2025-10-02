@@ -3,7 +3,7 @@ title: Ledger eras
 tags:
   - Cardano
 url: ""
-image: https://ucarecdn.com/f8d51179-2896-46b9-93ff-f4d63cb99a08/
+image: https://ucarecdn.com/71e60b0e-c8b9-40c8-a7a5-44deaeb00de4/
 image_text: Ledger eras
 ---
 
