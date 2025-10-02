@@ -24,73 +24,72 @@ When new functionality needs to be introduced to Cardano, the ledger undergoes a
 
 ## Development phases and ledger eras
 
-<table>
+<table style="border-collapse:collapse; width:100%;">
   <thead>
     <tr>
-      <th>Development phase</th>
-      <th>Focus</th>
-      <th>Ledger era(s) and functionality introduced</th>
-      <th>Upgrade names (examples)</th>
+      <th style="border:1px solid #d9d9d9; padding:8px; text-align:left; vertical-align:top;">Development phase</th>
+      <th style="border:1px solid #d9d9d9; padding:8px; text-align:left; vertical-align:top;">Focus</th>
+      <th style="border:1px solid #d9d9d9; padding:8px; text-align:left; vertical-align:top;">Ledger era(s) and functionality introduced</th>
+      <th style="border:1px solid #d9d9d9; padding:8px; text-align:left; vertical-align:top;">Upgrade names (examples)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Byron</b></td>
-      <td>Foundational layer</td>
-      <td>Byron ledger era: ada transactions, Daedalus and Yoroi wallets, federated consensus</td>
-      <td>Byron hard fork</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;"><b>Byron</b></td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Foundational layer</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Byron ledger era: ada transactions, Daedalus and Yoroi wallets, federated consensus</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Byron hard fork</td>
     </tr>
     <tr>
-      <td><b>Shelley</b></td>
-      <td>Decentralization</td>
-      <td>Shelley ledger: stake pools, delegation, community-led block production</td>
-      <td>Shelley hard fork</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;"><b>Shelley</b></td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Decentralization</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Shelley ledger: stake pools, delegation, community-led block production</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Shelley hard fork</td>
     </tr>
     <tr>
-      <td><b>Goguen</b></td>
-      <td>Smart contracts</td>
-      <td>
-        <ul>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;"><b>Goguen</b></td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Smart contracts</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">
+        <ul style="margin:0 0 0 1.25em; padding:0;">
           <li>Allegra: token locking</li>
           <li>Mary: native tokens and multi-asset support</li>
           <li>Alonzo: Plutus smart contracts</li>
         </ul>
       </td>
-      <td>Allegra, Mary, and Alonzo hard forks</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Allegra, Mary, and Alonzo hard forks</td>
     </tr>
     <tr>
-      <td><b>Basho</b></td>
-      <td>Scalability and efficiency</td>
-      <td>Babbage ledger era: reference scripts, inline datums, reference inputs</td>
-      <td>Known as the Vasil upgrade</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;"><b>Basho</b></td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Scalability and efficiency</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Babbage ledger era: reference scripts, inline datums, reference inputs</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Known as the Vasil upgrade</td>
     </tr>
     <tr>
-      <td><b>Voltaire</b></td>
-      <td>Governance</td>
-      <td>
-        Conway ledger era: on-chain governance via 
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;"><b>Voltaire</b></td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Governance</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">
+        Conway ledger era: on-chain governance via
         <a href="https://cips.cardano.org/cips/cip1694">CIP-1694</a>
-        <ul>
+        <ul style="margin:0.5em 0 0 1.25em; padding:0;">
           <li><b>Chang upgrade</b>: initiated Conway ledger era and introduced the first set of on-chain governance capabilities</li>
           <li><b>Plomin upgrade</b>: extended Conway by enabling the full set of governance actions and decentralized representatives (DReps) on mainnet (epoch 537, protocol version 10.0)</li>
         </ul>
       </td>
-      <td>Chang and Plomin upgrades</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Chang and Plomin upgrades</td>
     </tr>
     <tr>
-      <td><b>Future</b></td>
-      <td>Ongoing roadmap</td>
-      <td>
-        <ul>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;"><b>Future</b></td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Ongoing roadmap</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">
+        <ul style="margin:0 0 0 1.25em; padding:0;">
           <li><b>Dijkstra</b> (planned): Plutus v4, consensus and ledger integration, Conway refactors for transition</li>
           <li><b>Euler</b> (planned): scope TBD</li>
         </ul>
       </td>
-      <td>Next hard fork name TBD</td>
+      <td style="border:1px solid #d9d9d9; padding:8px; vertical-align:top;">Next hard fork name TBD</td>
     </tr>
   </tbody>
 </table>
-
 
 **Hard fork upgrades** use distinct names for community communication (for example, Chang → Plomin). These names are always mapped internally to a ledger era and protocol version. Hard forks activate a ledger era and may also introduce additional intra-era changes.
 
