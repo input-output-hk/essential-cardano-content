@@ -39,10 +39,14 @@ When new functionality needs to be introduced to Cardano, the ledger undergoes a
 
 *   The Chang upgrade initiated the Conway ledger era and introduced the first set of on-chain governance capabilities
     
-*   The Plomin upgrade extended Conway by enabling the full set of governance actions and decentralized representatives (DReps) on mainnet (epoch 537, protocol version 10.0). |
+*   The Plomin upgrade extended Conway by enabling the 
+    
+*   full set of governance actions and decentralized representatives (DReps) on mainnet (epoch 537, protocol version 10.0). |
 | **Future** | Ongoing roadmap | *   **Dijkstra** (planned): Plutus v4, consensus and ledger integration, Conway refactors for transition 
     
 *   **Euler** (planned): scope TBD | Next hard fork name TBD |
+
+  
 
 **Hard fork upgrades** use distinct names for community communication (for example, Chang → Plomin). These names are always mapped internally to a ledger era and protocol version. Hard forks activate a ledger era and may also introduce additional intra-era changes.
 
