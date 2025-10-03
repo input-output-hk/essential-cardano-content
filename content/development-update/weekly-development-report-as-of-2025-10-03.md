@@ -29,8 +29,9 @@ The four elected members will take their places on the board, bringing fresh per
 
 [Adam Rusch](https://x.com/AdamRusch), [Kavinda Kariyapperuma](https://x.com/OfficialKavinda), [Mercy Fordwoo](https://x.com/M3RSEE), and [Rand McHenry](https://x.com/RareRandCorp) have been elected by their peers. Their election brings meaningful change to the leadership of Intersect, with a majority of non-executive directors now chosen directly by Intersect’s global membership, further strengthening the community’s journey to build decentralized governance at scale. 
 
-**Board member terms  
-**In the 2025 election, four seats were available for election to the board. By design, the two highest-voted candidates would receive two-year terms, while the next two would serve one-year terms.
+**Board member terms**
+ 
+In the 2025 election, four seats were available for election to the board. By design, the two highest-voted candidates would receive two-year terms, while the next two would serve one-year terms.
 
 However, re-elected board members Adam Rusch and Kavinda Kariyapperuma, despite being the two with the most votes, have chosen to take the one-year seats, serving until October 2026. This decision allows newly elected members Mercy Fordwoo and Rand McHenry to take the two-year seats, which will serve until October 2027.
 
@@ -99,8 +100,8 @@ Intersectは、2025年度理事会選挙の結果を発表できることを嬉�
 [Adam Rusch](https://x.com/AdamRusch)、[Kavinda Kariyapperuma](https://x.com/OfficialKavinda)、[Mercy Fordwoo](https://x.com/M3RSEE)、[Rand McHenry](https://x.com/RareRandCorp)が仲間たちによって選出されました。彼らの選出はIntersectのリーダーシップに有意義な変化をもたらします。これにより、非業務執行理事の過半数がIntersectのグローバルメンバーシップによって直接選ばれたことになり、大規模な分散型ガバナンスを構築するというコミュニティの道のりがさらに強化されます。 
 
   
-**理事の任期  
-**2025年の選挙では、理事会の4議席が改選対象となりました。規定では、得票数が最も高かった2人の候補者が2年間の任期となり、次に得票が多かった2人が1年間の任期を務めることになっていました。
+**理事の任期**  
+2025年の選挙では、理事会の4議席が改選対象となりました。規定では、得票数が最も高かった2人の候補者が2年間の任期となり、次に得票が多かった2人が1年間の任期を務めることになっていました。
 
 しかし、再選された委員のAdam RuschとKavinda Kariyapperumaは最多得票者であったにもかかわらず、2026年10月までの1年間の任期を努めることを選びました。この決定により、新たに選出されたMercy FordwooとRand McHenryが、2027年10月までの2年間議席につくことになりました。
 
