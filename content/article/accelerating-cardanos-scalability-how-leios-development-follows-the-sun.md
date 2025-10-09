@@ -53,7 +53,7 @@ Leios positions Cardano as a legitimate competitor to high-throughput chains, bu
 
 The Leios project is advancing through several parallel tracks under community governance in 2025. Handover to Input Output Engineering (IOE) is imminent, marking the transition from research-focused development to full-scale implementation and integration. This milestone represents years of research and prototyping crystallizing into production-ready protocol specifications.
 
-The upcoming **Leios Dashboard site**, set to be demoed at Token2049,  will provide the community with real-time insights into development progress, testing results, and protocol behavior. This transparency tool will offer unprecedented visibility into IOE's ability to deliver software at pace in a transparent manner.
+The upcoming **Leios Dashboard site**, demoed at Token2049,  will provide the community with real-time insights into development progress, testing results, and protocol behavior. This transparency tool will offer unprecedented visibility into IOE's ability to deliver software at pace in a transparent manner.
 
 ## The broader implications
 
