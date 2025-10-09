@@ -65,9 +65,9 @@ The highway analogy extends beyond just transaction processing. Leios developmen
 
 *   Blockchain capacity constraints no longer limit innovation
     
-*   developers can focus on creating value rather than optimizing around throughput bottlenecks, and 
+*   Developers can focus on creating value rather than optimizing around throughput bottlenecks, and 
     
-*   users experience the seamless, fast interactions they expect from modern digital systems.
+*   Users experience the seamless, fast interactions they expect from modern digital systems.
     
 
 All while maintaining the security and decentralization properties that make blockchain technology valuable.
