@@ -27,7 +27,7 @@ Leios’ development becomes even more impressive when considering the comprehen
 
 At the heart of Leios's rapid development is the ['follow the sun' model](https://follow-the-sun.github.io/) – a distributed approach where independent teams continuously collaborate across time zones.
 
-This approach compresses development timelines by enabling parallel progress on research, prototyping, and implementation. Unlike traditional development cycles, where one developer would see a task through end-to-end, the team developing Leios will adjust to sharing workloads and managing handoffs to adopt to a 24/7 development mindset.
+This approach compresses development timelines by enabling parallel progress on research, prototyping, and implementation. Unlike traditional development cycles, where one developer would see a task through end-to-end, the team developing Leios will adjust to sharing workloads and managing handoffs to adapt to a 24/7 development mindset. Leios and the 24/7 approach have empowered Input Output Engineering (IOE) to review its software development lifecycle operating model and release processes, enabling a more efficient, nimble, and transparent approach for the community.
 
 The model's power lies in code sharing and iteration. Each team inherits completed work and access to fresh perspectives on complex problems.
 
@@ -53,7 +53,7 @@ Leios positions Cardano as a legitimate competitor to high-throughput chains, bu
 
 The Leios project is advancing through several parallel tracks under community governance in 2025. Handover to Input Output Engineering (IOE) is imminent, marking the transition from research-focused development to full-scale implementation and integration. This milestone represents years of research and prototyping crystallizing into production-ready protocol specifications.
 
-The upcoming **Leios Dashboard site**, set to be demoed at Token2049,  will provide the community with real-time insights into development progress, testing results, and protocol behavior. This transparency tool will offer unprecedented visibility into the inner workings of a major blockchain protocol upgrade as it develops.
+The upcoming **Leios Dashboard site**, set to be demoed at Token2049,  will provide the community with real-time insights into development progress, testing results, and protocol behavior. This transparency tool will offer unprecedented visibility into IOE's ability to deliver software at pace in a transparent manner.
 
 ## The broader implications
 
