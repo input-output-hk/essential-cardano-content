@@ -31,7 +31,7 @@ This approach compresses development timelines by enabling parallel progress on 
 
 The model's power lies in code sharing and iteration. Each team inherits completed work and access to fresh perspectives on complex problems.
 
-## Leio’s potential impact across the Cardano ecosystem
+## Leios' potential impact across the Cardano ecosystem
 
 ### For stake pool operators
 
