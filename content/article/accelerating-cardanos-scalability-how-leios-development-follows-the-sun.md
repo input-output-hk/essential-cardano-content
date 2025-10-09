@@ -63,7 +63,7 @@ As Cardano approaches this next phase of scaling capability, the development met
 
 The highway analogy extends beyond just transaction processing. Leios development represents the infrastructure for a future where:
 
-*   blockchain capacity constraints no longer limit innovation, 
+*   Blockchain capacity constraints no longer limit innovation
     
 *   developers can focus on creating value rather than optimizing around throughput bottlenecks, and 
     
