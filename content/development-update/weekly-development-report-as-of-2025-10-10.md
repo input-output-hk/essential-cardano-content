@@ -111,7 +111,7 @@ This week, the **education** team is collecting feedback on the recent Cardano D
   
 ![](https://ucarecdn.com/26afde9e-6e6f-492b-953d-a7a19e84b8d3/-/preview/-/format/auto/-/quality/smart/)  
   
-エコシステム
+### エコシステム
 
 _本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。  
   
@@ -136,15 +136,13 @@ _その他のニュース：_
 *   [Hydra-node](https://x.com/LucasMacchia2/status/1976280377737286006)バージョン1.0.0[プレリリース](https://github.com/cardano-scaling/hydra/releases)がGitHubで公開されています。
     
 
-###   
-コアテクノロジー
+### コアテクノロジー
 
 **台帳**チームは[CIP-112 – Observe script type](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0112)の実装を大幅に進めました。トランザクション検証中にPlutusスクリプトの実行を強制する新型のネイティブスクリプトを定義し、オンチェーンロジックの強制を強化し、ネイティブスクリプトとPlutusスクリプト間のコンポーザビリティを向上させました。
 
 機能開発に加えて、下流統合のために台帳インターフェースを強化し、保守性を向上させるためにテストスイートを再編成し、信頼性とビルドの一貫性を向上させるためにCI/CDパイプラインにいくつかの修正を適用しました。
 
-###   
-スマートコントラクト
+### スマートコントラクト
 
 **Plutus**チームは[CIP-0153](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0153)の実装を完了し、組み込み型の`Value`と、これに関連する関数を導入しました。現在、これらの新しい組み込み型のコストを確定しており、これが期内ハードフォーク前の最後のマイルストーンとなります。このアップグレードで予定しているその他の機能はすべて完了しました。
 
