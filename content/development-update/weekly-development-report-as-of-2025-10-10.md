@@ -11,9 +11,9 @@ image_text: Weekly development report as of 2025-10-10
 
 ### ECOSYSTEM UPDATES
 
-_The information in this section is based on publicly available sources and is provided for informational purposes only. It does not constitute an endorsement or recommendation of any project, product, or service mentioned.  
-  
-_Cardano's ecosystem shows steady growth in development, governance, and on-chain activity. Delegated wallets increased slightly to 1.34 million, and native tokens grew to 10.93 million under 222,404 token policies. Total transactions on-chain reached 114.56 million.
+_The information in this section is based on publicly available sources and is provided for informational purposes only. It does not constitute an endorsement or recommendation of any project, product, or service mentioned._
+
+Cardano's ecosystem shows steady growth in development, governance, and on-chain activity. Delegated wallets increased slightly to 1.34 million, and native tokens grew to 10.93 million under 222,404 token policies. Total transactions on-chain reached 114.56 million.
 
 Smart contract deployment is stable with 142,024 Plutus and 11,886 Aiken scripts active. Governance participation is rising, with 1,507 DReps (1,020 active). Developer engagement is strong, with 320 GitHub commits this week.
 
@@ -34,15 +34,13 @@ _In other news:_
 *   The [Hydra-node](https://x.com/LucasMacchia2/status/1976280377737286006) version 1.0.0 [pre-release](https://github.com/cardano-scaling/hydra/releases) is now live on GitHub.
     
 
-###   
-CORE TECHNOLOGY
+### CORE TECHNOLOGY
 
 The **ledger** team made solid progress on the implementation of [CIP-112 – Observe script type](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0112). The team defined a new type of native script that enforces the execution of a Plutus script during transaction validation, strengthening on-chain logic enforcement and improving composability between native and Plutus scripts.
 
 Besides feature development, the team enhanced the ledger interface for downstream integration, reorganized the test suite for better maintainability, and applied several fixes to the CI/CD pipeline to improve reliability and build consistency.
 
-###   
-SMART CONTRACTS
+### SMART CONTRACTS
 
 The **Plutus** team completed the implementation of [CIP-0153](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0153), introducing the `Value` built-in type along with its associated functions. The team is now finalizing costing for these new built-ins, which will mark the last milestone before Plutus becomes ready for the upcoming intra-era hard fork. All other features planned for this upgrade have already been completed.
 
