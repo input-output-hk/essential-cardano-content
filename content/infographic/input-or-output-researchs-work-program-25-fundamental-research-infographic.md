@@ -5,7 +5,7 @@ tags:
   - Input Output
   - Research
 url: ""
-image: https://ucarecdn.com/13b5fc20-e864-4a06-83b3-d4e66f9732ae/
+image: https://ucarecdn.com/1251ed1a-750e-4ed6-9258-9005d1d026c6/
 image_text: An infographic detailing Input | Output Research's Work Program '25
   Fundamental Research
 ---
