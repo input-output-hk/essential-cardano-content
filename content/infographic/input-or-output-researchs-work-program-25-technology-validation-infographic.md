@@ -5,7 +5,7 @@ tags:
   - Cardano
   - Research
 url: ""
-image: https://ucarecdn.com/ca762dae-ca6f-4628-8b83-e322cf304dd1/
+image: https://ucarecdn.com/b8975b94-c107-4989-8969-9c15c7789a78/
 image_text: An infographic detailing Input | Output Research's Work Program '25
   Technology Validation report
 ---
