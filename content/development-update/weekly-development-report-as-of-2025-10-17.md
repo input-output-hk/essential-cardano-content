@@ -25,13 +25,13 @@ In other news:_
     
 *   The Input | Output Research team presented two papers at the International Conference on Functional Programming (ICFP): [A layered certifying compiler architecture](https://t.co/KulJoT99NW) and [Plinth: a plugin-powered language built on Haskell (experience report)](https://t.co/l1rJCtDNTg).
     
-*   [Bitrue](https://x.com/BitrueOfficial/status/1977275224921178308) announced that it will delegate a portion of the ADA it holds in custody to five stake pool operators (SPOs).
+*   [Bitrue](https://x.com/BitrueOfficial/status/1977275224921178308) announced that it will delegate a portion of the ada it holds in custody to five stake pool operators (SPOs).
     
 *   The [Hoskinson Government and Policy Center](https://x.com/WyomingHGPC/status/1978574329131470944) was officially launched this week.
     
 *   Diffusion’s staking baskets have reached a [TVL of 633k](https://x.com/bigpeyYT/status/1977582863265730807) ada, distributed across 50 SPOs simultaneously.
     
-*   The [Cardano Foundation](https://x.com/Cardano_CF/status/1978807556752482695) launched a new “What Is Open Source?” course on Cardano Academy.
+*   The [Cardano Foundation](https://x.com/Cardano_CF/status/1978807556752482695) launched a new 'What Is Open Source?' course on Cardano Academy.
     
 
 ### CORE TECHNOLOGY
