@@ -11,7 +11,7 @@ image: https://ucarecdn.com/1b63d46b-6fd3-4907-9803-0990dc1ada60/
 image_text: ""
 ---
 
-_By Kris Bennett, developer relations specialist on the innovation/R&D team_
+_By Kris Bennett, developer relations specialist on the innovation team_
 
 ### Ouroboros Phalanx raises Cardano’s security bar with powerful protection against stake-based attacks – ensuring faster transactions and stronger network integrity
 
