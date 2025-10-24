@@ -13,7 +13,9 @@ image_text: ""
 
 _By Kris Bennett, developer relations specialist on the innovation team_
 
-### 日本語版はスクロールダウンしてください。  
+### Ouroboros Phalanx raises Cardano’s security bar with powerful protection against stake-based attacks – ensuring faster transactions and stronger network integrity
+
+日本語版はスクロールダウンしてください。  
   
 Ouroboros Phalanx raises Cardano’s security bar with powerful protection against stake-based attacks – ensuring faster transactions and stronger network integrity
 
@@ -72,7 +74,8 @@ Currently, Phalanx operates at the protocol level – the next phase will commen
 
 Cardano isn't just building a blockchain – we're forging a fortress. Phalanx is the latest shield. Stay tuned!
 
-**Ouroboros Phalanxは、どのようにネットワーク保護を強化するか**
+
+## **Ouroboros Phalanxは、どのようにネットワーク保護を強化するか**
 
 ### Ouroboros Phalanxはステークベースの攻撃に対する強力な防御によりCardanoのセキュリティ基準を引き上げ、より高速なトランザクションとより強固なネットワークの整合性を保証
 
