@@ -32,7 +32,7 @@ In other news:
 *   [The Scavenger Mine phase of Midnight’s Glacier Drop](https://x.com/midnightfdn/status/1983570567597814185) began on October 30, with 22K+ pre-registered participants.
     
 
-CORE TECHNOLOGY
+### CORE TECHNOLOGY
 
 The **ledger** team finalized [CIP-118: nested transactions](https://github.com/cardano-foundation/CIPs/pull/862) (Babel fees), drastically simplifying the design by relying on [CIP-112: observe script type](https://github.com/cardano-foundation/CIPs/pull/749) and a CDDL-backed transaction specification. The proposal is now ready for final reviews. Once merged, it will close the remaining item in the first milestone of the nested transactions roadmap. 
 
@@ -41,7 +41,8 @@ In parallel, the team implemented a clear distinction between sub-transactions a
 This week, the **consensus** team [showcased a Leios prototype](https://github.com/IntersectMBO/ouroboros-consensus/issues/1701) during the monthly demo. For Peras, the [October demo](https://github.com/tweag/cardano-peras/blob/main/demo/README.md#2025-10-27) is now available. The team also published [consensus patches for cardano-node v.10.6](https://github.com/IntersectMBO/ouroboros-consensus/pull/1729), which include making [Dijkstra genesis optional](https://github.com/IntersectMBO/ouroboros-consensus/pull/1725) and [streaming ledger tables in the snapshot converter](https://github.com/IntersectMBO/ouroboros-consensus/pull/1728).  
 Separately, they [released \`resource-registry 0.2.0.0](https://github.com/IntersectMBO/io-classes-extra/pull/11)`, adding` [transferRegistry](https://github.com/IntersectMBO/io-classes-extra/pull/9)\` and [releasing threads before closing](https://github.com/IntersectMBO/io-classes-extra/pull/10). In CHaP, the team [prevented future-dated package releases](https://github.com/IntersectMBO/cardano-haskell-packages/pull/1159). Work is ongoing to enable randomized snapshot delays.
 
-SCALING  
+### SCALING
+
 This week, the **Mithril** team prepared the [pre-release](https://github.com/input-output-hk/mithril/releases/tag/2543.0-pre) for the `2543.0-pre` distribution. This version introduces support for the default incremental backend (v2) for Cardano database restoration, enhanced integrity verification that reports any tampered or missing files in case of failure, and various bug fixes and improvements.
 
 The team also completed the [integration of the Haskell DMQ](https://github.com/input-output-hk/mithril/issues/2674) node into the end-to-end tests to enable decentralized signature diffusion. They implemented a simple aggregator discovery mechanism and continued work on the first phase of [decentralizing configuration parameters](https://github.com/input-output-hk/mithril/issues/2692). Additionally, they advanced the design of certificate snarkification.
@@ -74,8 +75,9 @@ Members of the team are currently in Edinburgh attending the UPLC conference. Th
 
 Additionally, work is ongoing on the translation of 'Mastering Cardano' into both Spanish and Japanese.
 
-![](https://ucarecdn.com/ed22f205-451f-4a9f-a13b-66cd7fc117b0/-/preview/-/format/auto/-/quality/smart/)  
-エコシステム
+![](https://ucarecdn.com/ed22f205-451f-4a9f-a13b-66cd7fc117b0/-/preview/-/format/auto/-/quality/smart/)
+
+### エコシステム
 
 _本セクションの情報は、一般に利用可能な情報源に基づいており、情報提供のみを目的として提供されています。言及されているプロジェクト、製品、サービスを推奨するものではありません。_
 
@@ -98,7 +100,7 @@ Cardanoエコシステムは着実に成長を続け、主要なネットワー�
 *   [Midnight Glacier DropのScavenger Mineフェーズ](https://x.com/midnightfdn/status/1983570567597814185)が10月30日にスタート、2万2000強が事前参加登録済み
     
 
-コアテクノロジー
+### コアテクノロジー
 
 **台帳**チームは[CIP-118：ネストされたトランザクション](https://github.com/cardano-foundation/CIPs/pull/862)（Babelフィー）を完成させました。これは、[CIP-112：監視スクリプトタイプ](https://github.com/cardano-foundation/CIPs/pull/749)とCDDLに裏打ちされたトランザクション仕様に依存することで、設計を大幅に簡素化するものです。この提案は現在、最終レビューの準備ができており、マージされれば、ネストされたトランザクションのロードマップにおける最初のマイルストーンの残りの項目が完了します。 
 
@@ -108,7 +110,7 @@ Cardanoエコシステムは着実に成長を続け、主要なネットワー�
 
 これとは別に、`resource-registry 0.2.0.0`[をリリース](https://github.com/IntersectMBO/io-classes-extra/pull/11)しました。これには\`[transferRegistry](https://github.com/IntersectMBO/io-classes-extra/pull/9)\`の追加と[クローズ前のスレッドの解放](https://github.com/IntersectMBO/io-classes-extra/pull/10)が含まれています。CHaPでは、[未来の日付が設定されたパッケージのリリースを防ぐ措置](https://github.com/IntersectMBO/cardano-haskell-packages/pull/1159)を講じました。ランダム化されたスナップショット遅延を可能にするための作業が進行中です。
 
-スケーリング
+### スケーリング
 
 **Mithril**チームは`2543.0-pre`ディストリビューションの[プレリリース](https://github.com/input-output-hk/mithril/releases/tag/2543.0-pre)を準備しました。このバージョンではCardanoデータベースの復元のためにデフォルトの増分バックエンド（v2）のサポートが導入されました。また、障害発生時に改ざんされたファイルや不足しているファイルを報告するように整合性検証が強化された他、バグ修正と改善も含まれています。
 
