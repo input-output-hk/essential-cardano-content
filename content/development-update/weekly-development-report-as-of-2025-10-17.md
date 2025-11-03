@@ -15,9 +15,9 @@ _The information in this section is based on publicly available sources and is p
 
 The Cardano ecosystem continues to advance steadily across multiple fronts. The number of projects building remains at 2,013. On-chain activity remains healthy, with 114.80 million transactions processed.
 
-Smart contract activity shows stable expansion, with 142,286 Plutus scripts and 12,070 Aiken scripts now deployed. Governance participation also grew slightly, reaching 1,508 DReps, including 1,020 active DReps, reflecting ongoing engagement in the Voltaire era. Developer activity stayed consistent, with 322 GitHub commits recorded over the past week._  
-  
-In other news:_
+Smart contract activity shows stable expansion, with 142,286 Plutus scripts and 12,070 Aiken scripts now deployed. Governance participation also grew slightly, reaching 1,508 DReps, including 1,020 active DReps, reflecting ongoing engagement in the Voltaire era. Developer activity stayed consistent, with 322 GitHub commits recorded over the past week.\_
+
+In other news:\_
 
 *   Intersect and the Cardano Foundation co-designed [a new framework](https://www.intersectmbo.org/news/building-a-better-budget-process-for-2026-proposing-a-multi-step-framework) that proposes a more transparent and collaborative approach to funding.
     
@@ -50,8 +50,8 @@ The **Lace** team released [v.1.30](https://x.com/lace_io/status/197631507293995
 
 This week, the **Mithril** team successfully [integrated the Haskell DMQ](https://github.com/input-output-hk/mithril/issues/2728) node with Mithril nodes in the end-to-end tests. They continued implementing the first phase of [decentralizing configuration](https://github.com/input-output-hk/mithril/issues/2692) parameters. They also worked on some enhancements to the client library and CLI to provide access to Cardano database incremental snapshots by epoch. Additionally, they updated the signer to ensure it has a unique protocol initializer for each epoch.
 
-Finally, the team fixed some bugs in the CI and completed the first refactoring of the STM cryptographic library that enhances its readability.  
-  
+Finally, the team fixed some bugs in the CI and completed the first refactoring of the STM cryptographic library that enhances its readability.
+
 The **Hydra** team released [v.1.0.0](https://github.com/cardano-scaling/hydra/releases), added tests to capture the current maximum UTXO limit before [fanout](https://github.com/cardano-scaling/hydra/issues/2270) becomes impossible, and fixed [partial token](https://github.com/cardano-scaling/hydra/issues/2285) deposit handling.
 
 ### VOLTAIRE
@@ -157,8 +157,8 @@ Plutusエコシステムの開発者と研究者のための特別イベント[U
 
 **Mithril**チームは、エンドツーエンドテストで[Haskell DMQ](https://github.com/input-output-hk/mithril/issues/2728)ノードとMithrilノードを無事[統合](https://github.com/input-output-hk/mithril/issues/2728)しました。[設定パラメーターの分散化](https://github.com/input-output-hk/mithril/issues/2692)の第1フェーズの実装を続けました。エポックごとのCardanoデータベース増分スナップショットへのアクセスを提供するために、クライアントライブラリーとCLIの機能強化も行いました。エポックごとに一意なプロトコル初期化子を持つように、署名者を更新しました。
 
-CIのバグを修正し、可読性を高めるためのSTM暗号ライブラリーの最初のリファクタリングを完了しました。  
-  
+CIのバグを修正し、可読性を高めるためのSTM暗号ライブラリーの最初のリファクタリングを完了しました。
+
 **Hydra**チームは[v.1.0.0を](https://github.com/cardano-scaling/hydra/releases)リリースし、[ファンアウト](https://github.com/cardano-scaling/hydra/issues/2270)が不可能になる前に現在の最大UTXO制限を捕捉するためのテストを追加し、[部分的なトークン](https://github.com/cardano-scaling/hydra/issues/2285)デポジットの処理に関する不具合を修正しました。
 
 ### VOLTAIRE
@@ -218,6 +218,6 @@ Fund14は終了しますが、Fund15の興奮がすでに高まっています�
 
 **教育**チームは、ワイオミング大学で開催された**Cardano Daysイベント**と**シンガポールで**開催された**Token2049**への参加という最近行われた2つの主要イベントからのフィードバックを収集することに焦点を当てています。
 
-電子書籍『**Mastering Cardano』**の翻訳作業も継続しており、スペイン語版と日本語版の両方で進展が見られています。
+電子書籍『\*\*Mastering Cardano』\*\*の翻訳作業も継続しており、スペイン語版と日本語版の両方で進展が見られています。
 
 来月**ブエノスアイレス**で開催される**Cardano開発者コース**の準備も進められています。リーチを拡大するためにオンラインコンポーネントを含めるオプションを模索しています。登録とコースの詳細については、このスペースを参照してください。
