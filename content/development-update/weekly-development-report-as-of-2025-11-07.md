@@ -28,7 +28,7 @@ In other news:
 *   [Input | Output](https://x.com/InputOutputHK/status/1984328412098675193) revealed the Ouroboros Phalanx upgrade, designed to enhance Cardano’s security while boosting transaction speeds across the network.
     
 
-### SMART CONTRACT
+### SMART CONTRACTS
 
 This week, the **Plutus** team organized and attended [UPLC 2025](https://services.iohk.io/uplc) in Edinburgh. Session recordings will be available soon. 
 
