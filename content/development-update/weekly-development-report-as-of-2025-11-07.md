@@ -34,7 +34,7 @@ This week, the **Plutus** team organized and attended [UPLC 2025](https://servic
 
 To address the community feedback, they added a new `Value` primitive, `scaleValue`, and made refinements to other `Value` primitives for activation at the upcoming intra-era hard fork. The team also improved UPLC evaluator performance by optimizing the inlining of the `geq` function and progressed work on costing for all `Value` primitives.  
   
-SCALING
+### SCALING
 
 This week, the **Mithril** team [released the](https://github.com/input-output-hk/mithril/releases/tag/2543.0) `2543.0` [distribution](https://github.com/input-output-hk/mithril/releases/tag/2543.0), which adds support for the default incremental backend (v2) for Cardano database restoration, introduces enhanced integrity verification that reports any tampered or missing files in case of failure, and includes various bug fixes and improvements.
 
@@ -83,7 +83,7 @@ _本セクションの情報は、一般に利用可能な情報源に基づい�
 
 **Plutus**チームはエディンバラで[UPLC 2025](https://services.iohk.io/uplc)を開催しました。セッションの録画はまもなく公開される予定です。コミュニティからのフィードバックに対処するため、新しい`Value`プリミティブの`scaleValue`を追加し、予定されている期内ハードフォークでアクティブ化するために他の`Value`プリミティブを改良しました。`geq`関数のインライン展開を最適化することでUPLC評価器のパフォーマンスを向上させ、すべての`Value`プリミティブのコスト計算を進めました。  
   
-スケーリング
+### スケーリング
 
 **Mithril**チームは`2543.0`[ディストリビューションをリリース](https://github.com/input-output-hk/mithril/releases/tag/2543.0)しました。ここではCardanoデータベースの復元のためにデフォルトの増分バックエンド（v2）のサポートを追加し、障害発生時に改ざんされたファイルや不足しているファイルを報告するように強化した整合性検証を導入した他、バグ修正と改善も行っています。
 
