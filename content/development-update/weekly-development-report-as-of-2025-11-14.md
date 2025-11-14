@@ -32,39 +32,42 @@ The Intersect committee election results have been compiled and audited. The num
 The Midnight category will fund open-source proof-of-concept (PoC) DApps that showcase real-world applications of Midnight’s privacy technology.  
   
 Fund15 takes Catalyst to a new chapter: evolving from a Cardano-centric program into a multichain accelerator that empowers builders across ecosystems. By leveraging Catalyst’s community-driven infrastructure and voting framework, the initiative aims to identify promising projects and accelerate the development of practical, privacy-focused tools for developers.
+
 **Submission deadline:** 6AM on November 27, 2025
 
-#### **Midnight Category** 
-##### Compact DApps  
-To accelerate developer adoption of Midnight by funding essential open-source reference DApps. This category is seeking reference DApps, and funding will be sponsored by the Midnight Foundation.  
+#### Midnight category
+
+**Compact DApps**
+
+To accelerate developer adoption of Midnight by funding essential open-source reference DApps. This category is seeking reference DApps, and the Midnight Foundation will sponsor funding.  
   
 **Budget available:** $USDM 250,000.00  
 **Proposal range:** From $USDM 2,500 to $USDM 10,000.  
 **Details:** [here](https://projectcatalyst.io/funds/15/midnight-compact-dapps)
 
 
-#### **Cardano Categories** 
-##### Cardano Partners: Tier-1 Enterprise Integrations  
+#### Cardano categories
+
+**Cardano partners: tier-1 enterprise integrations**  
 This specialized funding category is designed to forge strategic alliances by supporting ambitious Cardano-based proposals that pilot real-world solutions with Tier-1 enterprises, driving adoption, high-impact R&D, and meaningful co-marketing opportunities.  
   
 **Budget available:** ₳10,000,000  
 **Proposal range:** From ₳250,000 to ₳750,000  
 **Details:** [here](https://projectcatalyst.io/funds/15/cardano-partners-tier-1-enterprise-integrations)
 
-#### **Cardano Use Cases: Prototype & Launch**  
-This category funds entrepreneurial teams and developers—whether experienced in Cardano or new to it—providing the resources to build and launch novel on-chain prototypes that accelerate the growth and utility of the Cardano ecosystem.  
+#### **Cardano use cases: prototype and launch**  
+This category funds entrepreneurial teams and developers — whether experienced in Cardano or new to it—providing the resources to build and launch novel on-chain prototypes that accelerate the growth and utility of the Cardano ecosystem.  
   
 **Budget available:** ₳6,000,000  
 **Proposal range:** From ₳15,000 to ₳200,000  
 **Details:** [here](https://projectcatalyst.io/funds/15/cardano-use-cases-prototype-and-launch)
 
-#### **Cardano Open: Ecosystem**  
-Cardano Open: Ecosystem category will fund non-technical initiatives that drive grassroots ecosystem growth, education, research and community engagement to broaden Cardano’s reach. This category focuses on building the creative capacity of our passionate global community.  
+#### Cardano open: ecosystem
+This category will fund non-technical initiatives that drive grassroots ecosystem growth, education, research, and community engagement to broaden Cardano’s reach. This category focuses on building the creative capacity of our passionate global community.  
   
 **Budget available:** ₳2,500,000  
 **Proposal range:** ₳15,000 to ₳60,000  
-**Details:** [here  
-](https://projectcatalyst.io/funds/15/cardano-open-ecosystem)  
+**Details:** [here](https://projectcatalyst.io/funds/15/cardano-open-ecosystem)  
   
 ### EDUCATION
 The **education** team is concentrating its efforts in Buenos Aires, Argentina, this week, where it is driving a critical developer initiative and conducting significant educational outreach.
@@ -72,8 +75,6 @@ The **education** team is concentrating its efforts in Buenos Aires, Argentina, 
 Team members are currently on site at the UTN in Buenos Aires, Argentina, for the in-person component of the Cardano developer course. This course is designed to empower participants to build on Cardano and has over 50 registered attendees. Simultaneously, the team is working at the IO booth as part of the broader [Argentina Tech Week](https://www.tecweek.com.ar/), promoting IO education activities and Mastering Cardano, and supporting the local hackathon.
 
 In parallel with the on-site activities, the team has successfully completed the remaining modules of phase 1 of the self-paced Cardano education program. The team encourages the community to watch this space for details on where to start your learning journey with the newly completed content.  
-  
-  
   
   
 ![](https://ucarecdn.com/c4e9a95b-045a-43d7-977d-bb6e21148414/-/preview/-/format/auto/-/quality/smart/)  
