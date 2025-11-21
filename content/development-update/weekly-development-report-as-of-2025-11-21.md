@@ -11,7 +11,7 @@ image_text: Weekly development report as of 2025-11-21
 
 ### CORE TECHNOLOGY
 
-This week, the core tech team released `cardano-node` v.10.5.2, a bug-fix update addressing a hash-size inconsistency and a diffusion peer-selection issue in which the periodic churn mechanism could fail to demote enough warm peers, reducing long-term diversity among active peers. This was identified using \`[cardano-ignite](https://github.com/cardano-foundation/cardano-ignite)\` – a tool for orchestrating multi-region testnets with many stake pools.
+This week, the core tech team released [`cardano-node` v.10.5.2](https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.2), a bug-fix update addressing a hash-size inconsistency and a diffusion peer-selection issue in which the periodic churn mechanism could fail to demote enough warm peers, reducing long-term diversity among active peers. This was identified using \`[cardano-ignite](https://github.com/cardano-foundation/cardano-ignite)\` – a tool for orchestrating multi-region testnets with many stake pools.
 
 **Action required: Stake pool operators should upgrade to v.10.5.2.**
 
@@ -23,7 +23,7 @@ In addition, the team [removed deprecated functionality](https://github.com/Inte
 
 The **Plutus** team is finalizing work for the upcoming intra-era hard fork. They finalized the costing for four `Value` primitives, with the remaining three in progress. The final step will be end-to-end testing of all new features planned for activation. The team is also preparing a blog post on the UPLC 2025 event and continues working on other items, such as support for case analysis related to `Data`.
 
-### WALLET AND SERVICES
+### WALLETS AND SERVICES
 
 This week, the **Lace** team released [Lace v.1.31](https://x.com/lace_io/status/1990827873939407224?s=46&t=KH7Ar_LX82ElBgTR404n8g). This update enables in-wallet token swaps for Cardano native assets via SteelSwap, brings Bitcoin wallets to general availability through a phased rollout, and improves responsiveness with optimized API request batching. For full details, setup guidance, and tips, see the [Lace v1.31 release post](https://www.lace.io/blog/1-31-release).
 
