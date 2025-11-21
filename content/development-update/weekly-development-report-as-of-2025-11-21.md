@@ -61,14 +61,13 @@ A major highlight of this release is the set of meaningful upgrades to the ‘Mi
 All updates will be shared on the [Catalyst documentation site](https://docs.projectcatalyst.io/).  
 Catch up on the latest news during the recent [Project Catalyst town hall #216](https://youtube.com/live/6BQ_oYtCsP8?feature=share), or browse through the [slide deck](https://docs.google.com/presentation/d/1cJZ5PUwf4oLmy0f-2rNfwn5jhwNVHhASpFg-ANGHv9E/edit?usp=sharing). 
 
-###   
-EDUCATION
+### EDUCATION
 
 The **education** team is reflecting on the recent successful Cardano Developer course and hackathon in Buenos Aires, Argentina.  
 
 Work continues on the translations for Mastering Cardano in both Spanish and Japanese, and preparations are underway to launch the self-paced Cardano education program.
 
-### ![](https://ucarecdn.com/21429d83-d984-438c-8704-74c6517d71e1/-/preview/-/format/auto/-/quality/smart/)  
+![](https://ucarecdn.com/21429d83-d984-438c-8704-74c6517d71e1/-/preview/-/format/auto/-/quality/smart/)  
   
 コアテクノロジー
 
@@ -123,8 +122,7 @@ Communityのフィードバックは、**Project Catalyst**のロードマップ
 
 先日行われた[第216回Project Catalystタウンホール](https://youtube.com/live/6BQ_oYtCsP8?feature=share)や[スライドデッキ](https://docs.google.com/presentation/d/1cJZ5PUwf4oLmy0f-2rNfwn5jhwNVHhASpFg-ANGHv9E/edit?usp=sharing)で最新情報を確認してください。 
 
-###   
-教育
+### 教育
 
 **教育**チームはアルゼンチンのブエノスアイレスで成功を収めたCardano開発者コースとハッカソンを振り返っています。  
 
