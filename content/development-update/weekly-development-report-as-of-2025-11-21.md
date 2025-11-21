@@ -5,13 +5,13 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/7741136b-bf41-4271-9ff9-015083f2ba7d/
+image: https://ucarecdn.com/755b9d34-981b-45b4-996d-34ebdb567958/
 image_text: Weekly development report as of 2025-11-21
 ---
 
 ### CORE TECHNOLOGY
 
-This week, the core tech team released [`cardano-node` v.10.5.2](https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.2), a bug-fix update addressing a hash-size inconsistency and a diffusion peer-selection issue in which the periodic churn mechanism could fail to demote enough warm peers, reducing long-term diversity among active peers. This was identified using \`[cardano-ignite](https://github.com/cardano-foundation/cardano-ignite)\` – a tool for orchestrating multi-region testnets with many stake pools.
+This week, the core tech team released `cardano-node` [v.10.5.2](https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.2), a bug-fix update addressing a hash-size inconsistency and a diffusion peer-selection issue in which the periodic churn mechanism could fail to demote enough warm peers, reducing long-term diversity among active peers. This was identified using \`[cardano-ignite](https://github.com/cardano-foundation/cardano-ignite)\` – a tool for orchestrating multi-region testnets with many stake pools.
 
 **Action required: Stake pool operators should upgrade to v.10.5.2.**
 
@@ -67,11 +67,11 @@ The **education** team is reflecting on the recent successful Cardano Developer 
 
 Work continues on the translations for Mastering Cardano in both Spanish and Japanese, and preparations are underway to launch the self-paced Cardano education program.
 
-![](https://ucarecdn.com/21429d83-d984-438c-8704-74c6517d71e1/-/preview/-/format/auto/-/quality/smart/)  
-  
+![](https://ucarecdn.com/21429d83-d984-438c-8704-74c6517d71e1/-/preview/-/format/auto/-/quality/smart/)
+
 コアテクノロジー
 
-コアテクノロジーチームは`Cardano-node` v.10.5.2をリリースしました。これは、バグ修正アップデートで、ハッシュサイズの不整合と、周期的なチャーンメカニズムが十分な数のウォームピアを降格できず、アクティブピア間の長期的な多様性を低下させる、拡散ピア選択の不具合に対処しています。このネットワークの不具合は、多数のステークプールを持つマルチリージョンテストネットをオーケストレーションするためのツール\`[cardano-ignite](https://github.com/cardano-foundation/cardano-ignite)\`を使用して特定されました。
+コアテクノロジーチームは`Cardano-node` [v.10.5.2](https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.2)をリリースしました。これは、バグ修正アップデートで、ハッシュサイズの不整合と、周期的なチャーンメカニズムが十分な数のウォームピアを降格できず、アクティブピア間の長期的な多様性を低下させる、拡散ピア選択の不具合に対処しています。このネットワークの不具合は、多数のステークプールを持つマルチリージョンテストネットをオーケストレーションするためのツール\`[cardano-ignite](https://github.com/cardano-foundation/cardano-ignite)\`を使用して特定されました。
 
 **警告：ステークプールオペレーターは、直ちにv.10.5.2にアップグレードしてください。**
 
