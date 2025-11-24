@@ -5,15 +5,17 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/755b9d34-981b-45b4-996d-34ebdb567958/
+image: https://ucarecdn.com/93cc57e7-f290-4d9f-9314-284f9d2bc19b/
 image_text: Weekly development report as of 2025-11-21
 ---
 
 ### CORE TECHNOLOGY
 
-This week, the core tech team released `cardano-node` [v.10.5.2](https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.2), a bug-fix update addressing a hash-size inconsistency and a diffusion peer-selection issue in which the periodic churn mechanism could fail to demote enough warm peers, reducing long-term diversity among active peers. This was identified using \`[cardano-ignite](https://github.com/cardano-foundation/cardano-ignite)\` – a tool for orchestrating multi-region testnets with many stake pools.
+On November 21, 2025, the Cardano mainnet experienced a chain partition caused by a malformed delegation transaction that triggered a deserialization bug. Teams from Input | Output, Cardano Foundation, EMURGO, Intersect, exchanges, security experts, technical community leaders, and many stake pool operators coordinated a joint response and released a hotfix, [node v.10.5.3](https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.3). A working group was set up to reconcile data and track network convergence. No user funds were lost, and most wallets required no action while the network moved toward restoring a single canonical chain.
 
-**Action required: Stake pool operators should upgrade to v.10.5.2.**
+A full review is underway and will be published once data reconciliation is complete. Current priorities include improving test coverage for edge cases and legacy code, tightening coordination and timing of node upgrades, and enhancing monitoring and communication so issues are detected and addressed even faster. Intersect will also be running a code-quality review, and governance discussions are examining security research and how to incentivize testing on testnets rather than mainnet.
+  
+Read the full [incident report – facts at a glance – here](https://www.intersectmbo.org/news/cardano-mainnet-incident-facts-at-a-glance).
 
 The **ledger** team defined [sub-transactions](https://github.com/IntersectMBO/cardano-ledger/pull/5386) for nested transactions in the Dijkstra era. They also reduced duplication in the CDDL transaction specification, with further consolidation in progress. For Dijkstra, they hardened serialization to reject duplicate elements on the wire — an issue that could not be addressed retroactively for earlier eras.
 
@@ -42,21 +44,13 @@ On November 20, Catalyst will be released ‘Milestone Module’ updates based o
 A major highlight of this release is the set of meaningful upgrades to the ‘Milestone Module’, highlighting commitment to transparency and accountability: 
 
 *   A new homepage
-    
-*   ‘New Incoming Message’ notification
-    
+*   ‘New Incoming Message’ notification  
 *   Better search and sort
-    
 *   Hidden reviews for unbiased feedback
-    
 *   Milestone and proof of achievement (PoA) templates
-    
 *   Mandatory approval checkboxes
-    
 *   Resubmission tracking
-    
 *   New tools for funded projects.
-    
 
 All updates will be shared on the [Catalyst documentation site](https://docs.projectcatalyst.io/).  
 Catch up on the latest news during the recent [Project Catalyst town hall #216](https://youtube.com/live/6BQ_oYtCsP8?feature=share), or browse through the [slide deck](https://docs.google.com/presentation/d/1cJZ5PUwf4oLmy0f-2rNfwn5jhwNVHhASpFg-ANGHv9E/edit?usp=sharing). 
@@ -67,13 +61,15 @@ The **education** team is reflecting on the recent successful Cardano Developer 
 
 Work continues on the translations for Mastering Cardano in both Spanish and Japanese, and preparations are underway to launch the self-paced Cardano education program.
 
-![](https://ucarecdn.com/21429d83-d984-438c-8704-74c6517d71e1/-/preview/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/bf74eb7c-a334-44f5-a00a-6236a8040dba/)
 
 コアテクノロジー
 
-コアテクノロジーチームは`Cardano-node` [v.10.5.2](https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.2)をリリースしました。これは、バグ修正アップデートで、ハッシュサイズの不整合と、周期的なチャーンメカニズムが十分な数のウォームピアを降格できず、アクティブピア間の長期的な多様性を低下させる、拡散ピア選択の不具合に対処しています。このネットワークの不具合は、多数のステークプールを持つマルチリージョンテストネットをオーケストレーションするためのツール\`[cardano-ignite](https://github.com/cardano-foundation/cardano-ignite)\`を使用して特定されました。
+2025年11月21日、Cardanoメインネットで、不正な形式の委任トランザクションが逆シリアル化バグをトリガーしたによって、チェーン分岐が発生しました。Input | Output、Cardano財団、EMURGO、Intersect、取引所、セキュリティ専門家、技術コミュニティのリーダー、多くのステークプールオペレーターが合同で対応にあたり、修正プログラム[node v.10.5.3](https://github.com/IntersectMBO/cardano-node/releases/tag/10.5.3)をリリースしました。データの整合性を取り、ネットワークの収束を追跡するために、ワーキンググループが設置されました。ユーザーの資金が失われることはなく、ネットワークが単一の正準チェーンの復元に向けて動いている間、ほとんどのウォレットでユーザー側の操作は必要ありませんでした。
 
-**警告：ステークプールオペレーターは、直ちにv.10.5.2にアップグレードしてください。**
+現在完全なレビューを実施しており、データの整合が完了し次第、公開されます。現在の優先事項には、エッジケースとレガシーコードのテストカバレッジの改善、ノードアップグレードの調整とタイミングの厳格化、問題の検出と対処をより迅速に行うための監視とコミュニケーションの強化が含まれています。Intersectはコード品質のレビューを実施する予定で、ガバナンスに関する議論では、セキュリティ研究と、メインネットではなくテストネットでのテストにどのようにインセンティブを与えるかが検討されています。
+  
+完全な[インシデントレポート -一目でわかる事実–はこちら](https://www.intersectmbo.org/news/cardano-mainnet-incident-facts-at-a-glance)からご覧ください。
 
 **台帳**チームはDijkstra（ダイクストラ）期におけるネストされたトランザクションの[サブトランザクション](https://github.com/IntersectMBO/cardano-ledger/pull/5386)を定義しました。CDDLトランザクション仕様の重複を減らし、さらなる統合を進めています。Dijkstraでは、ワイヤー上の重複する要素を拒否するようにシリアル化を厳格化しました。これは以前の開発期から積み残されている課題でした。
 
