@@ -18,13 +18,9 @@ This week, the Cardano ecosystem saw continued growth, with 2,020 projects build
 In other news:
 
 *   Input | Output launched the [Leios development tracker](https://x.com/InputOutputHK/status/1993661935544639553) this week – learn more in the scaling section
-    
 *   Cardano’s founding entities and the Midnight Foundation submitted a joint budget info action for [critical integrations](https://x.com/IntersectMBO/status/1994134372648173933)
-    
 *   [Farmroll.io](//Farmroll.io), built on Cardano, is now live – the tool lets users create and trade AI agents
-    
 *   [Midnight](https://x.com/midnightfdn/status/1993006370602287202) has been nominated for BeInCrypto’s breakthrough of the year award, and [voting](https://awards.beincrypto.com/#vote) is now open
-    
 *   The [Cardano Foundation’s info action](https://x.com/Cardano_CF/status/1993606467711095090) to secure generic top-level domains has been approved.
     
 
@@ -68,7 +64,7 @@ Participants are encouraged to join the event at any time throughout its duratio
 
 Find out more on the [registration page](https://luma.com/4tjuiufo).  
   
-EDUCATION
+### EDUCATION
 
 The **education** team is preparing for next week’s in-person lectures at Florida International University in Miami. The team will present a learning session on Aiken and smart contracts, as well as a Cardano node workshop, to students and faculty staff.
 
@@ -85,16 +81,11 @@ _本セクションの情報は、一般に利用可能な情報源に基づい�
 その他のニュース：
 
 *   Input | Outputは今週[Leios開発トラッカー](https://x.com/InputOutputHK/status/1993661935544639553)を公開。詳細はスケーリングセクションを参照
-    
 *   Cardano設立諸団体とMidnight Foundationが、[重要な統合](https://x.com/IntersectMBO/status/1994134372648173933)のための予算情報アクションを共同提出
-    
 *   Cardanoに構築された、AIエージェントの作成、取引きツール[Farmroll.io](//Farmroll.io)が稼働開始
-    
 *   [Midnight](https://x.com/midnightfdn/status/1993006370602287202)がBeInCryptoの年間最優秀賞ブレイクスルー賞にノミネート。現在[投票](https://awards.beincrypto.com/#vote)投票受付中
-    
 *   gTLDを保護するための[Cardano財団の情報アクション](https://x.com/Cardano_CF/status/1993606467711095090)が承認される
     
-
 ### コアテクノロジー
 
 **ネットワーク**チームはCardanoノードv.10.6に取り組み、`Cardano-tracer`に影響を与えている問題を解決し、更新したネットワークフレームワークを公開し、[トポロジー解析](https://github.com/IntersectMBO/cardano-node/issues/6304)におけるエッジケースに対処しました。このリリースは、P2P専用ネットワークに付属する予定です。Mithril Rustクライアントを使ったエンドツーエンドテストの成功、注釈付きドライバーの修正、`x86_64-linux-musl`用の静的ビルドの利用など、`mq-node`に関する作業を続けました。SPOが使い慣れた監視機能を使えるようにするために、`Cardano-tracer`との統合を進めています。
@@ -135,7 +126,7 @@ PrometheusのサービスディスカバリーなどのQOLトレース機能を�
 
 詳細は、[登録ページ](https://luma.com/4tjuiufo)を参照してください。  
   
-教育
+### 教育
 
 **教育**チームは来週マイアミのフロリダ国際大学で行われる対面講義の準備をしています。Aikenとスマートコントラクトに関する学習セッションと、Cardanoノードワークショップを学生と教職員に提供します。
 
