@@ -20,7 +20,7 @@ There’s an important governance vote live on-chain right now - one that determ
 
 ## A gap in Cardano’s governance
 
-Cardano’s governance is tripartite: DReps, SPOs, and the Constitutional Committee (CC). The CC plays a crucial role. It judges the constitutionality of on-chain decisions and ratifies actions that keep the network evolving.
+Cardano’s governance is tripartite: delegate representatives (DReps), stake pool operators (SPOs), and the Constitutional Committee (CC). The CC plays a crucial role. It judges the constitutionality of on-chain decisions and ratifies actions that keep the network evolving.
 
 When the Cardano Atlantic Council unexpectedly retired mid-term in epoch 597, it left the CC below its minimum operational size. That means it cannot ratify key decisions. To fix this, an Update Committee action is now live on-chain to restore the CC to full capacity.
 
@@ -91,6 +91,6 @@ A full CC is required for:
 *   Hard forks and future transitions
     
 
-DReps have made their choice off-chain. Now the blockchain needs that decision confirmed on-chain - before 20 December.
+DReps have made their choice off-chain. Now the blockchain needs that decision confirmed on-chain - before 20 December. DReps and SPOs can place their vote [here](https://adastat.net/governances/4dab331457b61b824bbc6ba4b9d9be4750e25c0b5dd42207aeb63c7431a6b70400).
 
 _In short: Cardano can’t move forward until this seat is filled. SPOs and DReps have the power to unblock the system with a quick vote. It’s simple, it’s important, and it keeps the whole ecosystem moving. Please take a moment to vote — it genuinely makes all the difference._
