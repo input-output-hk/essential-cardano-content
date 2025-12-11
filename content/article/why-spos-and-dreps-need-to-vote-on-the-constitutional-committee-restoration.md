@@ -13,7 +13,7 @@ image_text: A banner image for the article 'Why SPOs and DReps need to vote on
 
 **_DReps have elected Cardano Curia off-chain; now SPOs and DReps must ratify that result on-chain so Cardano can keep upgrading, improving, and moving forward._**
 
-There’s an important governance vote live on-chain right now - one that determines whether Cardano can keep upgrading, approving budgets, and moving forward. It’s an [Info Action](https://adastat.net/governances/4dab331457b61b824bbc6ba4b9d9be4750e25c0b5dd42207aeb63c7431a6b70400), but it is _not_ a small one. Here’s the story.
+[There’s an important governance vote live on-chain right now](https://gov.tools/governance_actions/4dab331457b61b824bbc6ba4b9d9be4750e25c0b5dd42207aeb63c7431a6b704#0) - one that determines whether Cardano can keep upgrading, approving budgets, and moving forward. It’s an [Info Action](https://adastat.net/governances/4dab331457b61b824bbc6ba4b9d9be4750e25c0b5dd42207aeb63c7431a6b70400), but it is _not_ a small one. Here’s the story.
 
 ![An infographic explaining the Cardano Constitutional Committee restoration initiative](https://ucarecdn.com/f797ad0e-b344-481a-8055-0a1a9ac1fd68/)
 
@@ -91,7 +91,5 @@ A full CC is required for:
     
 
 DReps have made their choice off-chain. Now the blockchain needs that decision confirmed on-chain - before 20 December.
-
-DReps and SPOs, [vote via Cardano GovTool](https://gov.tools/governance_actions/4dab331457b61b824bbc6ba4b9d9be4750e25c0b5dd42207aeb63c7431a6b704#0).
 
 _In short: Cardano can’t move forward until this seat is filled. SPOs and DReps have the power to unblock the system with a quick vote. It’s simple, it’s important, and it keeps the whole ecosystem moving. Please take a moment to vote — it genuinely makes all the difference._
