@@ -14,4 +14,4 @@ image_text: An infographic titled 'Cardano Constitutional Committee Restoration
 
 This infographic explains the situation behind the December 2025 Cardano Constitutional Committee restoration initiative.
 
-For more details on the process, read this article.
+For more details on the process, [read this article](https://www.essentialcardano.io/article/why-spos-and-dreps-need-to-vote-on-the-constitutional-committee-restoration).
