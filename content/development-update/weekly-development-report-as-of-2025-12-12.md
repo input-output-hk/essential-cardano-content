@@ -5,11 +5,10 @@ tags:
   - Development
   - Statistics
 url: ""
-image: https://ucarecdn.com/d4621446-13dd-4acd-94ba-d805238c96d2/
+image: https://ucarecdn.com/d0e8dcff-ea90-4d74-80f8-18f960ef53c4/
 image_text: Weekly development report as of 2025-12-12
 ---
 
-  
 Dear community, this report marks the final development update of 2025.
 
 Wishing everyone warm holiday cheer and a wonderful New Year 🎄✨
@@ -28,7 +27,6 @@ _In other news:_
 
 *   The first integration under the [Critical Cardano Integrations](https://x.com/IntersectMBO/status/1999168539144368303) workstream has been approved, bringing Pyth Lazer oracle to Cardano
     
-
 *   [Serviceplan Group](https://x.com/MasumiNetwork/status/1999148610584268943) has officially joined Intersect as an enterprise member
     
 *   [Midnight’s Redemption](https://x.com/midnightfdn/status/1998728690801213946) portal is officially live, and participants can connect wallets to see their thaw dates
@@ -67,13 +65,12 @@ Watch the [full town hall](https://youtube.com/live/zt7et2DDqmU) and explore the
 
 An essential governance vote is currently live to restore the constitutional committee (CC) to full capacity following a mid-term retirement that has left the body below quorum. Without a fully operational CC, Cardano faces governance paralysis, blocking the ratification of critical network upgrades, treasury withdrawals, and hard forks. DReps and SPOs are urged to ratify the off-chain election of **Cardano Curia** on-chain before the **December 20 deadline** to ensure the ecosystem can continue to evolve and adapt. For a full breakdown of the voting thresholds and implications, please **check out this** [detailed infographic](https://www.essentialcardano.io/infographic/cardano-constitutional-committee-restoration-infographic) **and** [blog post](https://www.essentialcardano.io/article/why-spos-and-dreps-need-to-vote-on-the-constitutional-committee-restoration)**.**  
 
-### EDUCATION
+EDUCATION
 
-This week, the **education** team is reflecting on the successful smart contracts lectures and node demonstration at Florida International University last week. They are also concentrating on the self-paced content of the Cardano education program.  
-  
-  
-![](https://ucarecdn.com/71e9c383-745a-4111-ac9d-3432e065b05c/-/preview/-/format/auto/-/quality/smart/)  
-  
+This week, the **education** team is reflecting on the successful smart contracts lectures and node demonstration at Florida International University last week. They are also concentrating on the self-paced content of the Cardano education program.
+
+![](https://ucarecdn.com/1b1f6d82-0978-4c41-8a9b-2dada0bc9b21/-/preview/-/format/auto/-/quality/smart/)
+
 コミュニティの皆様、2025年開発アップデートは本レポートが最後となります。
 
 皆様には、温もりのあるホリデーシーズンと素晴らしい新年をお迎えいただけますようお祈り申し上げます🎄✨
@@ -92,7 +89,6 @@ _その他のニュース：_
 
 *   [Critical Cardano Integrations](https://x.com/IntersectMBO/status/1999168539144368303)ワークストリームでの最初の統合が承認され、Pyth LazerオラクルがCardanoに移行
     
-
 *   [Serviceplan Group](https://x.com/MasumiNetwork/status/1999148610584268943)がIntersectにエンタープライズメンバーとして公式参加
     
 *   [Midnight償還](https://x.com/midnightfdn/status/1998728690801213946)ポータルが公式オープン、参加者はウォレットを接続して解凍日の確認が可能に
@@ -106,7 +102,7 @@ _その他のニュース：_
 
 **コンセンサス**チームはLSM-tree作業を完了しました。API、CLI、ノードにおける残りの統合は`Cardano-node` v.10.7で実装される予定です。メモリープールデッドロックのコミット（[1](https://github.com/IntersectMBO/ouroboros-consensus/issues/1787)、[2](https://github.com/IntersectMBO/ouroboros-consensus/pull/1798)）に対処し、[v.10.6.1のベンチマークのメモリーリークを解消](https://github.com/IntersectMBO/ouroboros-consensus/pull/1802)しました。フィールドテストのための[予備的なリレーノードのデプロイのためにLSM-treeを備えた10.6.1ノード](https://github.com/IntersectMBO/cardano-node/tree/js/lsm-10.6.1)を準備し、v.10.8のLedgerHDのための基礎作業として、[未テストのブロックごとのテーブルのプロトタイプ](https://github.com/IntersectMBO/cardano-node/tree/js/multiple-tables)をコンパイルしました。ツールと実験においては、`cardano-testnet`が`kes-agent`を使用した実行をサポートするようになりました。Leiosデモの`ouroboros-leios`への移行を進め、[遅延や帯域幅の設定のためのトラフィック制御](https://github.com/input-output-hk/ouroboros-leios/pull/651)を追加しました。
 
-### スケーリング
+スケーリング
 
 **Mithril**チームは、SNARKに適したSTMライブラリーに引き続き焦点を当て、そのコードを簡素化し、[Jubjubバックエンド](https://github.com/input-output-hk/mithril/issues/2817)用のラッパーを実装しました。非再帰的なSNARK回路の指定、[Halo2検証キー](https://github.com/input-output-hk/mithril/issues/2800)に対する制約の評価、SNARK回路のテスト戦略の設計、再帰的なSNARKソリューションのプロトタイプ作成、RISC Zeroを使用したBitcoin DeFiプルーバーのプロトタイプの完了により、進捗を遂げました。
 
@@ -131,7 +127,6 @@ Cardanoの進化における極めて重要な局面の形成に貢献したMatt
 
 現在、完全に機能する憲法委員会（CC）を復活させるために不可欠なガバナンス投票が進行中です。これは、委員会のメンバーが定足数を下回る原因となった任期途中での引退を受けたものです。完全に機能するCCがないため、Cardanoはガバナンスの麻痺に直面し、重要なネットワークアップグレード、トレジャリーからの引き出し、ハードフォークの批准が妨げられています。エコシステムが進化し、適応し続けることができるよう、DRepとSPOは、**12月20日の期限**までに、**Cardano Curia**のオフチェーン選挙をオンチェーンで批准することが求められています。投票のしきい値と影響についての完全な内訳については、**この詳細なインフォグラフィックとブログ記事**をチェックしてください。
 
-  
-### 教育
+教育
 
 **教育**チームは先週フロリダ国際大学で開催されたスマートコントラクト講義とノードデモンストレーションの成功を振り返っています。Cardano教育プログラムの自習型コンテンツにも取り組んでいます。
