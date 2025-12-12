@@ -65,7 +65,7 @@ Watch the [full town hall](https://youtube.com/live/zt7et2DDqmU) and explore the
 
 An essential governance vote is currently live to restore the constitutional committee (CC) to full capacity following a mid-term retirement that has left the body below quorum. Without a fully operational CC, Cardano faces governance paralysis, blocking the ratification of critical network upgrades, treasury withdrawals, and hard forks. DReps and SPOs are urged to ratify the off-chain election of **Cardano Curia** on-chain before the **December 20 deadline** to ensure the ecosystem can continue to evolve and adapt. For a full breakdown of the voting thresholds and implications, please **check out this** [detailed infographic](https://www.essentialcardano.io/infographic/cardano-constitutional-committee-restoration-infographic) **and** [blog post](https://www.essentialcardano.io/article/why-spos-and-dreps-need-to-vote-on-the-constitutional-committee-restoration)**.**  
 
-EDUCATION
+### EDUCATION
 
 This week, the **education** team is reflecting on the successful smart contracts lectures and node demonstration at Florida International University last week. They are also concentrating on the self-paced content of the Cardano education program.
 
@@ -127,6 +127,6 @@ Cardanoの進化における極めて重要な局面の形成に貢献したMatt
 
 現在、完全に機能する憲法委員会（CC）を復活させるために不可欠なガバナンス投票が進行中です。これは、委員会のメンバーが定足数を下回る原因となった任期途中での引退を受けたものです。完全に機能するCCがないため、Cardanoはガバナンスの麻痺に直面し、重要なネットワークアップグレード、トレジャリーからの引き出し、ハードフォークの批准が妨げられています。エコシステムが進化し、適応し続けることができるよう、DRepとSPOは、**12月20日の期限**までに、**Cardano Curia**のオフチェーン選挙をオンチェーンで批准することが求められています。投票のしきい値と影響についての完全な内訳については、**この詳細なインフォグラフィックとブログ記事**をチェックしてください。
 
-教育
+### 教育
 
 **教育**チームは先週フロリダ国際大学で開催されたスマートコントラクト講義とノードデモンストレーションの成功を振り返っています。Cardano教育プログラムの自習型コンテンツにも取り組んでいます。
