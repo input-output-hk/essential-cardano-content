@@ -1,9 +1,12 @@
 ---
 title: "Evolution SDK: a new era for Cardano development"
 tags:
-  - "#cardano"
+  - Cardano
   - Developer Tools
   - Development
+  - evolution-SDK
+  - Intersect
+  - No Witness Labs
 url: ""
 image: ""
 image_text: ""
