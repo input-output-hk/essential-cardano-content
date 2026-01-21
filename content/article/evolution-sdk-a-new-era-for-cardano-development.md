@@ -9,10 +9,10 @@ tags:
   - No Witness Labs
 url: ""
 image: ""
-image_text: ""
+image_text: null
 ---
 
-### The Cardano community, via Intersect, welcomes its first incubated project: Evolution SDK, a new TypeScript-first framework developed by No Witness Labs. This framework is designed to offer developers more flexibility in building Cardano transactions and integrating smart contracts, with enhanced safety and determinism built into the development flow.
+### Standfirst: The Cardano community, via Intersect, welcomes its first incubated project: Evolution SDK, a new TypeScript-first framework developed by No Witness Labs. This framework is designed to offer developers more flexibility in building Cardano transactions and integrating smart contracts, with enhanced safety and determinism built into the development flow.
 
 **Author**: Jonathan Rodriguez/Mladen Lamesevic
 
