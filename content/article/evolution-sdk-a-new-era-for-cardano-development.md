@@ -8,7 +8,8 @@ tags:
   - Intersect
   - No Witness Labs
 url: ""
-image: "https://ucarecdn.com/4d19c80b-e83a-4877-81af-addae3ca5c8c"
+image: "<img width="1920" height="1080" src="https://github.com/user-attachments/assets/a69c66a0-a972-4c62-a24f-f8d7013207ce" />"
+
 image_text: "A banner image for the Evolution SDK article on Essential Cardano"
 ---
 
