@@ -2,6 +2,9 @@
 title: An AI agent building on top of the Andamio protocol
 tags:
   - future-of-work
+  - collaboration-tools
+  - Developer Tools
+  - ai-agent
 url: https://youtu.be/COxlUhahREo
 image: ""
 image_text: ""
