@@ -66,7 +66,7 @@ A [governance action](https://gov.tools/outcomes/governance_actions/4dab331457b6
 
 The ‘Cardano Pentad’, comprising Input Output, EMURGO, the Cardano Foundation, Intersect, and the Midnight Foundation, is a new coalition that works as a coordinated, treasury-supported process focused on network-wide infrastructure needs. Rather than relying on fragmented community-led efforts, the Pentad emphasizes unified decision-making while maintaining ecosystem representation.
 
-RESEARCH
+### RESEARCH
 
 The **Input Output Research (IOR)** team started the year with an ongoing focus on the **Cardano Vision** program. 
 
@@ -115,7 +115,7 @@ MLabsとの協力により、最適化した`byteStringToInteger`および`integ
 
 並行して、複数の長期的な取り組みも継続しました。これには、Plutus V4の初期開発、Philip Wadler教授とのUPLCインライナーの形式検証に関する議論の継続、UPLCランタイムパフォーマンスのさらなる最適化、Plinthのユーザビリティ改善の継続が含まれます。  
 
-スケーリング
+### スケーリング
 
 今年、**Mithril**チームは、分散型メッセージキュー（DMQ）ネットワークを通じたプロトコルの分散化、プロトコルの普及拡大、SNARKを用いたSTMライブラリーの進化による簡潔な証明の導入を引き続き優先事項としています。
 
@@ -130,9 +130,8 @@ Cardanoのガバナンスは2025年に完全な分散化を達成しました。
 1月10日には、Cardano憲法委員会にメンバー1名を追加する[ガバナンスアクション](https://gov.tools/outcomes/governance_actions/4dab331457b61b824bbc6ba4b9d9be4750e25c0b5dd42207aeb63c7431a6b704#0)が執行され、委員の数は規定の最小人数を2名上回る体制となりました。これは、メンバーの一人が辞任した場合や継続不能となる事態に備え、バッファを確保することを目的としています。
 
 Input Output、EMURGO、Cardano財団、Intersect、Midnight Foundationで構成されるCardano Pentad（カルダノペンタッド）は、ネットワーク全体のインフラニーズに焦点を当て、トレジャリーの支援を受けて調整を行う新しい連合体です。Pentadは、断片的なコミュニティ主導の取り組みに頼るのではなく、エコシステムの代表性を維持しつつ、統一された意思決定を行うプロセスを重視しています。
-
   
-研究
+### 研究
 
 **Input Output Research (IOR)**チームは、引き続き**Cardano Vision**プログラムへ焦点を当てつつ新年をスタートさせました。 
 
