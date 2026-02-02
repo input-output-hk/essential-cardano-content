@@ -30,7 +30,7 @@ This week in ecosystem updates:
 
 With the start of 2026, the **consensus** team continued to prioritize work on treasury-funded initiatives, including node maintenance and support, the Ouroboros Leios implementation, and the KES agent.
 
-This week, the team progressed with Cardano node v.10.7 integration and release preparations, prototyped Leios endorsement block production, and advanced the broader Leios protocol implementation. Additionally, they optimized the centralized `TxSubmission` [logic](https://github.com/IntersectMBO/ouroboros-consensus/issues/1444) and released `kes-agent` and `kes-agent-crypto` v.1.0.
+This week, the team progressed with Cardano node v.10.7 integration and release preparations, prototyped Leios endorsement block production, and advanced the broader Leios protocol implementation. Additionally, they kept working on [`TxSubmission` logic](https://github.com/IntersectMBO/ouroboros-consensus/issues/1444), released `kes-agent` and `kes-agent-crypto` [v.1.0](https://github.com/input-output-hk/kes-agent/releases/tag/kes-agent-1.0.0.0), and added defensive programming logic to the mempool.
 
 ### SCALING
 
