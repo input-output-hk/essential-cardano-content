@@ -17,18 +17,12 @@ _The information in this section is based on publicly available sources and is p
 This week in ecosystem updates:
 
 *   [Rare Network](https://x.com/RareNetworkWeb3/status/2011145485189530100) is offering event and marketing funding through the Amplify Cardano program
-    
 *   [CME Group](https://x.com/CMEGroup/status/2019063398013522208) will launch Cardano futures on February 9
-    
 *   [World Mobile](https://x.com/WorldMobileTeam/status/2019059553212473690) announced plans for a new phone, AirNode NFTs, and real-world asset (RWA) positioning as part of its 2026 roadmap
-    
 *   [CardanoThingsIO](https://x.com/CardanoThingsIO/status/2019437491095482834) launched a series of online workshops to help developers build their first Cardano IoT project
-    
 *   The [Cardano Foundation](https://x.com/Cardano_CF/status/2019395306555904503) released the results of its 2025 State of the Cardano Ecosystem survey
-    
 *   The Catalyst program provides a Fund15 update – read [more here](https://projectcatalyst.io/blog/update-from-the-catalyst-team).
     
-
 ### CORE TECHNOLOGY
 
 This week, the **performance and tracing** team worked on re-establishing performance baselines for node v.10.5 and v.10.6 branches, ensuring recent incremental changes are reflected so that future performance shifts can be accurately attributed. 
@@ -46,12 +40,9 @@ Five companies are already participating in this pilot phase, helping the team r
 This is your opportunity to join the early access program to directly influence the development of critical security tooling for Cardano. The team is eager to:
 
 *   Understand your specific development context
-    
 *   Learn about your pain points with smart contract verification
-    
 *   Gather your hands-on feedback as you use the tool.
     
-
 Your input will directly shape the product roadmap and ensure the development of exactly what the Cardano developer community needs. Subscribe now: [afv\_earlyaccess@iohk.io](mailto:afv_earlyaccess@iohk.io). 
 
 ### SCALING
@@ -79,17 +70,12 @@ _本セクションの情報は、一般に利用可能な情報源に基づい�
 今週のエコシステム更新情報
 
 *   [Rare Network](https://x.com/RareNetworkWeb3/status/2011145485189530100)がAmplify Cardanoプログラムを通じてイベントおよびマーケティングの資金調達を提供
-    
 *   [CME Group](https://x.com/CMEGroup/status/2019063398013522208)が2月9日にCardano先物を上場
-    
 *   [World Mobile](https://x.com/WorldMobileTeam/status/2019059553212473690)が2026年ロードマップを公開。新型スマホやAirNode NFT、RWAへの注力を発表
-    
 *   [CardanoThingsIO](https://x.com/CardanoThingsIO/status/2019437491095482834)がCardano IoTプロジェクトを支援するオンラインワークショップを開始
-    
 *   [Cardano財団](https://x.com/Cardano_CF/status/2019395306555904503)が2025年Cardanoエコシステム現状調査の結果を発表
-    
 
-コアテクノロジー
+### コアテクノロジー
 
 **パフォーマンス＆トレース**チームは、 ノードv.10.5およびv.10.6ブランチのパフォーマンスベースラインの再確立に取り組みました。これにより、直近の微細な変更が反映され、将来的なパフォーマンスの変化を正確に特定できるようになります。 
 
@@ -106,11 +92,8 @@ _本セクションの情報は、一般に利用可能な情報源に基づい�
 これは、早期アクセスプログラムに参加して、Cardanoの重要なセキュリティツールの開発に直接影響を与えるチャンスです。チームは以下に重点を置いています。
 
 *   ユーザーの具体的な開発コンテキストの把握
-    
 *   スマートコントラクト検証における課題の特定
-    
-*   ツール使用時の直接的なフィードバックの収集
-    
+*   ツール使用時の直接的なフィードバックの収集   
 
 皆様の意見は、プロダクトロードマップを形作り、Cardano開発コミュニティが真に必要とするものを開発するために不可欠です。登録はこちらから：[afv\_earlyaccess@iohk.io](mailto:afv_earlyaccess@iohk.io)
 
