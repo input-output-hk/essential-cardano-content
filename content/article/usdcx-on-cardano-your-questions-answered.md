@@ -102,4 +102,4 @@ This post covers the most common questions, but there is much more detail availa
 
 If you run into issues with a transaction, check your history at [](https://usdcx.iog.io/history)[usdcx.iog.io/history](//usdcx.iog.io/history) or reach out via the portal Discord support channel.
 
-_USDCx on Cardano is provided via the USDCx portal. Use of the portal is subject to the Terms of Use at_[usdcx.iog.io](//usdcx.iog.io)_. This post does not constitute legal or financial advice._
+_USDCx on Cardano is provided via the USDCx portal. Use of the portal is subject to the Terms of Use at _[usdcx.iog.io](//usdcx.iog.io)_. This post does not constitute legal or financial advice._
