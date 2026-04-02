@@ -1,5 +1,5 @@
 ---
-title: Weekly development report s of 2026-03-03
+title: Weekly development report as of 2026-03-03
 tags:
   - Development
   - Weekly development updates
