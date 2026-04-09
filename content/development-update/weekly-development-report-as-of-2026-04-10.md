@@ -11,11 +11,23 @@ image_text: Weekly development report as of 2026-04-10
 
 ### CARDANO HIGH ASSURANCE
 
-This week, the **Cardano High Assurance** team released a complete formalization of Plutus Core, UPLC, and CEK machine in Lean 4, called [PlutusCoreBlaster](https://github.com/input-output-hk/PlutusCoreBlaster.).
+This week, the **Cardano High Assurance** team released a complete formalization of Plutus Core, UPLC, and CEK machine in Lean 4, called [PlutusCoreBlaster](https://github.com/input-output-hk/PlutusCoreBlaster).
 
 Combined with the automated formal reasoning backend, [Blaster](https://github.com/input-output-hk/Lean-blaster), developers can now formally verify that the compiled UPLC of their smart contracts meets the intended business requirements and security objectives.
 
 The team is working hard to deliver a complete set of ledger rules and formalization in Lean 4, making it even easier to formally verify smart contracts through predefined helper functions.
+
+### SMART CONTRACTS
+
+The **Plutus** team delivered a set of improvements to Plinth, focusing on compiler usability and language efficiency.
+
+On the compiler side, they introduced new type checker plugins that [preserve source locations](https://updates.cardano.intersectmbo.org/2026-04-08-plutus-core/) and [detect unsupported Haskell features](https://github.com/IntersectMBO/plutus/pull/7659), resulting in clearer and more actionable error messages. They also added a [driver plugin](https://github.com/IntersectMBO/plutus/pull/7687) that automatically applies the required compiler flags and enables the Strict extension.
+
+In terms of language improvements, the team enhanced [AsData](https://github.com/IntersectMBO/plutus/pull/7664) to generate a destructor function for data types, providing a more efficient approach for matching on sum types compared to pattern synonyms.
+
+Additionally, they implemented a new UPLC optimization, transforming applications with three or more arguments into `case-constr` form to improve execution efficiency.
+
+Updates to the Plinth user guide are in progress, with further details currently available in the associated pull request descriptions.
 
 ### SCALING
 
@@ -23,7 +35,7 @@ This week, the **Mithril** team completed the [full review](https://github.com/i
 
 Additionally, they completed the [client CLI implementation](https://github.com/input-output-hk/mithril/issues/3032) for Cardano blocks and transactions and made progress on partial block range support, security parameter offset signing, and the explorer update for Cardano blocks and transactions.
 
-Finally, the team completed the \`[reqwest](https://github.com/input-output-hk/mithril/issues/3033)\` upgrade to `` ` ``0.13\` and continued work on the Cardano [node upgrade](https://github.com/input-output-hk/mithril/issues/2894) to `10.7` and the [DMQ node update](https://github.com/input-output-hk/mithril/issues/3114) to `0.4.1.0`.
+Finally, the team completed the [reqwest](https://github.com/input-output-hk/mithril/issues/3033) upgrade to `0.13` and continued work on the Cardano [node upgrade](https://github.com/input-output-hk/mithril/issues/2894) to `10.7` and the [DMQ node update](https://github.com/input-output-hk/mithril/issues/3114) to `0.4.1.0`.
 
 ### VOLTAIRE
 
