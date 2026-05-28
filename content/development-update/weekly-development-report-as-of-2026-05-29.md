@@ -33,7 +33,7 @@ They also enhanced the [synchronization](https://github.com/input-output-hk/mith
 
 Finally, the team completed the update of the protocol [security page](https://github.com/input-output-hk/mithril/issues/2703) on the website and continued work on shipping the Mithril signer node binary in the Cardano node bundle.
 
-This week, the **Leios** team made progress across protocol design, implementation, and testing.
+The **Leios** team made progress across protocol design, implementation, and testing.
 
 The Cardano community voted to approve Leios' funding through the treasury with 88% support, and the on-chain action is poised for enactment. This secures the resources needed to carry Leios from prototype to mainnet hard fork.
 
