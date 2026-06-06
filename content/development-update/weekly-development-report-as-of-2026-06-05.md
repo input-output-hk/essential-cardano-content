@@ -5,7 +5,7 @@ tags:
   - Weekly development updates
   - Statistics
 url: ""
-image: https://ucarecdn.com/f0fe3328-914c-4b85-a1f8-2f181116f539/
+image: https://ucarecdn.com/58c83478-d9f2-41bd-9e52-3f217c1db8f3/
 image_text: ""
 ---
 
@@ -27,7 +27,7 @@ This week, the **Lace** team [released Lace 2.0.6](https://x.com/lace_io/status/
 
 ### SCALING
 
-This week, the **Hydra** team implemented the [partial fanout feature](https://github.com/cardano-scaling/hydra/pull/2324) – a long-standing milestone. Heads with large UTXO sets can now be fanned out in multiple steps, each verified on-chain via a BLS accumulator membership proof, with the chunk size dynamically determined by binary search to maximize outputs per step. This removes the previous limit on UTXOs per head. Alongside this, the `hydra-tui` received a [significant refactor](https://github.com/cardano-scaling/hydra/pull/2590), the test suite [migrated](https://github.com/cardano-scaling/hydra/pull/2620) to `tasty`, and several correctness fixes landed around cross-head event contamination and recovered deposits leaking back into L2.
+This week, the **Hydra** team merged the [partial fanout feature](https://github.com/cardano-scaling/hydra/pull/2324) and is preparing for the release. Heads with large UTXO sets can now be fanned out in multiple steps, each verified on-chain via a BLS accumulator membership proof, with the chunk size dynamically determined by binary search to maximize outputs per step. This removes the previous limit on UTXOs per head. Alongside this, the `hydra-tui` received a [significant refactor](https://github.com/cardano-scaling/hydra/pull/2590), the test suite [migrated](https://github.com/cardano-scaling/hydra/pull/2620) to `tasty`, and several correctness fixes landed around cross-head event contamination and recovered deposits leaking back into L2.
 
 The **Mithril** team completed [caching](https://github.com/input-output-hk/mithril/issues/3043) of circuit keys for the SNARK circuit in the STM library and [removed](https://github.com/input-output-hk/mithril/issues/3132) the helpers module for the SNARK recursive circuit. They continued work on the [type consistency](https://github.com/input-output-hk/mithril/issues/3128) and [naming](https://github.com/input-output-hk/mithril/issues/3130) alignment refactoring of the SNARK recursive circuit, the [prover input](https://github.com/input-output-hk/mithril/issues/3138) of the recursive SNARK aggregation primitives, and the implementation of the SNARK-friendly [genesis certificate](https://github.com/input-output-hk/mithril/issues/3145).
 
