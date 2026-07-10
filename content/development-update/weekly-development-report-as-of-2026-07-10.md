@@ -20,13 +20,9 @@ Finally, benchmark optimizations showed a ~17% reduction in process CPU usage on
 The **ledger** team focused on several areas:
 
 *   **Performance:** the `StAnnTx` memoization work was extended to Alonzo, completing integration across all relevant ledger eras. The long-running removal of the legacy `Coders` machinery also reached completion.
-    
 *   **Leios support:** the first Leios-related changes landed in the ledger, including the `LeiosCert` type added as an optional field to `DijkstraBlockBody` and a new `cardano-protocol` package to house protocol-level code.
-    
 *   **Dijkstra era:** work continued on ledger rule structural cleanup, including a new `ENTITIES` rule to handle withdrawals and direct deposits, and the third installment of Dijkstra conformance testing. The team also fixed two user-facing bugs – one affecting Plutus cost model overrides and one causing spurious `TxInfo` translation failures.
-    
 *   **Tooling and infrastructure:** the team moved `generate-cbor` CLI tool into `cardano-ledger-api`, added new Conway UTXO and script generators, and applied dependency updates across the stack.
-    
 
 ### WALLETS AND SERVICES 
 
@@ -39,10 +35,7 @@ Alongside this, Lace 2.1 introduces a host of improvements across the wallet, in
 Over the past weeks, the **Plutus** team has continued to make improvements across performance, tooling, and assurance.
 
 *   **Performance and compiler improvements**. The team improved several parts of the Plutus optimization pipeline and ledger API implementation. This includes making common `Value` operations more efficient, adding a new compiler optimization for certain recursive functions, and fixing an optimization pass to preserve program behavior correctly.
-    
 *   **Better benchmarking and tooling**. They added lightweight benchmarking support to the UPLC executable, making it easier to sanity-check execution-time measurements for UPLC scripts and compare results against existing benchmark infrastructure.
-    
-
 *   **Specs and formal methods**. The team continued strengthening the foundations of Plutus by updating the UPLC specification for the built-in value type and related functions, and by improving the metatheory and certification infrastructure used to reason about compiler transformations. These changes make the formal-assurance workflow easier to maintain, debug, and scale to larger programs.
     
 
@@ -53,13 +46,9 @@ See these [pull requests](https://updates.cardano.intersectmbo.org/2026-07-08-pl
 The developer experience initiative officially kicked off last week, though work has been underway for several weeks now. Here is the current state:
 
 *   A team of experts has been assembled across all deliverables
-    
 *   Work is ongoing in two of the three biggest workstreams: `contracts-library` and `cardano-init`; collaborators at the Cardano Foundation have significantly advanced the third workstream, optimizing onboarding on the Developer Portal, while the team finalized its contribution plan
-    
 *   [contracts-library](https://github.com/input-output-hk/contracts-library): the first reference contract is in place, with a set  of [20 reusable protocols and patterns](https://github.com/input-output-hk/contracts-library/issues/16) for research and triage
-    
 *   [cardano-init](https://github.com/input-output-hk/cardano-init): specifications, a rough proof of concept, and a plugin architecture are ready for community validation – simple projects using Aiken, MeshJS, and infrastructure can already be created.
-    
 
 Have feedback on developer experience on Cardano? The team welcomes input – whether it's something that could work better or ideas for what to prioritize next. Reach out to Robertino via [X](https://x.com/theroberm), [Discord](https://discord.com/channels/@me/665713765743853600), or [email](mailto:robertino.martinez@iohk.io).
 
