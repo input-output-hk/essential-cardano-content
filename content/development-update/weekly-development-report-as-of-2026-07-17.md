@@ -19,7 +19,7 @@ They also improved the `snapshot-converter` tool's help and version output, maki
 
 See this [technical update](https://updates.cardano.intersectmbo.org/2026-07-14-consensus) for more details.
 
-### SMART CONTRACTS 
+### SMART CONTRACTS
 
 This week, the **Cardano High Assurance** team delivered the Plinth Static Analyzer. It is available on the Visual Studio Marketplace – [Plu-Stan (VS Code/Cursor)](https://marketplace.visualstudio.com/items?itemName=IOG.vscode-plustan). It comes with a set of binaries for an easy 1-click installation for most projects and architectures. It is still in its early phase, and all feedback is welcome.
 
@@ -35,7 +35,7 @@ The team also enhanced the aggregator state machine to support the `Blocked` sta
 
 Finally, the team completed the Rust upgrade to version `1.97`, fixed the Mithril install script failing on the `unstable` version, and captured the end-to-end execution logs as artifacts.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 The van Rossem hard fork governance action met the required ratification thresholds across all voting groups on July 13 and was subsequently ratified at the epoch boundary of Epoch 643. According to protocol, the hard fork will automatically be enacted on the next epoch boundary on July 18, 2026 at 21:44:51 UTC (slot height: 192,844,800).
 
@@ -49,4 +49,4 @@ This week, the **research** team released the [Cardano Vision 2026](https://docs
 
 [Mid-Year Progress & Transparency Report (Draft)](https://docs.google.com/document/d/1kZQIcSBOzrDE7X0nxQySNG3X6uonLoXRk-yzMqE_43Q/edit?tab=t.tm862zhlc1y9). This report is open for community feedback until Jul 30, 2026.
 
-They also held their second Cardano R&D session, during which the research leads shared updates on CV26 workstreams and the draft Mid-Year report. They also held a [technical workshop](https://www.youtube.com/watch?v=x0FX6YpXbmE) on zero-knowledge (ZK) verification infrastructure for Cardano, which included presentations on Groth 16, Plonky 3, and Halo 2.
+They also held their second Cardano R&D session, during which the research leads shared updates on CV26 workstreams and the draft Mid-Year report. Watch out for the recording and video clips on our social channels next week. They also held a [technical workshop](https://www.youtube.com/watch?v=x0FX6YpXbmE) on zero-knowledge (ZK) verification infrastructure for Cardano, which included presentations on Groth 16, Plonky 3, and Halo 2.
