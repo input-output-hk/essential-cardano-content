@@ -3,7 +3,7 @@ title: Weekly development report as of 2026-07-24
 tags:
   - Development
 url: ""
-image: https://ucarecdn.com/37eb15be-3721-4ed6-abd7-ec06638fe0b6/
+image: https://ucarecdn.com/5d2ae924-57f7-4695-aa92-bbb7c5a07fa5/
 image_text: ""
 ---
 
@@ -43,6 +43,6 @@ The team also continued implementing aggregator CLI commands for configuration p
 
 Finally, they completed the repository transfer to the Intersect MBO organization and continued preparing the documentation website for Docusaurus v4.
 
-### VOLTAIRE 
+### VOLTAIRE
 
 The Intersect treasury withdrawal governance action has been ratified, with DRep approval of 75.69% and Constitutional Committee endorsement by six of seven members. The withdrawal of ₳25.4M will fund technical stewardship and governance coordination for June 2026 to June 2027, with the transfer taking effect at the start of Epoch 646 (July 28).
