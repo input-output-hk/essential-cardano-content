@@ -9,7 +9,7 @@ image_text: ""
 
 ### CORE TECHNOLOGY
 
-This week, IO announced the final stage of Cardano's engineering decentralization. Since 2024, IO and its partners have been managing a transition that will conclude in 2027, resulting in several independent firms maintaining at least three Cardano node implementations in Haskell, Rust, and Go, alongside a complete set of formal specifications overseen by member-based organizations including Intersect and Pragma, and subject to community review and vote. As part of this process, IO is spinning out the Haskell node to community curation and control. Check out the [engineering website](https://cardano-engineering.iog.io/) for more details.
+Cardano's engineering is now decentralized. Since 2024, IO and its partners have been managing a transition that will conclude in 2027, resulting in several independent firms maintaining at least three Cardano node implementations in Haskell, Rust, and Go, alongside a complete set of formal specifications overseen by member-based organizations including Intersect and Pragma, and subject to community review and vote. As part of this process, IO is spinning out the Haskell node to community curation and control. Check out the [engineering website](https://cardano-engineering.iog.io/) for more details.
 
 The **ledger** team continued integrating Leios features into the ledger, including block header abstractions and the addition of BLS12381 public keys to stake pool parameters and state, with the Dijkstra CDDL updated accordingly.
 
