@@ -12,10 +12,8 @@ image_text: ""
 
 A few highlights:
 
-*   Whole classes of Cardano/eUTxO-specific vulnerabilities, such as double satisfaction attacks, are fading as the platform and its developers mature.
-    
-*   Design issues remain common and are arguably the hardest and most costly to fix.
-    
+*   Whole classes of Cardano/EUTXO-specific vulnerabilities, such as double satisfaction attacks, are fading as the platform and its developers mature
+*   Design issues remain common and are arguably the hardest and most costly to fix
 *   Unclear specification was the second-largest category, accounting for 70 findings, including one critical.
     
 
