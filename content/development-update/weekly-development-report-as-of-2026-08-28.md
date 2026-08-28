@@ -12,7 +12,7 @@ image_text: ""
 
 ### CORE TECHNOLOGY
 
-This week, the **consensus** team resolved an issue with the attack targeting how nodes announce endorser blocks, which had been causing honest nodes to disconnect from each other ([#2179](https://github.com/IntersectMBO/ouroboros-consensus/pull/2179)). They also extended `db-analyser` to read Leios chains, enabling the tool to replay a chain and report the cost of applying each block, including the transactions of each certified endorser block, their total size, and the time to read them ([#2181](https://github.com/IntersectMBO/ouroboros-consensus/pull/2181)).
+This week, the **consensus** team resolved an issue with the attack in the Leios prototype targeting how nodes announce endorser blocks, which had been causing honest nodes to disconnect from each other ([#2179](https://github.com/IntersectMBO/ouroboros-consensus/pull/2179)). They also extended `db-analyser` to read Leios chains, enabling the tool to replay a chain and report the cost of applying each block, including the transactions of each certified endorser block, their total size, and the time to read them ([#2181](https://github.com/IntersectMBO/ouroboros-consensus/pull/2181)).
 
 On the maintenance side, the team forward-ported the new snapshot interval and mempool allocation fix from the 4.x release line to the `main` development branch ([#2209](https://github.com/IntersectMBO/ouroboros-consensus/pull/2209), [#2215](https://github.com/IntersectMBO/ouroboros-consensus/pull/2215)).
 
