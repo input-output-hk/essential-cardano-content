@@ -9,6 +9,11 @@ image: https://ucarecdn.com/78330f79-1be5-4fbb-94ef-9218306b6076/
 image_text: ""
 ---
 
+### CORE TECHNOLOGY
+
+This week, the consensus team moved the Leios database to main and split its SQLite backend into modules by job. The mempool now reserves room for an Endorser Block alongside the ranking block, and each transaction carries a second measure for its cost in an Endorser Block. That capacity comes from the protocol parameters in the Dijkstra era and is zero in every earlier era, so mempool capacity in those eras stays the same. The Leios CBOR decoders now reject malformed input from peers, which closes three findings from the Anastasia Labs audit. Two prototype versions, prototype-2026w39 and prototype-2026w40a, are out with performance and shutdown fixes.
+On the maintenance side, the team released ouroboros-consensus 5.0 and 5.1.0.0. Version 5.0 includes the reworked Peras API, takes ledger snapshots about once a day on mainnet from a background thread, and moves a mempool transaction from an older era to the current one in a single step. Version 5.1.0.0 traces the snapshot policy at startup and warns when its settings don't suit a network's slot length. Tracing for consensus types now lives in a new ouroboros-consensus:tracing sublibrary, and the database tools read configuration and keys the same way cardano-node does.
+
 ### SMART CONTRACTS
 
 This week, the **Plutus** team published release 1.71.0.0. It includes the full Plutus V4 script context, which will be integrated into node release 11.2, and adds Plutus Core language version 1.2.0 along with cost models for keepPolicies and dropPolicies (CIP-0168). The team also opened CIP-0205, which proposes removing scope checking for Plutus scripts. Everyone is welcome to read it and comment, and the team wants as much feedback as it can get.
