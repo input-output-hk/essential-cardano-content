@@ -2,11 +2,11 @@
 title: Weekly development report as of 2026-10-30
 slug: weekly-development-report-2026-10-30
 tags:
+  - Weekly development updates
   - cardano
-  - weekly development update
 url: ""
-image: https://ucarecdn.com/efcee421-2885-4dd2-8e60-3a0c8ab222c9/
-image_text: ""
+image: https://ucarecdn.com/99e54281-35fa-448e-a3c9-d873af887f8c/
+image_text: Graphic for this week's Cardano development report
 ---
 
 ## **CORE TECHNOLOGY**
